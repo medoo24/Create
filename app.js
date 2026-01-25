@@ -346,27 +346,35 @@ class HierarchyManager {
     }
 
     toggleFavoriteStatus(questionId) {
+        let newStatus = false;
         const updateInNode = (node) => {
             if (node.questions) {
                 const q = node.questions.find(q => q.id === questionId);
                 if (q) {
                     q.favorite = !q.favorite;
-                    return q.favorite;
+                    newStatus = q.favorite;
+                    return true;
                 }
             } else {
                 for (const child of Object.values(node.children)) {
-                    const result = updateInNode(child);
-                    if (result !== undefined) return result;
+                    if (updateInNode(child)) return true;
                 }
             }
-            return undefined;
+            return false;
         };
 
         for (const term of Object.values(this.hierarchy)) {
-            const result = updateInNode(term);
-            if (result !== undefined) return result;
+            if (updateInNode(term)) break;
         }
-        return false;
+        
+        // Update cache
+        if (newStatus) {
+            this.favoritesCache.add(questionId);
+        } else {
+            this.favoritesCache.delete(questionId);
+        }
+        
+        return newStatus;
     }
 }
 
@@ -552,6 +560,10 @@ class UIManager {
         this.expandedNodes = new Set();
         this.searchQuery = '';
         this.focusedCardIndex = -1;
+        this.selectedCards = new Set();
+        this.optionsVisible = true;
+        this.answersRevealed = false;
+        this.allExpanded = false;
     }
 
     init() {
@@ -645,11 +657,14 @@ class UIManager {
             }
         });
 
-        // Collapse all
+        // Collapse all sidebar
         document.getElementById('collapse-all').addEventListener('click', () => {
             this.expandedNodes.clear();
             this.renderSidebar();
         });
+
+        // Toolbar controls
+        this.setupToolbarControls();
 
         // Keyboard shortcuts
         document.addEventListener('keydown', (e) => {
@@ -677,6 +692,12 @@ class UIManager {
                         if (favBtn) favBtn.click();
                     }
                     break;
+                case 's':
+                    if (e.ctrlKey || e.metaKey) {
+                        e.preventDefault();
+                        this.toggleSelectAll();
+                    }
+                    break;
             }
             
             if (['1','2','3','4'].includes(e.key)) {
@@ -692,14 +713,128 @@ class UIManager {
         });
     }
 
+    setupToolbarControls() {
+        // Select all/none
+        document.getElementById('select-all-btn')?.addEventListener('click', () => this.selectAll(true));
+        document.getElementById('select-none-btn')?.addEventListener('click', () => this.selectAll(false));
+        
+        // Copy selected
+        document.getElementById('copy-selected-btn')?.addEventListener('click', () => this.copySelected());
+        
+        // Expand/collapse
+        document.getElementById('expand-all-btn')?.addEventListener('click', () => this.toggleAllCards(true));
+        document.getElementById('collapse-all-btn')?.addEventListener('click', () => this.toggleAllCards(false));
+        
+        // Toggle options/answers
+        document.getElementById('toggle-options-btn')?.addEventListener('click', (e) => this.toggleOptions(e.target));
+        document.getElementById('toggle-answers-btn')?.addEventListener('click', (e) => this.toggleAnswers(e.target));
+    }
+
+    selectAll(select) {
+        const cards = document.querySelectorAll('.question-card');
+        cards.forEach(card => {
+            const id = card.dataset.questionId;
+            if (select) {
+                this.selectedCards.add(id);
+                card.classList.add('selected');
+            } else {
+                this.selectedCards.delete(id);
+                card.classList.remove('selected');
+            }
+        });
+    }
+
+    toggleSelectAll() {
+        const cards = document.querySelectorAll('.question-card');
+        const allSelected = this.selectedCards.size === cards.length;
+        this.selectAll(!allSelected);
+    }
+
+    copySelected() {
+        const selectedIds = Array.from(this.selectedCards);
+        if (selectedIds.length === 0) {
+            this.showToast('No questions selected', 'error');
+            return;
+        }
+
+        let text = '';
+        selectedIds.forEach(id => {
+            const q = this.app.hierarchyManager.flatQuestions.find(q => q.id == id);
+            if (q) {
+                text += `Question #${q.id}:\n${q.question}\n\nOptions:\n`;
+                q.options.forEach((opt, i) => {
+                    const marker = i === q.correct_option_id ? '✓' : ' ';
+                    text += `${marker} ${String.fromCharCode(65 + i)}. ${opt}\n`;
+                });
+                text += `\nExplanation: ${q.explanation}\n`;
+                text += `---\n\n`;
+            }
+        });
+
+        navigator.clipboard.writeText(text).then(() => {
+            this.showToast(`Copied ${selectedIds.length} questions to clipboard`, 'success');
+        }).catch(() => {
+            this.showToast('Failed to copy', 'error');
+        });
+    }
+
+    toggleAllCards(expand) {
+        this.allExpanded = expand;
+        document.querySelectorAll('.card-body').forEach(body => {
+            if (expand) body.classList.add('expanded');
+            else body.classList.remove('expanded');
+        });
+    }
+
+    toggleOptions(btn) {
+        this.optionsVisible = !this.optionsVisible;
+        btn.textContent = this.optionsVisible ? 'Hide Options' : 'Show Options';
+        document.querySelectorAll('.question-card').forEach(card => {
+            if (this.optionsVisible) card.classList.remove('options-hidden');
+            else card.classList.add('options-hidden');
+        });
+    }
+
+    toggleAnswers(btn) {
+        this.answersRevealed = !this.answersRevealed;
+        btn.textContent = this.answersRevealed ? 'Hide Answers' : 'Reveal Answers';
+        document.querySelectorAll('.question-card').forEach(card => {
+            if (this.answersRevealed) {
+                card.classList.add('answers-revealed');
+                card.querySelector('.explanation')?.classList.add('visible');
+            } else {
+                card.classList.remove('answers-revealed');
+                // Only hide explanation if not solved (for history view)
+                if (this.currentView !== 'history' && this.currentView !== 'mistakes') {
+                    card.querySelector('.explanation')?.classList.remove('visible');
+                }
+            }
+        });
+    }
+
     switchView(view) {
         this.currentView = view;
         this.focusedCardIndex = -1;
+        this.selectedCards.clear();
+        this.optionsVisible = true;
+        this.answersRevealed = false;
+        
+        // Reset toolbar buttons
+        const optsBtn = document.getElementById('toggle-options-btn');
+        const ansBtn = document.getElementById('toggle-answers-btn');
+        if (optsBtn) optsBtn.textContent = 'Hide Options';
+        if (ansBtn) ansBtn.textContent = 'Reveal Answers';
         
         // Update nav buttons
         document.querySelectorAll('.nav-btn').forEach(btn => {
             btn.classList.toggle('active', btn.dataset.view === view);
         });
+        
+        // Show/hide toolbar for question views
+        const toolbar = document.getElementById('controls-toolbar');
+        if (toolbar) {
+            toolbar.style.display = (view === 'solve' || view === 'review' || view === 'history' || view === 'mistakes' || view === 'favorites') ? 'flex' : 'none';
+        }
         
         this.render();
     }
@@ -821,6 +956,7 @@ class UIManager {
         
         const titles = {
             solve: 'Study Mode',
+            review: 'Review Mode',
             history: 'Answer History',
             mistakes: 'Mistakes Review',
             favorites: 'Favorites'
@@ -831,6 +967,14 @@ class UIManager {
             <p class="view-subtitle">${this.getBreadcrumbText()}</p>
         `;
         viewContainer.appendChild(header);
+        
+        // Controls toolbar (cloned from HTML)
+        const toolbar = document.getElementById('controls-toolbar');
+        if (toolbar && (this.currentView === 'solve' || this.currentView === 'review' || this.currentView === 'history' || this.currentView === 'mistakes' || this.currentView === 'favorites')) {
+            viewContainer.appendChild(toolbar.cloneNode(true));
+            // Re-attach listeners to cloned elements
+            setTimeout(() => this.setupToolbarControls(), 0);
+        }
         
         // Get questions based on view and selection
         let questions = this.app.hierarchyManager.getQuestionsForSelection(this.selectedPath);
@@ -845,6 +989,7 @@ class UIManager {
         } else if (this.currentView === 'history') {
             questions = questions.filter(q => q.solved);
         }
+        // Review mode shows all questions (solved and unsolved)
         
         // Search filter
         if (this.searchQuery) {
@@ -886,7 +1031,7 @@ class UIManager {
                         <div class="group-title">${groupName}</div>
                         <div class="group-stats">${groupStats.solved}/${groupQuestions.length} solved • ${accuracy}% accuracy</div>
                     </div>
-                    ${this.currentView === 'solve' ? 
+                    ${this.currentView === 'solve' || this.currentView === 'review' ? 
                         `<button class="btn primary quiz-btn" data-group="${groupName}">📝 Quiz</button>` 
                         : ''}
                 </div>
@@ -912,6 +1057,17 @@ class UIManager {
         });
         
         container.appendChild(viewContainer);
+        
+        // Apply current toggle states
+        if (!this.optionsVisible) {
+            document.querySelectorAll('.question-card').forEach(c => c.classList.add('options-hidden'));
+        }
+        if (this.answersRevealed) {
+            document.querySelectorAll('.question-card').forEach(c => {
+                c.classList.add('answers-revealed');
+                c.querySelector('.explanation')?.classList.add('visible');
+            });
+        }
         
         // Restore focus if navigating with keyboard
         if (this.focusedCardIndex >= 0) {
@@ -954,6 +1110,10 @@ class UIManager {
     createQuestionCard(question, index) {
         const card = document.createElement('div');
         card.className = `question-card ${question.solved ? (question.correct ? 'solved-correct' : 'solved-incorrect') : ''} ${question.favorite ? 'favorited' : ''}`;
+        if (this.selectedCards.has(String(question.id))) card.classList.add('selected');
+        if (!this.optionsVisible) card.classList.add('options-hidden');
+        if (this.answersRevealed) card.classList.add('answers-revealed');
+        
         card.dataset.questionId = question.id;
         card.dataset.index = index;
         card.tabIndex = 0;
@@ -961,16 +1121,21 @@ class UIManager {
         const progress = this.app.hierarchyManager.progressCache.get(question.id);
         const selectedOption = progress?.selectedOption;
         
+        // Checkbox for selection
+        const checkbox = this.currentView !== 'dashboard' ? 
+            `<input type="checkbox" class="select-checkbox" ${this.selectedCards.has(String(question.id)) ? 'checked' : ''}>` : '';
+        
         card.innerHTML = `
             <div class="card-header">
                 <div class="card-meta">
+                    ${checkbox}
                     <span class="question-id">#${question.id}</span>
                     ${question.solved ? 
                         `<span class="status-badge ${question.correct ? 'correct' : 'incorrect'}">${question.correct ? 'Correct' : 'Incorrect'}</span>` 
                         : '<span class="status-badge">Unsolved</span>'}
                 </div>
                 <div class="card-actions">
-                    <button class="icon-btn favorite-btn" title="Toggle Favorite (F)">❤️</button>
+                    <button class="icon-btn favorite-btn ${question.favorite ? 'active' : ''}" title="Toggle Favorite (F)">❤️</button>
                     ${question.solved ? '<button class="icon-btn reset-btn" title="Reset Progress">🔄</button>' : ''}
                 </div>
             </div>
@@ -985,7 +1150,7 @@ class UIManager {
                         </div>
                     `).join('')}
                 </div>
-                <div class="explanation ${question.solved ? 'visible' : ''}">
+                <div class="explanation ${question.solved || this.answersRevealed ? 'visible' : ''}">
                     <div class="explanation-header">Explanation</div>
                     <div class="markdown-content">${marked.parse(question.explanation || 'No explanation provided.')}</div>
                 </div>
@@ -996,7 +1161,10 @@ class UIManager {
         const header = card.querySelector('.card-header');
         const body = card.querySelector('.card-body');
         
-        header.addEventListener('click', () => {
+        header.addEventListener('click', (e) => {
+            // Don't toggle if clicking checkbox or buttons
+            if (e.target.tagName === 'INPUT' || e.target.closest('.icon-btn')) return;
+            
             body.classList.toggle('expanded');
             document.querySelectorAll('.question-card').forEach(c => c.classList.remove('focused'));
             card.classList.add('focused');
@@ -1010,9 +1178,27 @@ class UIManager {
         
         card.addEventListener('blur', () => card.classList.remove('focused'));
         
-        // Favorite button
-        card.querySelector('.favorite-btn').addEventListener('click', (e) => {
+        // Checkbox listener
+        const checkboxEl = card.querySelector('.select-checkbox');
+        if (checkboxEl) {
+            checkboxEl.addEventListener('change', (e) => {
+                if (e.target.checked) {
+                    this.selectedCards.add(String(question.id));
+                    card.classList.add('selected');
+                } else {
+                    this.selectedCards.delete(String(question.id));
+                    card.classList.remove('selected');
+                }
+            });
+        }
+        
+        // Favorite button - FIXED ANIMATION
+        const favBtn = card.querySelector('.favorite-btn');
+        favBtn.addEventListener('click', (e) => {
             e.stopPropagation();
+            // Add animation class
+            favBtn.style.transform = 'scale(1.3)';
+            setTimeout(() => favBtn.style.transform = 'scale(1)', 200);
             this.app.toggleFavorite(question.id);
         });
         
@@ -1025,8 +1211,8 @@ class UIManager {
             });
         }
         
-        // Options
-        if (!question.solved) {
+        // Options - only in solve mode and if not already solved
+        if (this.currentView === 'solve' && !question.solved) {
             card.querySelectorAll('.option').forEach(opt => {
                 opt.addEventListener('click', () => {
                     if (opt.classList.contains('disabled')) return;
@@ -1434,12 +1620,17 @@ class MCQProApp {
     async toggleFavorite(questionId) {
         const isFav = await this.db.toggleFavorite(questionId, this.currentFile);
         this.hierarchyManager.toggleFavoriteStatus(questionId);
-        this.ui.renderSidebar();
         
-        // Update card without full re-render
+        // Update card without full re-render - FIXED
         const card = document.querySelector(`[data-question-id="${questionId}"]`);
         if (card) {
-            card.classList.toggle('favorited', isFav);
+            if (isFav) {
+                card.classList.add('favorited');
+            } else {
+                card.classList.remove('favorited');
+            }
+            // Update sidebar stats
+            this.ui.renderSidebar();
         }
     }
 
