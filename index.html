@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MCQ Pro - Advanced Study Application</title>
+    
+    <!-- External Libraries -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="app">
+        <!-- Loading Screen -->
+        <div id="loading-screen" class="loading-screen">
+            <div class="loading-content">
+                <h1>MCQ Pro</h1>
+                <div class="spinner"></div>
+                <p id="loading-text">Initializing...</p>
+            </div>
+        </div>
+
+        <!-- Header -->
+        <header class="app-header">
+            <div class="header-left">
+                <h1 class="app-title">MCQ Pro</h1>
+                <div class="file-selector-container">
+                    <select id="file-selector" class="file-selector" disabled>
+                        <option value="">Select Question Set...</option>
+                    </select>
+                    <button id="refresh-files" class="icon-btn" title="Refresh Files">🔄</button>
+                </div>
+            </div>
+            
+            <div class="header-center">
+                <div class="progress-container">
+                    <div class="progress-bar" id="global-progress"></div>
+                    <span class="progress-text" id="global-progress-text">0/0</span>
+                </div>
+            </div>
+            
+            <div class="header-right">
+                <button id="search-toggle" class="icon-btn" title="Search">🔍</button>
+                <button id="settings-btn" class="icon-btn" title="Settings">⚙️</button>
+            </div>
+        </header>
+
+        <!-- Search Bar (Collapsible) -->
+        <div id="search-bar" class="search-bar hidden">
+            <input type="text" id="search-input" placeholder="Search questions, explanations, or topics...">
+            <button id="search-close" class="icon-btn">✕</button>
+        </div>
+
+        <!-- Main Layout -->
+        <div class="main-layout">
+            <!-- Sidebar -->
+            <aside class="sidebar" id="sidebar">
+                <div class="sidebar-header">
+                    <h3>Content Navigator</h3>
+                    <button id="collapse-all" class="small-btn">Collapse All</button>
+                </div>
+                <div class="tree-container" id="tree-container">
+                    <!-- Dynamic Tree Content -->
+                </div>
+            </aside>
+
+            <!-- Content Area -->
+            <main class="content-area" id="content-area">
+                <!-- Dynamic Content Views -->
+            </main>
+        </div>
+
+        <!-- Bottom Navigation -->
+        <nav class="bottom-nav">
+            <button class="nav-btn active" data-view="dashboard" title="Dashboard">
+                <span class="nav-icon">📊</span>
+                <span class="nav-label">Dashboard</span>
+            </button>
+            <button class="nav-btn" data-view="solve" title="Solve">
+                <span class="nav-icon">📚</span>
+                <span class="nav-label">Solve</span>
+            </button>
+            <button class="nav-btn" data-view="history" title="History">
+                <span class="nav-icon">✅</span>
+                <span class="nav-label">History</span>
+            </button>
+            <button class="nav-btn" data-view="mistakes" title="Mistakes">
+                <span class="nav-icon">🧠</span>
+                <span class="nav-label">Mistakes</span>
+            </button>
+            <button class="nav-btn" data-view="favorites" title="Favorites">
+                <span class="nav-icon">❤️</span>
+                <span class="nav-label">Favorites</span>
+            </button>
+        </nav>
+
+        <!-- Quiz Modal -->
+        <div id="quiz-modal" class="modal hidden">
+            <div class="modal-content quiz-modal-content">
+                <div class="quiz-header">
+                    <h2 id="quiz-title">Quiz Mode</h2>
+                    <div class="quiz-timer" id="quiz-timer">00:00</div>
+                    <button id="quiz-close" class="icon-btn">✕</button>
+                </div>
+                <div class="quiz-body" id="quiz-body">
+                    <!-- Quiz Content -->
+                </div>
+                <div class="quiz-footer" id="quiz-footer">
+                    <button id="quiz-prev" class="btn secondary">Previous</button>
+                    <span id="quiz-progress">1/10</span>
+                    <button id="quiz-next" class="btn primary">Next</button>
+                    <button id="quiz-submit" class="btn success hidden">Submit</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Quiz Setup Modal -->
+        <div id="quiz-setup-modal" class="modal hidden">
+            <div class="modal-content">
+                <h2>Configure Quiz</h2>
+                <div class="form-group">
+                    <label>Number of Questions:</label>
+                    <input type="number" id="quiz-count" min="1" max="100" value="20">
+                </div>
+                <div class="form-group">
+                    <label>Timer (minutes, 0 for none):</label>
+                    <input type="number" id="quiz-time" min="0" max="180" value="30">
+                </div>
+                <div class="form-group">
+                    <label>Source:</label>
+                    <span id="quiz-source">Current Selection</span>
+                </div>
+                <div class="modal-actions">
+                    <button id="quiz-start" class="btn primary">Start Quiz</button>
+                    <button id="quiz-cancel" class="btn secondary">Cancel</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Settings Modal -->
+        <div id="settings-modal" class="modal hidden">
+            <div class="modal-content settings-content">
+                <h2>Settings</h2>
+                
+                <div class="settings-section">
+                    <h3>Appearance</h3>
+                    <div class="form-group">
+                        <label>Theme:</label>
+                        <select id="theme-select">
+                            <option value="light">Light</option>
+                            <option value="dark">Dark</option>
+                            <option value="sepia">Sepia</option>
+                            <option value="dracula">Dracula</option>
+                            <option value="nord">Nord</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>Font Size: <span id="font-size-value">16</span>px</label>
+                        <input type="range" id="font-size" min="12" max="24" value="16">
+                    </div>
+                </div>
+
+                <div class="settings-section">
+                    <h3>Data Management</h3>
+                    <button id="reset-progress" class="btn danger">Reset All Progress</button>
+                    <button id="reset-favorites" class="btn danger">Reset Favorites</button>
+                    <button id="clear-cache" class="btn danger">Clear Database Cache</button>
+                </div>
+
+                <div class="modal-actions">
+                    <button id="settings-close" class="btn primary">Close</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Toast Notifications -->
+        <div id="toast-container" class="toast-container"></div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
