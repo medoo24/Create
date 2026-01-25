@@ -30,10 +30,11 @@
             <div class="header-left">
                 <h1 class="app-title">MCQ Pro</h1>
                 <div class="file-selector-container">
-                    <select id="file-selector" class="file-selector" disabled>
+                    <select id="file-selector" class="file-selector" disabled multiple size="1">
                         <option value="">Select Question Set...</option>
                     </select>
                     <button id="refresh-files" class="icon-btn" title="Refresh Files">🔄</button>
+                    <button id="load-selected" class="btn primary small-btn" style="display: none;">Load Selected</button>
                 </div>
             </div>
             
@@ -78,17 +79,15 @@
         <!-- Controls Toolbar Template (Hidden, cloned by JS) -->
         <div id="controls-toolbar" class="controls-toolbar" style="display: none;">
             <div class="controls-group">
-                <button class="btn small-btn" id="select-all-btn">Select All</button>
-                <button class="btn small-btn" id="select-none-btn">Select None</button>
+                <button class="btn small-btn" id="toggle-select-btn">Select All</button>
                 <button class="btn small-btn" id="copy-selected-btn">📋 Copy Selected</button>
             </div>
             <div class="controls-group">
-                <button class="btn small-btn" id="expand-all-btn">Expand All</button>
-                <button class="btn small-btn" id="collapse-all-btn">Collapse All</button>
+                <button class="btn small-btn" id="toggle-expand-btn">Expand All</button>
             </div>
             <div class="controls-group">
                 <button class="btn small-btn" id="toggle-options-btn">Hide Options</button>
-                <button class="btn small-btn" id="toggle-answers-btn">Reveal Answers</button>
+                <button class="btn small-btn" id="toggle-answers-btn">Show Answers</button>
             </div>
         </div>
 
