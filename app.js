@@ -1,22 +1,13 @@
 /**
  * MCQ Pro - Advanced Study Application
  * Client-side only, IndexedDB persistence, Hierarchical navigation
+ * Fixed for GitHub Pages and nested JSON structures
  */
-// Detect base path for GitHub Pages compatibility
-const getBasePath = () => {
-    const path = window.location.pathname;
-    // If we're in a subdirectory (like /repo-name/), use that as base
-    if (path.includes('/index.html')) {
-        return path.replace('/index.html', '');
-    }
-    return path.endsWith('/') ? path.slice(0, -1) : path;
-};
 
-const BASE_PATH = getBasePath();
 // Database Manager for IndexedDB
 class DatabaseManager {
     constructor() {
-        this.DB_NAME = 'MCQProDB_v1';
+        this.DB_NAME = 'MCQProDB_v2';
         this.DB_VERSION = 1;
         this.db = null;
     }
@@ -34,24 +25,20 @@ class DatabaseManager {
             request.onupgradeneeded = (event) => {
                 const db = event.target.result;
                 
-                // Store for cached question files
                 if (!db.objectStoreNames.contains('files')) {
                     db.createObjectStore('files', { keyPath: 'filename' });
                 }
                 
-                // Store for user progress (questionId -> {correct: bool, timestamp, selectedOption})
                 if (!db.objectStoreNames.contains('progress')) {
                     const progressStore = db.createObjectStore('progress', { keyPath: 'questionId' });
                     progressStore.createIndex('fileId', 'fileId', { unique: false });
                 }
                 
-                // Store for favorites
                 if (!db.objectStoreNames.contains('favorites')) {
                     const favStore = db.createObjectStore('favorites', { keyPath: 'questionId' });
                     favStore.createIndex('fileId', 'fileId', { unique: false });
                 }
                 
-                // Store for settings
                 if (!db.objectStoreNames.contains('settings')) {
                     db.createObjectStore('settings', { keyPath: 'key' });
                 }
@@ -205,10 +192,24 @@ class HierarchyManager {
         this.currentFile = null;
         this.progressCache = new Map();
         this.favoritesCache = new Set();
+        this.metadata = null;
     }
 
-    async loadData(questions, filename, db) {
+    async loadData(data, filename, db) {
         this.currentFile = filename;
+        this.metadata = null;
+        
+        // Handle both nested {meta, questions} and flat array formats
+        let questions;
+        if (Array.isArray(data)) {
+            questions = data;
+        } else if (data && Array.isArray(data.questions)) {
+            questions = data.questions;
+            this.metadata = data.meta || null;
+        } else {
+            throw new Error('Invalid data format: expected array or {questions: array}');
+        }
+        
         this.flatQuestions = questions.map(q => ({...q, fileId: filename}));
         this.progressCache.clear();
         
@@ -369,6 +370,179 @@ class HierarchyManager {
     }
 }
 
+// Quiz Manager
+class QuizManager {
+    constructor(app) {
+        this.app = app;
+        this.active = false;
+        this.questions = [];
+        this.currentIndex = 0;
+        this.answers = new Map();
+        this.timer = null;
+        this.timeRemaining = 0;
+    }
+
+    start(questions, config = {}) {
+        if (!questions || questions.length === 0) {
+            this.app.ui.showToast('No questions available for quiz', 'error');
+            return;
+        }
+        
+        this.questions = questions.sort(() => Math.random() - 0.5).slice(0, Math.min(config.count || 20, questions.length));
+        this.currentIndex = 0;
+        this.answers.clear();
+        this.timeRemaining = (config.time || 30) * 60;
+        this.active = true;
+        
+        document.getElementById('quiz-setup-modal').classList.add('hidden');
+        document.getElementById('quiz-modal').classList.remove('hidden');
+        
+        this.render();
+        this.startTimer();
+    }
+
+    startTimer() {
+        if (this.timer) clearInterval(this.timer);
+        
+        const updateDisplay = () => {
+            const mins = Math.floor(this.timeRemaining / 60);
+            const secs = this.timeRemaining % 60;
+            const display = document.getElementById('quiz-timer');
+            display.textContent = `${mins.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`;
+            
+            if (this.timeRemaining < 300) display.classList.add('warning');
+            else display.classList.remove('warning');
+            
+            if (this.timeRemaining <= 0) this.submit();
+            this.timeRemaining--;
+        };
+        
+        updateDisplay();
+        this.timer = setInterval(updateDisplay, 1000);
+    }
+
+    render() {
+        const q = this.questions[this.currentIndex];
+        const body = document.getElementById('quiz-body');
+        const selected = this.answers.get(q.id);
+        
+        body.innerHTML = `
+            <div class="quiz-question">
+                <div class="question-text markdown-content">${marked.parse(q.question)}</div>
+                <div class="options-list" style="margin-top: 20px;">
+                    ${q.options.map((opt, i) => `
+                        <div class="option ${selected === i ? 'selected' : ''}" data-index="${i}" style="padding: 15px; border: 2px solid ${selected === i ? 'var(--accent-primary)' : 'var(--border-color)'};">
+                            <span class="option-letter">${String.fromCharCode(65 + i)}</span>
+                            <span class="option-text">${marked.parseInline(opt)}</span>
+                        </div>
+                    `).join('')}
+                </div>
+            </div>
+        `;
+        
+        body.querySelectorAll('.option').forEach(opt => {
+            opt.addEventListener('click', () => {
+                const idx = parseInt(opt.dataset.index);
+                this.answers.set(q.id, idx);
+                this.render();
+            });
+        });
+        
+        document.getElementById('quiz-progress').textContent = `${this.currentIndex + 1}/${this.questions.length}`;
+        document.getElementById('quiz-prev').disabled = this.currentIndex === 0;
+        
+        if (this.currentIndex === this.questions.length - 1) {
+            document.getElementById('quiz-next').classList.add('hidden');
+            document.getElementById('quiz-submit').classList.remove('hidden');
+        } else {
+            document.getElementById('quiz-next').classList.remove('hidden');
+            document.getElementById('quiz-submit').classList.add('hidden');
+        }
+    }
+
+    next() {
+        if (this.currentIndex < this.questions.length - 1) {
+            this.currentIndex++;
+            this.render();
+        }
+    }
+
+    prev() {
+        if (this.currentIndex > 0) {
+            this.currentIndex--;
+            this.render();
+        }
+    }
+
+    submit() {
+        if (this.timer) clearInterval(this.timer);
+        
+        let correct = 0;
+        this.questions.forEach(q => {
+            const ans = this.answers.get(q.id);
+            const isCorrect = ans === q.correct_option_id;
+            if (isCorrect) correct++;
+            
+            // Save progress
+            this.app.db.saveProgress(q.id, this.app.hierarchyManager.currentFile, {
+                correct: isCorrect,
+                selectedOption: ans
+            });
+        });
+        
+        // Reload to update UI
+        this.app.loadCurrentFile().then(() => {
+            this.showResults(correct);
+        });
+    }
+
+    showResults(correct) {
+        const body = document.getElementById('quiz-body');
+        const footer = document.getElementById('quiz-footer');
+        const pct = Math.round((correct / this.questions.length) * 100);
+        
+        body.innerHTML = `
+            <div style="text-align: center; padding: 40px;">
+                <h2 style="font-size: 2rem; margin-bottom: 20px;">Quiz Complete!</h2>
+                <div style="font-size: 4rem; margin-bottom: 20px;">${pct >= 70 ? '🎉' : pct >= 50 ? '👍' : '💪'}</div>
+                <div style="font-size: 1.5rem; margin-bottom: 10px;">${correct} / ${this.questions.length} Correct</div>
+                <div style="color: var(--text-muted); font-size: 1.2rem;">${pct}% Accuracy</div>
+            </div>
+        `;
+        
+        footer.innerHTML = `
+            <button class="btn secondary" onclick="app.quizManager.close()">Close</button>
+            <button class="btn primary" onclick="app.quizManager.review()">Review Answers</button>
+        `;
+    }
+
+    review() {
+        document.getElementById('quiz-modal').classList.add('hidden');
+        this.app.ui.switchView('history');
+        this.close();
+    }
+
+    close() {
+        this.active = false;
+        if (this.timer) clearInterval(this.timer);
+        document.getElementById('quiz-modal').classList.add('hidden');
+        
+        // Reset footer
+        const footer = document.getElementById('quiz-footer');
+        footer.innerHTML = `
+            <button id="quiz-prev" class="btn secondary">Previous</button>
+            <span id="quiz-progress">1/10</span>
+            <button id="quiz-next" class="btn primary">Next</button>
+            <button id="quiz-submit" class="btn success hidden">Submit</button>
+        `;
+        
+        // Re-attach listeners
+        document.getElementById('quiz-prev').addEventListener('click', () => this.prev());
+        document.getElementById('quiz-next').addEventListener('click', () => this.next());
+        document.getElementById('quiz-submit').addEventListener('click', () => this.submit());
+    }
+}
+
 // UI Manager
 class UIManager {
     constructor(app) {
@@ -377,6 +551,7 @@ class UIManager {
         this.selectedPath = [];
         this.expandedNodes = new Set();
         this.searchQuery = '';
+        this.focusedCardIndex = -1;
     }
 
     init() {
@@ -478,7 +653,7 @@ class UIManager {
 
         // Keyboard shortcuts
         document.addEventListener('keydown', (e) => {
-            if (e.target.tagName === 'INPUT') return;
+            if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
             
             switch(e.key.toLowerCase()) {
                 case 'j':
@@ -519,6 +694,7 @@ class UIManager {
 
     switchView(view) {
         this.currentView = view;
+        this.focusedCardIndex = -1;
         
         // Update nav buttons
         document.querySelectorAll('.nav-btn').forEach(btn => {
@@ -674,7 +850,7 @@ class UIManager {
         if (this.searchQuery) {
             questions = questions.filter(q => 
                 q.question.toLowerCase().includes(this.searchQuery) ||
-                q.explanation?.toLowerCase().includes(this.searchQuery) ||
+                (q.explanation && q.explanation.toLowerCase().includes(this.searchQuery)) ||
                 q.options.some(o => o.toLowerCase().includes(this.searchQuery))
             );
         }
@@ -711,13 +887,21 @@ class UIManager {
                         <div class="group-stats">${groupStats.solved}/${groupQuestions.length} solved • ${accuracy}% accuracy</div>
                     </div>
                     ${this.currentView === 'solve' ? 
-                        `<button class="btn primary quiz-btn" onclick="app.startQuiz('${groupName}')">📝 Quiz</button>` 
+                        `<button class="btn primary quiz-btn" data-group="${groupName}">📝 Quiz</button>` 
                         : ''}
                 </div>
                 <div class="group-content" id="group-${this.escapeId(groupName)}">
                     <!-- Questions will be inserted here -->
                 </div>
             `;
+            
+            // Add quiz button listener
+            const quizBtn = groupEl.querySelector('.quiz-btn');
+            if (quizBtn) {
+                quizBtn.addEventListener('click', () => {
+                    this.app.startQuiz(groupName);
+                });
+            }
             
             const content = groupEl.querySelector('.group-content');
             groupQuestions.forEach((q, idx) => {
@@ -728,6 +912,15 @@ class UIManager {
         });
         
         container.appendChild(viewContainer);
+        
+        // Restore focus if navigating with keyboard
+        if (this.focusedCardIndex >= 0) {
+            const cards = container.querySelectorAll('.question-card');
+            if (cards[this.focusedCardIndex]) {
+                cards[this.focusedCardIndex].focus();
+                cards[this.focusedCardIndex].classList.add('focused');
+            }
+        }
     }
 
     groupQuestions(questions) {
@@ -762,6 +955,7 @@ class UIManager {
         const card = document.createElement('div');
         card.className = `question-card ${question.solved ? (question.correct ? 'solved-correct' : 'solved-incorrect') : ''} ${question.favorite ? 'favorited' : ''}`;
         card.dataset.questionId = question.id;
+        card.dataset.index = index;
         card.tabIndex = 0;
         
         const progress = this.app.hierarchyManager.progressCache.get(question.id);
@@ -776,7 +970,7 @@ class UIManager {
                         : '<span class="status-badge">Unsolved</span>'}
                 </div>
                 <div class="card-actions">
-                    <button class="icon-btn favorite-btn" title="Toggle Favorite">❤️</button>
+                    <button class="icon-btn favorite-btn" title="Toggle Favorite (F)">❤️</button>
                     ${question.solved ? '<button class="icon-btn reset-btn" title="Reset Progress">🔄</button>' : ''}
                 </div>
             </div>
@@ -806,9 +1000,14 @@ class UIManager {
             body.classList.toggle('expanded');
             document.querySelectorAll('.question-card').forEach(c => c.classList.remove('focused'));
             card.classList.add('focused');
+            this.focusedCardIndex = parseInt(card.dataset.index);
         });
         
-        card.addEventListener('focus', () => card.classList.add('focused'));
+        card.addEventListener('focus', () => {
+            card.classList.add('focused');
+            this.focusedCardIndex = parseInt(card.dataset.index);
+        });
+        
         card.addEventListener('blur', () => card.classList.remove('focused'));
         
         // Favorite button
@@ -859,17 +1058,14 @@ class UIManager {
             });
         });
         
-        const strongest = Object.entries(subjectStats).sort((a, b) => {
+        const sortedSubjects = Object.entries(subjectStats).sort((a, b) => {
             const accA = a[1].solved > 0 ? a[1].correct / a[1].solved : 0;
             const accB = b[1].solved > 0 ? b[1].correct / b[1].solved : 0;
             return accB - accA;
-        })[0];
+        });
         
-        const weakest = Object.entries(subjectStats).sort((a, b) => {
-            const accA = a[1].solved > 0 ? a[1].correct / a[1].solved : 0;
-            const accB = b[1].solved > 0 ? b[1].correct / b[1].solved : 0;
-            return accA - accB;
-        })[0];
+        const strongest = sortedSubjects[0];
+        const weakest = sortedSubjects[sortedSubjects.length - 1];
         
         viewContainer.innerHTML = `
             <div class="view-header">
@@ -933,15 +1129,32 @@ class UIManager {
                 <div class="dashboard-card">
                     <h3>Quick Actions</h3>
                     <div class="quick-actions">
-                        ${weakest ? `<button class="btn primary" onclick="app.switchView('mistakes'); app.selectedPath = ['${weakest[0]}']; app.ui.render();">Practice Weakest Subject</button>` : ''}
-                        <button class="btn secondary" onclick="app.startQuiz('all')">Mixed Review Quiz</button>
-                        <button class="btn secondary" onclick="app.switchView('solve')">Continue Studying</button>
+                        ${weakest ? `<button class="btn primary" id="practice-weakest">Practice Weakest Subject</button>` : ''}
+                        <button class="btn secondary" id="mixed-quiz">Mixed Review Quiz</button>
+                        <button class="btn secondary" id="continue-study">Continue Studying</button>
                     </div>
                 </div>
             </div>
         `;
         
         container.appendChild(viewContainer);
+        
+        // Add event listeners for quick actions
+        document.getElementById('practice-weakest')?.addEventListener('click', () => {
+            if (weakest) {
+                this.app.switchView('mistakes');
+                this.selectedPath = [weakest[0]];
+                this.render();
+            }
+        });
+        
+        document.getElementById('mixed-quiz')?.addEventListener('click', () => {
+            this.app.startQuiz('all');
+        });
+        
+        document.getElementById('continue-study')?.addEventListener('click', () => {
+            this.app.switchView('solve');
+        });
         
         // Render charts
         this.renderCharts(stats, subjectStats);
@@ -1040,18 +1253,19 @@ class UIManager {
 
     navigateCards(direction) {
         const cards = document.querySelectorAll('.question-card');
-        const focused = document.querySelector('.question-card.focused');
-        let idx = Array.from(cards).indexOf(focused);
+        if (cards.length === 0) return;
         
-        if (idx === -1) {
-            idx = direction > 0 ? 0 : cards.length - 1;
-        } else {
-            idx = Math.max(0, Math.min(cards.length - 1, idx + direction));
-        }
+        let idx = this.focusedCardIndex + direction;
+        if (idx < 0) idx = 0;
+        if (idx >= cards.length) idx = cards.length - 1;
+        
+        this.focusedCardIndex = idx;
         
         if (cards[idx]) {
             cards[idx].focus();
             cards[idx].scrollIntoView({ behavior: 'smooth', block: 'center' });
+            document.querySelectorAll('.question-card').forEach(c => c.classList.remove('focused'));
+            cards[idx].classList.add('focused');
         }
     }
 
@@ -1063,13 +1277,18 @@ class UIManager {
 
     applyTheme() {
         const saved = localStorage.getItem('theme') || 'light';
-        document.getElementById('theme-select').value = saved;
+        const select = document.getElementById('theme-select');
+        if (select) select.value = saved;
         document.documentElement.setAttribute('data-theme', saved);
         
         const fontSize = localStorage.getItem('fontSize') || 16;
-        document.getElementById('font-size').value = fontSize;
-        document.documentElement.style.setProperty('--font-size-base', `${fontSize}px`);
-        document.getElementById('font-size-value').textContent = fontSize;
+        const fontSlider = document.getElementById('font-size');
+        if (fontSlider) {
+            fontSlider.value = fontSize;
+            document.documentElement.style.setProperty('--font-size-base', `${fontSize}px`);
+            const fontValue = document.getElementById('font-size-value');
+            if (fontValue) fontValue.textContent = fontSize;
+        }
     }
 
     openSettings() {
@@ -1090,172 +1309,6 @@ class UIManager {
 
     escapeId(str) {
         return str.replace(/[^a-zA-Z0-9]/g, '_');
-    }
-}
-
-// Quiz Manager
-class QuizManager {
-    constructor(app) {
-        this.app = app;
-        this.active = false;
-        this.questions = [];
-        this.currentIndex = 0;
-        this.answers = new Map();
-        this.timer = null;
-        this.timeRemaining = 0;
-    }
-
-    start(questions, config = {}) {
-        this.questions = questions.sort(() => Math.random() - 0.5).slice(0, config.count || 20);
-        this.currentIndex = 0;
-        this.answers.clear();
-        this.timeRemaining = (config.time || 30) * 60;
-        this.active = true;
-        
-        document.getElementById('quiz-setup-modal').classList.add('hidden');
-        document.getElementById('quiz-modal').classList.remove('hidden');
-        
-        this.render();
-        this.startTimer();
-    }
-
-    startTimer() {
-        if (this.timer) clearInterval(this.timer);
-        
-        const updateDisplay = () => {
-            const mins = Math.floor(this.timeRemaining / 60);
-            const secs = this.timeRemaining % 60;
-            const display = document.getElementById('quiz-timer');
-            display.textContent = `${mins.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`;
-            
-            if (this.timeRemaining < 300) display.classList.add('warning');
-            else display.classList.remove('warning');
-            
-            if (this.timeRemaining <= 0) this.submit();
-            this.timeRemaining--;
-        };
-        
-        updateDisplay();
-        this.timer = setInterval(updateDisplay, 1000);
-    }
-
-    render() {
-        const q = this.questions[this.currentIndex];
-        const body = document.getElementById('quiz-body');
-        const selected = this.answers.get(q.id);
-        
-        body.innerHTML = `
-            <div class="quiz-question">
-                <div class="question-text markdown-content">${marked.parse(q.question)}</div>
-                <div class="options-list" style="margin-top: 20px;">
-                    ${q.options.map((opt, i) => `
-                        <div class="option ${selected === i ? 'selected' : ''}" data-index="${i}" style="padding: 15px;">
-                            <span class="option-letter">${String.fromCharCode(65 + i)}</span>
-                            <span class="option-text">${marked.parseInline(opt)}</span>
-                        </div>
-                    `).join('')}
-                </div>
-            </div>
-        `;
-        
-        body.querySelectorAll('.option').forEach(opt => {
-            opt.addEventListener('click', () => {
-                const idx = parseInt(opt.dataset.index);
-                this.answers.set(q.id, idx);
-                this.render();
-            });
-        });
-        
-        document.getElementById('quiz-progress').textContent = `${this.currentIndex + 1}/${this.questions.length}`;
-        document.getElementById('quiz-prev').disabled = this.currentIndex === 0;
-        
-        if (this.currentIndex === this.questions.length - 1) {
-            document.getElementById('quiz-next').classList.add('hidden');
-            document.getElementById('quiz-submit').classList.remove('hidden');
-        } else {
-            document.getElementById('quiz-next').classList.remove('hidden');
-            document.getElementById('quiz-submit').classList.add('hidden');
-        }
-    }
-
-    next() {
-        if (this.currentIndex < this.questions.length - 1) {
-            this.currentIndex++;
-            this.render();
-        }
-    }
-
-    prev() {
-        if (this.currentIndex > 0) {
-            this.currentIndex--;
-            this.render();
-        }
-    }
-
-    submit() {
-        if (this.timer) clearInterval(this.timer);
-        
-        let correct = 0;
-        this.questions.forEach(q => {
-            const ans = this.answers.get(q.id);
-            const isCorrect = ans === q.correct_option_id;
-            if (isCorrect) correct++;
-            
-            // Save progress
-            this.app.db.saveProgress(q.id, this.app.hierarchyManager.currentFile, {
-                correct: isCorrect,
-                selectedOption: ans
-            });
-        });
-        
-        // Reload to update UI
-        this.app.loadCurrentFile().then(() => {
-            this.showResults(correct);
-        });
-    }
-
-    showResults(correct) {
-        const body = document.getElementById('quiz-body');
-        const footer = document.getElementById('quiz-footer');
-        const pct = Math.round((correct / this.questions.length) * 100);
-        
-        body.innerHTML = `
-            <div style="text-align: center; padding: 40px;">
-                <h2 style="font-size: 2rem; margin-bottom: 20px;">Quiz Complete!</h2>
-                <div style="font-size: 4rem; margin-bottom: 20px;">${pct >= 70 ? '🎉' : pct >= 50 ? '👍' : '💪'}</div>
-                <div style="font-size: 1.5rem; margin-bottom: 10px;">${correct} / ${this.questions.length} Correct</div>
-                <div style="color: var(--text-muted); font-size: 1.2rem;">${pct}% Accuracy</div>
-            </div>
-        `;
-        
-        footer.innerHTML = `
-            <button class="btn secondary" onclick="app.quizManager.close()">Close</button>
-            <button class="btn primary" onclick="app.quizManager.review()">Review Answers</button>
-        `;
-    }
-
-    review() {
-        document.getElementById('quiz-modal').classList.add('hidden');
-        this.app.ui.switchView('history');
-        this.close();
-    }
-
-    close() {
-        this.active = false;
-        if (this.timer) clearInterval(this.timer);
-        document.getElementById('quiz-modal').classList.add('hidden');
-        document.getElementById('quiz-footer').innerHTML = `
-            <button id="quiz-prev" class="btn secondary">Previous</button>
-            <span id="quiz-progress">1/10</span>
-            <button id="quiz-next" class="btn primary">Next</button>
-            <button id="quiz-submit" class="btn success hidden">Submit</button>
-        `;
-        
-        // Re-attach listeners
-        document.getElementById('quiz-prev').addEventListener('click', () => this.prev());
-        document.getElementById('quiz-next').addEventListener('click', () => this.next());
-        document.getElementById('quiz-submit').addEventListener('click', () => this.submit());
-        document.getElementById('quiz-close').addEventListener('click', () => this.close());
     }
 }
 
@@ -1285,7 +1338,8 @@ class MCQProApp {
 
     async discoverFiles() {
         try {
-            const response = await fetch(`${BASE_PATH}/questions/manifest.json`);
+            // Use relative path for GitHub Pages compatibility
+            const response = await fetch('questions/manifest.json');
             if (!response.ok) throw new Error('Manifest not found');
             
             this.manifest = await response.json();
@@ -1308,7 +1362,7 @@ class MCQProApp {
                 await this.loadFile(lastFile);
             }
         } catch (error) {
-            this.ui.showToast('Error loading manifest. Ensure /questions/manifest.json exists.', 'error');
+            this.ui.showToast('Error loading manifest. Ensure questions/manifest.json exists.', 'error');
             console.error(error);
         }
     }
@@ -1322,11 +1376,22 @@ class MCQProApp {
             let data = await this.db.getFile(filename);
             
             if (!data) {
-                // Fetch from network
-                const response = await fetch(`${BASE_PATH}/questions/${filename}`);
+                // Fetch from network using relative path
+                const response = await fetch(`questions/${filename}`);
                 if (!response.ok) throw new Error('File not found');
                 
-                const questions = await response.json();
+                const responseData = await response.json();
+                
+                // Handle both nested {meta, questions} and flat array formats
+                let questions;
+                if (Array.isArray(responseData)) {
+                    questions = responseData;
+                } else if (responseData && Array.isArray(responseData.questions)) {
+                    questions = responseData.questions;
+                } else {
+                    throw new Error('Invalid question format: expected array or {questions: array}');
+                }
+                
                 data = { filename, data: questions, timestamp: Date.now() };
                 await this.db.saveFile(filename, data.data);
             }
@@ -1341,7 +1406,7 @@ class MCQProApp {
             document.getElementById('file-selector').value = filename;
             this.ui.showToast(`Loaded ${data.data.length} questions`, 'success');
         } catch (error) {
-            this.ui.showToast(`Error loading ${filename}`, 'error');
+            this.ui.showToast(`Error loading ${filename}: ${error.message}`, 'error');
             console.error(error);
         } finally {
             document.getElementById('loading-screen').classList.add('hidden');
@@ -1389,31 +1454,36 @@ class MCQProApp {
 
     startQuiz(source) {
         let questions;
+        
         if (source === 'all') {
             questions = this.hierarchyManager.getAllQuestions();
         } else {
-            // Find questions for the specific group
+            // Get all questions under current selection
             const all = this.hierarchyManager.getQuestionsForSelection(this.ui.selectedPath);
+            
+            // Filter by the specific group name clicked
             questions = all.filter(q => {
-                if (this.ui.selectedPath.length === 0) return (q.term || 'Uncategorized') === source;
-                if (this.ui.selectedPath.length === 1) return (q.subject || 'General') === source;
-                if (this.ui.selectedPath.length === 2) return (q.lesson || 'General') === source;
-                return (q.chapter || 'General') === source;
+                // Check if this question belongs to the clicked group
+                return (q.term === source) || 
+                       (q.subject === source) || 
+                       (q.lesson === source) || 
+                       (q.chapter === source);
             });
         }
         
-        if (questions.length === 0) {
+        if (!questions || questions.length === 0) {
             this.ui.showToast('No questions available for quiz', 'error');
             return;
         }
         
+        // Show setup modal
         document.getElementById('quiz-setup-modal').classList.remove('hidden');
         document.getElementById('quiz-source').textContent = source === 'all' ? 'All Questions' : source;
         
         // Setup handlers
         document.getElementById('quiz-start').onclick = () => {
-            const count = parseInt(document.getElementById('quiz-count').value);
-            const time = parseInt(document.getElementById('quiz-time').value);
+            const count = parseInt(document.getElementById('quiz-count').value) || 20;
+            const time = parseInt(document.getElementById('quiz-time').value) || 30;
             this.quizManager.start(questions, { count, time });
         };
         
@@ -1421,16 +1491,21 @@ class MCQProApp {
             document.getElementById('quiz-setup-modal').classList.add('hidden');
         };
     }
+    
+    // Expose switchView globally for HTML onclick handlers
+    switchView(view) {
+        this.ui.switchView(view);
+    }
 }
 
-// Initialize app
-const app = new MCQProApp();
-app.init();
+// Initialize app and expose globally
+window.app = new MCQProApp();
+window.app.init();
 
 // Setup quiz modal listeners
-document.getElementById('quiz-prev').addEventListener('click', () => app.quizManager.prev());
-document.getElementById('quiz-next').addEventListener('click', () => app.quizManager.next());
-document.getElementById('quiz-submit').addEventListener('click', () => app.quizManager.submit());
-
-document.getElementById('quiz-close').addEventListener('click', () => app.quizManager.close());
-
+document.addEventListener('DOMContentLoaded', () => {
+    document.getElementById('quiz-prev')?.addEventListener('click', () => window.app.quizManager.prev());
+    document.getElementById('quiz-next')?.addEventListener('click', () => window.app.quizManager.next());
+    document.getElementById('quiz-submit')?.addEventListener('click', () => window.app.quizManager.submit());
+    document.getElementById('quiz-close')?.addEventListener('click', () => window.app.quizManager.close());
+});
