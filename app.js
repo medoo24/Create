@@ -352,44 +352,44 @@ class HierarchyManager {
     }
 
     toggleFavoriteStatus(questionId) {
-        let newStatus = false;
-        
-        // Update in flat array
-        const flatQ = this.flatQuestions.find(q => q.id === questionId);
-        if (flatQ) {
-            flatQ.favorite = !flatQ.favorite;
-            newStatus = flatQ.favorite;
-        }
-        
-        // Update in hierarchy
-        const updateInNode = (node) => {
-            if (node.questions) {
-                const q = node.questions.find(q => q.id === questionId);
-                if (q) {
-                    q.favorite = !q.favorite;
-                    return true;
-                }
-            } else {
-                for (const child of Object.values(node.children)) {
-                    if (updateInNode(child)) return true;
-                }
-            }
-            return false;
-        };
+       let newStatus = false;
+    
+       // Update in flat array
+       const flatQ = this.flatQuestions.find(q => q.id === questionId);
+       if (flatQ) {
+           flatQ.favorite = !flatQ.favorite;
+           newStatus = flatQ.favorite;
+       }
+    
+       // Update in hierarchy
+       const updateInNode = (node) => {
+           if (node.questions) {
+               const q = node.questions.find(q => q.id === questionId);
+               if (q) {
+                   q.favorite = !q.favorite;
+                   return true;
+               }
+           } else {
+               for (const child of Object.values(node.children)) {
+                   if (updateInNode(child)) return true;
+               }
+           }
+           return false;
+       };
 
-        for (const term of Object.values(this.hierarchy)) {
-            updateInNode(term);
-        }
-        
-        // Update cache
-        if (newStatus) {
-            this.favoritesCache.add(questionId);
-        } else {
-            this.favoritesCache.delete(questionId);
-        }
-        
-        return newStatus;
-    }
+       for (const term of Object.values(this.hierarchy)) {
+           updateInNode(term);
+       }
+    
+       // Update cache immediately
+       if (newStatus) {
+           this.favoritesCache.add(questionId);
+       } else {
+           this.favoritesCache.delete(questionId);
+       }
+    
+       return newStatus;
+   }
 }
 
 // Quiz Manager
@@ -1170,25 +1170,30 @@ class UIManager {
                         : '<span class="status-badge">Unsolved</span>'}
                 </div>
                 <div class="card-actions">
-                    <button class="icon-btn favorite-btn" title="Toggle Favorite (F)">❤️</button>
+                    `<button class="icon-btn favorite-btn ${question.favorite ? 'active' : ''}" title="Toggle Favorite (F)">❤️</button>`
                     ${question.solved ? '<button class="icon-btn reset-btn" title="Reset Progress">🔄</button>' : ''}
                 </div>
             </div>
             <div class="card-body ${this.currentView === 'solve' && index === 0 ? 'expanded' : ''}">
                 <div class="question-text markdown-content">${marked.parse(question.question)}</div>
                 <div class="options-list">
-                    ${question.options.map((opt, i) => `
-                        <div class="option ${selectedOption === i ? (i === question.correct_option_id ? 'selected-correct' : 'selected-incorrect') : ''} ${(question.solved && i === question.correct_option_id) ? 'correct-answer' : ''} ${question.solved ? 'disabled' : ''}" 
+                    ${question.options.map((opt, i) => ` 
+                        <div class="option ${selectedOption === i ? (i === question.correct_option_id ? 'selected-correct' : 'selected-incorrect') : ''} ${(question.solved || this.answersRevealed) && i === question.correct_option_id ? 'correct-answer' : ''} ${question.solved ? 'disabled' : ''}" 
                              data-index="${i}">
                             <span class="option-letter">${String.fromCharCode(65 + i)}</span>
                             <span class="option-text">${marked.parseInline(opt)}</span>
+                            ${(question.solved || this.answersRevealed) && i === question.correct_option_id ? '<span class="correct-indicator">✓ CORRECT</span>' : ''}
                         </div>
                     `).join('')}
                 </div>
                 <div class="explanation" style="${question.solved || this.answersRevealed ? 'display: block;' : 'display: none;'}">
-                    <div class="explanation-header">Explanation</div>
-                    <div class="markdown-content">${marked.parse(question.explanation || 'No explanation provided.')}</div>
+                <div class="explanation-header">
+                    Explanation 
+                    ${(question.solved || this.answersRevealed) ? 
+                        `<span class="correct-answer-badge">Answer: ${String.fromCharCode(65 + question.correct_option_id)}</span>` 
+                        : ''}
                 </div>
+                <div class="markdown-content">${marked.parse(question.explanation || 'No explanation provided.')}</div>
             </div>
         `;
         
@@ -1664,21 +1669,44 @@ class MCQProApp {
     }
 
     async toggleFavorite(questionId) {
-        const isFav = await this.db.toggleFavorite(questionId, this.currentFiles[0]);
-        this.hierarchyManager.toggleFavoriteStatus(questionId);
+       try {
+           // Find the question to get its correct fileId
+           const question = this.hierarchyManager.flatQuestions.find(q => q.id === questionId);
+           if (!question) {
+               console.error('Question not found:', questionId);
+               return;
+           }
         
-        // Update card without full re-render - FIXED
-        const card = document.querySelector(`[data-question-id="${questionId}"]`);
-        if (card) {
-            if (isFav) {
-                card.classList.add('favorited');
-            } else {
-                card.classList.remove('favorited');
-            }
-            // Update sidebar stats
-            this.ui.renderSidebar();
-        }
-    }
+           // Use the question's actual fileId, not just the first file
+           const fileId = question.fileId || this.currentFiles[0];
+        
+           // Save to database
+           const isFav = await this.db.toggleFavorite(questionId, fileId);
+        
+           // Update hierarchy cache
+           this.hierarchyManager.toggleFavoriteStatus(questionId);
+        
+           // Update UI immediately for responsiveness
+           const card = document.querySelector(`[data-question-id="${questionId}"]`);
+           if (card) {
+               if (isFav) {
+                   card.classList.add('favorited');
+               } else {
+                   card.classList.remove('favorited');
+               }
+           }
+        
+           // Update sidebar to refresh favorite counts
+           this.ui.renderSidebar();
+        
+           // Optional: Show feedback
+           this.ui.showToast(isFav ? 'Added to favorites' : 'Removed from favorites', 'success');
+        
+       } catch (error) {
+           console.error('Error toggling favorite:', error);
+           this.ui.showToast('Failed to save favorite', 'error');
+       }
+   }
 
     async resetQuestion(questionId) {
         const transaction = this.db.db.transaction(['progress'], 'readwrite');
@@ -1740,3 +1768,4 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('quiz-submit')?.addEventListener('click', () => window.app.quizManager.submit());
     document.getElementById('quiz-close')?.addEventListener('click', () => window.app.quizManager.close());
 });
+
