@@ -1237,3 +1237,43 @@ body {
         display: none;
     }
 }
+
+/* Highlight for correct answer when revealed */
+.option.correct-answer {
+    background: rgba(76, 175, 80, 0.2) !important;
+    border-color: var(--success) !important;
+    border-width: 3px !important;
+    font-weight: bold;
+    position: relative;
+}
+
+.correct-indicator {
+    margin-left: auto;
+    background: var(--success);
+    color: white;
+    padding: 2px 8px;
+    border-radius: 12px;
+    font-size: 0.75rem;
+    font-weight: bold;
+    animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: scale(0.8); }
+    to { opacity: 1; transform: scale(1); }
+}
+
+/* Make sure incorrect selected answers are also visible in review mode */
+.question-card.answers-revealed .option.selected-incorrect {
+    border-color: var(--error) !important;
+    background: rgba(244, 67, 54, 0.1) !important;
+}
+.correct-answer-badge {
+    background: var(--success);
+    color: white;
+    padding: 3px 10px;
+    border-radius: 15px;
+    font-size: 0.85rem;
+    margin-left: 10px;
+    font-weight: bold;
+}
