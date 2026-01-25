@@ -2,7 +2,17 @@
  * MCQ Pro - Advanced Study Application
  * Client-side only, IndexedDB persistence, Hierarchical navigation
  */
+// Detect base path for GitHub Pages compatibility
+const getBasePath = () => {
+    const path = window.location.pathname;
+    // If we're in a subdirectory (like /repo-name/), use that as base
+    if (path.includes('/index.html')) {
+        return path.replace('/index.html', '');
+    }
+    return path.endsWith('/') ? path.slice(0, -1) : path;
+};
 
+const BASE_PATH = getBasePath();
 // Database Manager for IndexedDB
 class DatabaseManager {
     constructor() {
@@ -1275,7 +1285,7 @@ class MCQProApp {
 
     async discoverFiles() {
         try {
-            const response = await fetch('questions/manifest.json');
+            const response = await fetch(`${BASE_PATH}/questions/manifest.json`);
             if (!response.ok) throw new Error('Manifest not found');
             
             this.manifest = await response.json();
@@ -1313,7 +1323,7 @@ class MCQProApp {
             
             if (!data) {
                 // Fetch from network
-                const response = await fetch(`questions/${filename}`);
+                const response = await fetch(`${BASE_PATH}/questions/${filename}`);
                 if (!response.ok) throw new Error('File not found');
                 
                 const questions = await response.json();
@@ -1423,3 +1433,4 @@ document.getElementById('quiz-next').addEventListener('click', () => app.quizMan
 document.getElementById('quiz-submit').addEventListener('click', () => app.quizManager.submit());
 
 document.getElementById('quiz-close').addEventListener('click', () => app.quizManager.close());
+
