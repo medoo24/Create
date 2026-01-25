@@ -549,7 +549,7 @@ class QuizManager {
         if (this.timer) clearInterval(this.timer);
         document.getElementById('quiz-modal').classList.add('hidden');
         
-        // Reset footer
+        // Reset footer without breaking event listeners
         const footer = document.getElementById('quiz-footer');
         footer.innerHTML = `
             <button id="quiz-prev" class="btn secondary">Previous</button>
@@ -847,6 +847,7 @@ class UIManager {
         this.optionsVisible = true;
         this.answersRevealed = false;
         this.allExpanded = false;
+        // IMPORTANT: Do NOT reset selectedPath here - this preserves tree state when switching tabs
         
         // Update nav buttons
         document.querySelectorAll('.nav-btn').forEach(btn => {
@@ -1650,7 +1651,23 @@ class MCQProApp {
             this.currentFiles = filenames;
             await this.db.saveSetting('lastFiles', filenames);
             
-            this.ui.selectedPath = [];
+            // FIX: Auto-select first available content instead of leaving empty
+            this.autoSelectFirstContent();
+            
+            // Update loaded files indicator
+            const indicator = document.getElementById('loaded-files-indicator');
+            const count = document.getElementById('loaded-count');
+            if (indicator && count) {
+                indicator.style.display = 'inline-block';
+                count.textContent = filenames.length;
+            }
+            
+            // Keep file selector showing selected files
+            const selector = document.getElementById('file-selector');
+            Array.from(selector.options).forEach(opt => {
+                opt.selected = filenames.includes(opt.value);
+            });
+            
             this.ui.render();
             
             this.ui.showToast(`Loaded ${filesData.length} file(s) with ${this.hierarchyManager.flatQuestions.length} questions`, 'success');
@@ -1659,6 +1676,44 @@ class MCQProApp {
             console.error(error);
         } finally {
             document.getElementById('loading-screen').classList.add('hidden');
+        }
+    }
+
+    // NEW METHOD: Auto-select first available content in hierarchy
+    autoSelectFirstContent() {
+        const hierarchy = this.hierarchyManager.hierarchy;
+        const terms = Object.keys(hierarchy);
+        
+        if (terms.length > 0) {
+            const firstTerm = terms[0];
+            const termNode = hierarchy[firstTerm];
+            
+            // Build path to first available chapter
+            this.ui.selectedPath = [firstTerm];
+            this.ui.expandedNodes.add(firstTerm);
+            
+            const subjects = Object.keys(termNode.children);
+            if (subjects.length > 0) {
+                const firstSubject = subjects[0];
+                this.ui.selectedPath.push(firstSubject);
+                this.ui.expandedNodes.add(`${firstTerm}/${firstSubject}`);
+                
+                const subjectNode = termNode.children[firstSubject];
+                const lessons = Object.keys(subjectNode.children);
+                
+                if (lessons.length > 0) {
+                    const firstLesson = lessons[0];
+                    this.ui.selectedPath.push(firstLesson);
+                    this.ui.expandedNodes.add(`${firstTerm}/${firstSubject}/${firstLesson}`);
+                    
+                    const lessonNode = subjectNode.children[firstLesson];
+                    const chapters = Object.keys(lessonNode.children);
+                    
+                    if (chapters.length > 0) {
+                        this.ui.selectedPath.push(chapters[0]);
+                    }
+                }
+            }
         }
     }
 
@@ -1780,5 +1835,3 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('quiz-submit')?.addEventListener('click', () => window.app.quizManager.submit());
     document.getElementById('quiz-close')?.addEventListener('click', () => window.app.quizManager.close());
 });
-
-
