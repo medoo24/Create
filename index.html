@@ -5,6 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MCQ Pro - Advanced Study Application</title>
     
+    <!-- Favicon -->
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📚</text></svg>">
+    
     <!-- External Libraries -->
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
@@ -59,7 +62,7 @@
             <aside class="sidebar" id="sidebar">
                 <div class="sidebar-header">
                     <h3>Content Navigator</h3>
-                    <button id="collapse-all" class="small-btn">Collapse All</button>
+                    <button id="collapse-all-sidebar" class="small-btn">Collapse All</button>
                 </div>
                 <div class="tree-container" id="tree-container">
                     <!-- Dynamic Tree Content -->
@@ -72,6 +75,23 @@
             </main>
         </div>
 
+        <!-- Controls Toolbar Template (Hidden, cloned by JS) -->
+        <div id="controls-toolbar" class="controls-toolbar" style="display: none;">
+            <div class="controls-group">
+                <button class="btn small-btn" id="select-all-btn">Select All</button>
+                <button class="btn small-btn" id="select-none-btn">Select None</button>
+                <button class="btn small-btn" id="copy-selected-btn">📋 Copy Selected</button>
+            </div>
+            <div class="controls-group">
+                <button class="btn small-btn" id="expand-all-btn">Expand All</button>
+                <button class="btn small-btn" id="collapse-all-btn">Collapse All</button>
+            </div>
+            <div class="controls-group">
+                <button class="btn small-btn" id="toggle-options-btn">Hide Options</button>
+                <button class="btn small-btn" id="toggle-answers-btn">Reveal Answers</button>
+            </div>
+        </div>
+
         <!-- Bottom Navigation -->
         <nav class="bottom-nav">
             <button class="nav-btn active" data-view="dashboard" title="Dashboard">
@@ -81,6 +101,10 @@
             <button class="nav-btn" data-view="solve" title="Solve">
                 <span class="nav-icon">📚</span>
                 <span class="nav-label">Solve</span>
+            </button>
+            <button class="nav-btn" data-view="review" title="Review">
+                <span class="nav-icon">👁️</span>
+                <span class="nav-label">Review</span>
             </button>
             <button class="nav-btn" data-view="history" title="History">
                 <span class="nav-icon">✅</span>
@@ -93,10 +117,6 @@
             <button class="nav-btn" data-view="favorites" title="Favorites">
                 <span class="nav-icon">❤️</span>
                 <span class="nav-label">Favorites</span>
-            </button>
-            <button class="nav-btn" data-view="review" title="Review">
-                <span class="nav-icon">👁️</span>
-                <span class="nav-label">Review</span>
             </button>
         </nav>
 
@@ -185,5 +205,4 @@
 
     <script src="app.js"></script>
 </body>
-
 </html>
