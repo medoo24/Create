@@ -1142,126 +1142,138 @@ class UIManager {
     }
 
     createQuestionCard(question, index) {
-        const card = document.createElement('div');
-        card.className = `question-card ${question.solved ? (question.correct ? 'solved-correct' : 'solved-incorrect') : ''}`;
-        if (question.favorite) card.classList.add('favorited');
-        if (this.selectedCards.has(String(question.id))) card.classList.add('selected');
-        if (!this.optionsVisible) card.classList.add('options-hidden');
-        if (this.answersRevealed) card.classList.add('answers-revealed');
+       const card = document.createElement('div');
+       card.className = `question-card ${question.solved ? (question.correct ? 'solved-correct' : 'solved-incorrect') : ''}`;
+       if (question.favorite) card.classList.add('favorited');
+       if (this.selectedCards.has(String(question.id))) card.classList.add('selected');
+       if (!this.optionsVisible) card.classList.add('options-hidden');
+       if (this.answersRevealed) card.classList.add('answers-revealed');
+    
+       card.dataset.questionId = question.id;
+       card.dataset.index = index;
+       card.tabIndex = 0;
+    
+       const progress = this.app.hierarchyManager.progressCache.get(question.id);
+       const selectedOption = progress?.selectedOption;
+    
+       // Checkbox for selection
+       const checkbox = this.currentView !== 'dashboard' ? 
+           `<input type="checkbox" class="select-checkbox" ${this.selectedCards.has(String(question.id)) ? 'checked' : ''}>` : '';
+    
+       // Build options HTML
+       const optionsHtml = question.options.map((opt, i) => {
+           const isCorrect = i === question.correct_option_id;
+           const isSelected = selectedOption === i;
+           const wasSelectedWrong = isSelected && !isCorrect && question.solved;
+           const showCorrect = (question.solved || this.answersRevealed) && isCorrect;
         
-        card.dataset.questionId = question.id;
-        card.dataset.index = index;
-        card.tabIndex = 0;
+           let optionClass = 'option';
+           if (isSelected && isCorrect) optionClass += ' selected-correct';
+           else if (isSelected && !isCorrect) optionClass += ' selected-incorrect';
+           if (showCorrect) optionClass += ' correct-answer';
+           if (question.solved) optionClass += ' disabled';
         
-        const progress = this.app.hierarchyManager.progressCache.get(question.id);
-        const selectedOption = progress?.selectedOption;
+           const correctBadge = showCorrect ? '<span class="correct-indicator">✓ CORRECT</span>' : '';
         
-        // Checkbox for selection
-        const checkbox = this.currentView !== 'dashboard' ? 
-            `<input type="checkbox" class="select-checkbox" ${this.selectedCards.has(String(question.id)) ? 'checked' : ''}>` : '';
-        
-        card.innerHTML = `
-            <div class="card-header">
-                <div class="card-meta">
-                    ${checkbox}
-                    <span class="question-id">#${question.id}</span>
-                    ${question.solved ? 
-                        `<span class="status-badge ${question.correct ? 'correct' : 'incorrect'}">${question.correct ? 'Correct' : 'Incorrect'}</span>` 
-                        : '<span class="status-badge">Unsolved</span>'}
-                </div>
-                <div class="card-actions">
-                    `<button class="icon-btn favorite-btn ${question.favorite ? 'active' : ''}" title="Toggle Favorite (F)">❤️</button>`
-                    ${question.solved ? '<button class="icon-btn reset-btn" title="Reset Progress">🔄</button>' : ''}
-                </div>
-            </div>
-            <div class="card-body ${this.currentView === 'solve' && index === 0 ? 'expanded' : ''}">
-                <div class="question-text markdown-content">${marked.parse(question.question)}</div>
-                <div class="options-list">
-                    ${question.options.map((opt, i) => ` 
-                        <div class="option ${selectedOption === i ? (i === question.correct_option_id ? 'selected-correct' : 'selected-incorrect') : ''} ${(question.solved || this.answersRevealed) && i === question.correct_option_id ? 'correct-answer' : ''} ${question.solved ? 'disabled' : ''}" 
-                             data-index="${i}">
-                            <span class="option-letter">${String.fromCharCode(65 + i)}</span>
-                            <span class="option-text">${marked.parseInline(opt)}</span>
-                            ${(question.solved || this.answersRevealed) && i === question.correct_option_id ? '<span class="correct-indicator">✓ CORRECT</span>' : ''}
-                        </div>
-                    `).join('')}
-                </div>
-                <div class="explanation" style="${question.solved || this.answersRevealed ? 'display: block;' : 'display: none;'}">
-                <div class="explanation-header">
-                    Explanation 
-                    ${(question.solved || this.answersRevealed) ? 
-                        `<span class="correct-answer-badge">Answer: ${String.fromCharCode(65 + question.correct_option_id)}</span>` 
-                        : ''}
-                </div>
-                <div class="markdown-content">${marked.parse(question.explanation || 'No explanation provided.')}</div>
-            </div>
-        `;
-        
-        // Event listeners
-        const header = card.querySelector('.card-header');
-        const body = card.querySelector('.card-body');
-        
-        header.addEventListener('click', (e) => {
-            // Don't toggle if clicking checkbox or buttons
-            if (e.target.tagName === 'INPUT' || e.target.closest('.icon-btn')) return;
-            
-            body.classList.toggle('expanded');
-            document.querySelectorAll('.question-card').forEach(c => c.classList.remove('focused'));
-            card.classList.add('focused');
-            this.focusedCardIndex = parseInt(card.dataset.index);
-        });
-        
-        card.addEventListener('focus', () => {
-            card.classList.add('focused');
-            this.focusedCardIndex = parseInt(card.dataset.index);
-        });
-        
-        card.addEventListener('blur', () => card.classList.remove('focused'));
-        
-        // Checkbox listener
-        const checkboxEl = card.querySelector('.select-checkbox');
-        if (checkboxEl) {
-            checkboxEl.addEventListener('change', (e) => {
-                if (e.target.checked) {
-                    this.selectedCards.add(String(question.id));
-                    card.classList.add('selected');
-                } else {
-                    this.selectedCards.delete(String(question.id));
-                    card.classList.remove('selected');
-                }
-            });
-        }
-        
-        // Favorite button - FIXED ANIMATION
-        const favBtn = card.querySelector('.favorite-btn');
-        favBtn.addEventListener('click', (e) => {
-            e.stopPropagation();
-            this.app.toggleFavorite(question.id);
-        });
-        
-        // Reset button
-        const resetBtn = card.querySelector('.reset-btn');
-        if (resetBtn) {
-            resetBtn.addEventListener('click', (e) => {
-                e.stopPropagation();
-                this.app.resetQuestion(question.id);
-            });
-        }
-        
-        // Options - only in solve mode and if not already solved
-        if (this.currentView === 'solve' && !question.solved) {
-            card.querySelectorAll('.option').forEach(opt => {
-                opt.addEventListener('click', () => {
-                    if (opt.classList.contains('disabled')) return;
-                    const optionIndex = parseInt(opt.dataset.index);
-                    this.app.answerQuestion(question.id, optionIndex, question.correct_option_id);
-                });
-            });
-        }
-        
-        return card;
-    }
-
+           return `
+               <div class="${optionClass}" data-index="${i}">
+                   <span class="option-letter">${String.fromCharCode(65 + i)}</span>
+                   <span class="option-text">${marked.parseInline(opt)}</span>
+                   ${correctBadge}
+               </div>
+           `;
+       }).join('');
+    
+       const answerBadge = (question.solved || this.answersRevealed) ? 
+           `<span class="correct-answer-badge">Answer: ${String.fromCharCode(65 + question.correct_option_id)}</span>` : '';
+    
+       card.innerHTML = `
+           <div class="card-header">
+               <div class="card-meta">
+                   ${checkbox}
+                   <span class="question-id">#${question.id}</span>
+                   ${question.solved ? 
+                       `<span class="status-badge ${question.correct ? 'correct' : 'incorrect'}">${question.correct ? 'Correct' : 'Incorrect'}</span>` 
+                       : '<span class="status-badge">Unsolved</span>'}
+               </div>
+               <div class="card-actions">
+                   <button class="icon-btn favorite-btn" title="Toggle Favorite (F)">❤️</button>
+                   ${question.solved ? '<button class="icon-btn reset-btn" title="Reset Progress">🔄</button>' : ''}
+               </div>
+           </div>
+           <div class="card-body ${this.currentView === 'solve' && index === 0 ? 'expanded' : ''}">
+               <div class="question-text markdown-content">${marked.parse(question.question)}</div>
+               <div class="options-list">
+                   ${optionsHtml}
+               </div>
+               <div class="explanation" style="${question.solved || this.answersRevealed ? 'display: block;' : 'display: none;'}">
+                   <div class="explanation-header">
+                       Explanation 
+                       ${answerBadge}
+                   </div>
+                   <div class="markdown-content">${marked.parse(question.explanation || 'No explanation provided.')}</div>
+               </div>
+           </div>
+       `;
+    
+       // Event listeners (rest of the method remains the same)
+       const header = card.querySelector('.card-header');
+       const body = card.querySelector('.card-body');
+    
+       header.addEventListener('click', (e) => {
+           if (e.target.tagName === 'INPUT' || e.target.closest('.icon-btn')) return;
+           body.classList.toggle('expanded');
+           document.querySelectorAll('.question-card').forEach(c => c.classList.remove('focused'));
+           card.classList.add('focused');
+           this.focusedCardIndex = parseInt(card.dataset.index);
+       });
+    
+       card.addEventListener('focus', () => {
+           card.classList.add('focused');
+           this.focusedCardIndex = parseInt(card.dataset.index);
+       });
+    
+       card.addEventListener('blur', () => card.classList.remove('focused'));
+    
+       const checkboxEl = card.querySelector('.select-checkbox');
+       if (checkboxEl) {
+           checkboxEl.addEventListener('change', (e) => {
+               if (e.target.checked) {
+                   this.selectedCards.add(String(question.id));
+                   card.classList.add('selected');
+               } else {
+                   this.selectedCards.delete(String(question.id));
+                   card.classList.remove('selected');
+               }
+           });
+       }
+    
+       const favBtn = card.querySelector('.favorite-btn');
+       favBtn.addEventListener('click', (e) => {
+           e.stopPropagation();
+           this.app.toggleFavorite(question.id);
+       });
+    
+       const resetBtn = card.querySelector('.reset-btn');
+       if (resetBtn) {
+           resetBtn.addEventListener('click', (e) => {
+               e.stopPropagation();
+               this.app.resetQuestion(question.id);
+           });
+       }
+    
+       if (this.currentView === 'solve' && !question.solved) {
+           card.querySelectorAll('.option').forEach(opt => {
+               opt.addEventListener('click', () => {
+                   if (opt.classList.contains('disabled')) return;
+                   const optionIndex = parseInt(opt.dataset.index);
+                   this.app.answerQuestion(question.id, optionIndex, question.correct_option_id);
+               });
+           });
+       }
+    
+       return card;
+   }
     renderDashboard() {
         const container = document.getElementById('content-area');
         container.innerHTML = '';
@@ -1768,4 +1780,5 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('quiz-submit')?.addEventListener('click', () => window.app.quizManager.submit());
     document.getElementById('quiz-close')?.addEventListener('click', () => window.app.quizManager.close());
 });
+
 
