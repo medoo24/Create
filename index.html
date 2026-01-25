@@ -30,11 +30,14 @@
             <div class="header-left">
                 <h1 class="app-title">MCQ Pro</h1>
                 <div class="file-selector-container">
-                    <select id="file-selector" class="file-selector" disabled multiple size="1">
+                    <select id="file-selector" class="file-selector" disabled multiple size="3">
                         <option value="">Select Question Set...</option>
                     </select>
                     <button id="refresh-files" class="icon-btn" title="Refresh Files">🔄</button>
                     <button id="load-selected" class="btn primary small-btn" style="display: none;">Load Selected</button>
+                    <div class="loaded-files-indicator" id="loaded-files-indicator" style="display: none;">
+                        <span id="loaded-count">0</span> files active
+                    </div>
                 </div>
             </div>
             
