@@ -1310,3 +1310,70 @@ body {
     from { opacity: 0; transform: scale(0.8); }
     to { opacity: 1; transform: scale(1); }
 }
+/* Multi-select dropdown improvements */
+.file-selector[multiple] {
+    height: auto;
+    min-height: 80px;
+    max-height: 120px;
+    overflow-y: auto;
+    padding: 5px;
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    background: var(--bg-primary);
+    color: var(--text-primary);
+}
+
+.file-selector[multiple] option {
+    padding: 6px 10px;
+    margin: 2px 0;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.file-selector[multiple] option:checked {
+    background: var(--accent-primary);
+    color: white;
+}
+
+.file-selector[multiple] option:hover {
+    background: var(--bg-tertiary);
+}
+
+/* Loaded files indicator */
+.loaded-files-indicator {
+    background: var(--accent-primary);
+    color: white;
+    padding: 4px 10px;
+    border-radius: 12px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    margin-left: 10px;
+    white-space: nowrap;
+}
+
+/* Ensure file selector container aligns properly */
+.file-selector-container {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+/* Fix for selected path persistence visuals */
+.tree-node-content.active {
+    background: var(--accent-primary);
+    color: white;
+    font-weight: 600;
+}
+
+.tree-node-content.active .stats-badge {
+    background: rgba(255,255,255,0.3);
+    color: white;
+}
+
+/* Improve button visibility */
+#load-selected {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+}
