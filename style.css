@@ -13,6 +13,7 @@
     --error: #f44336;
     --warning: #ff9800;
     --favorite-color: #e91e63;
+    --favorite-inactive: #cccccc;
     
     /* Spacing */
     --header-height: 60px;
@@ -45,6 +46,7 @@
     --accent-primary: #4ec9b0;
     --accent-secondary: #36958a;
     --favorite-color: #ff4081;
+    --favorite-inactive: #555555;
 }
 
 [data-theme="sepia"] {
@@ -58,6 +60,7 @@
     --accent-primary: #d4a373;
     --accent-secondary: #bc8a5f;
     --favorite-color: #c44569;
+    --favorite-inactive: #b8a99a;
 }
 
 [data-theme="dracula"] {
@@ -73,6 +76,7 @@
     --success: #50fa7b;
     --error: #ff5555;
     --favorite-color: #ff79c6;
+    --favorite-inactive: #6272a4;
 }
 
 [data-theme="nord"] {
@@ -88,6 +92,7 @@
     --success: #a3be8c;
     --error: #bf616a;
     --favorite-color: #b48ead;
+    --favorite-inactive: #4c566a;
 }
 
 * {
@@ -190,7 +195,14 @@ body {
     color: var(--text-primary);
     font-size: 0.9rem;
     min-width: 200px;
+    max-width: 300px;
     cursor: pointer;
+}
+
+.file-selector[multiple] {
+    height: auto;
+    max-height: 100px;
+    overflow-y: auto;
 }
 
 .progress-container {
@@ -571,9 +583,30 @@ body {
     box-shadow: 0 0 0 3px rgba(33, 150, 243, 0.2);
 }
 
+/* Favorite Button Styling - FIXED */
+.favorite-btn {
+    color: var(--favorite-inactive) !important;
+    opacity: 0.6;
+    transition: all 0.3s ease;
+    transform: scale(1);
+}
+
+.favorite-btn:hover {
+    opacity: 1;
+    transform: scale(1.1);
+}
+
 .question-card.favorited .favorite-btn {
-    color: var(--favorite-color);
-    filter: drop-shadow(0 0 2px rgba(233, 30, 99, 0.5));
+    color: var(--favorite-color) !important;
+    opacity: 1;
+    animation: heartBeat 0.3s ease;
+    filter: drop-shadow(0 0 3px rgba(233, 30, 99, 0.4));
+}
+
+@keyframes heartBeat {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.3); }
+    100% { transform: scale(1); }
 }
 
 .card-header {
@@ -651,20 +684,6 @@ body {
 .icon-btn:hover {
     background: var(--bg-tertiary);
     color: var(--text-primary);
-}
-
-/* Favorite Button Animation */
-.favorite-btn {
-    transition: transform 0.2s, color 0.2s, filter 0.2s;
-}
-
-.favorite-btn:active {
-    transform: scale(1.3);
-}
-
-.favorite-btn.active {
-    color: var(--favorite-color);
-    filter: drop-shadow(0 0 3px rgba(233, 30, 99, 0.6));
 }
 
 .card-body {
@@ -761,7 +780,7 @@ body {
     display: none !important;
 }
 
-/* Answers Revealed State */
+/* Answers Revealed State - FIXED */
 .question-card.answers-revealed .explanation {
     display: block !important;
 }
