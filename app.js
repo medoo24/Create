@@ -7,7 +7,7 @@
 // Database Manager for IndexedDB
 class DatabaseManager {
     constructor() {
-        this.DB_NAME = 'MCQProDB_v2';
+        this.DB_NAME = 'MCQProDB_v3';
         this.DB_VERSION = 1;
         this.db = null;
     }
@@ -189,39 +189,47 @@ class HierarchyManager {
     constructor() {
         this.hierarchy = {};
         this.flatQuestions = [];
-        this.currentFile = null;
+        this.currentFiles = [];
         this.progressCache = new Map();
         this.favoritesCache = new Set();
         this.metadata = null;
     }
 
-    async loadData(data, filename, db) {
-        this.currentFile = filename;
-        this.metadata = null;
-        
-        // Handle both nested {meta, questions} and flat array formats
-        let questions;
-        if (Array.isArray(data)) {
-            questions = data;
-        } else if (data && Array.isArray(data.questions)) {
-            questions = data.questions;
-            this.metadata = data.meta || null;
-        } else {
-            throw new Error('Invalid data format: expected array or {questions: array}');
-        }
-        
-        this.flatQuestions = questions.map(q => ({...q, fileId: filename}));
+    async loadMultipleFiles(filesData, db) {
+        this.flatQuestions = [];
+        this.currentFiles = [];
         this.progressCache.clear();
         
-        // Load progress and favorites for this file
+        // Load progress and favorites for all files
         const allProgress = await db.getAllProgress();
         const allFavorites = await db.getAllFavorites();
         
-        allProgress.forEach(p => {
-            if (p.fileId === filename) this.progressCache.set(p.questionId, p);
-        });
-        
+        allProgress.forEach(p => this.progressCache.set(p.questionId, p));
         allFavorites.forEach(fav => this.favoritesCache.add(fav));
+        
+        // Process each file
+        for (const { filename, data } of filesData) {
+            let questions;
+            if (Array.isArray(data)) {
+                questions = data;
+            } else if (data && Array.isArray(data.questions)) {
+                questions = data.questions;
+            } else {
+                console.warn(`Invalid format in ${filename}, skipping`);
+                continue;
+            }
+            
+            this.currentFiles.push(filename);
+            questions.forEach(q => {
+                this.flatQuestions.push({
+                    ...q,
+                    fileId: filename,
+                    solved: this.progressCache.has(q.id),
+                    correct: this.progressCache.get(q.id)?.correct || false,
+                    favorite: this.favoritesCache.has(q.id)
+                });
+            });
+        }
         
         this.buildHierarchy();
         return this.hierarchy;
@@ -255,16 +263,7 @@ class HierarchyManager {
                 };
             }
             
-            const progress = this.progressCache.get(q.id);
-            const isSolved = !!progress;
-            const isCorrect = progress?.correct || false;
-            
-            this.hierarchy[term].children[subject].children[lesson].children[chapter].questions.push({
-                ...q,
-                solved: isSolved,
-                correct: isCorrect,
-                favorite: this.favoritesCache.has(q.id)
-            });
+            this.hierarchy[term].children[subject].children[lesson].children[chapter].questions.push(q);
         });
         
         this.calculateStats();
@@ -324,6 +323,13 @@ class HierarchyManager {
     }
 
     updateQuestionStatus(questionId, correct) {
+        // Update in flat array
+        const q = this.flatQuestions.find(q => q.id === questionId);
+        if (q) {
+            q.solved = true;
+            q.correct = correct;
+        }
+        
         // Update in hierarchy
         const updateInNode = (node) => {
             if (node.questions) {
@@ -347,12 +353,20 @@ class HierarchyManager {
 
     toggleFavoriteStatus(questionId) {
         let newStatus = false;
+        
+        // Update in flat array
+        const flatQ = this.flatQuestions.find(q => q.id === questionId);
+        if (flatQ) {
+            flatQ.favorite = !flatQ.favorite;
+            newStatus = flatQ.favorite;
+        }
+        
+        // Update in hierarchy
         const updateInNode = (node) => {
             if (node.questions) {
                 const q = node.questions.find(q => q.id === questionId);
                 if (q) {
                     q.favorite = !q.favorite;
-                    newStatus = q.favorite;
                     return true;
                 }
             } else {
@@ -364,7 +378,7 @@ class HierarchyManager {
         };
 
         for (const term of Object.values(this.hierarchy)) {
-            if (updateInNode(term)) break;
+            updateInNode(term);
         }
         
         // Update cache
@@ -492,14 +506,14 @@ class QuizManager {
             if (isCorrect) correct++;
             
             // Save progress
-            this.app.db.saveProgress(q.id, this.app.hierarchyManager.currentFile, {
+            this.app.db.saveProgress(q.id, this.app.hierarchyManager.currentFiles[0], {
                 correct: isCorrect,
                 selectedOption: ans
             });
         });
         
         // Reload to update UI
-        this.app.loadCurrentFile().then(() => {
+        this.app.loadCurrentFiles().then(() => {
             this.showResults(correct);
         });
     }
@@ -564,6 +578,7 @@ class UIManager {
         this.optionsVisible = true;
         this.answersRevealed = false;
         this.allExpanded = false;
+        this.allSelected = false;
     }
 
     init() {
@@ -580,9 +595,23 @@ class UIManager {
             });
         });
 
-        // File selector
-        document.getElementById('file-selector').addEventListener('change', (e) => {
-            if (e.target.value) this.app.loadFile(e.target.value);
+        // File selector - multiple selection
+        const fileSelector = document.getElementById('file-selector');
+        fileSelector.addEventListener('change', () => {
+            const loadBtn = document.getElementById('load-selected');
+            if (fileSelector.selectedOptions.length > 0) {
+                loadBtn.style.display = 'inline-flex';
+            } else {
+                loadBtn.style.display = 'none';
+            }
+        });
+
+        document.getElementById('load-selected').addEventListener('click', () => {
+            const selector = document.getElementById('file-selector');
+            const selectedFiles = Array.from(selector.selectedOptions).map(opt => opt.value);
+            if (selectedFiles.length > 0) {
+                this.app.loadFiles(selectedFiles);
+            }
         });
 
         document.getElementById('refresh-files').addEventListener('click', () => {
@@ -634,7 +663,7 @@ class UIManager {
             if (confirm('Reset all progress? This cannot be undone.')) {
                 this.app.db.clearStore('progress').then(() => {
                     this.showToast('Progress reset successfully', 'success');
-                    this.app.loadCurrentFile();
+                    this.app.loadCurrentFiles();
                 });
             }
         });
@@ -643,7 +672,7 @@ class UIManager {
             if (confirm('Clear all favorites?')) {
                 this.app.db.clearStore('favorites').then(() => {
                     this.showToast('Favorites cleared', 'success');
-                    this.app.loadCurrentFile();
+                    this.app.loadCurrentFiles();
                 });
             }
         });
@@ -713,22 +742,24 @@ class UIManager {
         document.getElementById('content-area').addEventListener('click', (e) => {
             const target = e.target;
             
-            if (target.id === 'select-all-btn') this.selectAll(true);
-            else if (target.id === 'select-none-btn') this.selectAll(false);
+            if (target.id === 'toggle-select-btn') this.toggleSelectAll();
             else if (target.id === 'copy-selected-btn') this.copySelected();
-            else if (target.id === 'expand-all-btn') this.toggleAllCards(true);
-            else if (target.id === 'collapse-all-btn') this.toggleAllCards(false);
+            else if (target.id === 'toggle-expand-btn') this.toggleExpandAll();
             else if (target.id === 'toggle-options-btn') this.toggleOptions(target);
             else if (target.id === 'toggle-answers-btn') this.toggleAnswers(target);
         });
     }
 
-    selectAll(select) {
+    toggleSelectAll() {
+        this.allSelected = !this.allSelected;
+        const btn = document.getElementById('toggle-select-btn');
+        if (btn) btn.textContent = this.allSelected ? 'Select None' : 'Select All';
+        
         const cards = document.querySelectorAll('.question-card');
         cards.forEach(card => {
             const id = card.dataset.questionId;
             const checkbox = card.querySelector('.select-checkbox');
-            if (select) {
+            if (this.allSelected) {
                 this.selectedCards.add(id);
                 card.classList.add('selected');
                 if (checkbox) checkbox.checked = true;
@@ -738,12 +769,6 @@ class UIManager {
                 if (checkbox) checkbox.checked = false;
             }
         });
-    }
-
-    toggleSelectAll() {
-        const cards = document.querySelectorAll('.question-card');
-        const allSelected = this.selectedCards.size === cards.length;
-        this.selectAll(!allSelected);
     }
 
     copySelected() {
@@ -774,10 +799,13 @@ class UIManager {
         });
     }
 
-    toggleAllCards(expand) {
-        this.allExpanded = expand;
+    toggleExpandAll() {
+        this.allExpanded = !this.allExpanded;
+        const btn = document.getElementById('toggle-expand-btn');
+        if (btn) btn.textContent = this.allExpanded ? 'Collapse All' : 'Expand All';
+        
         document.querySelectorAll('.card-body').forEach(body => {
-            if (expand) body.classList.add('expanded');
+            if (this.allExpanded) body.classList.add('expanded');
             else body.classList.remove('expanded');
         });
     }
@@ -793,16 +821,19 @@ class UIManager {
 
     toggleAnswers(btn) {
         this.answersRevealed = !this.answersRevealed;
-        btn.textContent = this.answersRevealed ? 'Hide Answers' : 'Reveal Answers';
+        btn.textContent = this.answersRevealed ? 'Hide Answers' : 'Show Answers';
+        
         document.querySelectorAll('.question-card').forEach(card => {
+            const explanation = card.querySelector('.explanation');
             if (this.answersRevealed) {
                 card.classList.add('answers-revealed');
-                card.querySelector('.explanation')?.classList.add('visible');
+                if (explanation) explanation.style.display = 'block';
             } else {
                 card.classList.remove('answers-revealed');
-                // Only hide explanation if not solved (for history view)
-                if (this.currentView !== 'history' && this.currentView !== 'mistakes') {
-                    card.querySelector('.explanation')?.classList.remove('visible');
+                // Only hide if not solved (for history/mistakes view keep visible)
+                const isSolved = card.classList.contains('solved-correct') || card.classList.contains('solved-incorrect');
+                if (!isSolved && explanation) {
+                    explanation.style.display = 'none';
                 }
             }
         });
@@ -812,8 +843,10 @@ class UIManager {
         this.currentView = view;
         this.focusedCardIndex = -1;
         this.selectedCards.clear();
+        this.allSelected = false;
         this.optionsVisible = true;
         this.answersRevealed = false;
+        this.allExpanded = false;
         
         // Update nav buttons
         document.querySelectorAll('.nav-btn').forEach(btn => {
@@ -958,6 +991,18 @@ class UIManager {
             const toolbar = toolbarTemplate.cloneNode(true);
             toolbar.style.display = 'flex';
             toolbar.removeAttribute('id'); // Remove ID to avoid duplicates
+            
+            // Set initial button states
+            const selectBtn = toolbar.querySelector('#toggle-select-btn');
+            const expandBtn = toolbar.querySelector('#toggle-expand-btn');
+            const optionsBtn = toolbar.querySelector('#toggle-options-btn');
+            const answersBtn = toolbar.querySelector('#toggle-answers-btn');
+            
+            if (selectBtn) selectBtn.textContent = this.allSelected ? 'Select None' : 'Select All';
+            if (expandBtn) expandBtn.textContent = this.allExpanded ? 'Collapse All' : 'Expand All';
+            if (optionsBtn) optionsBtn.textContent = this.optionsVisible ? 'Hide Options' : 'Show Options';
+            if (answersBtn) answersBtn.textContent = this.answersRevealed ? 'Hide Answers' : 'Show Answers';
+            
             viewContainer.appendChild(toolbar);
         }
         
@@ -1046,16 +1091,16 @@ class UIManager {
         // Apply current toggle states
         if (!this.optionsVisible) {
             document.querySelectorAll('.question-card').forEach(c => c.classList.add('options-hidden'));
-            const optsBtn = document.getElementById('toggle-options-btn');
-            if (optsBtn) optsBtn.textContent = 'Show Options';
         }
         if (this.answersRevealed) {
             document.querySelectorAll('.question-card').forEach(c => {
                 c.classList.add('answers-revealed');
-                c.querySelector('.explanation')?.classList.add('visible');
+                const exp = c.querySelector('.explanation');
+                if (exp) exp.style.display = 'block';
             });
-            const ansBtn = document.getElementById('toggle-answers-btn');
-            if (ansBtn) ansBtn.textContent = 'Hide Answers';
+        }
+        if (this.allExpanded) {
+            document.querySelectorAll('.card-body').forEach(b => b.classList.add('expanded'));
         }
         
         // Restore focus if navigating with keyboard
@@ -1098,7 +1143,8 @@ class UIManager {
 
     createQuestionCard(question, index) {
         const card = document.createElement('div');
-        card.className = `question-card ${question.solved ? (question.correct ? 'solved-correct' : 'solved-incorrect') : ''} ${question.favorite ? 'favorited' : ''}`;
+        card.className = `question-card ${question.solved ? (question.correct ? 'solved-correct' : 'solved-incorrect') : ''}`;
+        if (question.favorite) card.classList.add('favorited');
         if (this.selectedCards.has(String(question.id))) card.classList.add('selected');
         if (!this.optionsVisible) card.classList.add('options-hidden');
         if (this.answersRevealed) card.classList.add('answers-revealed');
@@ -1124,7 +1170,7 @@ class UIManager {
                         : '<span class="status-badge">Unsolved</span>'}
                 </div>
                 <div class="card-actions">
-                    <button class="icon-btn favorite-btn ${question.favorite ? 'active' : ''}" title="Toggle Favorite (F)">❤️</button>
+                    <button class="icon-btn favorite-btn" title="Toggle Favorite (F)">❤️</button>
                     ${question.solved ? '<button class="icon-btn reset-btn" title="Reset Progress">🔄</button>' : ''}
                 </div>
             </div>
@@ -1139,7 +1185,7 @@ class UIManager {
                         </div>
                     `).join('')}
                 </div>
-                <div class="explanation ${question.solved || this.answersRevealed ? 'visible' : ''}">
+                <div class="explanation" style="${question.solved || this.answersRevealed ? 'display: block;' : 'display: none;'}">
                     <div class="explanation-header">Explanation</div>
                     <div class="markdown-content">${marked.parse(question.explanation || 'No explanation provided.')}</div>
                 </div>
@@ -1185,9 +1231,6 @@ class UIManager {
         const favBtn = card.querySelector('.favorite-btn');
         favBtn.addEventListener('click', (e) => {
             e.stopPropagation();
-            // Add animation class
-            favBtn.style.transform = 'scale(1.3)';
-            setTimeout(() => favBtn.style.transform = 'scale(1)', 200);
             this.app.toggleFavorite(question.id);
         });
         
@@ -1494,7 +1537,7 @@ class MCQProApp {
         this.hierarchyManager = new HierarchyManager();
         this.ui = new UIManager(this);
         this.quizManager = new QuizManager(this);
-        this.currentFile = null;
+        this.currentFiles = [];
         this.manifest = [];
     }
 
@@ -1513,13 +1556,12 @@ class MCQProApp {
 
     async discoverFiles() {
         try {
-            // Use relative path for GitHub Pages compatibility
             const response = await fetch('questions/manifest.json');
             if (!response.ok) throw new Error('Manifest not found');
             
             this.manifest = await response.json();
             const selector = document.getElementById('file-selector');
-            selector.innerHTML = '<option value="">Select Question Set...</option>';
+            selector.innerHTML = '<option value="">Select Question Sets...</option>';
             
             this.manifest.forEach(file => {
                 const opt = document.createElement('option');
@@ -1530,11 +1572,16 @@ class MCQProApp {
             
             selector.disabled = false;
             
-            // Auto-load last used file
-            const lastFile = await this.db.getSetting('lastFile');
-            if (lastFile && this.manifest.includes(lastFile)) {
-                selector.value = lastFile;
-                await this.loadFile(lastFile);
+            // Auto-load last used files
+            const lastFiles = await this.db.getSetting('lastFiles');
+            if (lastFiles && Array.isArray(lastFiles)) {
+                Array.from(selector.options).forEach(opt => {
+                    if (lastFiles.includes(opt.value)) opt.selected = true;
+                });
+                if (lastFiles.length > 0) {
+                    document.getElementById('load-selected').style.display = 'inline-flex';
+                    await this.loadFiles(lastFiles);
+                }
             }
         } catch (error) {
             this.ui.showToast('Error loading manifest. Ensure questions/manifest.json exists.', 'error');
@@ -1542,62 +1589,72 @@ class MCQProApp {
         }
     }
 
-    async loadFile(filename) {
+    async loadFiles(filenames) {
         document.getElementById('loading-screen').classList.remove('hidden');
-        document.getElementById('loading-text').textContent = `Loading ${filename}...`;
+        document.getElementById('loading-text').textContent = `Loading ${filenames.length} file(s)...`;
         
         try {
-            // Check cache first
-            let data = await this.db.getFile(filename);
+            const filesData = [];
             
-            if (!data) {
-                // Fetch from network using relative path
-                const response = await fetch(`questions/${filename}`);
-                if (!response.ok) throw new Error('File not found');
+            for (const filename of filenames) {
+                // Check cache first
+                let data = await this.db.getFile(filename);
                 
-                const responseData = await response.json();
-                
-                // Handle both nested {meta, questions} and flat array formats
-                let questions;
-                if (Array.isArray(responseData)) {
-                    questions = responseData;
-                } else if (responseData && Array.isArray(responseData.questions)) {
-                    questions = responseData.questions;
-                } else {
-                    throw new Error('Invalid question format: expected array or {questions: array}');
+                if (!data) {
+                    const response = await fetch(`questions/${filename}`);
+                    if (!response.ok) {
+                        console.warn(`File not found: ${filename}`);
+                        continue;
+                    }
+                    
+                    const responseData = await response.json();
+                    let questions;
+                    if (Array.isArray(responseData)) {
+                        questions = responseData;
+                    } else if (responseData && Array.isArray(responseData.questions)) {
+                        questions = responseData.questions;
+                    } else {
+                        console.warn(`Invalid format in ${filename}`);
+                        continue;
+                    }
+                    
+                    data = { filename, data: questions, timestamp: Date.now() };
+                    await this.db.saveFile(filename, data.data);
                 }
                 
-                data = { filename, data: questions, timestamp: Date.now() };
-                await this.db.saveFile(filename, data.data);
+                filesData.push({ filename, data: data.data });
             }
             
-            await this.hierarchyManager.loadData(data.data, filename, this.db);
-            this.currentFile = filename;
-            await this.db.saveSetting('lastFile', filename);
+            if (filesData.length === 0) {
+                throw new Error('No valid files to load');
+            }
+            
+            await this.hierarchyManager.loadMultipleFiles(filesData, this.db);
+            this.currentFiles = filenames;
+            await this.db.saveSetting('lastFiles', filenames);
             
             this.ui.selectedPath = [];
             this.ui.render();
             
-            document.getElementById('file-selector').value = filename;
-            this.ui.showToast(`Loaded ${data.data.length} questions`, 'success');
+            this.ui.showToast(`Loaded ${filesData.length} file(s) with ${this.hierarchyManager.flatQuestions.length} questions`, 'success');
         } catch (error) {
-            this.ui.showToast(`Error loading ${filename}: ${error.message}`, 'error');
+            this.ui.showToast(`Error loading files: ${error.message}`, 'error');
             console.error(error);
         } finally {
             document.getElementById('loading-screen').classList.add('hidden');
         }
     }
 
-    async loadCurrentFile() {
-        if (this.currentFile) {
-            await this.loadFile(this.currentFile);
+    async loadCurrentFiles() {
+        if (this.currentFiles.length > 0) {
+            await this.loadFiles(this.currentFiles);
         }
     }
 
     async answerQuestion(questionId, selectedOption, correctOption) {
         const isCorrect = selectedOption === correctOption;
         
-        await this.db.saveProgress(questionId, this.currentFile, {
+        await this.db.saveProgress(questionId, this.currentFiles[0], {
             correct: isCorrect,
             selectedOption: selectedOption
         });
@@ -1607,7 +1664,7 @@ class MCQProApp {
     }
 
     async toggleFavorite(questionId) {
-        const isFav = await this.db.toggleFavorite(questionId, this.currentFile);
+        const isFav = await this.db.toggleFavorite(questionId, this.currentFiles[0]);
         this.hierarchyManager.toggleFavoriteStatus(questionId);
         
         // Update card without full re-render - FIXED
@@ -1638,12 +1695,8 @@ class MCQProApp {
         if (source === 'all') {
             questions = this.hierarchyManager.getAllQuestions();
         } else {
-            // Get all questions under current selection
             const all = this.hierarchyManager.getQuestionsForSelection(this.ui.selectedPath);
-            
-            // Filter by the specific group name clicked
             questions = all.filter(q => {
-                // Check if this question belongs to the clicked group
                 return (q.term === source) || 
                        (q.subject === source) || 
                        (q.lesson === source) || 
@@ -1656,11 +1709,9 @@ class MCQProApp {
             return;
         }
         
-        // Show setup modal
         document.getElementById('quiz-setup-modal').classList.remove('hidden');
         document.getElementById('quiz-source').textContent = source === 'all' ? 'All Questions' : source;
         
-        // Setup handlers
         document.getElementById('quiz-start').onclick = () => {
             const count = parseInt(document.getElementById('quiz-count').value) || 20;
             const time = parseInt(document.getElementById('quiz-time').value) || 30;
@@ -1672,7 +1723,6 @@ class MCQProApp {
         };
     }
     
-    // Expose switchView globally for HTML onclick handlers
     switchView(view) {
         this.ui.switchView(view);
     }
