@@ -658,13 +658,10 @@ class UIManager {
         });
 
         // Collapse all sidebar
-        document.getElementById('collapse-all').addEventListener('click', () => {
+        document.getElementById('collapse-all-sidebar').addEventListener('click', () => {
             this.expandedNodes.clear();
             this.renderSidebar();
         });
-
-        // Toolbar controls
-        this.setupToolbarControls();
 
         // Keyboard shortcuts
         document.addEventListener('keydown', (e) => {
@@ -711,35 +708,34 @@ class UIManager {
                 }
             }
         });
-    }
-
-    setupToolbarControls() {
-        // Select all/none
-        document.getElementById('select-all-btn')?.addEventListener('click', () => this.selectAll(true));
-        document.getElementById('select-none-btn')?.addEventListener('click', () => this.selectAll(false));
         
-        // Copy selected
-        document.getElementById('copy-selected-btn')?.addEventListener('click', () => this.copySelected());
-        
-        // Expand/collapse
-        document.getElementById('expand-all-btn')?.addEventListener('click', () => this.toggleAllCards(true));
-        document.getElementById('collapse-all-btn')?.addEventListener('click', () => this.toggleAllCards(false));
-        
-        // Toggle options/answers
-        document.getElementById('toggle-options-btn')?.addEventListener('click', (e) => this.toggleOptions(e.target));
-        document.getElementById('toggle-answers-btn')?.addEventListener('click', (e) => this.toggleAnswers(e.target));
+        // Setup toolbar using event delegation on content area
+        document.getElementById('content-area').addEventListener('click', (e) => {
+            const target = e.target;
+            
+            if (target.id === 'select-all-btn') this.selectAll(true);
+            else if (target.id === 'select-none-btn') this.selectAll(false);
+            else if (target.id === 'copy-selected-btn') this.copySelected();
+            else if (target.id === 'expand-all-btn') this.toggleAllCards(true);
+            else if (target.id === 'collapse-all-btn') this.toggleAllCards(false);
+            else if (target.id === 'toggle-options-btn') this.toggleOptions(target);
+            else if (target.id === 'toggle-answers-btn') this.toggleAnswers(target);
+        });
     }
 
     selectAll(select) {
         const cards = document.querySelectorAll('.question-card');
         cards.forEach(card => {
             const id = card.dataset.questionId;
+            const checkbox = card.querySelector('.select-checkbox');
             if (select) {
                 this.selectedCards.add(id);
                 card.classList.add('selected');
+                if (checkbox) checkbox.checked = true;
             } else {
                 this.selectedCards.delete(id);
                 card.classList.remove('selected');
+                if (checkbox) checkbox.checked = false;
             }
         });
     }
@@ -819,22 +815,10 @@ class UIManager {
         this.optionsVisible = true;
         this.answersRevealed = false;
         
-        // Reset toolbar buttons
-        const optsBtn = document.getElementById('toggle-options-btn');
-        const ansBtn = document.getElementById('toggle-answers-btn');
-        if (optsBtn) optsBtn.textContent = 'Hide Options';
-        if (ansBtn) ansBtn.textContent = 'Reveal Answers';
-        
         // Update nav buttons
         document.querySelectorAll('.nav-btn').forEach(btn => {
             btn.classList.toggle('active', btn.dataset.view === view);
         });
-        
-        // Show/hide toolbar for question views
-        const toolbar = document.getElementById('controls-toolbar');
-        if (toolbar) {
-            toolbar.style.display = (view === 'solve' || view === 'review' || view === 'history' || view === 'mistakes' || view === 'favorites') ? 'flex' : 'none';
-        }
         
         this.render();
     }
@@ -968,12 +952,13 @@ class UIManager {
         `;
         viewContainer.appendChild(header);
         
-        // Controls toolbar (cloned from HTML)
-        const toolbar = document.getElementById('controls-toolbar');
-        if (toolbar && (this.currentView === 'solve' || this.currentView === 'review' || this.currentView === 'history' || this.currentView === 'mistakes' || this.currentView === 'favorites')) {
-            viewContainer.appendChild(toolbar.cloneNode(true));
-            // Re-attach listeners to cloned elements
-            setTimeout(() => this.setupToolbarControls(), 0);
+        // Controls toolbar - create fresh instance
+        const toolbarTemplate = document.getElementById('controls-toolbar');
+        if (toolbarTemplate && (this.currentView === 'solve' || this.currentView === 'review' || this.currentView === 'history' || this.currentView === 'mistakes' || this.currentView === 'favorites')) {
+            const toolbar = toolbarTemplate.cloneNode(true);
+            toolbar.style.display = 'flex';
+            toolbar.removeAttribute('id'); // Remove ID to avoid duplicates
+            viewContainer.appendChild(toolbar);
         }
         
         // Get questions based on view and selection
@@ -1061,12 +1046,16 @@ class UIManager {
         // Apply current toggle states
         if (!this.optionsVisible) {
             document.querySelectorAll('.question-card').forEach(c => c.classList.add('options-hidden'));
+            const optsBtn = document.getElementById('toggle-options-btn');
+            if (optsBtn) optsBtn.textContent = 'Show Options';
         }
         if (this.answersRevealed) {
             document.querySelectorAll('.question-card').forEach(c => {
                 c.classList.add('answers-revealed');
                 c.querySelector('.explanation')?.classList.add('visible');
             });
+            const ansBtn = document.getElementById('toggle-answers-btn');
+            if (ansBtn) ansBtn.textContent = 'Hide Answers';
         }
         
         // Restore focus if navigating with keyboard
@@ -1691,10 +1680,11 @@ class MCQProApp {
 
 // Initialize app and expose globally
 window.app = new MCQProApp();
-window.app.init();
 
-// Setup quiz modal listeners
+// Setup quiz modal listeners after DOM is loaded
 document.addEventListener('DOMContentLoaded', () => {
+    window.app.init();
+    
     document.getElementById('quiz-prev')?.addEventListener('click', () => window.app.quizManager.prev());
     document.getElementById('quiz-next')?.addEventListener('click', () => window.app.quizManager.next());
     document.getElementById('quiz-submit')?.addEventListener('click', () => window.app.quizManager.submit());
