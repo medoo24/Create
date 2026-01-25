@@ -1275,7 +1275,7 @@ class MCQProApp {
 
     async discoverFiles() {
         try {
-            const response = await fetch('/questions/manifest.json');
+            const response = await fetch('questions/manifest.json');
             if (!response.ok) throw new Error('Manifest not found');
             
             this.manifest = await response.json();
@@ -1313,7 +1313,7 @@ class MCQProApp {
             
             if (!data) {
                 // Fetch from network
-                const response = await fetch(`/questions/${filename}`);
+                const response = await fetch(`questions/${filename}`);
                 if (!response.ok) throw new Error('File not found');
                 
                 const questions = await response.json();
@@ -1421,4 +1421,5 @@ app.init();
 document.getElementById('quiz-prev').addEventListener('click', () => app.quizManager.prev());
 document.getElementById('quiz-next').addEventListener('click', () => app.quizManager.next());
 document.getElementById('quiz-submit').addEventListener('click', () => app.quizManager.submit());
+
 document.getElementById('quiz-close').addEventListener('click', () => app.quizManager.close());
