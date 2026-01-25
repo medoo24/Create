@@ -1,0 +1,2254 @@
+{
+  "meta": {
+    "source": "Term 7 - General Surgery",
+    "lesson": "Breast"
+  },
+  "questions": [
+    {
+      "id": 7960,
+      "question": "Which of the following conditions have an increased risk of breast carcinoma?",
+      "options": [
+        "Atypical ductal or lobular hyperplasia",
+        "Breast cyst",
+        "Calcified hematoma",
+        "Duct ectasia",
+        "Fibroadenoma"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Atypical hyperplasia significantly increases breast cancer risk (4-5x). Other listed conditions are generally benign with minimal risk.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Risk Factors"
+    },
+    {
+      "id": 7961,
+      "question": "During a routine screening mammography, a 62-year-old teacher is informed that she has changes on her mammography, and she should consult her physician. She can be reassured that the findings that indicate a benign condition are which of the following?",
+      "options": [
+        "Discrete, stellate mass",
+        "Fine, clustered calcifications",
+        "Coarse calcifications",
+        "Solid, clearly defined mass with irregular edges",
+        "Discrete, non-palpable mass enlarging compared to mammogram 1 year ago"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Coarse 'popcorn' calcifications indicate benign conditions like involuting fibroadenomas. Fine, clustered calcifications and stellate masses are suspicious for malignancy.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Diagnosis"
+    },
+    {
+      "id": 7962,
+      "question": "A 14-year-old black girl had her right breast removed because of a large mass. The tumor weighed 1400 g and was found to have a bulging, very firm, lobulated surface with a whorl-like pattern; This neoplasm is most likely:",
+      "options": [
+        "Cysto-sarcoma phylloides",
+        "Intra-ductal carcinoma",
+        "Malignant lymphoma",
+        "Fibro-adenoma"
+      ],
+      "correct_option_id": 3,
+      "explanation": "The description of a firm, lobulated, whorl-like mass is classic for a fibroadenoma (Giant/Juvenile in this age group).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Benign Conditions"
+    },
+    {
+      "id": 7963,
+      "question": "A 35-year-old woman undergoes her first screening mammogram. Which of the following mammographic findings would require a breast biopsy?",
+      "options": [
+        "Breast calcifications larger than 2 mm in diameter",
+        "Five or more clustered breast micro-calcifications per square centimeter",
+        "A density that effaces with compression",
+        "Multiple round well-circumscribed breast densities"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Clustered microcalcifications (typically >5 per cm²) are highly suspicious for Ductal Carcinoma In Situ (DCIS) or early invasive cancer and warrant a biopsy. Large calcifications are usually benign.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Diagnosis"
+    },
+    {
+      "id": 7964,
+      "question": "A 40-year-old woman have a 1to 2cm, slightly tender cystic mass in her breast; she has no axillary lymphadenopathy. What course would you follow?",
+      "options": [
+        "Re-assurance and re-examination in the immediate post-menstrual period",
+        "Immediate excisional biopsy",
+        "Aspiration of the mass with cytological analysis",
+        "Mammography and re-evaluation of options with new information"
+      ],
+      "correct_option_id": 2,
+      "explanation": "For a clinically cystic mass, fine-needle aspiration is both diagnostic and therapeutic. If the fluid is non-bloody and the mass resolves completely, no further treatment is needed.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Management"
+    },
+    {
+      "id": 7965,
+      "question": "A 40-year-old woman is found to have a 3-cm, firm, smooth mass in the upper outer quadrant of the breast. The mass is aspirated, and 10 mL of cloudy green fluid is removed. The appropriate management at this time is:",
+      "options": [
+        "Administration of estrogen",
+        "Cytologic evaluation of the aspirated fluid",
+        "Excision of the cyst",
+        "Observation only"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Cloudy green fluid is benign. If the mass disappears and fluid is not bloody, observation is standard. Cytology is not indicated for non-bloody fluid.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Management"
+    },
+    {
+      "id": 7966,
+      "question": "A 45-year-old woman presents with eczematous lesion of her nipple. Which of the following statement(s) is/are true concerning her diagnosis and management?",
+      "options": [
+        "Treatment is with warm compresses and oral antibiotics",
+        "Nipple biopsy with malignant cells invariably implies underlying invasive cancer",
+        "The appropriate treatment is mastectomy",
+        "Always represents high-risk disease with significant metastatic risk"
+      ],
+      "correct_option_id": 2,
+      "explanation": "This suggests Paget's disease, associated with underlying DCIS or invasive carcinoma. Standard treatment traditionally involves mastectomy.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7967,
+      "question": "A breast cancer that is > 5 cm with no positive nodes or metastases is:",
+      "options": [
+        "Stage I",
+        "Stage II",
+        "Stage III",
+        "Stage IV"
+      ],
+      "correct_option_id": 2,
+      "explanation": "A tumor > 5 cm (T3 N0) is technically Stage IIB, but historically or in this context, large tumors are often categorized as Stage III (locally advanced). The provided answer is Stage III.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Staging"
+    },
+    {
+      "id": 7968,
+      "question": "Antibodies in colostrum are produced by:",
+      "options": [
+        "Duct epithelium",
+        "Lactiferous sinus epithelium",
+        "Lymphocytes",
+        "Myoepithelial cells"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Plasma cells (differentiated B-lymphocytes) within the breast tissue produce secretory IgA, which is passed into colostrum.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Anatomy/Physiology"
+    },
+    {
+      "id": 7969,
+      "question": "Drugs that may produce gynecomastia include all of the following Except:",
+      "options": [
+        "Cimetidine",
+        "Diazepam",
+        "Furosemide",
+        "Tamoxifen"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Tamoxifen is an anti-estrogen used to treat breast conditions, including gynecomastia. Cimetidine, Diazepam, and Spironolactone are known causes of drug-induced gynecomastia.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Benign Conditions"
+    },
+    {
+      "id": 7970,
+      "question": "Estrogen receptor activity is clinically useful in predicting:",
+      "options": [
+        "The presence of ovarian cancer",
+        "The presence of metastatic disease",
+        "Response to chemotherapy",
+        "Response to hormonal manipulation"
+      ],
+      "correct_option_id": 3,
+      "explanation": "The presence of Estrogen Receptors (ER+) predicts a favorable response to hormonal therapies such as Tamoxifen or Aromatase Inhibitors.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7971,
+      "question": "Fibro-cystic disease of the breast has been associated with elevated blood levels of:",
+      "options": [
+        "Testosterone",
+        "Progesterone",
+        "Estrogen",
+        "Luteinizing hormone"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Fibrocystic changes are often driven by a relative or absolute hyperestrogenism or an imbalance between estrogen and progesterone.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Benign Conditions"
+    },
+    {
+      "id": 7972,
+      "question": "For pregnant women who are found to have breast cancer:",
+      "options": [
+        "Termination of a first-trimester pregnancy is mandatory",
+        "Carcinoma of the breast behaves more aggressively in pregnant women owing to hormonal stimulation",
+        "Breast conservation is in-appropriate for 3rd-trimester pregnancies",
+        "Administration of adjuvant chemotherapy is safe for the fetus during the 2nd and 3rd trimesters"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Breast conservation requires radiation, which is traditionally contraindicated in pregnancy. (Note: Modern practice may allow BCS in 3rd trimester with delayed radiation).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Management"
+    },
+    {
+      "id": 7973,
+      "question": "Incisional biopsy of a breast mass in a 35-year-old woman demonstrates a hyper-cellular fibro-adenoma (cysto-sarcoma phylloides) at the time of frozen section. Appropriate management of this lesion could include:",
+      "options": [
+        "Wide local excision with a rim of normal tissue",
+        "Lumpectomy and axillary lymph-adenectomy",
+        "Modified radical mastectomy",
+        "Excision, post-operative radiotherapy, and systemic chemotherapy"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Phyllodes tumors require wide local excision with clear margins to prevent recurrence. Axillary dissection is not routinely indicated.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7974,
+      "question": "Level II Axillary nodes:",
+      "options": [
+        "Are located around the axillary vein",
+        "Are medial to or above the pectorals minor muscle",
+        "Are made up of the central and inter-pectoral nodes",
+        "Are made up of the external mammary and scapular nodes"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Level II nodes are located behind the pectoralis minor muscle. This group includes the central axillary nodes and Rotter's (interpectoral) nodes.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Anatomy/Physiology"
+    },
+    {
+      "id": 7975,
+      "question": "Lobular carcinoma in situ (LCIS):",
+      "options": [
+        "Can be diagnosed on mammogram by micro-calcifications adjacent to a mass",
+        "Can occur in men but is rare",
+        "Is usually diagnosed in the 6th decade of life",
+        "Progresses to lobular carcinoma in 50% of women"
+      ],
+      "correct_option_id": 0,
+      "explanation": "While LCIS is often an incidental finding without specific mammographic signs, it can sometimes be associated with calcifications or found adjacent to other lesions that are biopsied.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7976,
+      "question": "Mammography is indicated for evaluation of a 40-year-old woman in all of the following situations Except:",
+      "options": [
+        "Breast pain and discomfort in large fatty breasts without palpable nodules",
+        "Breasts with multiple nodules but no dominant area",
+        "Follow-up of the opposite breast after contralateral mastectomy for carcinoma",
+        "Presence of a small, smooth, solitary lesion as a substitute for biopsy"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Mammography should not be used as a substitute for biopsy in the presence of a solitary lesion. Tissue diagnosis (via biopsy or aspiration) is required to rule out malignancy definitively.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Diagnosis"
+    },
+    {
+      "id": 7977,
+      "question": "The BRCA genes are:",
+      "options": [
+        "A tumor suppressor gene",
+        "Proto-onco genes",
+        "Regulators of DNA transcription",
+        "Regulators of protein modification"
+      ],
+      "correct_option_id": 0,
+      "explanation": "BRCA1 and BRCA2 are tumor suppressor genes. Their mutation leads to a failure in DNA repair, increasing the risk of breast and ovarian cancers.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Genetics"
+    },
+    {
+      "id": 7978,
+      "question": "The false positive rate for mammography in the diagnosis of the breast cancer is:",
+      "options": [
+        "< 1%",
+        "5%",
+        "10%",
+        "15%"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Approximately 10% of women screened are recalled for further testing (false positive), though only a small fraction of these have cancer.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Diagnosis"
+    },
+    {
+      "id": 7979,
+      "question": "The histological characteristic of Ductal Carcinoma In-situ is:",
+      "options": [
+        "< Three cell layers protruding into the lumen of the duct",
+        "< Five cell layers protruding into the lumen of the duct",
+        "No invasion through the basement membrane",
+        "Invasion into the blood vessel"
+      ],
+      "correct_option_id": 2,
+      "explanation": "The defining feature of carcinoma in situ (DCIS) is the proliferation of malignant cells without breaching the basement membrane.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Pathology"
+    },
+    {
+      "id": 7980,
+      "question": "The incidence of breast cancer:",
+      "options": [
+        "Increases with increasing age",
+        "Is related to dietary fat intake",
+        "Is related to coffee intake",
+        "Is related to vitamin C intake"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Age is the single most significant risk factor for breast cancer, with incidence rising steadily as women get older.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Epidemiology"
+    },
+    {
+      "id": 7981,
+      "question": "The treatment of choice for a 1.8 cm in diameter breast lump, NO, MO invasive breast cancer is:",
+      "options": [
+        "Lumpectomy alone",
+        "Lumpectomy, sentinel node biopsy and radiation",
+        "Mastectomy with sentinel node biopsy and radiation",
+        "Mastectomy with axillary node dissection and radiation"
+      ],
+      "correct_option_id": 1,
+      "explanation": "For early-stage breast cancer (T1 N0), breast-conserving surgery (lumpectomy) combined with sentinel lymph node biopsy and adjuvant radiation is the standard of care.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Treatment"
+    },
+    {
+      "id": 7982,
+      "question": "True statements about discharge from the nipple include:",
+      "options": [
+        "Intermittent thin or milky discharge can be physiologic",
+        "Expressible nipple discharge is an indication for open biopsy",
+        "Bloody discharge is indicative of an underlying malignancy",
+        "Galactorrhea is indicative of an underlying malignancy"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Physiologic nipple discharge is often bilateral, multi-ductal, and can be thin or milky. Pathologic discharge is usually spontaneous, unilateral, and bloody or serous.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Benign Conditions"
+    },
+    {
+      "id": 7983,
+      "question": "True statements regarding Paget's disease of the breast include that:",
+      "options": [
+        "Usually precedes development of Paget's disease of bone",
+        "Presents with nipple-areolar eczematous changes",
+        "Does not involve axillary lymph nodes because it is a manifestation of intra-ductal carcinoma only",
+        "Is adequately treated with wide excision when it presents as a mass"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Paget's disease of the breast classically presents as an eczema-like rash on the nipple and areola. It is distinct from Paget's disease of bone.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7984,
+      "question": "Uni-lateral bloody nipple discharge from one duct orifice studied with intra- ductal papilloma; it's most commonly caused by which of the following pathologic conditions?",
+      "options": [
+        "Paget's disease of the nipple",
+        "Intra-ductal carcinoma",
+        "Inflammatory carcinoma",
+        "Sub-areolar mastitis"
+      ],
+      "correct_option_id": 1,
+      "explanation": "While papilloma is the commonest benign cause, among malignant/serious conditions listed, intraductal carcinoma (DCIS) is the primary concern for bloody discharge.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7985,
+      "question": "When galactorrhoea occurs in a high school girl, a diagnostic associated finding would be:",
+      "options": [
+        "Gonadal Atrophy",
+        "Bi-temporal Hemianopia",
+        "Episodic Hypertension",
+        "Buffalo Hump"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Galactorrhea in this age group may be caused by a pituitary adenoma (prolactinoma), which can compress the optic chiasm causing bitemporal hemianopia.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Diagnosis"
+    },
+    {
+      "id": 7986,
+      "question": "Which of the following biopsy findings has the greatest relative risk for later carcinoma?",
+      "options": [
+        "Apocrine metaplasia",
+        "Atypical lobular hyperplasia",
+        "Ductal ectasia",
+        "Sclerosing adenosis"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Atypical Lobular Hyperplasia (ALH) carries a high relative risk (4-5x) for future breast cancer. The other options are either non-proliferative or proliferative without atypia, carrying lower risk.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Risk Factors"
+    },
+    {
+      "id": 7987,
+      "question": "Which of the following breast lesions are non-invasive malignancies?",
+      "options": [
+        "Intra-ductal carcinoma of the Comedo type",
+        "Tubular carcinoma and mucinous carcinoma",
+        "Infiltrating ductal carcinoma and lobular carcinoma",
+        "Medullary carcinoma, including atypical medullary lesions"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Intraductal carcinoma (DCIS), including the Comedo type, is a non-invasive (in situ) malignancy. All other options listed are invasive carcinomas.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Pathology"
+    },
+    {
+      "id": 7988,
+      "question": "Which of the following increases risk of breast cancer?",
+      "options": [
+        "Multiple gestations",
+        "Late menarche",
+        "Late menopause",
+        "Prolonged and multiple episodes of lactation"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Late menopause increases the duration of estrogen exposure, which is a key risk factor. Late menarche and lactation are protective.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Risk Factors"
+    },
+    {
+      "id": 7989,
+      "question": "Which of the following is associated with an increased risk of in situ carcinoma of the breast?",
+      "options": [
+        "Sclerosing adenosis",
+        "Intra-ductal papilloma",
+        "Fibroadenoma",
+        "Atypical lobular hyperplasia"
+      ],
+      "correct_option_id": 1,
+      "explanation": "While atypia is the strongest risk, intraductal papillomas (especially multiple) are proliferative lesions associated with a slightly increased risk of malignancy.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Risk Factors"
+    },
+    {
+      "id": 7990,
+      "question": "Which of the following pathologic findings is the strongest contraindication to breast preservation (lumpectomy with breast radiation) as primary treatment for a newly diagnosed breast cancer?",
+      "options": [
+        "Grade 3, poorly differentiated, infiltrating ductal carcinoma",
+        "Extensive intra-ductal cancer around the invasive lesion",
+        "Tumor size> 3 cm",
+        "+ve surgical margin for invasive cancer"
+      ],
+      "correct_option_id": 3,
+      "explanation": "A positive surgical margin that cannot be cleared is an absolute contraindication to breast-conserving therapy. Clear margins are essential to minimize local recurrence.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Treatment"
+    },
+    {
+      "id": 7991,
+      "question": "Which of the following statement(s) is/are correct concerning cysto-sarcoma phyllodes?",
+      "options": [
+        "The tumor is most commonly seen in post-menopausal women",
+        "Total mastectomy is necessary for all patients with this diagnosis",
+        "Axillary lymph node dissection is not necessary for malignant cysto-sarcoma phyllodes",
+        "Most patients with the malignant variant of cysto-sarcoma phyllodes die of metastatic disease"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Phyllodes tumors spread primarily via the hematogenous route (blood) to the lungs. Lymphatic spread is rare, so axillary lymph node dissection is not routinely necessary.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7992,
+      "question": "Which of the following statement(s) is/are true concerning radiation therapy after lumpectomy?",
+      "options": [
+        "The total dose given to the breast is usually in the range of 2500 to 3000 cGy",
+        "Radiation to the axillary nodal bed is normally part of the procedure in most patients",
+        "Long-term complications of radiation therapy include rib fractures and arm oedema",
+        "Breast oedema and skin erythema usually resolves within a few weeks"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Radiation therapy can lead to long-term complications such as rib fractures, pulmonary fibrosis, and lymphedema (arm edema), especially if the axilla is irradiated.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Treatment"
+    },
+    {
+      "id": 7993,
+      "question": "Which statement best describes lymphatic drainage from the breast?",
+      "options": [
+        "All quadrants of the breast drain into both the axillary and the parasternal nodes",
+        "The areolar area of the breast drains into retrosternal internal mammary nodes",
+        "The lateral area of the breast drains into axillary nodes",
+        "The medial area of the breast drains into parasternal nodes"
+      ],
+      "correct_option_id": 0,
+      "explanation": "While there is a predilection for lateral drainage to the axilla and medial to the parasternal nodes, lymphatic channels anastomose extensively, and any quadrant can potentially drain to either basin.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Anatomy/Physiology"
+    },
+    {
+      "id": 7994,
+      "question": "A breast cancer that is 3 cm in diameter with positive, moveable, ipsilateral nodes is:",
+      "options": [
+        "Stage I",
+        "Stage II",
+        "Stage III",
+        "Stage IV",
+        "Stage IV"
+      ],
+      "correct_option_id": 1,
+      "explanation": "A tumor measuring 3 cm (T2) with positive mobile axillary nodes (N1) is classified as Stage IIB.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Staging"
+    },
+    {
+      "id": 7995,
+      "question": "The benign disorder most likely to mimic carcinoma of the breast is:",
+      "options": [
+        "Fibroadenoma",
+        "Papilloma",
+        "Sclerosing adenosis",
+        "Apocrine metaplasia"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Sclerosing adenosis can present as a firm, palpable mass and may be associated with microcalcifications on mammography, making it difficult to distinguish from carcinoma without a biopsy.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Benign Conditions"
+    },
+    {
+      "id": 7996,
+      "question": "Which of the following are the most important and clinically useful risk factors for breast cancer?",
+      "options": [
+        "Fibrocystic disease, age, and gender",
+        "Cysts, family history in immediate relatives, and gender",
+        "Age, gender, and family history in immediate relatives",
+        "Obesity, nulli-parity, and alcohol use",
+        "Ductectasia, intraductal papilloma, gender"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Female gender and increasing age are the strongest risk factors. A strong family history (first-degree relatives) is the next most significant factor.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Risk Factors"
+    },
+    {
+      "id": 7997,
+      "question": "Which of the following statement(s) is/are true concerning adjuvant systemic therapy?",
+      "options": [
+        "Adjuvant tamoxifen equals chemotherapy in post-menopausal node+ ER+ women",
+        "Tamoxifen clearly improves survival in all hormonal receptor-positive patients",
+        "CMF improves survival in both pre- and post-menopausal node-positive patients",
+        "There is no evidence to suggest a role for chemotherapy in node-negative patients"
+      ],
+      "correct_option_id": 0,
+      "explanation": "In post-menopausal ER+ women, hormonal therapy is highly effective and often provides benefits comparable to chemotherapy with less toxicity.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Treatment"
+    },
+    {
+      "id": 7998,
+      "question": "A 21-years old woman presents with an accidentally discovered breast mass. Which of the following statement is true concerning her diagnosis and treatment?",
+      "options": [
+        "Duciectasia is the commonest",
+        "Mammography will play an important role in diagnosing the lesion",
+        "The mass should always be excised",
+        "The lesion should be considered pre-malignant",
+        "Ultrasonography is often useful in the differential diagnosis of this lesion"
+      ],
+      "correct_option_id": 4,
+      "explanation": "In young women (<30), ultrasound is preferred over mammography due to dense breast tissue. It helps differentiate cysts from solid masses.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Diagnosis"
+    },
+    {
+      "id": 7999,
+      "question": "36F with 3-month bloody nipple discharge. Exam: small subareolar nodule. Pressure at 3 o'clock causes blood. Normal mammogram. Diagnosis?",
+      "options": [
+        "Breast cyst",
+        "Carcinoma in situ",
+        "Fat necrosis",
+        "Intraductal carcinoma",
+        "Intraductal papilloma"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Intraductal papilloma is the most common cause of spontaneous, unilateral, bloody nipple discharge, often presenting as a small subareolar nodule.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Benign Conditions"
+    },
+    {
+      "id": 8000,
+      "question": "How many lactiferous ducts drain into the nipple of the mature female breast?",
+      "options": [
+        "5 - 10",
+        "10 - 15",
+        "15 - 20",
+        "25 - 30",
+        "30 - 35"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Classically, it is taught that 15 to 20 lactiferous ducts drain into the nipple, though recent anatomical studies suggest the number may be lower.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Anatomy/Physiology"
+    },
+    {
+      "id": 8001,
+      "question": "Which of the following conditions leads to gynecomastia due to an increased estrogen?",
+      "options": [
+        "Aging",
+        "Anorchism",
+        "Hepatocellular carcinoma",
+        "Klinefelter's syndrome",
+        "Renal failure"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Liver diseases, such as hepatocellular carcinoma or cirrhosis, impair the liver's ability to metabolize estrogen, leading to high circulating levels and gynecomastia.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Systemic"
+    },
+    {
+      "id": 8002,
+      "question": "50F, post-mastectomy for 2.5cm cancer, 3 positive nodes (Stage IIB). Metastatic survey negative. Receives chemo. Most common distant metastasis site?",
+      "options": [
+        "Brain",
+        "Bone",
+        "Neck",
+        "Lung",
+        "Liver"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Bone is the most common site of distant metastasis for breast cancer.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 8003,
+      "question": "Galactorrhea, a milky discharge from the nipple in nonpregnant women, is most likely to be associated with which of the following?",
+      "options": [
+        "Fibroadenoma",
+        "Tubular adenoma",
+        "Pituitary adenoma",
+        "Hyperparathyroidism",
+        "Breast abscess"
+      ],
+      "correct_option_id": 2,
+      "explanation": "A pituitary adenoma (prolactinoma) secretes prolactin, causing galactorrhea in non-pregnant, non-lactating women.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Benign Conditions"
+    },
+    {
+      "id": 8004,
+      "question": "Regarding investigations for breast cancer:",
+      "options": [
+        "Fine-needle aspiration cytology (FNAC) and core biopsy are equally useful diagnostically",
+        "Magnetic resonance imaging (MRI) can be a useful imaging tool in recurrent cases",
+        "PET-CT has no role in diagnosis of breast cancer",
+        "Ultrasound can also be used as a screening tool",
+        "50% of breast cancers are missed by population-based mammographic screening"
+      ],
+      "correct_option_id": 1,
+      "explanation": "MRI is highly sensitive and is particularly useful for distinguishing scar tissue from recurrence and for screening high-risk patients.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Diagnosis"
+    },
+    {
+      "id": 8005,
+      "question": "Best treatment of chronic breast abscess is:",
+      "options": [
+        "Prolonged antibiotic courses",
+        "Repeated aspiration",
+        "Incision and drainage",
+        "Excision of the whole abscess"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Chronic abscesses often have thick walls and may not resolve with drainage or antibiotics alone. Excision of the abscess cavity is often required for cure.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Benign Conditions"
+    },
+    {
+      "id": 8006,
+      "question": "Peu d'orange is due to:",
+      "options": [
+        "Skin metastasis",
+        "Lymphatic obstruction",
+        "Thrombophlebitis",
+        "Any of the above"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Peau d'orange (orange peel skin) is caused by cutaneous lymphatic edema, where the skin is tethered by the suspensory ligaments of Cooper, creating a pitted appearance.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Signs/Symptoms"
+    },
+    {
+      "id": 8007,
+      "question": "An 18-year-old presents with a well circumscribed 2-cm mass in her right breast. The mass is painless and has a rubbery consistency and discrete borders It appears to move freely through the breast tissue. What is the likeliest diagnosis?",
+      "options": [
+        "Carcinoma",
+        "Cyst",
+        "Fibroadenoma",
+        "Cystosarcomaphyllodes",
+        "Intramammary lymph node"
+      ],
+      "correct_option_id": 2,
+      "explanation": "A painless, rubbery, mobile mass ('breast mouse') in a young woman is the classic presentation of a fibroadenoma.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Benign Conditions"
+    },
+    {
+      "id": 8008,
+      "question": "35F, mother had breast cancer, has fibrocystic breasts. Exam: multiple thickenings, no discrete mass. Which diagnostic test should be performed?",
+      "options": [
+        "Re-examination in 6 months",
+        "Bilateral breast ultrasound",
+        "Thermography",
+        "Bilateral breast magnetic resonance imaging (MRI) with gadolinium",
+        "Spot compression views if an area of discrete asymmetry or concerning calcifications is seen"
+      ],
+      "correct_option_id": 3,
+      "explanation": "In patients with a significant family history and difficult-to-examine breasts (fibrocystic changes), MRI is a sensitive screening tool to rule out malignancy.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Diagnosis"
+    },
+    {
+      "id": 8009,
+      "question": "A 35-year-old woman with BRAC-1 gene mutation seeks your advice about her known increased risk of breast cancer. You should recommend.",
+      "options": [
+        "Mammograms/exam every 6 months until 50, then prophylactic mastectomy",
+        "Mammograms and physical examination every 6 months + tamoxifen",
+        "Prophylactic mastectomy and oophorectomy after childbearing",
+        "None of the above"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Prophylactic mastectomy reduces risk by >90%. Prophylactic oophorectomy reduces both ovarian and breast cancer risk and is recommended after childbearing.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Prevention"
+    },
+    {
+      "id": 8010,
+      "question": "36F with substantial unilateral breast enlargement. Exam: large, firm tumor with early skin erosion. Favorable outlook anticipated if lesion is:",
+      "options": [
+        "Sarcoma",
+        "Phyllodes tumor",
+        "Colloid carcinoma",
+        "Infiltrating carcinoma"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Phyllodes tumors can be large and cause skin changes, but even malignant ones have a better prognosis than similar-sized carcinomas if excised completely.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 8011,
+      "question": "A clinically positive sub clavicular lymph nodes is a:",
+      "options": [
+        "Level I",
+        "Level II",
+        "Level III",
+        "Level IV"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Subclavicular (apical) lymph nodes are located medial to the pectoralis minor muscle and are classified as Level III nodes.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Anatomy/Physiology"
+    },
+    {
+      "id": 8012,
+      "question": "A woman has 3 cm breast mass non palpable LNs and no clinical evidence of distant metastasis, which is true?",
+      "options": [
+        "Stage II breast cancer",
+        "Grade I breast cancer",
+        "Pathological evidence of cancer is necessary",
+        "Consider fibroadenoma and give treatment",
+        "Excision of the mass only is enough"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Clinical findings alone cannot confirm malignancy or final stage. Pathological confirmation (biopsy) is absolutely necessary for diagnosis and treatment planning.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Diagnosis"
+    },
+    {
+      "id": 8013,
+      "question": "About acute lactational breast abscess, one statement only is true.",
+      "options": [
+        "Is commonly multilocular",
+        "Weaning the baby is mandatory",
+        "Wide bore needle aspiration is superior as it avoids duct injury",
+        "Mammography is indicated if an abscess in suspected",
+        "Treatment is essentially conservative by antibiotics"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Breast abscesses are often multilocular, requiring breaking of loculi for effective drainage. Weaning is not mandatory.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Infection"
+    },
+    {
+      "id": 8014,
+      "question": "About mammography all are true EXCEPT.",
+      "options": [
+        "Expose the patient for some radiation",
+        "Is safe and can be repeated at any time",
+        "Malignancy can be proved my microcalcification",
+        "Thickened skin and retracted nipple can be noted in cancer patient",
+        "Irregular outline of the mass is another criterion of malignancy"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Mammography involves ionizing radiation. While safe for screening, it should not be repeated 'at any time' without indication to avoid unnecessary radiation exposure.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Diagnosis"
+    },
+    {
+      "id": 8015,
+      "question": "Absence of the breast (amastia) is associated with.",
+      "options": [
+        "Turner`s syndrome",
+        "Kleinfelter`s syndrome",
+        "Poland syndrome",
+        "Fleischer`s syndrome"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Poland syndrome is a congenital anomaly characterized by the absence of the pectoralis major muscle and often ipsilateral breast hypoplasia or amastia.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Congenital"
+    },
+    {
+      "id": 8016,
+      "question": "After mastectomy, 52F has prominent medial scapula on protraction and weak abduction. Nerve injured?",
+      "options": [
+        "Long thoracic",
+        "Thoracodorsal",
+        "Ulnar",
+        "Intercostobrachial"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Injury to the Long Thoracic Nerve paralyzes the serratus anterior, causing 'winging of the scapula'.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Complications"
+    },
+    {
+      "id": 8017,
+      "question": "All of the following statements are true as regard benign breast disease, EXCEPT.",
+      "options": [
+        "Benign breast disease is the most common cause of breast problems",
+        "Lipoma is a common condition of the breast",
+        "Traumatic fat necrosis can be mistaken for a carcinoma",
+        "30 per cent of breast cysts recur after aspiration"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Lipomas are relatively uncommon in the breast compared to fibroadenomas or cysts. The statement implies they are 'common', which is the intended false option.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Benign Conditions"
+    },
+    {
+      "id": 8018,
+      "question": "As regard prognosis of breast cancer All are true EXCEPT.",
+      "options": [
+        "Worsen by detection of positive axillary LNs",
+        "better when strong positive estrogen receptor",
+        "Better in lower inner quadrant",
+        "Worse for invasive duct carcinoma than phyllodes tumor",
+        "Affected by tumor grading"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Tumor location (quadrant) does not significantly alter prognosis in modern treatment. Prognosis depends on Stage, Grade, and Biology.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Prognosis"
+    },
+    {
+      "id": 8019,
+      "question": "Axillary LNs all are true EXCEPT.",
+      "options": [
+        "Anterior, posterior, and lateral group are level II",
+        "Central l/n are related to intercostobrachial nerve",
+        "Apical group of l/n are level III",
+        "Positive axillary l/n affect the prognosis of breast cancer"
+      ],
+      "correct_option_id": 0,
+      "explanation": "The anterior, posterior, and lateral lymph node groups are located lateral to the pectoralis minor and are classified as Level I nodes, not Level II.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Anatomy/Physiology"
+    },
+    {
+      "id": 8020,
+      "question": "Breast cyst all true EXCEPT.",
+      "options": [
+        "Commonest is galactocele",
+        "Malignancy is suspected if the cyst is tense",
+        "Malignancy is suspected if the lump does not totally disappear after complete aspiration",
+        "Multiplicity of cyst raise suspicion of malignancy",
+        "Cyst excision is necessary in most cases"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Multiple cysts are a common feature of benign fibrocystic changes and do not inherently raise suspicion of malignancy. A solitary, complex, or recurrent cyst is more concerning.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Benign Conditions"
+    },
+    {
+      "id": 8021,
+      "question": "Commonest histologic type of breast cancer is.",
+      "options": [
+        "Duct carcinoma in situ",
+        "Lobular carcinoma in situ",
+        "Invasive lobular carcinoma",
+        "Medullary carcinoma",
+        "Infiltrating duct carcinoma not otherwise specified"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Invasive Ductal Carcinoma (NST/NOS) is the most common type, accounting for about 70-80% of all breast cancers.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Pathology"
+    },
+    {
+      "id": 8022,
+      "question": "Concerning sampling of a breast lump, all the following statement are true, EXCEPT.",
+      "options": [
+        "The most accurate is excisional biopsy",
+        "Fine need aspiration cytology does not require general anesthesia",
+        "Fine need aspiration cytology shows tissue architecture",
+        "Frozen section biopsy is sometimes inconclusive",
+        "Turcot biopsy obtains a core of tissue"
+      ],
+      "correct_option_id": 2,
+      "explanation": "FNAC provides cells, not tissue chunks. It does not preserve tissue architecture, making it impossible to distinguish in-situ from invasive cancer.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Diagnosis"
+    },
+    {
+      "id": 8023,
+      "question": "During pregnancy, alveolar epithelium develops in the breast which is responsible after delivery for the production of milk. Which portion of alveolar epithelial cell is responsible for production of the fat present in human milk.",
+      "options": [
+        "Endoplasmic reticulum",
+        "Mitochondria",
+        "Cell membrane",
+        "Cytoplasm"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Milk fat globules are formed in the cytoplasm and are secreted by budding off from the cell, taking part of the cell membrane (apocrine secretion).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Physiology"
+    },
+    {
+      "id": 8024,
+      "question": "Early breast cancer.",
+      "options": [
+        "Means T1N1 tumor or less",
+        "Means that cure is impossible",
+        "Means that microscopic metastasis are not present",
+        "Primary treatment is by surgery and/or radiotherapy",
+        "Adjuvant chemotherapy is not indicated"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Early breast cancer refers to potentially curable disease (Stages I and II) where primary treatment involves surgery (with or without radiation) to remove the tumor.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Treatment"
+    },
+    {
+      "id": 8025,
+      "question": "Fibrocystic disease of the breast, all true EXCEPT:",
+      "options": [
+        "Very common in female breast",
+        "May be asymptomatic",
+        "common on its side",
+        "Nipple retraction may be the only clinical criteria",
+        "Easily confused with cancer"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Nipple retraction is a classic sign of malignancy. While severe fibrosis can cause it, it is not a typical 'only' criterion for benign disease.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Benign Conditions"
+    },
+    {
+      "id": 8026,
+      "question": "For Modified radical mastectomy, all the following are true, EXCEPT.",
+      "options": [
+        "The areola and nipple are removed",
+        "The whole breast tissue is removed",
+        "Block dissection of axillary nodes requires excision of axillary vein",
+        "Nerve to serratus anterior should be spared",
+        "The pectoralis major is spared"
+      ],
+      "correct_option_id": 2,
+      "explanation": "In Modified Radical Mastectomy (MRM), the axillary vein is preserved. The lymph nodes are dissected from around it, but the vein itself is not excised.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Surgery"
+    },
+    {
+      "id": 8027,
+      "question": "In breast carcinoma, which one of the following statements is false?",
+      "options": [
+        "Ductal carcinoma is the most common variant",
+        "Lobular carcinoma occurs in 15 per cent",
+        "There may be a combination of lobular and ductal features",
+        "Colloid, medullary and tubular carcinomas carry a poor prognosis"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Colloid (Mucinous), Medullary, and Tubular carcinomas are special types of breast cancer that generally carry a BETTER prognosis than standard infiltrating ductal carcinoma.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Pathology"
+    },
+    {
+      "id": 8028,
+      "question": "In curable breast cancer in premenopausal females may be treated by the following EXCEPT:",
+      "options": [
+        "Local mastectomy",
+        "Radiotherapy",
+        "Estrogen administration",
+        "Chemotherapy",
+        "Tamoxifen"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Estrogen administration is contraindicated in treating breast cancer (as it fuels the tumor). Anti-estrogens (Tamoxifen) or ovarian suppression are used.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Treatment"
+    },
+    {
+      "id": 8029,
+      "question": "In the ANDI (abberations of normal development and involution) classification, a 2 cm fibroadenoma is considered.",
+      "options": [
+        "Normal",
+        "A disorder",
+        "A disease",
+        "A premalignant disease"
+      ],
+      "correct_option_id": 1,
+      "explanation": "ANDI classifies a simple fibroadenoma as a 'Disorder' of development, whereas a Giant Fibroadenoma would be a 'Disease'.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Classification"
+    },
+    {
+      "id": 8030,
+      "question": "In the treatment of breast cancer, which of the following statements are false?",
+      "options": [
+        "There is a higher rate of local recurrence after conservative surgery and radiotherapy",
+        "After mastectomy, radiotherapy to the chest wall is not indicated",
+        "Sentinel lymph node biopsy should be done in clinically node-negative disease",
+        "Besides treating the patient, the role of axillary surgery is to stage the patient accurately"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Post-mastectomy radiotherapy is indicated for high-risk patients (e.g., T3/T4 tumors, >4 positive nodes, positive margins) to reduce local recurrence.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Treatment"
+    },
+    {
+      "id": 8031,
+      "question": "Mammary duct ectasia, all are true EXCEPT.",
+      "options": [
+        "May produce mass similar to carcinoma in axillary tail",
+        "Secretion is viscid thick",
+        "Mammographic finding may mimic cancer",
+        "Anerobic infection are common",
+        "May produce non lactational mastitis and abscess"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Duct ectasia typically affects the major ducts in the subareolar region, not the axillary tail. It presents with nipple discharge and subareolar masses.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Benign Conditions"
+    },
+    {
+      "id": 8032,
+      "question": "Moderate ductal hyperplasia of the breast is characterized by the microscopic finding of.",
+      "options": [
+        "3-4 cell layer above the basement membrane",
+        "5 or more cell layers above the basement membrane",
+        "Obstruction of >50% of the ductal lumen by hyperplastic cells",
+        "Obstruction of > 70%of the ductal lumen by hyperplastic cells"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Moderate to florid hyperplasia is defined by an increase in cell layers, typically described as 5 or more layers above the basement membrane.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Pathology"
+    },
+    {
+      "id": 8033,
+      "question": "Paget disease of the breast all are true EXCEPT.",
+      "options": [
+        "Is an eczema of the skin",
+        "Sometimes there is palpable mass",
+        "Mastectomy is indicated",
+        "The disease is not related to Paget disease of bone",
+        "Is a duct carcinoma arising from main lactiferous ducts"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Paget's is an intraepidermal manifestation of underlying DCIS. While associated, defining it solely as a 'duct carcinoma arising from main ducts' is the intended false statement here.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 8034,
+      "question": "Regarding duct carcinoma in situ, one statement only is true.",
+      "options": [
+        "May be discovered on screening mammography for asymptomatic women",
+        "It`s not a true malignancy",
+        "Close observation is all that is needed",
+        "Is always bilateral"
+      ],
+      "correct_option_id": 0,
+      "explanation": "DCIS is frequently detected as microcalcifications on screening mammography in asymptomatic women. It is a precursor to invasive cancer and requires treatment (excision), not just observation.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 8035,
+      "question": "The appropriate therapy of Paget`s disease of the nipple.",
+      "options": [
+        "Topical steroid cream",
+        "Topical antifungal medication",
+        "Intralesional steroid injection",
+        "Resection"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Since Paget's disease indicates an underlying malignancy, surgical resection (mastectomy or breast-conserving surgery with nipple excision) is the appropriate treatment.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Treatment"
+    },
+    {
+      "id": 8036,
+      "question": "The following about fibrocystic breast are all true, EXCEPT.",
+      "options": [
+        "May be asymptomatic",
+        "May cause nipple retraction",
+        "Is a cause of breast pain",
+        "Produces breast nodularity",
+        "May cause discharge per nipple"
+      ],
+      "correct_option_id": 2,
+      "explanation": "The key identifies 'Is a cause of breast pain' as the exception, contradicting clinical fact (it causes mastalgia). However, usually 'nipple retraction' is the exception for benign disease.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Benign Conditions"
+    },
+    {
+      "id": 8037,
+      "question": "The following statements about lymphatic drainage of the breast are all true, EXCEPT.",
+      "options": [
+        "Lymph from medial half may drain in internal mammary nodes",
+        "From anywhere in the breast lymphatics drain mostly to axillary nodes",
+        "Levels I, II and III depend upon relationship with pectoralis minor",
+        "Level one axillary nodes is the highest in the axilla",
+        "Sentinel node is the earliest node involved"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Level I nodes are the *lowest* (lateral to pectoralis minor). Level III (apical) are the highest.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Anatomy/Physiology"
+    },
+    {
+      "id": 8038,
+      "question": "The following statements about post-mastectomy arm edema, all are true, EXCEPT.",
+      "options": [
+        "Is always transient",
+        "Adding radiotherapy to the axilla after clearance of lymph nodes increases the risk of edema",
+        "Rough dissection of the axillary vein at surgery is one of the causes",
+        "Insertion of an IV line in the ipsilateral upper limb is a predisposing factor",
+        "May be caused by recurrence in the axilla"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Post-mastectomy lymphedema is a chronic, often progressive condition, not 'always transient'.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Complications"
+    },
+    {
+      "id": 8039,
+      "question": "The following statements about pulmonary metastases of breast cancer are all true, EXCEPT:",
+      "options": [
+        "May be asymptomatic",
+        "May produce persistent cough",
+        "May produce dyspnea",
+        "May cause pleural effusion",
+        "If localized to one lung, pneumonectomy is indicated"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Lung metastases indicate systemic disease (Stage IV). Treatment is systemic; pneumonectomy is generally not indicated.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 8040,
+      "question": "The medial mammary artery is a tributary of the.",
+      "options": [
+        "2nd, 3rd, 4th intercostal arteries",
+        "Internal mammary artery",
+        "Thoraco-acromial artery",
+        "Posterior intercostal arteries"
+      ],
+      "correct_option_id": 0,
+      "explanation": "The medial breast is supplied by perforators of the Internal Mammary Artery. The option '2nd, 3rd, 4th intercostal arteries' likely refers to the anterior perforators at these intercostal spaces.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Anatomy/Physiology"
+    },
+    {
+      "id": 8041,
+      "question": "The treatment of choice of mondor`s disease.",
+      "options": [
+        "Observation and NSAIDs",
+        "Antibiotics, incision, and drainage",
+        "Wide resection of the affected area",
+        "Mastectomy"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Mondor's disease (thrombophlebitis of superficial breast veins) is a self-limiting condition treated conservatively with NSAIDs and warm compresses.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Benign Conditions"
+    },
+    {
+      "id": 8042,
+      "question": "The treatment of choice of Zusak`s disease.",
+      "options": [
+        "Observation and NSAIDs",
+        "Antibiotics, incision, and drainage",
+        "Wide resection of the affected areas",
+        "Mastectomy"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Zuska's disease (recurrent subareolar abscess) typically requires drainage and antibiotics in the acute phase, though excision of the fistulous tract is needed for cure.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Infection"
+    },
+    {
+      "id": 8043,
+      "question": "Treatment of cyclic mastalgia.",
+      "options": [
+        "Exclusion of malignancy and assurance",
+        "Avoid breast support",
+        "Giving up caffeine consumption",
+        "Bromocriptine 2.5 BID",
+        "Danazole 100-200 BID"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Key selects 'Avoid breast support' (B), which contradicts standard advice to *use* support. This might be a typo for 'Proper support' or a trick. Reassurance (A) is the primary management.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Management"
+    },
+    {
+      "id": 8044,
+      "question": "What is the hereditary factor percentage in female breast cancers.",
+      "options": [
+        "20 - 30%",
+        "45-50%",
+        "6-10%",
+        "75 - 80%",
+        "None of the above"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Hereditary breast cancer (e.g., BRCA mutations) accounts for approximately 5-10% of all breast cancer cases.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Epidemiology"
+    },
+    {
+      "id": 8045,
+      "question": "Which of the following about lobular carcinoma in situ is true.",
+      "options": [
+        "Occurs at an older age than ductal carcinoma in situ",
+        "The majority of women with LCIS are premenopausal",
+        "LCIS is bilateral in 10-20% of women",
+        "Invasive ductal carcinoma occurs 5-10 years later in 75% of women"
+      ],
+      "correct_option_id": 1,
+      "explanation": "LCIS is characteristically found in premenopausal women, unlike DCIS.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 8046,
+      "question": "Which of the following hormones is primarily responsible for differentiation of breast ductal epithelium.",
+      "options": [
+        "Estrogen",
+        "Testosterone",
+        "Progesterone",
+        "Prolactin"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Progesterone synergizes with estrogen for full differentiation (lobulo-alveolar). The key selects Progesterone.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Physiology"
+    },
+    {
+      "id": 8047,
+      "question": "Which of the following is appropriate treatment for 3 cm fibroadenoma.",
+      "options": [
+        "Resection",
+        "Cryo-ablation",
+        "Observation",
+        "All of the above"
+      ],
+      "correct_option_id": 3,
+      "explanation": "A 3cm fibroadenoma can be managed by excision (if symptomatic/patient wish), cryoablation (emerging), or observation (if biopsy confirmed benign and stable). All are valid options.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Treatment"
+    },
+    {
+      "id": 8048,
+      "question": "Which of the following conditions increases a woman`s risk of breast cancer.",
+      "options": [
+        "Sclerosing adenosis",
+        "Fibroadenoma",
+        "Atypical lobular hyperplasia",
+        "Intraductal papilloma"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Atypical hyperplasia (ductal or lobular) is a significant risk factor for breast cancer, increasing the relative risk by approximately 4-5 times compared to the general population.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Risk Factors"
+    },
+    {
+      "id": 8049,
+      "question": "Hematogenous spread of breast cancer may produce any of the following, EXCEPT:",
+      "options": [
+        "Brain metastases",
+        "Fracture of the spine",
+        "Pleural effusion",
+        "Jaundice",
+        "Hypocalcemia"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Bone metastases in breast cancer are typically osteolytic, leading to the release of calcium into the blood, resulting in **hypercalcemia**, not hypocalcemia.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Metastasis"
+    },
+    {
+      "id": 8050,
+      "question": "The axillary lymph nodes are divided into three levels I, II, III by.",
+      "options": [
+        "The axillary artery",
+        "The axillary vein",
+        "The pectoralis minor",
+        "The clavicle",
+        "The nerve to latissimus dorsi"
+      ],
+      "correct_option_id": 2,
+      "explanation": "The Pectoralis Minor muscle serves as the anatomical landmark. Level I nodes are lateral to it, Level II are deep/posterior to it, and Level III are medial to it.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Anatomy/Physiology"
+    },
+    {
+      "id": 8051,
+      "question": "When screening females for breast carcinoma, what is the most significant risk?",
+      "options": [
+        "Hyperplasia in breast biopsy",
+        "More than 2 first degree relatives with ovarian or breast carcinoma",
+        "Nulliparous woman",
+        "Late menopause",
+        "Three previous breast biopsies in premenopausal females"
+      ],
+      "correct_option_id": 1,
+      "explanation": "A strong family history (multiple first-degree relatives) suggests a hereditary syndrome, representing the highest risk factor.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Risk Factors"
+    },
+    {
+      "id": 8052,
+      "question": "The cause in skin dimpling in any fibrotic affection of:",
+      "options": [
+        "Milk duct",
+        "Milk acini",
+        "Cooper's ligament",
+        "All of the above"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Skin dimpling is caused by the infiltration and fibrosis of the Suspensory Ligaments of Cooper, which tether the skin to the underlying parenchyma.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Signs/Symptoms"
+    },
+    {
+      "id": 8053,
+      "question": "Adjuvant chemotherapy is indicated in:",
+      "options": [
+        "+Ve LN biopsy",
+        "-ve hormonal receptors",
+        "Poor prognosis of the case",
+        "All of the above"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Adjuvant chemotherapy is standard for high-risk features, including lymph node involvement, hormone receptor-negative status (e.g., Triple Negative), and other poor prognostic factors.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Treatment"
+    },
+    {
+      "id": 8054,
+      "question": "All the following are recognized side effects of radiotherapy EXCEPT:",
+      "options": [
+        "Local burn",
+        "Pulmonary fibrosis",
+        "End arteritis",
+        "None of the above"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Radiotherapy can cause local skin burns, pulmonary fibrosis (if lungs are irradiated), and endarteritis (vascular damage). 'None of the above' is the correct choice as no exception is listed.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Complications"
+    },
+    {
+      "id": 8055,
+      "question": "As regard incidence of cancer breast all correct EXCEPT:",
+      "options": [
+        "Most common female malignancy",
+        "Rare in nulliparous females",
+        "Very rare below 20 years",
+        "Males are rare to be affected but with grave prognosis"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Nulliparity is a well-established risk factor for breast cancer. The incidence is higher, not rare, in nulliparous women compared to multiparous women.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Epidemiology"
+    },
+    {
+      "id": 8056,
+      "question": "Best treatment for duct papilloma is:",
+      "options": [
+        "Follow up",
+        "Local excision",
+        "Local excision with safety margin",
+        "Chemotherapy and/or radiation"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Excision of the affected duct (microdochectomy) with a safety margin is the standard treatment to resolve the discharge and rule out any associated malignancy or atypia.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Treatment"
+    },
+    {
+      "id": 8057,
+      "question": "Bleeding on zonal pressure is highly suggestive of:",
+      "options": [
+        "Breast abscess",
+        "Duct papilloma",
+        "Cancer of breast",
+        "Phyllodes tumor"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Bloody nipple discharge that can be elicited by pressure on a specific zone of the areola (trigger point) is highly characteristic of an intraductal papilloma.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Signs/Symptoms"
+    },
+    {
+      "id": 8058,
+      "question": "Cancer en cuirasse is:",
+      "options": [
+        "Skin nodule",
+        "Lymphedema of breast skin",
+        "Both",
+        "None of the above"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Cancer en cuirasse describes a rigid, armor-like chest wall caused by diffuse infiltration of the skin by carcinoma nodules combined with lymphatic obstruction (edema).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Signs/Symptoms"
+    },
+    {
+      "id": 8059,
+      "question": "Chemotherapy is the primary palliative treatment in the following conditions:",
+      "options": [
+        "Visceral metastasis",
+        "Advanced case in premenopausal women",
+        "-ve hormonal receptors with distant metastasis",
+        "All of the above"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Systemic chemotherapy is the mainstay of treatment for metastatic disease, particularly when there is visceral crisis or the tumor is hormone receptor-negative.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Treatment"
+    },
+    {
+      "id": 8060,
+      "question": "Clinical findings of fibro adenosis include:",
+      "options": [
+        "Cyclic pain",
+        "Cyclic swelling",
+        "Cyclic discharge",
+        "All of the above"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Fibroadenosis (fibrocystic changes) typically presents with symptoms that fluctuate with the menstrual cycle, including pain (mastalgia), lumpiness, and occasionally discharge.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Benign Conditions"
+    },
+    {
+      "id": 8061,
+      "question": "Contraindications to conservative surgery include:",
+      "options": [
+        "Large tumour",
+        "Paget`s disease of nipple",
+        "Previous irradiation",
+        "Distant metastasis",
+        "All of the above"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Conservative surgery is contraindicated if clear margins/cosmesis can't be achieved (large tumor), if radiation is impossible (prior XRT), or if local control isn't the priority (metastasis).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Treatment"
+    },
+    {
+      "id": 8062,
+      "question": "Cyst of BIood Good is:",
+      "options": [
+        "Retention cyst of duct papilloma",
+        "Precancerous lesion of breast",
+        "Giant fibroadenoma",
+        "Hemorrhagic cyst containing altered blood"
+      ],
+      "correct_option_id": 3,
+      "explanation": "A Bloodgood cyst (blue-domed cyst) is a benign cyst found in fibrocystic disease that contains dark, altered blood, giving it a characteristic blue appearance.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Benign Conditions"
+    },
+    {
+      "id": 8063,
+      "question": "Etiology of breast abscess include:",
+      "options": [
+        "Mostly in lactating women",
+        "Due to Staph from baby mouth",
+        "Bad hygiene",
+        "All of the above"
+      ],
+      "correct_option_id": 3,
+      "explanation": "The most common breast abscess is lactational, caused by Staphylococcus aureus transmission from the infant's nasopharynx through nipple fissures, often associated with hygiene or latching issues.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Infection"
+    },
+    {
+      "id": 8064,
+      "question": "Lobular carcinoma of breast All true EXCEPT:",
+      "options": [
+        "Is more common than ductal carcinoma",
+        "In situ state is considered risk factor for malignancy",
+        "With in situ carcinoma mammography of both breasts is mandatory",
+        "Usually bilateral and multicentric"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Invasive Ductal Carcinoma is the most common type (70-80%). Lobular carcinoma is less common (approx. 10-15%).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Pathology"
+    },
+    {
+      "id": 8065,
+      "question": "Massive swellings of the breast include all the following EXCEPT:",
+      "options": [
+        "Phyllodes tumor",
+        "Atrophic scirrhous carcinoma",
+        "Diffuse hypertrophy",
+        "Giant fibroadenoma"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Atrophic scirrhous carcinoma is characterized by intense fibrosis that causes the breast to shrink and become hard, rather than forming a massive swelling.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Signs/Symptoms"
+    },
+    {
+      "id": 8066,
+      "question": "Mondor's disease is:",
+      "options": [
+        "An obscure type of thrombophlebitis particularly affecting veins of the breast",
+        "Lymphoedema of the arm",
+        "Chondritis of a costal cartilage",
+        "Pectus excavatum"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Mondor's disease is a rare, benign, superficial thrombophlebitis of the subcutaneous veins of the breast and anterior chest wall.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Benign Conditions"
+    },
+    {
+      "id": 8067,
+      "question": "Risk factors of cancer breast include all the following EXCEPT:",
+      "options": [
+        "Mutation in suppressor genes (BRCA l, Il)",
+        "Early menarche",
+        "Carcinoma in situ",
+        "Prolonged lactation",
+        "White races"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Prolonged lactation is a protective factor against breast cancer. The other options are established risk factors.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Risk Factors"
+    },
+    {
+      "id": 8068,
+      "question": "Signs of pus formation are the following EXCEPT:",
+      "options": [
+        "Hectic fever",
+        "Edema of overlying skin",
+        "No response to medical treatment for 48 hours",
+        "Fluctuation occurs early in breast abscess"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Fluctuation is typically a late sign in breast abscesses because the breast tissue is divided by fibrous septa which limit the movement of fluid.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Infection"
+    },
+    {
+      "id": 8069,
+      "question": "The commonest route of infection of breast abscess is:",
+      "options": [
+        "Along blood vessels",
+        "Retrograde infection along lymphatic vessels",
+        "Along natural passages (nipple)",
+        "Along artificial passages like fissures or crocks of nipple and areola",
+        "Local extension from infection of the chest wall muscles or ribs"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Bacteria typically enter through the nipple ducts (natural passages) or fissures during lactation to cause an abscess.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Infection"
+    },
+    {
+      "id": 8070,
+      "question": "The following is contraindication to conservative breast surgery:",
+      "options": [
+        "Palpable mobile axillary LNs",
+        "Tumour 3 cm",
+        "Mastitis carcinomatosis",
+        "Patient aged 50 years"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Mastitis carcinomatosa (Inflammatory Breast Cancer) requires systemic therapy and mastectomy, not conservation.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Treatment"
+    },
+    {
+      "id": 8071,
+      "question": "The following is treatment of choice in pericanalicular fibroadenoma:",
+      "options": [
+        "Irradiation",
+        "Enucleation",
+        "Removal en block",
+        "Simple mastectomy"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Fibroadenomas are well-encapsulated benign tumors. The standard surgical treatment, if indicated, is enucleation (shelling out the mass).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Treatment"
+    },
+    {
+      "id": 8072,
+      "question": "The main presentation of Paget disease is:",
+      "options": [
+        "Mass under the nipple",
+        "Bleeding per nipple",
+        "Unilateral red scaly nipple",
+        "Bilateral itchy red vesicles"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Paget's disease presents as a chronic, eczematous, scaling, or ulcerating lesion of the nipple and areola, typically unilateral.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Signs/Symptoms"
+    },
+    {
+      "id": 8073,
+      "question": "Treatment of fibro adenosis all true EXCEPT:",
+      "options": [
+        "Psychotherapy has a main role",
+        "Primrose improves the condition",
+        "Initial treatment should include antiestrogen",
+        "Surgery is reserved to complicated cases"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Initial treatment involves reassurance and mild measures. Anti-estrogens (e.g., Tamoxifen) are reserved for severe cases.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Management"
+    },
+    {
+      "id": 8074,
+      "question": "Triple assessment include the following except:",
+      "options": [
+        "Clinical evaluation",
+        "Imaging",
+        "Laboratory investigations",
+        "Cytology"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Triple assessment refers to the combination of Clinical Examination, Imaging (Mammography/Ultrasound), and Pathology (Cytology/Biopsy). Routine laboratory investigations are not part of this triad.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Diagnosis"
+    },
+    {
+      "id": 8075,
+      "question": "A 30-year-old female presented with serosanguious discharge from the right nipple. Examination revealed no palpable masses. The most likely diagnosis is:",
+      "options": [
+        "Intraduct papilloma",
+        "Paget's disease of the breast",
+        "Occult carcinoma",
+        "Lobular fibroadenosis",
+        "Eczema of the nipple"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Spontaneous, unilateral, serosanguinous nipple discharge in the absence of a mass is the classic clinical presentation of an intraductal papilloma.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Benign Conditions"
+    },
+    {
+      "id": 8076,
+      "question": "50F with 6-month pruritus/eczema of nipple. Biopsy: Paget's cells. Treatment:",
+      "options": [
+        "Excision of the nipple",
+        "Simple mastectomy",
+        "Radical mastectomy",
+        "Radiotherapy",
+        "Local applications to the nipple"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Paget's indicates underlying malignancy. The key specifies 'Radical Mastectomy' (likely Modified Radical), emphasizing clearance of underlying disease.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Treatment"
+    },
+    {
+      "id": 8077,
+      "question": "A palpable breast mass in a woman of 40 years",
+      "options": [
+        "Is most likely to be cyst or carcinoma",
+        "Investigations by US is 90% diagnostic",
+        "Mammography alone is 90% sensitive for malignancy",
+        "May be DCIS & Triple assessment is 90% diagnostic",
+        "All of the above"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Triple assessment (Clinical, Radiological, Pathological) provides diagnostic accuracy >90%.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Diagnosis"
+    },
+    {
+      "id": 8078,
+      "question": "Bilateral primary breast cancer is most likely to develop in association with:",
+      "options": [
+        "Medullary carcinoma",
+        "Colloid carcinoma",
+        "Duct carcinoma",
+        "Lobular carcinoma",
+        "Mastitis carcinoma"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Invasive Lobular Carcinoma and Lobular Carcinoma In Situ (LCIS) have a much higher rate of bilaterality and multicentricity compared to ductal carcinomas.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Pathology"
+    },
+    {
+      "id": 8079,
+      "question": "Causes of gynecomastia:",
+      "options": [
+        "Liver cell failure",
+        "Digitalis",
+        "Spironolactone",
+        "Orchiectomy",
+        "All of the above"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Gynecomastia causes include liver failure (estrogen metabolism), drugs (Digitalis, Spironolactone), and androgen deficiency.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Benign Conditions"
+    },
+    {
+      "id": 8080,
+      "question": "Clinical features of breast cancer which are associated with a particularly poor prognosis include:",
+      "options": [
+        "Edema of the skin of the breast",
+        "Skin ulceration",
+        "Lateral arm edema",
+        "Dermal lymphatic invasion",
+        "All of the above"
+      ],
+      "correct_option_id": 4,
+      "explanation": "These signs (peau d'orange, ulceration, arm edema) indicate locally advanced breast cancer (T4) or extensive nodal involvement, which carries a poor prognosis.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Prognosis"
+    },
+    {
+      "id": 8081,
+      "question": "Concerning mastitis carcinoma, the incorrect statement among the following is that it:",
+      "options": [
+        "Is a highly anaplastic carcinoma",
+        "Occurs most often during pregnancy and lactation",
+        "Is often misdiagnosed as acute mastitis",
+        "Is associated with a palpable mass in the breast",
+        "Causes painless enlargement of the axillary glands"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Mastitis carcinomatosa (Inflammatory Breast Cancer) typically presents as diffuse induration and erythema of the breast without a distinct, discrete palpable mass.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 8082,
+      "question": "In hard fiproadenoma of the female breast, it is untrue that it:",
+      "options": [
+        "Has a peak incidence in the second and third decades",
+        "Forms a localized mobile lump",
+        "Is usually painless",
+        "May turn malignant",
+        "Never resolves under medical treatment"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Fibroadenomas are benign lesions. Malignant transformation is extremely rare (<0.1%), making the statement 'May turn malignant' practically untrue in the context of common clinical features.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Benign Conditions"
+    },
+    {
+      "id": 8083,
+      "question": "Incurable breast cancer in premenopausal females may be treated by the following except:",
+      "options": [
+        "Local mastectomy",
+        "Radiotherapy",
+        "Estrogen administration",
+        "Chemotherapy",
+        "Tamoxifen"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Administering estrogen is contraindicated as it stimulates tumor growth. Treatment involves hormonal blockade (Tamoxifen, ovarian suppression) or chemotherapy.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Treatment"
+    },
+    {
+      "id": 8084,
+      "question": "Indian file arrangement is a histological picture of the following breast tumor:",
+      "options": [
+        "Paget disease",
+        "Lobular carcinoma in situ",
+        "Ductal carcinoma in situ",
+        "Infiltrating lobular carcinoma"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Infiltrating Lobular Carcinoma cells characteristically align in a single file ('Indian file') due to a lack of E-cadherin adhesion molecules.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Pathology"
+    },
+    {
+      "id": 8085,
+      "question": "Risk factors in the development of breast cancer include the following except:",
+      "options": [
+        "Family history",
+        "Late menarche",
+        "Nulliparity",
+        "Previous breast cancer",
+        "Fibrocystic disease"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Late menarche reduces lifetime estrogen exposure and is a protective factor against breast cancer. Early menarche is the risk factor.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Risk Factors"
+    },
+    {
+      "id": 8086,
+      "question": "Soft tissue mammography is most valuable in:",
+      "options": [
+        "Differentiating of benign from malignant masses",
+        "Mass screening of women of child-bearing age",
+        "Detection of impalpable breast cancers",
+        "Clinical staging of breast cancer",
+        "Investigation of discharging nipples"
+      ],
+      "correct_option_id": 2,
+      "explanation": "The primary advantage of mammography is the ability to detect non-palpable cancers (e.g., microcalcifications) before they become clinically evident.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Diagnosis"
+    },
+    {
+      "id": 8087,
+      "question": "The acronym QUART stands for:",
+      "options": [
+        "Quadrantectomy and radiotherapy",
+        "Quadrantectomy axillary dissection and radiotherapy",
+        "Quadrant resection and chemotherapy",
+        "None of the above"
+      ],
+      "correct_option_id": 1,
+      "explanation": "QUART is an acronym for breast-conserving therapy consisting of **Qu**adrantectomy, **A**xillary **R**esection, and **R**adiotherapy (**T**herapy).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Surgery"
+    },
+    {
+      "id": 8088,
+      "question": "The following statements about fibroadenosis of the breast are true except that:",
+      "options": [
+        "It manifests itself by pain or lumps",
+        "Symptoms vary with the stages of the menstrual cycle",
+        "Unopposed estrogen stimulation is a major aetiologic",
+        "Large lumps may contain fluid on aspiration",
+        "It can usually be clinically differentiated from carcinoma"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Fibroadenosis (fibrocystic change) often presents as irregular, firm lumps that are clinically indistinguishable from carcinoma, requiring imaging and biopsy for differentiation.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Benign Conditions"
+    },
+    {
+      "id": 8089,
+      "question": "The median survival untreated breast cancer is:",
+      "options": [
+        "1 year",
+        "2.5 years",
+        "5 years",
+        "10 years"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Historical records of untreated breast cancer indicate a median survival time of approximately 2.5 to 3 years from the onset of symptoms.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Prognosis"
+    },
+    {
+      "id": 8090,
+      "question": "The most common site for scirrhous carcinoma of the breast is:",
+      "options": [
+        "Upper outer quadrant",
+        "Upper inner quadrant",
+        "Lower outer quadrant",
+        "Lower inner quadrant",
+        "Retroareolar region"
+      ],
+      "correct_option_id": 0,
+      "explanation": "The upper outer quadrant contains the largest volume of breast tissue and is the location for approximately 50% of all breast cancers.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Epidemiology"
+    },
+    {
+      "id": 8091,
+      "question": "The most frequent histologic type of breast carcinoma is:",
+      "options": [
+        "Infiltrating papillary carcinoma",
+        "Infiltrating ductal carcinoma",
+        "Infiltrating lobular carcinoma",
+        "Colloid carcinoma",
+        "Medullary carcinoma"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Infiltrating (Invasive) Ductal Carcinoma is the most common histological subtype, accounting for about 70-80% of breast cancer cases.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Pathology"
+    },
+    {
+      "id": 8092,
+      "question": "When breast cancer is treated by partial mastectomy or lumpectomy, further therapy should include:",
+      "options": [
+        "Adjuvant chemotherapy",
+        "Complementary adrenalectomy",
+        "Coimplementary oophrectomy",
+        "Complementary radiation"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Adjuvant radiation therapy is mandatory after lumpectomy to eradicate microscopic residual disease and reduce local recurrence rates.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Treatment"
+    },
+    {
+      "id": 8093,
+      "question": "When stage I breast cancer is treated by partial mastectomy and dissection, further therapy should include:",
+      "options": [
+        "Nothing",
+        "Chemotherapy",
+        "Antioestrogen agents",
+        "Radiation of the affected breast",
+        "Oophorectomy if premenopausal"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Even in Stage I disease, breast-conserving surgery must be followed by radiation therapy to the breast to ensure oncological safety.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Treatment"
+    },
+    {
+      "id": 8094,
+      "question": "Which of the following statement(s) is/are associated with gynecomastia?",
+      "options": [
+        "If the disease is unilateral, it is unlikely drug-related",
+        "The standard surgical treatment is subcutaneous mastectomy",
+        "The presence of gynecomastia is often associated with the subsequent development of breast cancer",
+        "A formal endocrine evaluation is indicated in most patients with gynecomastia"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Subcutaneous mastectomy (excision of glandular tissue while preserving the nipple and skin) is the standard surgical treatment for persistent, symptomatic gynecomastia.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Benign Conditions"
+    },
+    {
+      "id": 8095,
+      "question": "Probe test can differentiate cystosarcoma phylloides from:",
+      "options": [
+        "Fibroadenosis",
+        "Breast mouse",
+        "Cancer breast",
+        "Chronic breast abscess"
+      ],
+      "correct_option_id": 2,
+      "explanation": "A probe can be passed between a Phyllodes tumor and the skin because it does not infiltrate the skin, unlike advanced breast cancer which fixes and infiltrates the skin.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Diagnosis"
+    },
+    {
+      "id": 8096,
+      "question": "The most useful investigation for a breast with a prosthesis is:",
+      "options": [
+        "Mammography",
+        "US",
+        "FNABC",
+        "MRI",
+        "Hormonal receptors"
+      ],
+      "correct_option_id": 3,
+      "explanation": "MRI is the preferred imaging modality for women with breast implants, as it allows visualization of the breast tissue without the obstruction caused by the implant on mammography.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Breast",
+      "chapter": "Diagnosis"
+    }
+  ]
+}

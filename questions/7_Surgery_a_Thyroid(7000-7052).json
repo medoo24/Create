@@ -1,0 +1,882 @@
+{
+  "meta": {
+    "source": "Term 7 - General Surgery",
+    "lesson": "Thyroid"
+  },
+  "questions": [
+    {
+      "id": 7000,
+      "question": "Three hours post-thyroidectomy, a 30-year-old woman developed agitation, difficulty breathing, tachycardia, and a dry dressing, but anterior cervical swelling. The most appropriate immediate step is:",
+      "options": [
+        "Insertion of an oro-tracheal tube",
+        "Reopening of the cervical wound",
+        "Estimation of serum calcium level",
+        "IV morphine"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Immediate post-op respiratory distress, agitation, and neck swelling suggest a tension hematoma; the wound must be urgently reopened to relieve tracheal compression.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Post-operative Complications"
+    },
+    {
+      "id": 7001,
+      "question": "A 17-year-old girl presented with a 2.5 cm nodule in the right lobe of the thyroid gland and enlarged cervical lymph nodes confirmed by ultrasound. FNA cytology revealed malignant cells with vesicular nuclei. The most probable diagnosis is:",
+      "options": [
+        "Lymphoma",
+        "Anaplastic carcinoma",
+        "Follicular carcinoma",
+        "Papillary carcinoma",
+        "Medullary carcinoma"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Papillary carcinoma is the most common thyroid malignancy, often affecting young females. It spreads via lymphatics to cervical nodes and is characterized cytologically by vesicular nuclei.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Malignant Thyroid Disease"
+    },
+    {
+      "id": 7002,
+      "question": "A 30-year-old female presents for evaluation of a palpable thyroid nodule. A Tc99 scan demonstrated a single cold nodule. This may be any of the following except:",
+      "options": [
+        "Carcinoma",
+        "Non-functioning adenoma",
+        "Thyroid cyst",
+        "Colloid nodule",
+        "Autonomous nodule"
+      ],
+      "correct_option_id": 4,
+      "explanation": "A 'cold' nodule on a scan indicates hypofunctioning tissue. An autonomous nodule functions independently of TSH and is hyperfunctioning, appearing 'hot' or 'warm' on a scan, not cold.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Investigations"
+    },
+    {
+      "id": 7003,
+      "question": "A familial form of medullary thyroid carcinoma (MTC) should be suspected whenever:",
+      "options": [
+        "The tumor is multifocal",
+        "The tumor is bilateral (foci of tumor are present in both thyroid lobes)",
+        "Pathologic examination of the resected thyroid gland reveals C-cell hyperplasia adjacent to MTC",
+        "All of the above"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Familial MTC (associated with MEN syndromes) is typically bilateral, multifocal, and associated with background C-cell hyperplasia, unlike sporadic cases which are usually unilateral and solitary.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Malignant Thyroid Disease"
+    },
+    {
+      "id": 7004,
+      "question": "A middle-aged woman with a history of childhood irradiation has a solid, cold thyroid nodule. What is the appropriate next step?",
+      "options": [
+        "Aspiration biopsy",
+        "Treatment with thyroxine",
+        "Right lobectomy",
+        "Subtotal thyroidectomy",
+        "Total thyroidectomy"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Childhood irradiation raises malignancy risk in a solid, cold thyroid nodule; high suspicion warrants diagnostic and therapeutic lobectomy rather than just FNAC.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Malignant Thyroid Disease"
+    },
+    {
+      "id": 7005,
+      "question": "A thyroid nodule may be malignant if it shows:",
+      "options": [
+        "Rapid growth",
+        "Pain referred to the ear",
+        "Hardness",
+        "Associated hoarseness of voice",
+        "All of the above"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Malignancy features include hardness (infiltration), rapid growth (anaplastic/lymphoma), referred pain (nerve involvement), and hoarseness (recurrent laryngeal nerve invasion).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Malignant Thyroid Disease"
+    },
+    {
+      "id": 7006,
+      "question": "All are causes of hypercalcemia, EXCEPT:",
+      "options": [
+        "Metastatic cancer",
+        "Sarcoidosis",
+        "Multiple myeloma",
+        "Vitamin D intoxication",
+        "Medullary carcinoma of the thyroid"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Medullary carcinoma of the thyroid arises from parafollicular C-cells, which secrete calcitonin. Calcitonin tends to lower blood calcium, not cause hypercalcemia.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Parathyroid & Calcium"
+    },
+    {
+      "id": 7007,
+      "question": "All of the following are recognized complications of Neomercazole (Carbimazole) except:",
+      "options": [
+        "Goiter",
+        "Agranulocytosis",
+        "Renal failure",
+        "Hepatotoxicity"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Neomercazole can cause agranulocytosis, hepatotoxicity, and iatrogenic goiter. It is not typically associated with renal failure.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7008,
+      "question": "Regarding retrosternal goiter, which statement is false?",
+      "options": [
+        "It usually arises in aberrant intrathoracic thyroid tissue",
+        "It is particularly common in males",
+        "It may present with symptoms of mediastinal compression",
+        "It is often associated with palpable enlargement of the thyroid",
+        "It is best removed through a cervical incision"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Retrosternal goiters typically arise from the lower pole of a cervical thyroid gland that grows downwards into the chest, not from separate aberrant intrathoracic tissue.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Simple Goiter"
+    },
+    {
+      "id": 7009,
+      "question": "Regarding the embryology of the thyroid:",
+      "options": [
+        "Develops from the 1st branchial arch",
+        "Develops from the 4th branchial arch",
+        "Both A and B",
+        "None of the above"
+      ],
+      "correct_option_id": 2,
+      "explanation": "The thyroid develops from two sources: the median anlage from the pharyngeal floor and the lateral (C-cells) from the ultimobranchial body of the 4th pharyngeal pouch.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Anatomy & Embryology"
+    },
+    {
+      "id": 7010,
+      "question": "Regarding T3:",
+      "options": [
+        "It has a lower concentration than circulating T4",
+        "It is more potent than T4",
+        "It is mostly bound to TBG",
+        "All of the above"
+      ],
+      "correct_option_id": 3,
+      "explanation": "T3 is produced in smaller quantities than T4 but is significantly more biologically active. Like T4, it is largely bound to Thyroid Binding Globulin (TBG) in the blood.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Physiology"
+    },
+    {
+      "id": 7011,
+      "question": "Regarding FNABC, all statements are correct EXCEPT:",
+      "options": [
+        "It is an outpatient procedure",
+        "It is cheap and safe",
+        "It requires general anesthesia",
+        "It cannot differentiate follicular adenoma from carcinoma"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Fine Needle Aspiration Cytology (FNABC) is a simple outpatient procedure performed under local or no anesthesia; it does not require general anesthesia.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Investigations"
+    },
+    {
+      "id": 7012,
+      "question": "Autoimmune manifestations of Graves' disease include the following except:",
+      "options": [
+        "Palmar erythema",
+        "Clubbing (Acropachy)",
+        "Pretibial myxedema",
+        "Exophthalmos"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Exophthalmos, Pretibial Myxedema, and Thyroid Acropachy are specific autoimmune features of Graves'. Palmar erythema is a non-specific sign of thyrotoxicosis.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7013,
+      "question": "C-cells of the thyroid gland:",
+      "options": [
+        "Develop from the ultimobranchial body",
+        "Produce calcitonin",
+        "Are the origin of medullary carcinoma",
+        "All of the above"
+      ],
+      "correct_option_id": 3,
+      "explanation": "C-cells (parafollicular cells) originate from the neural crest (ultimobranchial body), secrete calcitonin, and their malignancy leads to Medullary Thyroid Carcinoma.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Anatomy & Embryology"
+    },
+    {
+      "id": 7014,
+      "question": "Clinical pictures of thyroid carcinoma include:",
+      "options": [
+        "Dyspnea and dysphagia",
+        "Referred otalgia",
+        "Hoarseness",
+        "Lateral aberrant thyroid & Berry's sign",
+        "All of the above"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Thyroid carcinoma may cause pressure symptoms (dyspnea, dysphagia), nerve invasion (hoarseness, ear pain), carotid encasement (Berry’s sign), and lymph node metastasis (lateral aberrant thyroid).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Malignant Thyroid Disease"
+    },
+    {
+      "id": 7015,
+      "question": "Excision of a thyroglossal cyst should include removal of:",
+      "options": [
+        "Thyroid isthmus",
+        "Pyramidal lobe",
+        "Body of the hyoid bone",
+        "Foramen caecum",
+        "Remnants of the thyroglossal duct"
+      ],
+      "correct_option_id": 2,
+      "explanation": "The Sistrunk procedure for thyroglossal cysts requires removing the cyst, the tract, and the central body of the hyoid bone to prevent recurrence.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Congenital Anomalies"
+    },
+    {
+      "id": 7016,
+      "question": "Hashimoto disease may present with:",
+      "options": [
+        "Thyrotoxicosis",
+        "Myxedema",
+        "Goiter",
+        "Any of the above"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Hashimoto's thyroiditis can present with a goiter, myxedema (hypothyroidism), or transient thyrotoxicosis (Hashitoxicosis).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Thyroiditis"
+    },
+    {
+      "id": 7017,
+      "question": "Hoarseness of voice denotes:",
+      "options": [
+        "Compression of the superior laryngeal nerve",
+        "Infiltration of the recurrent laryngeal nerve",
+        "Infiltration of the superior laryngeal nerve",
+        "Tracheal compression"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Infiltration or damage to the recurrent laryngeal nerve paralyzes the vocal cord, causing hoarseness.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Post-operative Complications"
+    },
+    {
+      "id": 7018,
+      "question": "Hypertension in a patient with a family history of medullary thyroid carcinoma is most often due to:",
+      "options": [
+        "Renal artery stenosis",
+        "Glomerulonephritis",
+        "Cushing's syndrome",
+        "Hyperparathyroidism",
+        "Pheochromocytoma"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Medullary thyroid carcinoma is associated with MEN 2A and 2B syndromes, which also include pheochromocytoma, leading to hypertension.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Malignant Thyroid Disease"
+    },
+    {
+      "id": 7019,
+      "question": "Hypothyroidism is most often due to:",
+      "options": [
+        "Multinodular goitre",
+        "Solitary adenoma",
+        "Thyroid cancer",
+        "Chronic thyroiditis",
+        "Iatrogenic causes"
+      ],
+      "correct_option_id": 4,
+      "explanation": "In developed areas, iatrogenic causes (post-surgery, post-radioiodine) and autoimmune destruction (Hashimoto's) are leading causes of hypothyroidism.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Hypothyroidism"
+    },
+    {
+      "id": 7020,
+      "question": "In Hashimoto's disease (Lymphadenoid goiter), which statement is false?",
+      "options": [
+        "It usually affects menopausal women",
+        "It is characterized by uniform smooth enlargement of the gland with hard consistency",
+        "It may be associated with hypothyroidism",
+        "It has a characteristic histological picture",
+        "It is best treated by radiotherapy"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Hashimoto's is treated with hormone replacement or surgery; radiotherapy is not a standard treatment.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Thyroiditis"
+    },
+    {
+      "id": 7021,
+      "question": "In physiological goiter, which statement is false?",
+      "options": [
+        "It affects males more often than females",
+        "It presents as fullness of the neck",
+        "It is characterized by uniform smooth enlargement with fleshy or firm consistency",
+        "It may be associated with toxic or pressure symptoms",
+        "It usually resolves spontaneously"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Physiological goiter (e.g., puberty goiter) is a simple, non-toxic enlargement and does not typically present with toxic symptoms or significant pressure symptoms.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Simple Goiter"
+    },
+    {
+      "id": 7022,
+      "question": "In subacute thyroiditis (de Quervain's disease), it is untrue that it:",
+      "options": [
+        "Is related to viral infection",
+        "Has a sudden onset with fever and painful swelling",
+        "May cause radiating pain in the ear",
+        "Never resolves spontaneously",
+        "Responds well to prednisone"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Subacute thyroiditis is a self-limiting condition that typically resolves spontaneously over months.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Thyroiditis"
+    },
+    {
+      "id": 7023,
+      "question": "In thyroid carcinoma, mediastinal node involvement is a feature of which type?",
+      "options": [
+        "Follicular",
+        "Anaplastic",
+        "Papillary",
+        "Medullary"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Medullary carcinoma is known for aggressive lymphatic spread, often involving mediastinal nodes.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Malignant Thyroid Disease"
+    },
+    {
+      "id": 7024,
+      "question": "Medical treatment of thyrotoxicosis is least useful in:",
+      "options": [
+        "Cases with true exophthalmos",
+        "Pregnant females",
+        "Secondary thyrotoxicosis",
+        "Uncomplicated thyrocardiac patients",
+        "Post-operative recurrence"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Secondary thyrotoxicosis (toxic nodular goiter/adenoma) usually needs definitive treatment—surgery or radioiodine—since antithyroid drugs rarely induce long-term remission.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7025,
+      "question": "The most diagnostic single investigation for toxic adenoma is:",
+      "options": [
+        "T3-T4",
+        "US",
+        "Thyroid scan",
+        "FNABC"
+      ],
+      "correct_option_id": 2,
+      "explanation": "A thyroid radioisotope scan is the key test, showing a 'hot' nodule with suppressed surrounding tissue, confirming toxic adenoma.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Investigations"
+    },
+    {
+      "id": 7026,
+      "question": "On the 5th postoperative day after total thyroidectomy, a patient complains of tingling of the fingertips and has a serum calcium level of 5.5 mg/dL. The next step should be:",
+      "options": [
+        "Observation only",
+        "Administration of vitamin D2 or D3 50,000-100,000 units/day",
+        "Administration of vitamin D3 1-2 μg/day",
+        "Administration of calcium gluconate 3-6 g/day, by slow IV drip"
+      ],
+      "correct_option_id": 3,
+      "explanation": "A serum calcium level of 5.5 mg/dL indicates severe hypocalcemia. Immediate correction with IV calcium gluconate is required to prevent tetany and cardiac complications.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Post-operative Complications"
+    },
+    {
+      "id": 7027,
+      "question": "Preparation of a patient with retrosternal goiter for surgery includes:",
+      "options": [
+        "Neomercazole",
+        "Lugol's iodine",
+        "Propranolol",
+        "A and C"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Beta-blockers like propranolol are used to manage potential hemodynamic stress or cardiovascular symptoms, especially if the patient has toxic components or requires cardiac stabilization.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Simple Goiter"
+    },
+    {
+      "id": 7028,
+      "question": "Presentations of ectopic thyroid include:",
+      "options": [
+        "Dysarthria",
+        "Midline neck swelling",
+        "Myxedema if removed by mistake",
+        "Any of the above"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Ectopic thyroids can cause swelling, speech difficulties (dysarthria), and if it's the only thyroid tissue, its removal can lead to hypothyroidism (myxedema).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Congenital Anomalies"
+    },
+    {
+      "id": 7029,
+      "question": "Recurrent goiter may be due to:",
+      "options": [
+        "Inadequate initial removal",
+        "Persistence of etiology",
+        "Foreign body reaction",
+        "Any of the above"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Recurrence can occur due to insufficient tissue removal, persistent underlying cause (e.g., TSH stimulation), or complications like granuloma formation.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Simple Goiter"
+    },
+    {
+      "id": 7030,
+      "question": "Sporadic goiter may occur due to the following except:",
+      "options": [
+        "Cabbage",
+        "Water pollution by excreta",
+        "Iodine deficiency",
+        "Perchlorates"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Iodine deficiency causes 'Endemic' goiter. 'Sporadic' goiter affects individuals and is caused by goitrogens, congenital defects, or pollutants.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Simple Goiter"
+    },
+    {
+      "id": 7031,
+      "question": "The best routine treatment for multinodular goiter is:",
+      "options": [
+        "Hemithyroidectomy",
+        "Partial thyroidectomy",
+        "Bilateral wedge resection",
+        "Subtotal thyroidectomy",
+        "Thyroxine administration"
+      ],
+      "correct_option_id": 3,
+      "explanation": "For multinodular goiter, subtotal thyroidectomy is traditionally performed to remove the bulk of the diseased tissue while preserving some function. Total thyroidectomy is increasingly favored.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Simple Goiter"
+    },
+    {
+      "id": 7032,
+      "question": "The correct sequence of events for the metabolism of iodine and synthesis of thyroid hormone is:",
+      "options": [
+        "Trapping, organification, coupling, release, oxidation",
+        "Oxidation, trapping, coupling, organification, release",
+        "Coupling, organification, trapping, oxidation, release",
+        "Trapping, coupling, oxidation, release, organification",
+        "Trapping, oxidation, organification, coupling, release"
+      ],
+      "correct_option_id": 4,
+      "explanation": "The process involves iodine trapping by the thyroid, oxidation, organification (binding to thyroglobulin), coupling of iodotyrosines, and finally release of thyroid hormones.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Physiology"
+    },
+    {
+      "id": 7033,
+      "question": "The daily requirement of iodine is:",
+      "options": [
+        "60-70 mcg",
+        "80-90 mcg",
+        "100-125 mcg",
+        "50-165 mcg",
+        "None of the above"
+      ],
+      "correct_option_id": 2,
+      "explanation": "The typical adult daily iodine requirement is approximately 100-150 micrograms (mcg).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Physiology"
+    },
+    {
+      "id": 7034,
+      "question": "The following statements about thyroglossal cysts are true except:",
+      "options": [
+        "They usually present as midline neck swelling",
+        "They may be confused with ectopic thyroid",
+        "The best treatment is follow-up",
+        "They should be excised completely due to potential complications"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Thyroglossal cysts require surgical excision due to the risk of infection and potential malignancy; observation is not recommended.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Congenital Anomalies"
+    },
+    {
+      "id": 7035,
+      "question": "The following statements about treatment of thyrotoxicosis by radioactive iodine are true except that it:",
+      "options": [
+        "Is contraindicated in patients below the age of 40",
+        "Is particularly useful in elderly and thyrocardiac patients",
+        "Produces its beneficial effects within a few days",
+        "May be followed by myxedema",
+        "Carries the risk of late occurrence of thyroid cancer"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Radioactive iodine (RAI) takes weeks to months to show full clinical benefit, not a few days.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7036,
+      "question": "The following statements regarding TSH measurement are true except:",
+      "options": [
+        "It is increased after total thyroidectomy",
+        "Normal TSH is about 5 microunits/liter",
+        "It is the most sensitive test for mild cases",
+        "All of the above"
+      ],
+      "correct_option_id": 1,
+      "explanation": "While TSH levels vary, a normal range is typically lower than 5 microunits/liter (often around 0.4-4.0). A level of 5 might be considered high.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Investigations"
+    },
+    {
+      "id": 7037,
+      "question": "The following type of thyroiditis mimics malignancy:",
+      "options": [
+        "Hashimoto thyroiditis",
+        "Riedel's thyroiditis",
+        "De Quervain's thyroiditis",
+        "All of the above"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Riedel's thyroiditis, characterized by dense fibrosis, can present as a hard, fixed mass that closely mimics hard, invasive carcinoma.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Thyroiditis"
+    },
+    {
+      "id": 7038,
+      "question": "The most common cause of goitrous hypothyroidism in adults is:",
+      "options": [
+        "Graves' disease",
+        "Riedel's thyroiditis",
+        "Hashimoto's disease",
+        "De Quervain's thyroiditis"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Hashimoto's disease is the leading cause of hypothyroidism in iodine-sufficient areas and typically presents with a firm, enlarged thyroid (goiter).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Hypothyroidism"
+    },
+    {
+      "id": 7039,
+      "question": "The most common site of a thyroglossal cyst is:",
+      "options": [
+        "Subhyoid",
+        "Suprahyoid",
+        "Sublingual",
+        "At the thyroid cartilage"
+      ],
+      "correct_option_id": 0,
+      "explanation": "The subhyoid position is the most frequent location for thyroglossal cysts along their developmental tract.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Congenital Anomalies"
+    },
+    {
+      "id": 7040,
+      "question": "The most frequent cause of primary hyperparathyroidism is:",
+      "options": [
+        "Parathyroid adenoma",
+        "Idiopathic parathyroid hyperplasia",
+        "Primary parathyroid carcinoma",
+        "Familial hyperparathyroidism",
+        "Ectopic production of parathormone"
+      ],
+      "correct_option_id": 0,
+      "explanation": "A single parathyroid adenoma accounts for approximately 85% of primary hyperparathyroidism cases.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Parathyroid & Calcium"
+    },
+    {
+      "id": 7041,
+      "question": "The most frequent variety of thyroid cancer is:",
+      "options": [
+        "Follicular carcinoma",
+        "Papillary carcinoma",
+        "Anaplastic carcinoma",
+        "Medullary carcinoma"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Papillary carcinoma constitutes about 80-85% of all thyroid cancers.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Malignant Thyroid Disease"
+    },
+    {
+      "id": 7042,
+      "question": "The term 'lateral aberrant thyroid' really implies:",
+      "options": [
+        "Congenital aberrant thyroid tissue lateral to the thyroid",
+        "A metastasis in a cervical lymph node from an occult thyroid carcinoma",
+        "A metastasis from carcinoma of the larynx",
+        "A type of branchial cyst",
+        "An implanted thyroid piece in a thyroidectomy scar"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Historically mistaken for ectopic tissue, 'lateral aberrant thyroid' is now understood to be a lymph node metastasis from a differentiated thyroid carcinoma.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Malignant Thyroid Disease"
+    },
+    {
+      "id": 7043,
+      "question": "Thyroid carcinoma during pregnancy, the appropriate treatment is:",
+      "options": [
+        "Radioiodine 131",
+        "Chemotherapy",
+        "Surgery",
+        "Wait for delivery"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Surgery (thyroidectomy) can be safely performed during pregnancy. Radioactive iodine is contraindicated due to fetal thyroid damage.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Malignant Thyroid Disease"
+    },
+    {
+      "id": 7044,
+      "question": "Thyroid disease treatment:",
+      "options": [
+        "Lymphoma -> irradiation and chemotherapy",
+        "Follicular adenoma -> lobectomy",
+        "Follicular carcinoma -> total thyroidectomy and radioiodine",
+        "// // → completion thyroidectomy + radioiodine; autonomous nodule >45 years → radioiodine.",
+        "All of the above"
+      ],
+      "correct_option_id": 4,
+      "explanation": "All listed treatments are standard for their respective conditions.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Malignant Thyroid Disease"
+    },
+    {
+      "id": 7045,
+      "question": "Thyrotoxicosis during pregnancy is best treated by:",
+      "options": [
+        "Subtotal thyroidectomy",
+        "Carbimazole",
+        "Beta blockers",
+        "Lugol's iodine",
+        "Radioiodine"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Medical management with antithyroid drugs like carbimazole is the treatment of choice. PTU is preferred in the first trimester.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7046,
+      "question": "Thyrotoxicosis in children, all statements are correct except:",
+      "options": [
+        "Usually goes into spontaneous remission",
+        "Medical treatment alone can control the disease",
+        "Radioactive iodine is the ideal treatment",
+        "Thyroidectomy should be near total to avoid recurrence"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Radioactive iodine is generally avoided in children due to potential long-term risks. Medical treatment or surgery is preferred.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7047,
+      "question": "Toxic goiter has the following signs except:",
+      "options": [
+        "Flapping tremors of the hand",
+        "Exophthalmos",
+        "Diarrhea",
+        "Menstrual irregularities"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Toxic goiter causes fine, rapid tremors. Flapping tremors (asterixis) are associated with liver or renal failure.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7048,
+      "question": "True statements about papillary carcinoma of the thyroid do not include that it:",
+      "options": [
+        "Often affects adolescents",
+        "Is a slow-growing tumor",
+        "May be hormone dependent",
+        "Metastasizes early via the bloodstream",
+        "Is radioresistant"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Papillary carcinoma primarily spreads via lymphatics. Hematogenous spread is rare and more characteristic of follicular carcinoma.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Malignant Thyroid Disease"
+    },
+    {
+      "id": 7049,
+      "question": "Voice fatigue after thyroidectomy is due to injury to which nerve?",
+      "options": [
+        "Superior laryngeal",
+        "External laryngeal",
+        "Internal laryngeal",
+        "Recurrent laryngeal",
+        "Vagus"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Injury to the external branch of the superior laryngeal nerve affects the cricothyroid muscle, leading to voice fatigue and loss of high pitch.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Post-operative Complications"
+    },
+    {
+      "id": 7050,
+      "question": "A 'warm' nodule means:",
+      "options": [
+        "Inactive nodule",
+        "Usually cancerous",
+        "Active nodule",
+        "Toxic adenoma"
+      ],
+      "correct_option_id": 2,
+      "explanation": "A 'warm' nodule takes up isotope similarly to normal thyroid tissue, indicating activity. A 'hot' nodule is hyperactive (toxic).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Investigations"
+    },
+    {
+      "id": 7051,
+      "question": "Which of the following statements regarding follicular adenoma is true:",
+      "options": [
+        "It presents clinically as a solitary nodule",
+        "Distinction between follicular adenoma and carcinoma can only be made by histological examination",
+        "In adenoma, there is no invasion of the capsule or pericapsular blood vessels",
+        "Preferred treatment is lobectomy",
+        "All of the above"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Follicular adenomas cannot be definitively distinguished from carcinoma by FNA; histological examination showing lack of capsular/vascular invasion is diagnostic. Lobectomy is the preferred treatment.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Malignant Thyroid Disease"
+    },
+    {
+      "id": 7052,
+      "question": "Which of the following treatment schedules for diffuse toxic goiter is true?",
+      "options": [
+        "Over 45 years: radioactive iodine",
+        "Under 45 years with large goiter: surgery",
+        "Under 45 years with small goiter: antithyroid drugs",
+        "None of the above",
+        "All of the above"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Standard treatment: antithyroid drugs for young/mild cases, surgery for large goiters or refusal of other options, radioiodine for older patients or high surgical risk.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Thyroid",
+      "chapter": "Thyrotoxicosis"
+    }
+  ]
+}

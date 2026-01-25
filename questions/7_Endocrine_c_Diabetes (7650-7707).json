@@ -1,0 +1,957 @@
+{
+  "meta": {
+    "source": "Term 7 - Endocrine",
+    "lesson": "Diabetes"
+  },
+  "questions": [
+    {
+      "id": 7650,
+      "question": "A 24-year-old woman with Type 1 diabetes (6 years) on insulin asks about congenital malformation risk. What is the relative risk in infants of diabetic mothers compared with non-diabetics?",
+      "options": [
+        "No increased risk",
+        "2-4 fold increased risk",
+        "8-10 fold",
+        "6-8 fold",
+        "> 10-fold increased risk"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Maternal diabetes with suboptimal control during organogenesis increases the risk of congenital malformations (e.g., cardiac, neural tube) by 2-4 fold compared to the general population.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Pregnancy & Diabetes"
+    },
+    {
+      "id": 7651,
+      "question": "A 30-year-old man with insulin-dependent diabetes and hypothyroidism develops fatigue, weight loss, and increasing pigmentation of the skin and buccal mucosa. The most likely cause of the recent complaint is:",
+      "options": [
+        "Vitiligo.",
+        "Pan hypopituitarism.",
+        "Addison's disease.",
+        "Celiac disease.",
+        "Peutz-jeghers syndrome."
+      ],
+      "correct_option_id": 2,
+      "explanation": "This indicates Schmidt's Syndrome (APS Type 2): T1DM, Thyroid disease, and Addison's. Adrenal insufficiency increases ACTH, causing hyperpigmentation, fatigue, and weight loss.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Comorbidities"
+    },
+    {
+      "id": 7652,
+      "question": "A 46-year-old male presents to the clinic. He complains of excessive flatulence following starting a new agent for management of his type II diabetes mellitus. He has no other past medical history. What drug is most likely implicated:",
+      "options": [
+        "Glibenclamide",
+        "Gliclazide",
+        "Acarbose",
+        "Sitagliptin",
+        "Empagliflozin"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Acarbose inhibits alpha-glucosidase, reducing gut carbohydrate absorption. Fermentation of undigested carbs by colonic bacteria causes significant flatulence.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Pharmacology"
+    },
+    {
+      "id": 7653,
+      "question": "Acanthosis nigricans is skin lesion may be associated with:",
+      "options": [
+        "Hypoparathyroidism",
+        "Insulin resistance",
+        "Hypercholesterolemia",
+        "Microadenoma of pituitary",
+        "Hyperprolactinemia"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Acanthosis nigricans presents as dark, velvety skin markings in body folds. It is strongly associated with states of insulin resistance, such as Type 2 Diabetes and Obesity.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Clinical Features"
+    },
+    {
+      "id": 7654,
+      "question": "All of the following are risk factors for type 2 diabetes mellitus EXCEPT:",
+      "options": [
+        "BMI above 25 kg/m2",
+        "Delivery of a baby more than 3.5 kg",
+        "HDL level below 35 mg/dl.",
+        "Hemoglobin A1c 5.7-6.4%",
+        "Systemic hypertension"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Risk factors include gestational diabetes or macrosomia (>4kg). A 3.5kg birth weight is normal. High BMI, low HDL, and hypertension are established risk factors.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Risk Factors"
+    },
+    {
+      "id": 7655,
+      "question": "All typical features of central DI EXCEPT:",
+      "options": [
+        "Specific gravity less than 1005 with decrease urine osmolality and increase plasma osmolality.",
+        "Onset following basal meningitis & hypothalamic trauma.",
+        "Decrease renal responsiveness to ADH."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Decreased renal responsiveness to ADH is the definition of Nephrogenic Diabetes Insipidus, not Central DI. Central DI is caused by a failure of ADH secretion (pituitary/hypothalamic pathology).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Diabetes Insipidus"
+    },
+    {
+      "id": 7656,
+      "question": "Autoimmune destruction of pancreatic \u03b2 cells is the pathogenic factor in development of:",
+      "options": [
+        "Type I DM",
+        "Type II DM",
+        "Gestational DM",
+        "Bronzed DM",
+        "Secondary DM"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Type 1 Diabetes Mellitus results from a T-cell mediated autoimmune destruction of the insulin-secreting beta cells in the pancreas, leading to absolute insulin deficiency.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Pathophysiology"
+    },
+    {
+      "id": 7657,
+      "question": "Causes of DI include all of the following EXCEPT:",
+      "options": [
+        "Craniopharyngioma.",
+        "Sarcoidosis.",
+        "Sever hypocalcemia.",
+        "Sever increase in Ca & decrease in K."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Severe hypercalcemia and hypokalemia can cause Nephrogenic Diabetes Insipidus. However, hypocalcemia (low calcium) does not cause DI and is the correct exception.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Diabetes Insipidus"
+    },
+    {
+      "id": 7658,
+      "question": "Causes of nephrogenic DI include all of the following EXCEPT:",
+      "options": [
+        "Lithium therapy.",
+        "Heavy metal poisoning.",
+        "Demeclocycline.",
+        "Cloropropamide."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Lithium, heavy metals, and Demeclocycline cause Nephrogenic DI. Chlorpropamide treats partial Central DI by potentiating ADH action.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Diabetes Insipidus"
+    },
+    {
+      "id": 7659,
+      "question": "Clinical picture of diabetes insipidus include:",
+      "options": [
+        "Polyuria.",
+        "Galactorrhea.",
+        "Polyphagia.",
+        "Polydipsia."
+      ],
+      "correct_option_id": 0,
+      "explanation": "The hallmark of Diabetes Insipidus is polyuria (large dilute urine volume), leading to secondary polydipsia (thirst). Polyphagia is a symptom of Diabetes Mellitus.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Diabetes Insipidus"
+    },
+    {
+      "id": 7660,
+      "question": "Clinical picture of type I diabetes mellitus include all EXCEPT:",
+      "options": [
+        "Polyuria & polydipsia.",
+        "Loss of weight.",
+        "Increased susceptibility to infection.",
+        "Morning stiffness."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Classical Type 1 DM symptoms are polyuria, polydipsia, and weight loss. Morning stiffness is typical of inflammatory arthritis, not diabetes.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Clinical Features"
+    },
+    {
+      "id": 7661,
+      "question": "Complications of diabetes mellitus include:",
+      "options": [
+        "Lipohypertrophy.",
+        "Photosensitivity with oral hypoglycaemic agents.",
+        "An isolated cranial nerve palsy.",
+        "Necrobiosis lipoidica diabeticorum.",
+        "All of the above"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Complications include lipohypertrophy, drug-induced photosensitivity, mononeuropathies, and necrobiosis lipoidica. All listed options are recognized associations.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Complications"
+    },
+    {
+      "id": 7662,
+      "question": "Diabetic ketoacidosis caused by:",
+      "options": [
+        "Insulin deficiency.",
+        "Glucagon colitis.",
+        "Both."
+      ],
+      "correct_option_id": 0,
+      "explanation": "DKA is primarily driven by absolute or relative insulin deficiency. (Note: Option 'b' likely refers to 'Glucagon excess', but the answer key selects 'Insulin deficiency' as the primary driver here).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Acute Complications"
+    },
+    {
+      "id": 7663,
+      "question": "Diabetic ketoacidosis is caused by:",
+      "options": [
+        "Insulin deficiency.",
+        "Glucagon excess.",
+        "Both."
+      ],
+      "correct_option_id": 2,
+      "explanation": "The pathophysiology of DKA involves both severe insulin deficiency and an excess of counter-regulatory hormones, particularly glucagon, which drives ketogenesis and gluconeogenesis.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Acute Complications"
+    },
+    {
+      "id": 7664,
+      "question": "Diabetic ketoacidosis is characterized by:",
+      "options": [
+        "Rapid respiration.",
+        "Dehydration.",
+        "Rapid small pulse.",
+        "All of the above."
+      ],
+      "correct_option_id": 3,
+      "explanation": "DKA presents with Kussmaul respirations (rapid, deep breathing to compensate for acidosis), profound dehydration due to osmotic diuresis, and tachycardia (rapid pulse) as a sign of volume depletion.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Acute Complications"
+    },
+    {
+      "id": 7665,
+      "question": "Diabetic ketoacidosis is treated by:",
+      "options": [
+        "IV fluid.",
+        "K.",
+        "Both."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Management of DKA rests on three pillars: Intravenous fluids for resuscitation, Insulin to stop ketogenesis, and Electrolyte replacement (especially Potassium, as insulin shifts K+ into cells).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Management"
+    },
+    {
+      "id": 7666,
+      "question": "Diabetic nephropathy not associated with:",
+      "options": [
+        "Hypotension",
+        "Anaemia.",
+        "Retinopathy.",
+        "Cardiovascular disease.",
+        "Nephrotic syndrome."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Diabetic nephropathy is associated with hypertension (accelerates damage), anemia (low EPO), retinopathy, and cardiovascular disease. Hypotension is not a typical feature.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Chronic Complications"
+    },
+    {
+      "id": 7667,
+      "question": "Diagnostic Criteria for Diabetes Mellitus include the following EXCEPT:",
+      "options": [
+        "Fasting plasma glucose> 126 (mg/dL)",
+        "Oral glucose tolerance test\u2265 200 (mg/dL)",
+        "Glycosylated hemoglobin\u2265 6.5 (HbA1c [%])",
+        "C-peptide level 5.7 (mg/dL)",
+        "Random blood glucose level\u2265 200 (mg/dL) + classic symptoms"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Standard criteria: FPG \u2265 126, OGTT \u2265 200, HbA1c \u2265 6.5%, or Random \u2265 200 with symptoms. C-peptide distinguishes type but is not diagnostic for DM itself.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Diagnosis"
+    },
+    {
+      "id": 7668,
+      "question": "Drugs that mimicking the prandial and post-prandial release of insulin:",
+      "options": [
+        "Sulfonylureas.",
+        "Incretin inhibitors.",
+        "Meglitinide analogues.",
+        "Thiazolidine diones.",
+        "Metformin."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Meglitinide analogues (e.g., Repaglinide) are short-acting insulin secretagogues designed to stimulate rapid insulin release, mimicking the physiological prandial surge.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Pharmacology"
+    },
+    {
+      "id": 7669,
+      "question": "Gluconeogenesis is a process of generation of glucose from non-glucose sources such as amino-acids, glycerol, fatty acids, and lactate. Which one of the following organs participates in the process of gluconeogenesis in human beings:",
+      "options": [
+        "Liver and adipose tissue",
+        "Liver and kidney",
+        "Liver and pancreas",
+        "Pancreas and adipose tissue",
+        "Pancreas and muscles"
+      ],
+      "correct_option_id": 1,
+      "explanation": "The liver is the main site. The kidney cortex also has enzymes like glucose-6-phosphatase and contributes to gluconeogenesis, especially during prolonged starvation.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Pathophysiology"
+    },
+    {
+      "id": 7670,
+      "question": "HbA1c assess blood glucose in previous 3 months while glycated albumin assess:",
+      "options": [
+        "Previous 2 months",
+        "Previous 2 weeks",
+        "Previous 2 days",
+        "Previous 2 hours",
+        "Previous 12 hours"
+      ],
+      "correct_option_id": 1,
+      "explanation": "HbA1c reflects glucose control over the lifespan of red blood cells (approx. 3 months). Glycated albumin reflects the half-life of serum albumin, which is about 2 to 3 weeks.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Diagnosis"
+    },
+    {
+      "id": 7671,
+      "question": "Hypertriglyceridemia is the common pattern of dyslipidemia in diabetes; it is a risk factor for:",
+      "options": [
+        "Atherosclerosis",
+        "IHD ischemic heart disease",
+        "Stroke",
+        "Acute pancreatitis",
+        "Porphyria"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Severe hypertriglyceridemia (often seen in uncontrolled diabetes) is a direct and well-known cause of acute pancreatitis.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Complications"
+    },
+    {
+      "id": 7672,
+      "question": "Immune mediated DM is present in:",
+      "options": [
+        "Type I.",
+        "Type 2.",
+        "Both."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Immune-mediated diabetes refers specifically to Type 1 DM (Type 1A), where autoantibodies destroy pancreatic beta cells.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Pathophysiology"
+    },
+    {
+      "id": 7673,
+      "question": "In diabetic ketoacidosis treatment is by the following EXCEPT:",
+      "options": [
+        "K.",
+        "Oral hypoglycemic.",
+        "IV fluid."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Oral hypoglycemic agents have no role in the acute management of DKA. Treatment strictly requires IV fluids, IV insulin, and electrolyte correction (potassium).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Management"
+    },
+    {
+      "id": 7674,
+      "question": "In diabetic ketoacidosis; one is false:",
+      "options": [
+        "Hypotonic saline is the fluid replacement most often indicated.",
+        "Large volumes of fluid may be needed.",
+        "Precipitating episode may be a urinary tract infection.",
+        "Abdominal pain may be a prominent symptom.",
+        "Potassium supplementation is required."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Isotonic saline (0.9% NaCl) is the initial fluid for DKA resuscitation to restore volume. Hypotonic saline is not the standard starting fluid.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Management"
+    },
+    {
+      "id": 7675,
+      "question": "In the very early stage of diabetic nephropathy there is:",
+      "options": [
+        "Increase GFR.",
+        "Urea and creatinine.",
+        "Proteinuria."
+      ],
+      "correct_option_id": 0,
+      "explanation": "The initial functional change in diabetic nephropathy is glomerular hyperfiltration, leading to an increased GFR. This precedes microalbuminuria and the eventual decline in renal function.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Chronic Complications"
+    },
+    {
+      "id": 7676,
+      "question": "In type 2 DM, preferred drug for blood pressure control is:",
+      "options": [
+        "Calcium channel blockers",
+        "Alpha blockers",
+        "Beta blockers",
+        "ACE inhibitors",
+        "Vasodilators"
+      ],
+      "correct_option_id": 3,
+      "explanation": "ACE inhibitors (and ARBs) are the preferred antihypertensives in diabetics because they provide renoprotection by reducing intraglomerular pressure and slowing the progression of nephropathy.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Management"
+    },
+    {
+      "id": 7677,
+      "question": "In type II diabetes mellitus insulin resistance is increased by:",
+      "options": [
+        "Exercise.",
+        "Obesity.",
+        "Metformin."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Obesity (visceral adiposity) increases free fatty acids and inflammation, worsening insulin resistance. Exercise and metformin improve sensitivity.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Pathophysiology"
+    },
+    {
+      "id": 7678,
+      "question": "Insulin induced hypoglycemia all are true EXCEPT:",
+      "options": [
+        "Best terminated as soon as 9 mm.",
+        "Sever hypoglycemic symptoms.",
+        "Contra indicated in IND & epilepsy.",
+        "Contra indicated in severe hypopituitarism.",
+        "Test hypothalamic pituitary tract mandatory to confirm diagnosis."
+      ],
+      "correct_option_id": 2,
+      "explanation": "The Insulin Tolerance Test assesses pituitary function but is hazardous. It is contraindicated in epilepsy and ischemic heart disease due to stress and seizure risk.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Acute Complications"
+    },
+    {
+      "id": 7679,
+      "question": "Islet \u03b2-cells secrete:",
+      "options": [
+        "Somatostatin",
+        "C-peptide",
+        "Glucagon",
+        "Pancreatic lipase",
+        "Melanocyte stimulating hormone"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Pancreatic Beta cells secrete insulin and C-peptide in equimolar amounts (as byproducts of proinsulin cleavage). Alpha cells secrete glucagon, and Delta cells secrete somatostatin.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Physiology"
+    },
+    {
+      "id": 7680,
+      "question": "Metformin is widely used in diabetes, in addition to its hypoglycemic effect can be used for:",
+      "options": [
+        "Losing weight",
+        "Insulin blocker",
+        "Stimulate appetite",
+        "Stimulate hepatic glucose production",
+        "Diabetes insipidus"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Metformin is weight-neutral or can cause modest weight loss, making it particularly useful in obese Type 2 diabetics. It decreases hepatic glucose production rather than stimulating it.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Pharmacology"
+    },
+    {
+      "id": 7681,
+      "question": "New drug in treatment of diabetes mellitus is:",
+      "options": [
+        "Acarbose.",
+        "Metformin.",
+        "Gliclazide."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Compared to older sulfonylureas and biguanides, Acarbose is considered newer in historical context, though SGLT2/GLP-1 agents are now current.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Pharmacology"
+    },
+    {
+      "id": 7682,
+      "question": "Obese, diabetic female (5 years duration) On maximum dose of an oral hypoglycemic drug. Recently her blood sugar is badly controlled (200 mg fasting - 390 mg P.P) with drugs. The best management is:",
+      "options": [
+        "Change to insulin therapy all through.",
+        "Combination of different types of oral hypoglycemic drugs"
+      ],
+      "correct_option_id": 1,
+      "explanation": "For an obese patient failing monotherapy, adding a second oral agent is preferred to avoid insulin-induced weight gain.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Management"
+    },
+    {
+      "id": 7683,
+      "question": "One of the following does not cause diabetes insipidus:",
+      "options": [
+        "DIDMOAD syndrome",
+        "Severe hypocalcemia",
+        "Craniopharyngioma",
+        "Sarcoidosis",
+        "Cranial radiotherapy"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Severe hypercalcemia (high calcium) can cause nephrogenic DI. Hypocalcemia (low calcium) is not a cause. DIDMOAD, Craniopharyngioma, Sarcoidosis, and Radiotherapy can cause central DI.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Diabetes Insipidus"
+    },
+    {
+      "id": 7684,
+      "question": "One of the following is not true about diabetes insipidus:",
+      "options": [
+        "Daily urine volume is >50 mL/kg body weight",
+        "Urine osmolarity is <300 mosmol/L",
+        "Dehydration is common",
+        "Enuresis is common",
+        "May be central or peripheral"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Classic DI features are polyuria and polydipsia. While enuresis can occur, it is less defining than the rigorous physiological criteria of volume and osmolarity.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Diabetes Insipidus"
+    },
+    {
+      "id": 7685,
+      "question": "Polyuria (Polydipsia) dehydration may be due:",
+      "options": [
+        "Diabetes mellitus.",
+        "Diabetes insipidus.",
+        "Severe Hypercalcemia.",
+        "All of the above.",
+        "None of the above."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Polyuria and polydipsia are shared symptoms of DM (osmotic diuresis from glucose), DI (lack of ADH effect), and severe Hypercalcemia (which causes nephrogenic DI).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Differential Diagnosis"
+    },
+    {
+      "id": 7686,
+      "question": "Prediabetes is characterized by:",
+      "options": [
+        "FBS (100-125mg/dl) 2-h PG (140-199mg/dl) HbA1c (5.3%-6%)",
+        "FBS (110-126mg/dl) 2-h PG (140-199mg/dl) HbA1c (5.7%-6%)",
+        "FBS (100-125mg/dl) 2-h PG (140-199 mg/dl) HbA1c (5.7%-6.4%)",
+        "FBS (>125mg/dl) 2-h PG (120-140 mg/dl) HbA1c (5.3%-6.7%)",
+        "FBS (100-125mg/dl) 2-h PG (110-140mg/dl) HbA1c (5.7%-6.4%)"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Standard Prediabetes criteria are: Fasting Glucose 100-125 mg/dL, 2-hour Post-prandial 140-199 mg/dL, and HbA1c 5.7% - 6.4%.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Diagnosis"
+    },
+    {
+      "id": 7687,
+      "question": "Secondary diabetes may be caused by the following EXCEPT:",
+      "options": [
+        "Acute pancreatitis.",
+        "Insulinoma.",
+        "Glucagonoma."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Insulinoma is an insulin-secreting tumor leading to hypoglycemia. It does not cause Diabetes (which is hyperglycemia). Pancreatitis and Glucagonoma can cause secondary diabetes.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Secondary Diabetes"
+    },
+    {
+      "id": 7688,
+      "question": "The best treatment of type I diabetes Mellitus is:",
+      "options": [
+        "Oral hypoglycemic drugs.",
+        "Insulin.",
+        "Low caloric diet."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Type 1 DM is characterized by absolute insulin deficiency. The only effective treatment is exogenous insulin replacement. Oral hypoglycemic drugs are generally ineffective.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Management"
+    },
+    {
+      "id": 7689,
+      "question": "The criteria for the diagnosis of DKA include the following EXCEPT:",
+      "options": [
+        "Hyperglycemia (blood glucose >200 mg/dl)",
+        "Serum bicarbonate <15 mmol/ (metabolic acidosis).",
+        "Ketonemia or ketonuria.",
+        "Venous pH <7.3",
+        "Coma"
+      ],
+      "correct_option_id": 4,
+      "explanation": "The diagnostic triad for DKA is Hyperglycemia, Ketosis, and Acidosis (pH <7.3, Bicarb <15). Coma is a clinical sign of severity but is not required for diagnosis (most patients are conscious).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Acute Complications"
+    },
+    {
+      "id": 7690,
+      "question": "The drug of choice In severe ketoacidosis is:",
+      "options": [
+        "Glibenclamide",
+        "NPH insulin",
+        "Soluble (regular) insulin",
+        "Ultralent insulin",
+        "Long-acting insulin."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Short-acting Soluble (Regular) Insulin is the drug of choice for DKA because it can be administered intravenously for rapid effect and precise titration.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Management"
+    },
+    {
+      "id": 7691,
+      "question": "The first line of therapy of DKA is:",
+      "options": [
+        "Insulin",
+        "Sodium bicarbonate",
+        "IV fluids",
+        "Potassium therapy",
+        "Antibiotics"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Immediate volume resuscitation with IV fluids is the first and most critical step in DKA management to restore tissue perfusion and help clear glucose and ketones renally.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Management"
+    },
+    {
+      "id": 7692,
+      "question": "The following clinical feature of diabetes insipidus is false:",
+      "options": [
+        "Daily urine volume is >50 mL/kg body weight-",
+        "Urine osmolarity is <300 mosmol/L",
+        "Dehydration is common",
+        "Enuresis is common",
+        "Polydipsia"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Classic features are polyuria (dilute urine) and polydipsia. Enuresis is not as defining or universal a feature as the physiological signs.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Diabetes Insipidus"
+    },
+    {
+      "id": 7693,
+      "question": "The initial treatment of obese type II diabetes mellitus is:",
+      "options": [
+        "Sulfonylureas.",
+        "biguanides.",
+        "Weight reduction."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Lifestyle modifications, specifically diet and weight reduction, are the first-line intervention for obese Type 2 diabetics before pharmacotherapy is initiated.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Management"
+    },
+    {
+      "id": 7694,
+      "question": "The insulin that can be administered intravenously is:",
+      "options": [
+        "Soluble (regular) insulin",
+        "Isophane (NPH) insulin",
+        "Lente insuline",
+        "Semilent insuline",
+        "Long-acting insulin"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Soluble (Regular) insulin is the only traditional formulation clear and safe for intravenous use. Cloudy suspensions like NPH and Lente must never be given IV.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Pharmacology"
+    },
+    {
+      "id": 7695,
+      "question": "The main route of administration of insulin is:",
+      "options": [
+        "Intravenous",
+        "Subcutanoues.",
+        "Intramuscular.",
+        "Orally",
+        "Sublingual"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Subcutaneous injection is the standard route for routine daily insulin administration. IV is reserved for emergencies like DKA.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Management"
+    },
+    {
+      "id": 7696,
+      "question": "The most serious short-term complication of diabetes is:",
+      "options": [
+        "Retinopathy.",
+        "Nephropathy",
+        "Hypoglycemia",
+        "Heart disease",
+        "Neuropathy"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Hypoglycemia (especially if severe) is the most dangerous short-term complication because it can rapidly lead to loss of consciousness, seizures, brain damage, and death if untreated.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Acute Complications"
+    },
+    {
+      "id": 7697,
+      "question": "Type II diabetes mellitus is associated with:",
+      "options": [
+        "Insulin resistance.",
+        "Cell defect.",
+        "Both."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Type 2 DM is caused by a combination of peripheral insulin resistance (decreased sensitivity) and beta-cell dysfunction (inability to secrete enough insulin to overcome resistance).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Pathophysiology"
+    },
+    {
+      "id": 7698,
+      "question": "Type II DM may need (may be treated with):",
+      "options": [
+        "Oral hypoglycemic.",
+        "Insulin.",
+        "Both."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Type 2 DM is a progressive disease. Patients may start on oral hypoglycemic agents but may eventually require insulin (alone or in combination) as beta-cell function declines.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Management"
+    },
+    {
+      "id": 7699,
+      "question": "Type of diabetes mellitus resulting from autoimmune beta cell destruction is:",
+      "options": [
+        "Type 2",
+        "MODy 1",
+        "Type 1",
+        "MODY 2",
+        "In association with PCO"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Type 1 Diabetes Mellitus is defined by the autoimmune destruction of pancreatic beta cells, confirmed by the presence of autoantibodies (e.g., GAD65, IA-2).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Pathophysiology"
+    },
+    {
+      "id": 7700,
+      "question": "Type of insulin which can be given IV is:",
+      "options": [
+        "Regular soluble insulin",
+        "Isoplane",
+        "Lente",
+        "Semilente",
+        "Insulin glargine"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Regular (Soluble) insulin is the specific formulation used for intravenous infusion. Long-acting analogs like Glargine or suspensions like Lente cannot be given IV.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Pharmacology"
+    },
+    {
+      "id": 7701,
+      "question": "When ---------------- is combined with Insulin severe edema occurs.",
+      "options": [
+        "Rosiglitazone.",
+        "Pioglitazone.",
+        "Metformin.",
+        "Tolbutamide.",
+        "Tolbutamid"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Thiazolidinediones (Rosiglitazone) cause fluid retention. Combined with insulin, this synergistically increases the risk of severe edema and heart failure.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Pharmacology"
+    },
+    {
+      "id": 7702,
+      "question": "Which of the following clinical features of diabetes insipidus is false?",
+      "options": [
+        "Daily urine volume is >50 mL/kg body weight",
+        "Urine osmolarity is <300 mosmol/L",
+        "Dehydration is common",
+        "Enuresis is common",
+        "Polydipsia"
+      ],
+      "correct_option_id": 3,
+      "explanation": "While bedwetting can happen, it is not considered as cardinal or universal a feature as polyuria (dilute urine), polydipsia (thirst), and susceptibility to dehydration.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Diabetes Insipidus"
+    },
+    {
+      "id": 7703,
+      "question": "Which one of the following processes is responsible for ketone production during diabetic ketoacidosis?",
+      "options": [
+        "Glycogenolysis",
+        "Exchange with hydrogen ions in the collecting ducts",
+        "Gluconeogenesis",
+        "Decreased plasma bicarbonate levels",
+        "Lipolysis"
+      ],
+      "correct_option_id": 4,
+      "explanation": "In the absence of insulin, unrestrained lipolysis occurs in adipose tissue. This releases large amounts of free fatty acids, which travel to the liver and are converted into ketone bodies.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Pathophysiology"
+    },
+    {
+      "id": 7704,
+      "question": "Which one preparation of insulin can be given intravenously?",
+      "options": [
+        "Insuline glargine",
+        "Humiline Lent.",
+        "NPH insulin",
+        "Humuline regular",
+        "Insulin Lispro."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Humulin Regular (Soluble) is the formulation approved for IV use in conditions like DKA.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Pharmacology"
+    },
+    {
+      "id": 7705,
+      "question": "Which one preparation of insulin can be used in case of Ketoacidosis?",
+      "options": [
+        "Insulin aspart.",
+        "Insulin lispro.",
+        "Humaline regular.",
+        "All of the above",
+        "None of the above."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Regular insulin is traditional for IV use. Rapid-acting analogs (Aspart, Lispro) are also effective IV. Thus, 'All of the above' is correct.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Management"
+    },
+    {
+      "id": 7706,
+      "question": "Which type of hypoglycemia would an insulinoma cause?",
+      "options": [
+        "Reactive.",
+        "Drug-induced.",
+        "Alimentary.",
+        "Fasting."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Insulinomas secrete insulin independently of blood glucose levels. This typically leads to hypoglycemia during periods of fasting (fasting hypoglycemia), usually relieved by eating (Whipple's triad).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Complications"
+    },
+    {
+      "id": 7707,
+      "question": "A 55-year-old woman with recurrent UTIs (three in three months) has Type 2 diabetes and started antidiabetic therapy four months ago. Which drug is most likely responsible?",
+      "options": [
+        "Acarbose",
+        "Dapagliflozin",
+        "Gliclazide",
+        "Vildagliptin",
+        "Metformin"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Dapagliflozin (SGLT2 inhibitor) induces glucosuria. Sugar in urine promotes bacterial and fungal growth, leading to recurrent UTIs and thrush.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Diabetes",
+      "chapter": "Pharmacology"
+    }
+  ]
+}

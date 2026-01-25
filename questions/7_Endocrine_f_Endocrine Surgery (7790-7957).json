@@ -1,0 +1,2798 @@
+{
+  "meta": {
+    "source": "Term 7 - Endocrine",
+    "lesson": "Endocrine Surgery"
+  },
+  "questions": [
+    {
+      "id": 7790,
+      "question": "A 10-year-old child presents with hypertension, tachycardia, nervousness and sweating. The best initial diagnostic evaluation is which of the following:",
+      "options": [
+        "Radio-immunoassays for norepinephrine and epinephrine in serum.",
+        "Magnetic resonance imaging of the adrenal gland.",
+        "MIBG (1111-Metha-iodo-benzyl-guanidine) scintiography.",
+        "Measurement of catecholamines and their degradation products in a 24-hour urine specimen."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Pheochromocytoma is suspected. The best initial screen is measuring fractionated metanephrines in 24-hr urine or plasma due to high sensitivity. MIBG and MRI are for localization after confirmation.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7791,
+      "question": "A 27-year-old woman with orthostatic hypotension, recurrent non-diabetic hypoglycemia, and difficulty in making effort and investigated by serum cortisol 9 AM was low. By oral cavity examination we found:",
+      "options": [
+        "Geographic tongue",
+        "Dislocated mandible",
+        "Hyperpigmented patches of mucosa",
+        "White coated tongue",
+        "High arched palate"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Features suggest Addison's disease (1ry adrenal insufficiency). Low cortisol raises ACTH, stimulating melanocytes; causes classic hyperpigmentation of skin and mucous membranes (gum/oral mucosa).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7792,
+      "question": "A 33-year-old man with finger tingling, tiredness, and snoring is seen. Examination shows changed facial features compared to old photos. After MRI, he is prescribed octreotide. What is the mechanism of action of this drug?",
+      "options": [
+        "Dopamine agonist",
+        "Dopamine antagonist",
+        "Somatostatin analogue",
+        "Growth hormone receptor antagonist",
+        "IGF-1 antagonist"
+      ],
+      "correct_option_id": 2,
+      "explanation": "The patient has acromegaly. Octreotide is a long-acting somatostatin analogue that inhibits growth hormone release from the pituitary gland.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pituitary Gland"
+    },
+    {
+      "id": 7793,
+      "question": "A 33-year-old woman presented to the endocrine clinic with weight gain, easy bruisability, and fatigue. On examination, she had high blood pressure and stria on the lower abdomen. Your provisional diagnosis is:",
+      "options": [
+        "Cushing syndrome",
+        "Myxedema",
+        "Simple obesity",
+        "Graves` disease",
+        "Sheehan syndrome"
+      ],
+      "correct_option_id": 0,
+      "explanation": "The constellation of weight gain, easy bruising, hypertension, and abdominal striae (specifically wide, purple striae) is classic for Cushing's syndrome (hypercortisolism).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7794,
+      "question": "A 35-year-old female with BMI 34 kg/m3 is reviewed to lose 3 kg in the past month. She asks about the possibility of starting a drug to help her lose weight. What is the primary mode of action of orlistat:",
+      "options": [
+        "Leptin antagonist",
+        "Pancreatic lipase inhibitor",
+        "Prevents intestinal absorption of low-density lipoproteins",
+        "HMG-CoA reductase inhibitor",
+        "Centrally-acting appetite suppressant"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Orlistat works by inhibiting gastric and pancreatic lipases, thereby reducing the hydrolysis of dietary fat into absorbable free fatty acids and monoglycerides, preventing fat absorption.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Obesity & Metabolism"
+    },
+    {
+      "id": 7795,
+      "question": "A 38-year-old male has resistant hypertension (160/100) despite ramipril, atenolol, and amlodipine. BMI 22. Labs: Normal CBC/Cr, Na 138, K 3.1. Spot aldosterone/renin ratio is high. What is the next optimal management step?",
+      "options": [
+        "Add doxazosin",
+        "Add indapamide",
+        "MRI abdomen",
+        "Echocardiogram",
+        "Add candesartan"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Resistant HTN, hypokalemia, and high aldosterone/renin ratio suggest primary hyperaldosteronism (Conn's). Next step is adrenal imaging (MRI/CT) to differentiate adenoma from hyperplasia.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7796,
+      "question": "A 40-year-old man with refractory peptic ulcer disease has markedly elevated serum gastrin. At celiotomy, a small, firm mass is found in the pancreatic tail. Which statement regarding his condition is correct?",
+      "options": [
+        "Histamine or a protein meal will markedly increase basal acid secretion.",
+        "Secretin administration will suppress acid secretion.",
+        "The pancreatic mass will probably be benign.",
+        "Distal pancreatectomy is the treatment of choice.",
+        "112 receptor antagonists have not been beneficial in the treatment of this condition."
+      ],
+      "correct_option_id": 3,
+      "explanation": "This is Zollinger-Ellison syndrome (Gastrinoma). Since the tumor is localized to the pancreatic tail, distal pancreatectomy is the treatment of choice for cure.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pancreas"
+    },
+    {
+      "id": 7797,
+      "question": "A 40-year-old woman has fatigue, weight gain, and a diffuse non-tender goiter. Labs: High TSH, Low Free T4, Normal ESR. Anti-TSH receptor antibodies Negative, Anti-TPO Positive. What is the diagnosis?",
+      "options": [
+        "Pituitary failure",
+        "Primary atrophic hypothyroidism",
+        "De Quervain`s thyroiditis",
+        "Hashimoto`s thyroiditis",
+        "Grave`s disease"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Hypothyroidism (High TSH, Low T4) with diffuse goiter and positive Anti-TPO antibodies indicates Hashimoto's thyroiditis. Graves' would have TSH receptor antibodies and hyperthyroidism.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Thyroid Gland"
+    },
+    {
+      "id": 7798,
+      "question": "A 41-year-old man has recurrent headaches (2-3/day) with sweating and palpitations. During episodes, BP is ~210/110 mmHg. Given the likely diagnosis, what is the most appropriate next test?",
+      "options": [
+        "MRI adrenals",
+        "Phenoxybenzamine suppression test",
+        "24-hour urinary collection of vanillylmandelic acid",
+        "24-hour urinary collection of metanephrines",
+        "24-hour urinary collection of cortisol"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Symptoms suggest pheochromocytoma. The most sensitive biochemical screen is measuring fractionated metanephrines (urine or plasma). VMA is less sensitive.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7799,
+      "question": "A 43-year-old man has RLQ peritonitis. Exploration for appendicitis reveals a tumor with carcinoid features. Frozen section confirms. For the described tumor, what is the appropriate procedure?",
+      "options": [
+        "Appendectomy.",
+        "Segmental ileal resection.",
+        "Caecectomy.",
+        "Right hemi-colectomy.",
+        "Hepatic wedge resection and appropriate bowel resection."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Right hemicolectomy is indicated if the carcinoid tumor is large (>2 cm), at the base, or involves lymph nodes. Simple appendectomy is only for small tip tumors.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Neuroendocrine Tumors"
+    },
+    {
+      "id": 7800,
+      "question": "A 43-year-old woman with recent T2DM presents with weight gain, fatigue, and headache. Exam: Truncal obesity, proximal wasting, hirsutism, thin skin, and striae. You suspect Cushing`s syndrome. What biochemical abnormality is expected?",
+      "options": [
+        "Hypercalcaemia",
+        "Hyperkalaemia",
+        "Hypervitaminosis D",
+        "Hypokalaemia",
+        "Hyponatraemia"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Cushing's syndrome causes hypokalemia (cortisol's mineralocorticoid effect), hypernatremia, and hyperglycemia. Hypokalemia results from renal potassium excretion.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7801,
+      "question": "A 45-year-old man with polydipsia has normal glucose and calcium. Water deprivation test: Start Plasma Osm 319, Final Urine Osm 142. Post-DDAVP Urine Osm 885. What is the diagnosis?",
+      "options": [
+        "Psychogenic polydipsia",
+        "Nephrogenic diabetes insipidus",
+        "Primary hyperparathyroidism",
+        "Pseudohypoparathyroidism",
+        "Cranial diabetes insipidus"
+      ],
+      "correct_option_id": 4,
+      "explanation": "High plasma osm with low urine osm indicates Diabetes Insipidus. The sharp rise in urine osm after DDAVP confirms Cranial DI (ADH deficiency) rather than Nephrogenic.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pituitary Gland"
+    },
+    {
+      "id": 7802,
+      "question": "A 45-year-old man presents with bitemporal hemianopia and spade-like hands. What is the definite test to confirm the diagnosis:",
+      "options": [
+        "Early morning growth hormone",
+        "Insulin tolerance test",
+        "Clonidine stimulation test",
+        "Short synacthen stimulation test",
+        "Oral glucose tolerance test with measurement of growth hormone"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Acromegaly features (spade-like hands, bitemporal hemianopia) require confirmation via Oral Glucose Tolerance Test (OGTT) with GH measurement. Failure of GH to suppress is diagnostic.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pituitary Gland"
+    },
+    {
+      "id": 7803,
+      "question": "A 45-year-old woman gained 20 kg in 4 months. She has daily dizzy episodes with blurred vision, sweating, and palpitations. A random blood sugar during an episode was 26 mg/dl. What is the single most useful test?",
+      "options": [
+        "Glucagon stimulation test",
+        "Oral glucose tolerance test with growth hormone measurements",
+        "Insulin + C-peptide levels during a hypoglycaemic episode",
+        "Short ACTH test",
+        "Insulin tolerance test"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Whipple's triad suggests insulinoma. Measuring Insulin and C-peptide levels during a hypoglycemic episode demonstrates inappropriately elevated endogenous insulin.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pancreas"
+    },
+    {
+      "id": 7804,
+      "question": "A 53-year-old woman has weakness, anorexia, constipation, and back pain. She becomes lethargic. Labs: Albumin 3.2, Calcium 14 mg/dL, Phos 2.6, Chloride 108, BUN 32, Cr 2.0. What is the initial management?",
+      "options": [
+        "Intravenous normal saline infusion.",
+        "Administration of thiazide diuretics.",
+        "Administration of intravenous phosphorus.",
+        "Use of mithramycin.",
+        "Neck Exploration and parathyroidectomy."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Severe hypercalcemia (14 mg/dL) requires immediate vigorous rehydration with intravenous normal saline to restore volume and increase renal calcium excretion.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Parathyroid Gland"
+    },
+    {
+      "id": 7805,
+      "question": "A 54-year-old perimenopausal woman is evaluated for osteoporosis after a vertebral compression fracture. Which test is NOT indicated for the evaluation of secondary causes?",
+      "options": [
+        "24-Hour urine calcium",
+        "FSH an LH levels",
+        "Serum calcium",
+        "TSH",
+        "Vitamin D levels (25-hydroxyvitamin D)"
+      ],
+      "correct_option_id": 1,
+      "explanation": "FSH/LH confirm menopause but don't identify secondary osteoporosis causes. Ca, Vit D, TSH, and urinary Ca exclude hyperparathyroidism, Vit D deficiency, or hyperthyroidism.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Bone Metabolism"
+    },
+    {
+      "id": 7806,
+      "question": "A 60-year-old accountant complains of recurrent attacks of exquisite pain and swelling in the left big toe. Each of the following conditions is likely to be associated with this disorder, EXCEPT:",
+      "options": [
+        "Chronic alcoholism.",
+        "Obesity.",
+        "Rheumatoid arthritis.",
+        "Diabetes mellitus.",
+        "Diuretic therapy."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Gout is associated with metabolic syndrome (Obesity, DM), alcohol, and diuretics. Rheumatoid arthritis is an autoimmune disease, distinct from crystal-induced gout.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Metabolic Disorders"
+    },
+    {
+      "id": 7807,
+      "question": "A 60-year-old woman with dry tuff skin, harshening of voice and cold intolerance presented by typical chest pain and diagnosed as ischemic heart disease by ECG at cardiologist. Which of the following investigations is most appropriate?",
+      "options": [
+        "Lipid profile",
+        "Serum Na and K",
+        "Low FT3, low FT4, high TSH",
+        "High FT3, High FT4, low TSH",
+        "Chest x-ray"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Symptoms (dry skin, hoarse voice, cold intolerance) suggest hypothyroidism. Primary hypothyroidism shows low Free T3/T4 and high TSH. Dyslipidemia from this can worsen IHD.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Thyroid Gland"
+    },
+    {
+      "id": 7808,
+      "question": "A 62-year-old man is investigated for hypertension and proximal myopathy. On examination he is noted to have abdominal striae. Which one of the following is most associated with ectopic ACTH secretion?",
+      "options": [
+        "Carcinoid tumour",
+        "Small cell lung cancer",
+        "Cardiac myxoma",
+        "Squamous cell lung cancer",
+        "Adrenal carcinoma"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Small cell lung cancer (oat cell carcinoma) is the most common cause of ectopic ACTH secretion, leading to Cushing's syndrome.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7809,
+      "question": "A 65-year-old asymptomatic woman has incidental hypercalcemia. No meds. Labs: Urea 7.5, Cr 98 \u00c2\u00b5mol/L, Ca 2.8 mmol/L, Phos 0.74 mmol/L. Which investigation best helps establish the diagnosis?",
+      "options": [
+        "1,25- OH vitamin D levels",
+        "25- OH vitamin D levels",
+        "Bone scan",
+        "Myeloma screen",
+        "PTH levels"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Measuring Parathyroid Hormone (PTH) is the first step to distinguish PTH-dependent (e.g., Primary Hyperparathyroidism) from PTH-independent causes (e.g., Malignancy).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Parathyroid Gland"
+    },
+    {
+      "id": 7810,
+      "question": "A 66-year-old man with T2DM on metformin (6 months) has an HbA1c of 8.3%. The consultant recommends adding sitagliptin. What is the mechanism of action of this medication?",
+      "options": [
+        "Biguanide",
+        "Sulfonylurea",
+        "GLP-1 mimetic",
+        "SGLT-2 inhibitor",
+        "DPP-4 inhibitor"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Sitagliptin is a DPP-4 inhibitor. It works by inhibiting the enzyme Dipeptidyl Peptidase-4, thereby increasing the levels of endogenous incretins like GLP-1.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Diabetes Mellitus"
+    },
+    {
+      "id": 7811,
+      "question": "A 68-year-old female with stage 4 CKD (IgA nephropathy) presents with PTH 19.1 pmol/l and Adjusted Calcium 2.84 mmol/l. What endocrine abnormality is most likely?",
+      "options": [
+        "Tertiary hyperparathyroidism",
+        "Secondary hyperthyroidism",
+        "Multiple endocrine neoplasia 1 (MEN1)",
+        "Pseudohypoparathyroidism",
+        "Primary hyperparathyroidism"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Tertiary hyperparathyroidism occurs in long-standing secondary hyperparathyroidism (due to CKD) when the parathyroid glands become autonomous, leading to hypercalcemia and very high PTH.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Parathyroid Gland"
+    },
+    {
+      "id": 7812,
+      "question": "A double bubble on an air contrast upper gastro-intestinal series in an infant is characteristic of:",
+      "options": [
+        "Duodenal atresia.",
+        "Jejunal atresia.",
+        "Meconium ileus.",
+        "Pyloric stenosis."
+      ],
+      "correct_option_id": 0,
+      "explanation": "The 'double bubble' sign is the classic radiographic finding for duodenal atresia, representing gas in the stomach and the dilated proximal duodenum separated by the pyloric sphincter.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pediatric Surgery"
+    },
+    {
+      "id": 7813,
+      "question": "A middle-aged female presents with coarse skin, large tongue, Prognathism & thick spade fingers. Which investigation should be done?",
+      "options": [
+        "Insulin level.",
+        "Growth hormone level.",
+        "Thyroxin level"
+      ],
+      "correct_option_id": 1,
+      "explanation": "The clinical features are pathognomonic for acromegaly. The investigation of choice involves assessing the Growth Hormone axis (screening with IGF-1, confirmation with OGTT for GH suppression).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pituitary Gland"
+    },
+    {
+      "id": 7814,
+      "question": "A middle-aged woman develops galactorrhea without amenorrhea. Your evaluation should include:",
+      "options": [
+        "Estradiol",
+        "Progesterone",
+        "Prolactin",
+        "Testosterone",
+        "Serum Ca"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Galactorrhea (inappropriate milk production) is a hallmark sign of hyperprolactinemia. Therefore, measuring serum prolactin levels is the essential initial step.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pituitary Gland"
+    },
+    {
+      "id": 7815,
+      "question": "A young man is referred to the clinic for fertility evaluation, his body proportion shows tall stature, small testes and gynecomastia. Lab shows low serum testosterone and raised FSH/LH levels. What is the most likely diagnosis?",
+      "options": [
+        "Kallmann syndrome",
+        "Klinefelter`s syndrome",
+        "Turner`s syndrome",
+        "Hypopituitarism",
+        "Addison disease"
+      ],
+      "correct_option_id": 1,
+      "explanation": "The presentation of tall stature, gynecomastia, small testes, and primary hypogonadism (Low testosterone, High FSH/LH) is classic for Klinefelter's syndrome (47,XXY).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Gonadal Disorders"
+    },
+    {
+      "id": 7816,
+      "question": "Acanthosis nigricans is usually associated with:",
+      "options": [
+        "Diabetes mellitus",
+        "Diabetes insipidus",
+        "Addisons disease",
+        "Vit D deficiency",
+        "MEN type II"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Acanthosis nigricans is a skin marker for insulin resistance and is commonly associated with Type 2 Diabetes Mellitus and obesity.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Diabetes Mellitus"
+    },
+    {
+      "id": 7817,
+      "question": "Aldosterone:",
+      "options": [
+        "Is secreted by the zona fascicularis of the adrenal cortex.",
+        "Secretion is regulated by the renin-angiotensin system.",
+        "Has a half-life of 3 h.",
+        "Functions mainly to decrease sodium reabsorption in the distal renal."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Aldosterone is a mineralocorticoid secreted by the zona glomerulosa (not fasciculata). Its secretion is primarily regulated by the Renin-Angiotensin system and potassium levels.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7818,
+      "question": "All about papillary carcinoma is correct:",
+      "options": [
+        "Gave good prognosis in 5-year survival rate",
+        "Undifferentiated",
+        "Contain thyroglobulin"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Papillary carcinoma is a differentiated thyroid cancer and has an excellent prognosis with a high 5-year survival rate.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Thyroid Gland"
+    },
+    {
+      "id": 7819,
+      "question": "All are causes of hypercalcemia, EXCEPT:",
+      "options": [
+        "Metastatic cancer",
+        "Sarcoidosis",
+        "Multiple myeloma",
+        "Vitamin D intoxication",
+        "Medullary carcinoma of the thyroid"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Medullary carcinoma of the thyroid secretes calcitonin, which lowers serum calcium or keeps it normal. It does not cause hypercalcemia. All other options are established causes of hypercalcemia.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Parathyroid Gland"
+    },
+    {
+      "id": 7820,
+      "question": "All of the following are components of the MEN type 2B syndrome EXCEPT:",
+      "options": [
+        "Multiple neuromas on the lips, tongue, and oral mucosa.",
+        "Hyperparathyroidism.",
+        "MTC.",
+        "Phaeo-chromocytoma."
+      ],
+      "correct_option_id": 1,
+      "explanation": "MEN 2B consists of Medullary Thyroid Carcinoma (MTC), Pheochromocytoma, and Mucosal Neuromas (with Marfanoid habitus). Hyperparathyroidism is a feature of MEN 1 and MEN 2A, but rarely MEN 2B.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "MEN Syndromes"
+    },
+    {
+      "id": 7821,
+      "question": "All of the following are Not true in Hashimoto:",
+      "options": [
+        "Common chronic thyroiditis",
+        "More common in male",
+        "No fibrosis",
+        "Can leads to atrophic thyroiditis",
+        "Lymphocytic infiltration"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Hashimoto's is much more common in females (F:M ~10:1). Option B is incorrect. Option C is also factually wrong (fibrosis occurs), but gender discrepancy is the standard answer focus.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Thyroid Gland"
+    },
+    {
+      "id": 7822,
+      "question": "All of the following are recognized complications of neomercazole EXCEPT:",
+      "options": [
+        "Goiter.",
+        "Agranulocytosis.",
+        "Renal failure.",
+        "Hepatotoxicity."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Neomercazole (Carbimazole) can cause agranulocytosis, hepatotoxicity, and goitrogenesis (if over-treated). Renal failure is not a recognized direct side effect.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Thyroid Gland"
+    },
+    {
+      "id": 7823,
+      "question": "All of the following may be acceptable operative approaches to management of the thoracic outlet syndrome EXCEPT:",
+      "options": [
+        "Scalenectomy.",
+        "Excision of a cervical rib.",
+        "Thoraco-plasty.",
+        "First rib resection.",
+        "Division of anomalous fibro-muscular bands."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Thoracoplasty involves removing ribs to collapse the chest wall (historically for TB) and is not a treatment for TOS. Scalenectomy and first rib resection are standard treatments.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "General Surgery"
+    },
+    {
+      "id": 7824,
+      "question": "All of the following statements concerning Hirschsprung`s disease in children are true EXCEPT:",
+      "options": [
+        "An absence of ganglion cells in a dilated segment of the colon is the underlying problem.",
+        "Constipation is a classic symptom and almost always begins in the early days of life.",
+        "Fecal incontinence is unusual in older affected children.",
+        "Rectal examination of affected patients usually reveals an empty rectal ampulla."
+      ],
+      "correct_option_id": 0,
+      "explanation": "In Hirschsprung's disease, the absence of ganglion cells is in the *narrow*, constricted distal segment, not the *dilated* segment. The proximal colon dilates because of the obstruction downstream.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pediatric Surgery"
+    },
+    {
+      "id": 7825,
+      "question": "All of the following statements concerning intussusception in infants are true EXCEPT:",
+      "options": [
+        "The peak incidence occurs in infants 8-12 months of age.",
+        "Characteristically, well-nourished, vigorous males are affected.",
+        "The presence of a tubular mass in the right lower quadrant is the most frequent physical finding.",
+        "Hydrostatic retrograde reduction by barium enema frequently is possible."
+      ],
+      "correct_option_id": 2,
+      "explanation": "The mass in intussusception ('sausage-shaped') is typically in the right *upper* quadrant/epigastrium. The right *lower* quadrant feels empty (Dance's sign).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pediatric Surgery"
+    },
+    {
+      "id": 7826,
+      "question": "All the following are causes of hypergonadotrophic hypogonadism EXCEPT:",
+      "options": [
+        "Turner`s syndrome",
+        "Klinefelter`s syndrome",
+        "Orchitis",
+        "Radiation of pituitary gland.",
+        "Premature ovarian failure"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Orchitis, Turner's, Klinefelter's, and POF cause primary failure (High FSH/LH). Pituitary radiation causes secondary failure (Hypogonadotropic). B vs D context implies secondary cause exclusion.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Gonadal Disorders"
+    },
+    {
+      "id": 7827,
+      "question": "All the following are causes of hyper-prolactineamia EXCEPT:",
+      "options": [
+        "Pregnancy.",
+        "Primary hypothyroidism.",
+        "Pheochromocytoma.",
+        "Prolactinomas"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Pheochromocytoma is an adrenal catecholamine-secreting tumor and does not cause hyperprolactinemia. Pregnancy, hypothyroidism (via TRH), and prolactinomas are established causes.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pituitary Gland"
+    },
+    {
+      "id": 7828,
+      "question": "All the following are True about the thyroglossal cyst EXCEPT:",
+      "options": [
+        "Painless swelling.",
+        "Cystic in consistency.",
+        "Moves up & Down with swallowing but not with protrusion of the tongue.",
+        "If infected, can form a thyroglossal fistula."
+      ],
+      "correct_option_id": 2,
+      "explanation": "A key diagnostic feature of a thyroglossal cyst is that it moves up with *both* swallowing and protrusion of the tongue (due to its attachment to the hyoid bone/tongue base).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Thyroid Gland"
+    },
+    {
+      "id": 7829,
+      "question": "An 80-year-old man has decline, orthostasis, and weakness. A short synacthen test is normal. Which cause of adrenocortical insufficiency is NOT excluded:",
+      "options": [
+        "Infiltration of the adrenal gland by amyloidosis",
+        "Enlarging pituitary malignancy",
+        "Haemorrhage into the adrenal gland",
+        "Autoimmune adrenal failure",
+        "Infiltration of the adrenal gland by tuberculosis"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Normal Synacthen rules out primary adrenal failure but not acute/recent secondary insufficiency (pituitary) or partial ACTH deficiency, as adrenals haven't atrophied yet.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7830,
+      "question": "An obese 48-year-old man presents with lethargy and polydipsia. What is the minimum HbA1c that would be diagnostic of type 2 diabetes mellitus?",
+      "options": [
+        "Cannot use HbA1c for diagnosis",
+        "6.0%",
+        "6.3%",
+        "6.5%",
+        "7.0%"
+      ],
+      "correct_option_id": 3,
+      "explanation": "According to international guidelines (ADA/WHO), an HbA1c level of 6.5% or higher is diagnostic for diabetes mellitus.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Diabetes Mellitus"
+    },
+    {
+      "id": 7831,
+      "question": "Anaplastic carcinoma has the following characters:",
+      "options": [
+        "More common in elderly, bad prognosis, early spread and aggressive.",
+        "Main way of spread is blood.",
+        "Can occur in children.",
+        "Characterized pathologically by Psammoma Bodies."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Anaplastic thyroid carcinoma is a rare, undifferentiated, and highly aggressive tumor typically affecting the elderly. It has a very poor prognosis.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Thyroid Gland"
+    },
+    {
+      "id": 7832,
+      "question": "Angiotensin-converting enzyme (ACE) is present mostly in:",
+      "options": [
+        "Pulmonary vascular endothelium",
+        "Liver",
+        "Kidneys",
+        "Intestines",
+        "Pancreas"
+      ],
+      "correct_option_id": 0,
+      "explanation": "ACE is predominantly located in the endothelium of pulmonary vessels, where it converts Angiotensin I to Angiotensin II.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7833,
+      "question": "An insulin stimulation test is most useful investigation of:",
+      "options": [
+        "Glucagonoma",
+        "Insulinoma",
+        "Addison`s disease",
+        "Hypopituitarism",
+        "Pheochromocytoma"
+      ],
+      "correct_option_id": 3,
+      "explanation": "The insulin tolerance test (ITT) is the gold standard for assessing the integrity of the HPA axis and GH reserve, making it useful for diagnosing hypopituitarism.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pituitary Gland"
+    },
+    {
+      "id": 7834,
+      "question": "Asthenia,hypoglycemia, hyperkalemia and postural bypotension are manifestations of:",
+      "options": [
+        "Cushing syndrome",
+        "Conn`s disease",
+        "Addisson`s disease",
+        "Acromegaly",
+        "Myxedema"
+      ],
+      "correct_option_id": 2,
+      "explanation": "These are the classic signs of Addison's disease (Primary Adrenal Insufficiency): deficiency of cortisol (hypoglycemia, asthenia) and aldosterone (hyperkalemia, hypotension).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7835,
+      "question": "Athenia, anorexia and low BP are common presentation of:",
+      "options": [
+        "Cushing syndrome",
+        "Addison`s disease",
+        "Metabolic syndrome",
+        "Pheochromocytoma",
+        "Myxedema"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Asthenia (weakness), anorexia (weight loss), and hypotension are hallmark symptoms of Addison's disease.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7836,
+      "question": "Before the removal of a fairly large from the base of the tongue in a 4 year-old child, which of the following procedures should be performed?",
+      "options": [
+        "Lateral X-ray of the neck.",
+        "Naso-pharyngoscopy.",
+        "Measurement of radio-active iodine uptake.",
+        "Measurement of serum thyroxine concentration."
+      ],
+      "correct_option_id": 2,
+      "explanation": "A tongue base mass is likely a lingual thyroid. Radioactive iodine uptake is crucial to confirm if it is the *only* functioning thyroid tissue before removal.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Thyroid Gland"
+    },
+    {
+      "id": 7837,
+      "question": "Calcitonin is released from:",
+      "options": [
+        "Thyroid follicles",
+        "C-cells of thyroid",
+        "Parathyroid gland",
+        "D cells in pancreas",
+        "Hypothalamus"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Calcitonin is secreted by the Parafollicular cells (C-cells) of the thyroid gland.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Thyroid Gland"
+    },
+    {
+      "id": 7838,
+      "question": "Carbamazepine is a long-acting sulfonylurea:",
+      "options": [
+        "Chloropropamide.",
+        "Tolbutamide.",
+        "Glipizide.",
+        "Glyburide.",
+        "Metformin."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Chlorpropamide is a long-acting sulfonylurea (up to 60h), risking hypoglycemia. 'Carbamazepine' in the prompt appears to be a typo, but the options list sulfonylureas.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Diabetes Mellitus"
+    },
+    {
+      "id": 7839,
+      "question": "Causes of gynecomastia include one of the following:",
+      "options": [
+        "Klinefelter syndrome.",
+        "Drugs: Spironolactone &digitalis.",
+        "Liver cell failure.",
+        "All of the following."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Gynecomastia can be caused by hormonal imbalances (Klinefelter), drugs (Spironolactone, Digoxin), and systemic diseases like liver failure.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Breast / Endocrine"
+    },
+    {
+      "id": 7840,
+      "question": "Causes of hirsutism include all the following EXCEPT:",
+      "options": [
+        "Idiopathic.",
+        "Polycystic ovary syndrome.",
+        "Cushing.",
+        "Craniopharyngioma."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Craniopharyngioma is a pituitary/hypothalamic tumor that typically leads to hypopituitarism (including hypogonadism), which results in loss of hair rather than hirsutism (excess hair).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7841,
+      "question": "Causes of hirsutism include:",
+      "options": [
+        "Idiopathic",
+        "Polycystic ovary",
+        "Minoxidil",
+        "Adrenal hyperplasia",
+        "All of the above"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Hirsutism/Hypertrichosis can be caused by PCOS, adrenal enzyme defects, idiopathic factors, and drugs like Minoxidil.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7842,
+      "question": "Causes of hyperprolactinemia not include:",
+      "options": [
+        "Pregnancy",
+        "Chlorpromazine therapy",
+        "Primary hypothyroidism",
+        "Damage to pituitary stalk",
+        "Dopamine agonists"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Dopamine agonists (like Bromocriptine and Cabergoline) *inhibit* prolactin secretion and are used to treat hyperprolactinemia. They are not a cause.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pituitary Gland"
+    },
+    {
+      "id": 7843,
+      "question": "Causes of hypoglycemia does not include:",
+      "options": [
+        "Insulinoma.",
+        "Hypercortisolism.",
+        "Paracetamol overdosage.",
+        "Alcohol.",
+        "Hepatoma."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Hypercortisolism (Cushing's syndrome) causes insulin resistance and gluconeogenesis, leading to *hyperglycemia*, not hypoglycemia.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Metabolic Disorders"
+    },
+    {
+      "id": 7844,
+      "question": "Causes of hypopituitarism all are true EXCEPT:",
+      "options": [
+        "Cranio-pharngioma.",
+        "Head injury.",
+        "Sheehan`s syndrome.",
+        "Kaplan`s syndrome.",
+        "None of the above."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Caplan's syndrome (rheumatoid pneumoconiosis) is a lung condition and has no relation to the pituitary gland.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pituitary Gland"
+    },
+    {
+      "id": 7845,
+      "question": "Causes of inappropriate ADH secretion not include:",
+      "options": [
+        "Meningitis",
+        "Head injury",
+        "Lobar pneumonia",
+        "Small cell bronchogenic carcinoma",
+        "Lithium"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Lithium causes Nephrogenic Diabetes Insipidus (resistance to ADH), leading to polyuria, which is the opposite of SIADH.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pituitary Gland"
+    },
+    {
+      "id": 7846,
+      "question": "Causes of obesity, all are true EXCEPT:",
+      "options": [
+        "Kallaman syndrome",
+        "Cushing disease",
+        "Prader Willi syndrome",
+        "Hypothalamic tumors",
+        "Gastric tumors"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Gastric tumors generally cause weight loss (cachexia), not obesity. Genetic syndromes and hypothalamic lesions can cause obesity.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Obesity & Metabolism"
+    },
+    {
+      "id": 7847,
+      "question": "Commonest enzymatic defect for development of CAH is:",
+      "options": [
+        "21 Hydroxylase.",
+        "11 Hydroxylase.",
+        "17 Hydroxylase.",
+        "3b dehydrogenase."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Deficiency of 21-hydroxylase accounts for more than 90% of cases of Congenital Adrenal Hyperplasia (CAH).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7848,
+      "question": "Corticosteroids side effects include:",
+      "options": [
+        "Hyper-prolactinemia.",
+        "Hyperglycemia.",
+        "Hypercalcemia."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Corticosteroids increase insulin resistance and promote gluconeogenesis, commonly causing hyperglycemia.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7849,
+      "question": "Dopamine is tonically inhibiting the release of:",
+      "options": [
+        "Calcitonin",
+        "Gh",
+        "TSH",
+        "Cortisol",
+        "Prolactin"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Prolactin is unique among pituitary hormones in that its primary regulation is tonic inhibition by dopamine from the hypothalamus.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pituitary Gland"
+    },
+    {
+      "id": 7850,
+      "question": "Drugs causing hyperprolactinaemia not include:",
+      "options": [
+        "Methyl dopa",
+        "Tricyclic anti-depressants",
+        "Verapamil",
+        "Metoclopramide",
+        "Bromocriptine"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Bromocriptine is a dopamine agonist used to *treat* hyperprolactinemia, not cause it.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pituitary Gland"
+    },
+    {
+      "id": 7851,
+      "question": "Erythropoitin hormone stimulate bone marrow for production of RBCs; it released from:",
+      "options": [
+        "Lung",
+        "Juxtaglomerular apparatus",
+        "Spleen",
+        "Pancreas",
+        "Lymph nodes"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Erythropoietin is primarily produced by interstitial fibroblasts in the kidney, often associated with the peritubular capillary bed/juxtaglomerular region, in response to hypoxia.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Renal / Endocrine"
+    },
+    {
+      "id": 7852,
+      "question": "Expected findings in cranial diabetes insipidus include:",
+      "options": [
+        "Oliguria.",
+        "High normal serum ADH(AVP)",
+        "Urine with low specific gravity",
+        "Hypotonic urine following the administration of desmopressin (vasopressin)",
+        "An increase in weight during a water deprivation test."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Cranial DI is characterized by the production of large volumes of dilute urine (low specific gravity) due to lack of ADH.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pituitary Gland"
+    },
+    {
+      "id": 7853,
+      "question": "Expected findings in phaeochromocytoma not include:",
+      "options": [
+        "Sweating.",
+        "Postural hypotension",
+        "Glycosuria",
+        "Palpitation",
+        "10% malignant"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Classic pheochromocytoma signs are headache, sweating, and palpitations. Orthostatic hypotension occurs but is less defining/consistent than the triad or hypertension.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7854,
+      "question": "Excision of a thyroglossal cyst should include removal of:",
+      "options": [
+        "Body of the hyoid bone.",
+        "Foramen cecum",
+        "Pyramidal lobe.",
+        "Remnants of the thyroglossal duct.",
+        "Thyroid isthmus."
+      ],
+      "correct_option_id": 0,
+      "explanation": "The Sistrunk procedure for thyroglossal cyst involves removing the cyst, the tract, and the central body of the hyoid bone to prevent recurrence.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Thyroid Gland"
+    },
+    {
+      "id": 7855,
+      "question": "Exophthalmos can be detected by all of the following EXCEPT:",
+      "options": [
+        "Elevated free T3 and T4.",
+        "Clinically by starring look and loss of forehead wrinkling on looking upwards.",
+        "Exophthalmometer.",
+        "Autoimmune survey to detect the TSA (Thyroid Stimulating Antibodies)"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Elevated Free T3 and T4 confirm thyrotoxicosis but do not measure or detect exophthalmos (proptosis) itself, which is a physical sign assessed clinically or with an exophthalmometer.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Thyroid Gland"
+    },
+    {
+      "id": 7856,
+      "question": "Features of hypoglycemia do not Include:",
+      "options": [
+        "Drenching sweating.",
+        "Tachycardia.",
+        "Brisk jerk.",
+        "Tachypnea."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Hypoglycemia causes sympathetic activation (sweating, tachycardia) and neuroglycopenia. Tachypnea (rapid breathing) is not a typical direct feature of hypoglycemia (unlike in DKA/Kussmaul breathing).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Metabolic Disorders"
+    },
+    {
+      "id": 7857,
+      "question": "Features of thyrotoxic crisis does not include:",
+      "options": [
+        "Precipitated by acute infection",
+        "Heart failure",
+        "Fever more than 38.5",
+        "Bradycardia",
+        "Confusion and agitation"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Thyrotoxic crisis (Thyroid Storm) is characterized by severe tachycardia, not bradycardia. Other features include high fever, heart failure, and CNS agitation.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Thyroid Gland"
+    },
+    {
+      "id": 7858,
+      "question": "Female patient 31 y old presented by secondary amenorrhea, fatigue, and weight loss. She had experienced a complicated delivery of her youngest child 3 years back, which of the following is the most appropriate diagnosis:",
+      "options": [
+        "Prolactinoma",
+        "Cushing syndrome",
+        "Sheehan`s syndrome",
+        "Anemia",
+        "Anorexia nervosa"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Sheehan's syndrome is pituitary necrosis following severe postpartum hemorrhage. It presents with hypopituitarism (amenorrhea, fatigue, failure to lactate) often years after the event.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pituitary Gland"
+    },
+    {
+      "id": 7859,
+      "question": "Ghrelin hormone; has important rule in energy homeostasis, is released from:",
+      "options": [
+        "Anterior pituitary",
+        "Posterior pituitary",
+        "Pancreas",
+        "Stomach",
+        "Parathyroid"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Ghrelin, the 'hunger hormone', is primarily produced by P/D1 cells lining the fundus of the human stomach.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Obesity & Metabolism"
+    },
+    {
+      "id": 7860,
+      "question": "Glycosylated Hb assess glucose level during:",
+      "options": [
+        "Last 3 months.",
+        "Past week.",
+        "This day.",
+        "None of the above."
+      ],
+      "correct_option_id": 0,
+      "explanation": "HbA1c (Glycosylated hemoglobin) reflects the average blood glucose concentration over the lifespan of the red blood cell, which is approximately 3 months.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Diabetes Mellitus"
+    },
+    {
+      "id": 7861,
+      "question": "Gynecomastia can be caused by:",
+      "options": [
+        "Spironolactone.",
+        "Propranolol.",
+        "Ampicillin."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Spironolactone is a well-known cause of gynecomastia due to its anti-androgenic effects and displacement of androgens from receptors.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Breast / Endocrine"
+    },
+    {
+      "id": 7862,
+      "question": "HbA1c assess blood glucose in:",
+      "options": [
+        "Past 2 weeks",
+        "Past 2 days",
+        "Past 3 months",
+        "Last month",
+        "Last 3 days"
+      ],
+      "correct_option_id": 2,
+      "explanation": "HbA1c measures the percentage of hemoglobin that is glycated, correlating with the average plasma glucose over the previous 8-12 weeks (3 months).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Diabetes Mellitus"
+    },
+    {
+      "id": 7863,
+      "question": "Hirsutism may be a manifestation of:",
+      "options": [
+        "Type 1 diabetes",
+        "Pheochromocytoma",
+        "Diabetes insipidus",
+        "Pituitary microadenoma",
+        "Polycystic ovary syndrome"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Polycystic Ovary Syndrome (PCOS) is the most common cause of hirsutism in women, due to androgen excess.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7864,
+      "question": "Hoarseness of voice denotes:",
+      "options": [
+        "Compression of the superior laryngeal nerve",
+        "Infiltration of the recurrent laryngeal nerve",
+        "Infiltration of the superior laryngeal nerve",
+        "Tracheal compression"
+      ],
+      "correct_option_id": 1,
+      "explanation": "In the context of thyroid or neck pathology, hoarseness suggests involvement (infiltration or compression) of the Recurrent Laryngeal Nerve, which supplies the vocal cords.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Thyroid Gland"
+    },
+    {
+      "id": 7865,
+      "question": "Hypocalcaemia is produced by all EXCEPT:",
+      "options": [
+        "Hypoparathyroidism",
+        "Magnesium deficiency",
+        "Hypervitaminosis D",
+        "Chronic renal failure",
+        "Acute pancreatitis"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Hypervitaminosis D (Vitamin D toxicity) leads to increased calcium absorption and bone resorption, resulting in *Hypercalcemia*, not hypocalcemia.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Parathyroid Gland"
+    },
+    {
+      "id": 7866,
+      "question": "Hypocalcemia is produced by all EXCEPT:",
+      "options": [
+        "Hysterical hypoventilation",
+        "Acute pancreatitis",
+        "Chronic renal failure",
+        "Osteomalacia",
+        "Hypovitaminosis D"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Pancreatitis, CRF, Osteomalacia, and Low Vit D cause hypocalcemia. Hyperventilation causes alkalosis and low *ionized* calcium (tetany), but total calcium remains normal.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Parathyroid Gland"
+    },
+    {
+      "id": 7867,
+      "question": "Hypoglycemia is a manifestation of:",
+      "options": [
+        "Acromegaly",
+        "Addisson`s disease",
+        "Cushing disease",
+        "Prolactinoma",
+        "Hyperparathyroidism"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Addison's disease (cortisol deficiency) removes the counter-regulatory drive for gluconeogenesis, predisposing patients to hypoglycemia.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7868,
+      "question": "Hypoglycemia may be a symptom of what disease?",
+      "options": [
+        "Crohn`s Disease.",
+        "Alzheimer`s Disease.",
+        "Addison`s Disease.",
+        "Osteoporosis."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Hypoglycemia is a recognized complication of Addison's disease due to the lack of glucocorticoids.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7869,
+      "question": "Hypoglycemia may occur in the following diseases EXCEPT:",
+      "options": [
+        "Sheehan`s syndrome.",
+        "Cushing`s syndrome.",
+        "Chlorpropamide therapy."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Cushing's syndrome involves excess cortisol, which is diabetogenic and causes hyperglycemia. Sheehan's (hypopituitarism) and Chlorpropamide (sulfonylurea) cause hypoglycemia.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Metabolic Disorders"
+    },
+    {
+      "id": 7870,
+      "question": "Hypoglycemia may result from the following EXCEPT:",
+      "options": [
+        "Glycogen storage disease.",
+        "Galactosemia.",
+        "Chronic Pancreatitis.",
+        "Post gastrectomy."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Chronic pancreatitis destroys islet cells, usually causing Diabetes (Hyperglycemia). It is less typically a cause of spontaneous hypoglycemia compared to genetic or surgical causes.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Metabolic Disorders"
+    },
+    {
+      "id": 7871,
+      "question": "Hypo-natremia may occur in:",
+      "options": [
+        "Addison`s disease.",
+        "Cushing`s disease.",
+        "Conn`s syndrome."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Hyponatremia is a hallmark of Addison's disease due to aldosterone deficiency (sodium wasting). Cushing's and Conn's typically cause hypernatremia or normal sodium with hypokalemia.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7872,
+      "question": "Hypothyroidism may not give rise to:",
+      "options": [
+        "Periorbital puffiness",
+        "Carpal tunnel syndrome",
+        "Cold intolerance",
+        "Decreased sweating",
+        "Polycythemia"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Hypothyroidism causes anemia (normocytic or macrocytic), not polycythemia. Polycythemia is associated with Cushing's or hypoxia.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Thyroid Gland"
+    },
+    {
+      "id": 7873,
+      "question": "In 1ry adrenocortical failure the following are correct EXCEPT:",
+      "options": [
+        "Hyperpigmentation.",
+        "Hypoglycemia.",
+        "Hypotension.",
+        "Hypokalemia."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Primary adrenocortical failure (Addison's) causes Hyperkalemia (due to aldosterone deficiency), not Hypokalemia.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7874,
+      "question": "In Conn`s syndrome; all are true EXCEPT:",
+      "options": [
+        "Hypertension is a recognized finding.",
+        "Hypokalaemia occurs.",
+        "Serum renin levels are increased.",
+        "Tetany may occur.",
+        "Polyuria is common."
+      ],
+      "correct_option_id": 2,
+      "explanation": "In Conn's syndrome (Primary Hyperaldosteronism), the high aldosterone levels suppress renin production via negative feedback. Therefore, serum renin levels are low, not increased.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7875,
+      "question": "In controlling aldosterone secretion, angiotensin II acts on which of the following structures:",
+      "options": [
+        "Zona pellucida.",
+        "Zona reticularis",
+        "Zona fasciculate.",
+        "Adrenal medulla.",
+        "Zona glomerulosa"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Aldosterone is produced in the Zona Glomerulosa of the adrenal cortex, which is the specific target for Angiotensin II.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7876,
+      "question": "In hypercalcemic patient, the first essential treatment is:",
+      "options": [
+        "IV fluids and cortisone",
+        "Broad spectrum antibiotic",
+        "H2 receptor antagonist",
+        "Insulin",
+        "Oxygen"
+      ],
+      "correct_option_id": 0,
+      "explanation": "The immediate priority in hypercalcemia is volume expansion with IV fluids (Saline) to promote calciuresis. Cortisone may be added for specific causes (e.g., malignancy, granulomatous disease).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Parathyroid Gland"
+    },
+    {
+      "id": 7877,
+      "question": "In secondary adrenocortical insufficiency is true:",
+      "options": [
+        "Generalized hyperpigmentation",
+        "Impaired mineralocorticoid secretion",
+        "Intact sex steroid secretion",
+        "Hypoglycemia is mild",
+        "Hyperpigmentation in mucous membranes"
+      ],
+      "correct_option_id": 2,
+      "explanation": "In secondary insufficiency (pituitary), ACTH is low (no pigmentation). Mineralocorticoids are preserved (RAAS-dependent). Gonadal steroids are intact if only ACTH is deficient.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7878,
+      "question": "In secondary adrenocortical insufficiency one of the following is true:",
+      "options": [
+        "Generalised hyperpigmentation",
+        "Intact mineralocorticoid secretion",
+        "Impaired sex steroid secretion",
+        "Hypoglycemia is mild",
+        "Hyperpigmentation in mucous membranes"
+      ],
+      "correct_option_id": 1,
+      "explanation": "In secondary adrenal insufficiency, mineralocorticoid (Aldosterone) secretion remains intact because it is regulated by the Renin-Angiotensin system, not ACTH.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7879,
+      "question": "Indications for GH treatment to promote growth include the following EXCEPT",
+      "options": [
+        "GH deficiency",
+        "Chronic renal failure before transplantation",
+        "Achondroplasia",
+        "Prader-Willi syndrome",
+        "Noonan syndrome"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Achondroplasia is a genetic bone dysplasia (FGFR3 mutation) causing dwarfism. It does not respond significantly to Growth Hormone therapy, unlike the other conditions listed where GH is indicated.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pituitary Gland"
+    },
+    {
+      "id": 7880,
+      "question": "Indications for GH treatment to promote growth include the following EXCEPT:",
+      "options": [
+        "GH deficiency",
+        "Chronic renal failure before transplantation",
+        "Celiac disease",
+        "Prader-Willi syndrome",
+        "Noonan syndrome"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Celiac disease causes growth failure due to malabsorption. The treatment is a gluten-free diet, not Growth Hormone therapy.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pituitary Gland"
+    },
+    {
+      "id": 7881,
+      "question": "Is NOT true about Thiazolidinediones:",
+      "options": [
+        "These agents are insulin sensitizers.",
+        "They promote insulin secretion from beta-cells.",
+        "But insulin is necessary for them to be effective.",
+        "Pioglitazone and rosiglitazone are the two agents of this group.",
+        "Pioglitazone may have CVD benefit."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Thiazolidinediones (TZDs) work by improving insulin sensitivity (PPAR-gamma agonists). They do *not* promote insulin secretion from beta-cells; that is the mechanism of Sulfonylureas.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Diabetes Mellitus"
+    },
+    {
+      "id": 7882,
+      "question": "It is the only oral hypoglycemic shown to reduce cardiovascular mortality:",
+      "options": [
+        "Glyburide.",
+        "Sitagliptin.",
+        "Tolbutamide",
+        "Metformin.",
+        "Chloropropamide."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Metformin is the only listed agent robustly shown (e.g., UKPDS) to reduce cardiovascular and all-cause mortality in overweight type 2 diabetics.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Diabetes Mellitus"
+    },
+    {
+      "id": 7883,
+      "question": "Leptin is hormone released from adipose tissue; its main function is:",
+      "options": [
+        "Stimulate appetite",
+        "Stimulate NPY",
+        "Suppress appetite",
+        "Hunger hormone",
+        "Glucagon release"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Leptin is the 'satiety hormone' produced by adipose tissue. It acts on the hypothalamus to suppress appetite and increase energy expenditure.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Obesity & Metabolism"
+    },
+    {
+      "id": 7884,
+      "question": "The most common mass lesion in the Sella turcica is which of the following?",
+      "options": [
+        "Cranio-pharyngioma.",
+        "Aneurysm.",
+        "Benign pituitary cyst.",
+        "Pituitary adenoma."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Pituitary adenomas are by far the most common mass lesions found in the Sella turcica.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pituitary Gland"
+    },
+    {
+      "id": 7885,
+      "question": "Multiple Endocrine Neoplasia (ME) IIb is characterized by which of the following findings?",
+      "options": [
+        "MTC, Pheochromocytoma, mucosal neuromas, marfanoid habitus.",
+        "Parathyroid hyperplasia, pancreatic islet cell tumors, and pituitary adenomas.",
+        "Medullary carcinoma of the thyroid, Phaeo-chromocytoma, and parathyroid hyperplasia.",
+        "Parathyroid carcinoma, Phaeo-chromocytoma and chronic pancreatitis."
+      ],
+      "correct_option_id": 0,
+      "explanation": "MEN 2B (MEN 3) includes Medullary Thyroid Carcinoma, Pheochromocytoma, Mucosal Neuromas, and Marfanoid habitus. It does not typically include parathyroid hyperplasia.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "MEN Syndromes"
+    },
+    {
+      "id": 7886,
+      "question": "Most diagnostic single investigation for toxic adenoma is:",
+      "options": [
+        "T3 assay",
+        "T4. assay",
+        "US.",
+        "Thyroid scan.",
+        "Fine needle aspiration."
+      ],
+      "correct_option_id": 3,
+      "explanation": "A thyroid uptake scan (isotope scan) is the most diagnostic test for a toxic adenoma, showing a single 'hot' nodule with suppression of the rest of the gland.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Thyroid Gland"
+    },
+    {
+      "id": 7887,
+      "question": "Obesity is risk factor of the following EXCEPT:",
+      "options": [
+        "DM.",
+        "HTN.",
+        "Osteoarthritis.",
+        "Dementia."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Diabetes, Hypertension, and Osteoarthritis are direct, established comorbidities. Dementia is less directly or traditionally listed as a metabolic complication in this context.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Obesity & Metabolism"
+    },
+    {
+      "id": 7888,
+      "question": "Octeriotide is:",
+      "options": [
+        "Somatostatin agonist",
+        "Dopamine precursor",
+        "Stimulate GH",
+        "Stimulate TSH",
+        "Stimulate gastric motility"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Octreotide is a synthetic somatostatin analogue (agonist) used to inhibit growth hormone (in acromegaly) and other endocrine secretions.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pituitary Gland"
+    },
+    {
+      "id": 7889,
+      "question": "One of the following features is pathognomonic to MEN-2B:",
+      "options": [
+        "Pheochromocytoma.",
+        "Hyperparathyroidism.",
+        "Insulinoma.",
+        "Mucosal neuromas."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Mucosal neuromas (on lips, tongue) are a distinctive and pathognomonic feature of MEN 2B, separating it from MEN 2A.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "MEN Syndromes"
+    },
+    {
+      "id": 7890,
+      "question": "One of the following is lipid soluble:",
+      "options": [
+        "Niacin",
+        "Folic acid",
+        "Ascorbic acid",
+        "Vit D",
+        "Thiamin"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Vitamin D (along with A, E, and K) is a fat-soluble vitamin. The others listed are water-soluble B and C vitamins.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Metabolic Disorders"
+    },
+    {
+      "id": 7891,
+      "question": "One of the following is not endocrinal gland:",
+      "options": [
+        "Salivary gland",
+        "Ant. pituitary gland",
+        "Parathyroid",
+        "Neurohypophysis",
+        "Suprarenal cortex"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Salivary glands are exocrine glands (secrete into ducts), whereas the others are endocrine glands (secrete hormones into the blood).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "General Endocrine"
+    },
+    {
+      "id": 7892,
+      "question": "Orlistat is FDA approved drug for treatment of:",
+      "options": [
+        "Dyslipidemia",
+        "Hypercalcemia",
+        "Obesity",
+        "Short stature",
+        "Acromegaly"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Orlistat is an FDA-approved lipase inhibitor used for the long-term management of obesity.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Obesity & Metabolism"
+    },
+    {
+      "id": 7893,
+      "question": "Ostromalacia is caused due to deficiency of:",
+      "options": [
+        "Vitamin A",
+        "Vitamin B12",
+        "Vitamin D",
+        "Vitamin C",
+        "Vitamin E"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Osteomalacia (softening of the bones) is caused by a deficiency of Vitamin D or calcium, leading to impaired bone mineralization.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Bone Metabolism"
+    },
+    {
+      "id": 7894,
+      "question": "Pan hypopituitarism causes:",
+      "options": [
+        "Galactorrhea.",
+        "Skin hyperpigmentation.",
+        "Amenorrhea."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Panhypopituitarism loses gonadotropins (FSH/LH), causing amenorrhea. It causes pallor (low MSH/ACTH), not pigmentation. Lactation usually fails unless prolactin is high.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pituitary Gland"
+    },
+    {
+      "id": 7895,
+      "question": "Paroxysmal attacks of hypertension, flushing and anxiety are stigmata for:",
+      "options": [
+        "Hypoglycemia",
+        "Metabolic syndrome",
+        "Essential hypertension",
+        "Pheochromocytoma",
+        "Vit D therapy"
+      ],
+      "correct_option_id": 3,
+      "explanation": "The classic triad of Pheochromocytoma symptoms includes paroxysmal headaches, sweating, and palpitations/anxiety, often accompanied by hypertension.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7896,
+      "question": "Pitting edema is seen in the following EXCEPT:",
+      "options": [
+        "Rt Sided heart failure.",
+        "Nephrotic syndrome.",
+        "Liver cell failure.",
+        "Myxedema."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Myxedema (hypothyroidism) causes *non-pitting* edema (mucopolysaccharides). Heart failure, nephrotic syndrome, and liver failure cause pitting edema.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Thyroid Gland"
+    },
+    {
+      "id": 7897,
+      "question": "Pineal body (epiphysis cerebri) is endocrinal gland found in vertebrates mainly secretes:",
+      "options": [
+        "NPY",
+        "Leptin",
+        "Melatonin",
+        "Norepinephrine",
+        "Resistin"
+      ],
+      "correct_option_id": 2,
+      "explanation": "The pineal gland secretes melatonin, which regulates circadian rhythms.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "General Endocrine"
+    },
+    {
+      "id": 7898,
+      "question": "Physiological level of prolactin in males produce:",
+      "options": [
+        "Stimulate spermatogenesis",
+        "Suppress FSH&LH",
+        "Suppress only FSH",
+        "Immunosuppressive",
+        "Galactorrhea"
+      ],
+      "correct_option_id": 1,
+      "explanation": "The model answer suggests suppression of FSH & LH. While this is the classic effect of *hyperprolactinemia*, physiological levels are also involved in the feedback regulation of gonadotropins.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pituitary Gland"
+    },
+    {
+      "id": 7899,
+      "question": "Polyuria with high specific gravity occur in:",
+      "options": [
+        "DM.",
+        "DI.",
+        "Both."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Diabetes Mellitus causes polyuria with high specific gravity due to the osmotic load of glucose. Diabetes Insipidus (DI) causes polyuria with *low* specific gravity (dilute urine).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Diabetes Mellitus"
+    },
+    {
+      "id": 7900,
+      "question": "Precocious puberty is defined as:",
+      "options": [
+        "Puberty starting before 11 in girls, and before 12 in boys",
+        "Puberty starting before 13 in girls and before 14 in boys",
+        "Puberty starting before 8 in girls and 9 in boys",
+        "Puberty starting before 10 in girls and 11 in boys",
+        "Puberty starting before 14 in girls and 16 in boys"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Precocious puberty is traditionally defined as the onset of secondary sexual characteristics before age 8 in girls and age 9 in boys.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pediatric Endocrinology"
+    },
+    {
+      "id": 7901,
+      "question": "Precocious puberty is Onset of secondary sexual characteristics:",
+      "options": [
+        "Before 11 in girls, and before 12 in boys",
+        "Before 13 in girls and before 14 in boys",
+        "Before 8 in girls and 9 in boys",
+        "Before 10 in girls and 11 in boys",
+        "Before 14 in girls and 16 in boys"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Duplicate question. The definition remains onset before 8 years in girls and 9 years in boys.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pediatric Endocrinology"
+    },
+    {
+      "id": 7902,
+      "question": "Primary hyperaldosteronism:",
+      "options": [
+        "Is usually caused by bilateral adrenal hyperplasia",
+        "Is responsible for 8% of all primary hypertension",
+        "May have associated hypokalemia",
+        "May have associated hypocalcemia",
+        "Occurs most commonly in patients aged 50-70 years"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Hypokalemia is a classic metabolic consequence of primary hyperaldosteronism due to urinary potassium wasting, though many patients are normokalemic.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7903,
+      "question": "Pre-operative preparation for the patient include all of the following EXCEPT:",
+      "options": [
+        "CBC, coagulation profile, liver and kidney profile.",
+        "CXR and indirect laryngoscopy.",
+        "Thyroid profile and neck ultrasound.",
+        "Recurrent laryngeal nerve conduction."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Recurrent laryngeal nerve conduction studies are not part of the standard pre-operative workup for thyroid surgery. Indirect laryngoscopy is used to check vocal cord mobility.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Thyroid Gland"
+    },
+    {
+      "id": 7904,
+      "question": "Rathke`s pouch tumour is:",
+      "options": [
+        "Craniopharyngioma",
+        "Prolactinoma",
+        "Insulinoma",
+        "Cushing disease",
+        "Parathyroid adenoma"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Craniopharyngioma is a tumor derived from the remnants of Rathke's pouch (the embryonic precursor of the anterior pituitary).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pituitary Gland"
+    },
+    {
+      "id": 7905,
+      "question": "Recognized causes of hirsutism does not include:",
+      "options": [
+        "Ovarian tumors.",
+        "Cushing`s syndrome.",
+        "Thyrotoxicosis.",
+        "Polycystic ovary syndrome.",
+        "Congenital adrenal hyperplasia."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Thyrotoxicosis typically causes fine, thin hair and hair loss, not hirsutism (excessive male-pattern hair growth).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7906,
+      "question": "Recognized causes of hypopituitarism include all of the following EXCEPT:",
+      "options": [
+        "Postpartum hemorrhage.",
+        "Cushing`s syndrome.",
+        "Acromegaly.",
+        "Auto-immune hypophysitis.",
+        "Sarcoidosis."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Acromegaly is a hyper-functioning state. While mass effect can cause failure, it's not a primary destructive cause like hemorrhage, trauma, or infiltration.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pituitary Gland"
+    },
+    {
+      "id": 7907,
+      "question": "Recognized causes of hypopituitarism include:",
+      "options": [
+        "Radiotherapy.",
+        "Postpartum haemorrhage.",
+        "Sarcoidosis.",
+        "Head injury.",
+        "All of the above"
+      ],
+      "correct_option_id": 4,
+      "explanation": "All listed options (Radiotherapy, Sheehan's/Hemorrhage, Infiltration/Sarcoidosis, Trauma) are well-known causes of pituitary failure.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pituitary Gland"
+    },
+    {
+      "id": 7908,
+      "question": "Regarding the recurrent laryngeal nerve, all are true EXCEPT:",
+      "options": [
+        "If injured bilaterally, completely, the patient will be aphonic.",
+        "Stridor will occur in unilateral complete injury.",
+        "Can be injured during devascularization of the inferior lobe.",
+        "Can be non-recurrent only on the right side."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Unilateral complete injury usually results in hoarseness due to a paramedian vocal cord, not stridor. Stridor is characteristic of bilateral injury or airway obstruction.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Thyroid Gland"
+    },
+    {
+      "id": 7909,
+      "question": "Regarding thyroiditis, all are true EXCEPT:",
+      "options": [
+        "Inflammatory conditions of the thyroid gland.",
+        "It`s rare.",
+        "Painless.",
+        "Dramatic response to prednisone & anti-inflammatories."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Not all thyroiditis is painless. Subacute (De Quervain's) thyroiditis is typically very painful. Thus, 'Painless' is the incorrect generalization.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Thyroid Gland"
+    },
+    {
+      "id": 7910,
+      "question": "Severe lactic acidosis is associated with:",
+      "options": [
+        "Tolbutamide.",
+        "Glipizide.",
+        "Glyburide.",
+        "Metformin.",
+        "Tolbutamide."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Lactic acidosis is a rare but serious side effect of Metformin (Biguanide), particularly in patients with renal impairment.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Diabetes Mellitus"
+    },
+    {
+      "id": 7911,
+      "question": "Somatostatin contributes to which of the following processes?",
+      "options": [
+        "Inhibition of adrenocortical cells.",
+        "Inhibition of pancreatic D cells.",
+        "Stimulation of antral gastrin cells.",
+        "Stimulation of GI motility.",
+        "Stimulation of secretin-producing cells in the duodenum."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Somatostatin inhibits almost all GI hormones and motility. It also inhibits its own secretion (autocrine feedback on D cells).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "General Endocrine"
+    },
+    {
+      "id": 7912,
+      "question": "Statins are the commonest agents used in management of:",
+      "options": [
+        "Type 1 diabetes",
+        "Graves disease",
+        "Hyperprolactinemia",
+        "Dyslipidemia",
+        "Hypercalcemia"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Statins (HMG-CoA reductase inhibitors) are the first-line treatment for dyslipidemia (specifically high LDL cholesterol).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Metabolic Disorders"
+    },
+    {
+      "id": 7913,
+      "question": "Steps in the synthesis of thyroid hormone include all of the following EXCEPT:",
+      "options": [
+        "Coupling of iodo-tyrosines.",
+        "Ingestion of potassium iodide.",
+        "Linkage of iodine with tyrosine residues.",
+        "Oxidation of iodide to iodine."
+      ],
+      "correct_option_id": 1,
+      "explanation": "The 'Ingestion' of iodide is a dietary event, not a biosynthetic step *within* the thyroid follicle. The synthesis steps are trapping, oxidation, organification, and coupling.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Thyroid Gland"
+    },
+    {
+      "id": 7914,
+      "question": "Sulfonylurea:",
+      "options": [
+        "Decrease the number of Insulin receptors.",
+        "Increase Glucagon secretion.",
+        "Increase binding of insulin to target cells.",
+        "Can be used efficiently to treat Type I DM.",
+        "Decrease binding of insulin receptors"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Primary mechanism is insulin secretion. Some evidence suggests increased receptor binding, matching the option. They are ineffective in Type 1 DM.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Diabetes Mellitus"
+    },
+    {
+      "id": 7915,
+      "question": "Sulphonylurea act on pancreatic beta-cells by blocking:",
+      "options": [
+        "Na+ channels",
+        "N- type Ca++ channels",
+        "L- type Ca++ channels",
+        "ATP-sensitive K + channels",
+        "Stimulate gamma CELLS"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Sulfonylureas bind to the SUR1 receptor and block ATP-sensitive Potassium channels, causing depolarization and insulin release.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Diabetes Mellitus"
+    },
+    {
+      "id": 7916,
+      "question": "Tapping over the parotid gland causes facial muscles to twitch in hypocalcemia is called:",
+      "options": [
+        "Trousseau`s sign",
+        "Pemberton`s sign",
+        "Chvostek`s sign",
+        "Mobius sign",
+        "Von Graefe`s sign"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Chvostek's sign is the twitching of facial muscles in response to tapping the facial nerve over the parotid gland, a sign of latent tetany (hypocalcemia).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Parathyroid Gland"
+    },
+    {
+      "id": 7917,
+      "question": "The appropriate repair of duodenal obstruction from an annular pancreas is:",
+      "options": [
+        "Division of the pancreatic ring.",
+        "Resection of the pancreatic ring.",
+        "Duodeno-duodenostomy.",
+        "Duodeno-jejunostomy."
+      ],
+      "correct_option_id": 2,
+      "explanation": "The treatment for annular pancreas is a bypass procedure, usually duodeno-duodenostomy. Resecting the pancreatic ring is hazardous due to the risk of fistula and duct injury.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pancreas"
+    },
+    {
+      "id": 7918,
+      "question": "The combination of ------------- and Repaglinide cause severe hypoglycemia.",
+      "options": [
+        "Gemfibrozil.",
+        "Phenytoin.",
+        "Rifampicin.",
+        "Tolbutamide."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Gemfibrozil inhibits the metabolism of Repaglinide (CYP2C8), leading to significantly increased levels and a risk of severe hypoglycemia.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Diabetes Mellitus"
+    },
+    {
+      "id": 7919,
+      "question": "The common presentation of Hashimoto`s thyroiditis is:",
+      "options": [
+        "Hyperthyroidism.",
+        "Hypothyroidism.",
+        "Euthyroid state with goiter"
+      ],
+      "correct_option_id": 2,
+      "explanation": "While Hashimoto's causes hypothyroidism eventually, a very common initial presentation is a painless goiter in a euthyroid or subclinically hypothyroid patient.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Thyroid Gland"
+    },
+    {
+      "id": 7920,
+      "question": "The commonest clinical manifestation of MEN-1 is:",
+      "options": [
+        "Glucagonoma.",
+        "Hyperparathyroidism.",
+        "Cushing disease.",
+        "Medullary carcinoma of thyroid."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Primary Hyperparathyroidism occurs in over 90% of MEN 1 patients and is typically the earliest manifestation.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "MEN Syndromes"
+    },
+    {
+      "id": 7921,
+      "question": "The constellation of short stature, primary amenorrhea and aortic coarctation are significant for:",
+      "options": [
+        "Turners syndrome",
+        "Cretinism",
+        "Prader Willi syndrome",
+        "Noonan syndrome",
+        "Kalman syndrome"
+      ],
+      "correct_option_id": 0,
+      "explanation": "These are the classic features of Turner's Syndrome (45,X0): short stature, streak ovaries (amenorrhea), and cardiovascular anomalies like coarctation.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Gonadal Disorders"
+    },
+    {
+      "id": 7922,
+      "question": "The following are true regarding thyroglossal cyst EXCEPT:",
+      "options": [
+        "Usually presents as midline neck swelling.",
+        "May be confused with ectopic thyroid.",
+        "Best treatment is follow up.",
+        "Should be excised completely for fear of complications.",
+        "It occur at the line of descent of thyroid gland"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Thyroglossal cysts should be surgically excised (Sistrunk procedure) due to the risk of infection and a small risk of malignancy. 'Follow up' is not the standard treatment.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Thyroid Gland"
+    },
+    {
+      "id": 7923,
+      "question": "The following features are present in APS-II Autoimmune Polyendocrine syndrome II, EXCEPT:",
+      "options": [
+        "Addison`s disease.",
+        "Type-1 diabetes.",
+        "Muco-cutanous candidiasis.",
+        "Pernicious anemia."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Mucocutaneous candidiasis is a key feature of APS Type 1, not APS Type 2 (Schmidt's syndrome). APS 2 includes Addison's, T1DM, and Thyroid disease.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Polyendocrine Syndromes"
+    },
+    {
+      "id": 7924,
+      "question": "The following is not a complication of obesity:",
+      "options": [
+        "Osteoarthritis.",
+        "Renal calculi.",
+        "Hypertension.",
+        "Varicose veins of legs."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Renal calculi are associated with obesity but are often considered less of a direct mechanical/hemodynamic complication than OA, HTN, or varicose veins.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Obesity & Metabolism"
+    },
+    {
+      "id": 7925,
+      "question": "The following statement are false EXCEPT:",
+      "options": [
+        "In acromegaly increase GH before epiphyseal closure.",
+        "In gigantism increase GH after epiphyseal closure.",
+        "First line of TTT of GH secreting adenoma is radiation.",
+        "Most GH secreting adenoma are micro adenoma"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Acromegaly is after closure. Gigantism is before. Surgery is first line. Option D (most are micro) is the intended exception; functioning GH tumors are often macroadenomas.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pituitary Gland"
+    },
+    {
+      "id": 7926,
+      "question": "The following statements regarding TSH measuring are true EXCEPT:",
+      "options": [
+        "Lt is increased after total thyroidectomy.",
+        "Normal TSH is about 5 micro units/liter.",
+        "Lt is the most sensitive test for mild cases.",
+        "All of the above"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Normal TSH is typically 0.4 - 4.0 mIU/L. A value of 5 is often considered borderline or elevated, not the standard 'normal'. TSH is indeed the most sensitive test.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Thyroid Gland"
+    },
+    {
+      "id": 7927,
+      "question": "The most common branchial cleft fistula originates from the:",
+      "options": [
+        "1st branchial cleft.",
+        "2nd branchial clef.",
+        "3rd branchial cleft.",
+        "4th branchial cleft."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Second branchial cleft anomalies account for approximately 95% of all branchial cleft lesions.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Neck Masses"
+    },
+    {
+      "id": 7928,
+      "question": "The most likely diagnosis in a patient with hypertension, hypokalemia, and a 7-cm suprarenal mass is:",
+      "options": [
+        "Hypernephroma.",
+        "Cushing`s disease.",
+        "Adrenocortical carcinoma.",
+        "Phaeo-chromocytoma.",
+        "Carcinoid."
+      ],
+      "correct_option_id": 3,
+      "explanation": "A 7-cm mass suggests Pheochromocytoma or Carcinoma. Adenomas (Conn's) are small. Pheos cause HTN and can cause hypokalemia. The key selects Pheochromocytoma.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7929,
+      "question": "The treatment of choice for Cushing`s disease is:",
+      "options": [
+        "Follow up",
+        "Medical therapy",
+        "Laparoscopic adrenalectomy",
+        "Open adrenalectomy",
+        "Trans-sphenoidal hypophysectomy"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Cushing's Disease is caused by a pituitary adenoma. The first-line treatment is Trans-sphenoidal surgery (hypophysectomy/adenomectomy).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pituitary Gland"
+    },
+    {
+      "id": 7930,
+      "question": "The treatment of choice for Cystic Hygromas is:",
+      "options": [
+        "Observation.",
+        "Antibiotics.",
+        "Intra-lesional sclera-therapy.",
+        "Surgical excision."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Surgical excision is the traditional treatment of choice for cystic hygromas, although sclerotherapy is also used.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Neck Masses"
+    },
+    {
+      "id": 7931,
+      "question": "Thiazolidine diones:",
+      "options": [
+        "Increase Insulin secretion.",
+        "Enhance tissue sensitivity to Insulin.",
+        "Decrease GIT absorption of carbohydrates.",
+        "Increase glycogenolysis.",
+        "Decrease insulin secretion."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Thiazolidinediones (Glitazones) act as insulin sensitizers by activating PPAR-gamma receptors in adipose and muscle tissue.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Diabetes Mellitus"
+    },
+    {
+      "id": 7932,
+      "question": "The followings are true about PAS-1 EXCEPT: Poly-glandular Autoimmune Syndrome Type 1 (PAS-1)",
+      "options": [
+        "An autosomal recessive disorder.",
+        "Equally affects both sexes.",
+        "Hypo-parathyroidism is very common.",
+        "Autoimmune thyroid disease is more frequent than in type II. APS"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Autoimmune thyroid disease is a major component of APS Type 2 (Schmidt's), not Type 1. APS Type 1 is characterized by Candidiasis, Hypoparathyroidism, and Addison's.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Polyendocrine Syndromes"
+    },
+    {
+      "id": 7933,
+      "question": "Undescended testes are usually repaired at what age?",
+      "options": [
+        "When diagnosed.",
+        "In infancy.",
+        "Before 2 years of age.",
+        "Before 6 years of age."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Orchidopexy is recommended before 2 years of age (ideally 6-12 months) to preserve fertility potential and monitor for malignancy.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pediatric Surgery"
+    },
+    {
+      "id": 7934,
+      "question": "Upon using Thiazolidinediones:",
+      "options": [
+        "Hyperglycemia, hypertriglyceridemia & elevated HbA1c are all deteriorated.",
+        "HDL levels are decreased.",
+        "Accumulation of subcutaneous fat occurs with these agents.",
+        "LDL levels are increased.",
+        "A & B"
+      ],
+      "correct_option_id": 2,
+      "explanation": "A common side effect of Thiazolidinediones is weight gain due to fluid retention and the accumulation of subcutaneous fat.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Diabetes Mellitus"
+    },
+    {
+      "id": 7935,
+      "question": "Urinary 17 keto-steroids are increased in:",
+      "options": [
+        "Cushing`s disease.",
+        "Conn`s syndrome.",
+        "Adreno-genital syndrome."
+      ],
+      "correct_option_id": 0,
+      "explanation": "17-ketosteroids are androgen metabolites. They increase with excess adrenal androgens, as seen in Cushing's (ACTH stimulation) and Congenital Adrenal Hyperplasia.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7936,
+      "question": "VMA vanylmandelic acid assay used to diagnose:",
+      "options": [
+        "Primary hyperaldosteronism",
+        "Secondary hyperaldosteronism",
+        "Cushing syndrome",
+        "Pheochromocytoma",
+        "Thyroid lymphoma"
+      ],
+      "correct_option_id": 3,
+      "explanation": "VMA is a metabolite of catecholamines. Elevated urinary VMA is a diagnostic marker for Pheochromocytoma.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7937,
+      "question": "What causes increased sweating in patients with acromegaly:",
+      "options": [
+        "Increased sodium content in sweat",
+        "Raised basal metabolic rate",
+        "Episodic hypoglycemia",
+        "Low-grade chronic pyrexia",
+        "Sweat gland hypertrophy"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Excess Growth Hormone causes hypertrophy of sweat glands, leading to the characteristic oily skin and excessive sweating (hyperhidrosis) in acromegaly.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pituitary Gland"
+    },
+    {
+      "id": 7938,
+      "question": "What is a typical set of symptoms of hypoglycemia?",
+      "options": [
+        "Headache, weakness, dizziness, trembling& hunger.",
+        "Acne, hyperactivity, cough& heartburn.",
+        "Loss of weight, thirst, frequent urination & numbness.",
+        "Itchy skin, purple nail beds, hair loss & brittle nails."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Typical symptoms of hypoglycemia include neuroglycopenia (headache, dizziness, weakness) and autonomic activation (trembling, hunger, sweating).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Metabolic Disorders"
+    },
+    {
+      "id": 7939,
+      "question": "What is the most common cause of primary hyperaldosteronism?",
+      "options": [
+        "Pituitary tumour",
+        "Adrenocortical adenoma",
+        "Adrenal carcinoma",
+        "Ectopic secretion",
+        "Bilateral idiopathic adrenal hyperplasia"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Bilateral idiopathic adrenal hyperplasia is now recognized as the most common cause of primary hyperaldosteronism (~60%), followed by aldosterone-producing adenoma (Conn's syndrome).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7940,
+      "question": "What is the primary mechanism of action of glucagon in treatment of Hypoglycaemia:",
+      "options": [
+        "Stimulates glycogenolysis",
+        "Stimulate appetite",
+        "Stimulates insulin secretion",
+        "Stimulate amylin secretion",
+        "Enhance glucose uptake"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Glucagon acts on the liver to stimulate the breakdown of glycogen into glucose (glycogenolysis), rapidly increasing blood sugar levels.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Metabolic Disorders"
+    },
+    {
+      "id": 7941,
+      "question": "Which hormone is responsible for many of the symptoms of hypoglycemia?",
+      "options": [
+        "TSH",
+        "Epinephrine.",
+        "Cortisol.",
+        "Thyroxin."
+      ],
+      "correct_option_id": 1,
+      "explanation": "The surge of Epinephrine (Adrenaline) in response to low blood sugar causes the autonomic symptoms of hypoglycemia, such as tachycardia, sweating, and tremors.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Metabolic Disorders"
+    },
+    {
+      "id": 7942,
+      "question": "Which is false about delivery of maternal thyroid hormones to the fetus:",
+      "options": [
+        "Maternal Thyrotropin releasing hormone (TRH) cross the placental barrier",
+        "IgG autoantibodies (e.g., in autoimmune thyroiditis) cross placenta and inhibit thyroid function",
+        "Maternal Thyroid stimulating hormone (TSH) cross the placental barrier",
+        "Passage of Thyroid hormones from mother to fetus in the first few weeks of pregnancy",
+        "Thyroid hormones in breast milk do not affect neonatal thyroid screening tests"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Maternal TSH does *not* cross the placental barrier. TRH and IgG antibodies (like TSI or Anti-TPO) do cross.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Thyroid Gland"
+    },
+    {
+      "id": 7943,
+      "question": "Which is NOT true about Acarbose:",
+      "options": [
+        "Glucose levels rise modestly and remain slightly elevated for a prolonged period.",
+        "Stimulates pancreatic amylase.",
+        "Use with other agents may result in hypoglycemia.",
+        "Sucrase is also inhibited by this drug.",
+        "Stimulate B blockers"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Acarbose is an alpha-glucosidase inhibitor that delays carbohydrate digestion. It does NOT stimulate pancreatic amylase; in fact, it inhibits digestion enzymes.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Diabetes Mellitus"
+    },
+    {
+      "id": 7944,
+      "question": "Which of the following can cause Ectopic ACTH syndrome:",
+      "options": [
+        "Oat cell carcinoma",
+        "Parathyroid adenoma",
+        "Somastatinoma",
+        "Craniopharyngioma",
+        "Pancreatic pseudocyst"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Oat cell carcinoma (Small cell lung cancer) is the classic paraneoplastic cause of Ectopic ACTH syndrome.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7945,
+      "question": "Which of the following factors increase prolactin secretion?",
+      "options": [
+        "Dopamine",
+        "Bromocriptine",
+        "Somatostatin",
+        "Thyrotrophin-releasing hormone",
+        "Testosterone"
+      ],
+      "correct_option_id": 3,
+      "explanation": "TRH (Thyrotrophin-releasing hormone) stimulates the release of prolactin. This explains why primary hypothyroidism (high TRH) can cause hyperprolactinemia.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pituitary Gland"
+    },
+    {
+      "id": 7946,
+      "question": "Which of the following is a component of multiple endocrine neoplasia- 1 (MEN-1):",
+      "options": [
+        "Cushing syndrome",
+        "Medullary cancer of thyroid",
+        "Pituitary tumors",
+        "Pheochromocytoma",
+        "Pancreatitis"
+      ],
+      "correct_option_id": 2,
+      "explanation": "MEN 1 involves the '3 Ps': Parathyroid hyperplasia, Pancreatic tumors, and Pituitary tumors.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "MEN Syndromes"
+    },
+    {
+      "id": 7947,
+      "question": "Which of the following is false about orlistat in treatment of obesity:",
+      "options": [
+        "Blocks the digestion and absorption of about 30% of dietary fat",
+        "Weight loss of about 9-10%",
+        "Lipase inhibitor",
+        "Fecal urgency of fatty oily stool",
+        "Hyperviaminosis D is a side effect"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Orlistat blocks fat absorption, which leads to the malabsorption of fat-soluble vitamins (A, D, E, K). Therefore, it causes *hypovitaminosis* D, not hypervitaminosis.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Obesity & Metabolism"
+    },
+    {
+      "id": 7948,
+      "question": "Which of the following is important to check before resection of a gastrinoma?",
+      "options": [
+        "Serum calcium.",
+        "Serum catecholamines.",
+        "Serum calcitonin.",
+        "Serum carcino-embryonic antigen."
+      ],
+      "correct_option_id": 0,
+      "explanation": "It is crucial to check serum calcium to rule out MEN 1 (Primary Hyperparathyroidism). Hypercalcemia exacerbates hypergastrinemia, and treating the parathyroid condition may reduce gastrin levels.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "MEN Syndromes"
+    },
+    {
+      "id": 7949,
+      "question": "Which of the following is least recognised as a potential complication of acromegaly?",
+      "options": [
+        "Colorectal cancer",
+        "Carpal tunnel syndrome",
+        "Cardiomyopathy",
+        "Diabetes mellitus",
+        "Pulmonary hypertension"
+      ],
+      "correct_option_id": 4,
+      "explanation": "While sleep apnea is common, pulmonary hypertension is less frequently cited as a direct primary complication compared to Diabetes, Cardiomyopathy, CTS, and Colorectal Cancer.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Pituitary Gland"
+    },
+    {
+      "id": 7950,
+      "question": "Which one of the following drugs not cause gynecomastia?",
+      "options": [
+        "Spironolactone",
+        "Orlistat",
+        "Digoxin",
+        "Cimetidine",
+        "Anabolic steroids"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Orlistat acts locally in the gut and does not have systemic hormonal effects that cause gynecomastia. The other drugs listed are well-known causes.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Breast / Endocrine"
+    },
+    {
+      "id": 7951,
+      "question": "Which one of the following is not characteristic of Addisson`s disease:",
+      "options": [
+        "Hypoglycemia",
+        "Hyperkalemia",
+        "Hyponatremia",
+        "Progressive weight gain",
+        "Positive short synacthen stimulation test"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Addison's disease typically causes significant weight *loss* (anorexia), not weight gain. Weight gain is characteristic of Cushing's syndrome.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7952,
+      "question": "Which one are not side effects of Sulphonylureas?",
+      "options": [
+        "Hypoglycaemia",
+        "Weight gain",
+        "Lactic acidosis",
+        "Nausea and vomiting",
+        "Diarrhea"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Lactic acidosis is a side effect of Biguanides (Metformin), not Sulfonylureas. Sulfonylureas commonly cause hypoglycemia and weight gain.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Diabetes Mellitus"
+    },
+    {
+      "id": 7953,
+      "question": "Which one is not the cause of prolonged therapy with glucocorticoids?",
+      "options": [
+        "Peptic ulceration",
+        "Increased susceptibility to infection",
+        "Myopathy",
+        "Hypoglycaemia"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Glucocorticoids increase blood glucose levels, potentially leading to hyperglycemia or steroid-induced diabetes, not hypoglycemia.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    },
+    {
+      "id": 7954,
+      "question": "Whipples triad used for diagnosis of:",
+      "options": [
+        "DKA",
+        "Gestational diabetes",
+        "Hyperglycemia",
+        "Type 2 diabetes",
+        "Hypoglycemia"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Whipple's triad (Symptoms of hypoglycemia, Low plasma glucose, Relief with glucose) is the clinical criteria used to diagnose hypoglycemia, particularly Insulinoma.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Metabolic Disorders"
+    },
+    {
+      "id": 7955,
+      "question": "Worm nodule means:",
+      "options": [
+        "Inactive nodule.",
+        "Usually cancerous.",
+        "Active nodule.",
+        "Toxic adenoma."
+      ],
+      "correct_option_id": 2,
+      "explanation": "This is likely a typo for 'Warm nodule' in thyroid scintigraphy, which refers to a functioning (active) nodule that takes up isotope similar to normal tissue.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Thyroid Gland"
+    },
+    {
+      "id": 7956,
+      "question": "A 13-year-old girl with Hashimoto's (diagnosed 6 years ago) has fatigue and 12kg weight loss. Celiac screen negative. TSH/T4 normal. What is the most important study now?",
+      "options": [
+        "24-hour cortisol in urine",
+        "Duodenal biopsy for cryptic celiac disease",
+        "Measurement of cortisol and adrenocorticotropic hormone.",
+        "Measurement of free thyroxine and TSH",
+        "Mononucleosis spot test and liver function"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Weight loss and fatigue in a patient with autoimmune thyroiditis suggests Addison's (Autoimmune Polyendocrine Syndrome Type 2). Check Cortisol and ACTH.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Polyendocrine Syndromes"
+    },
+    {
+      "id": 7957,
+      "question": "Zona reticularis mainly secretes:",
+      "options": [
+        "Glucocorticoids",
+        "Sex steroids",
+        "Aldosterone",
+        "Epinephrine",
+        "Dopamine"
+      ],
+      "correct_option_id": 1,
+      "explanation": "The Zona Reticularis (the innermost layer of the adrenal cortex) primarily secretes adrenal androgens (sex steroids).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Endocrine Surgery",
+      "chapter": "Adrenal Gland"
+    }
+  ]
+}

@@ -1,0 +1,2346 @@
+{
+  "meta": {
+    "source": "Term 7 - Endocrine",
+    "lesson": "Thyroid Gland, Hypothyroidism"
+  },
+  "questions": [
+    {
+      "id": 7400,
+      "question": "A 36-year-old woman who presented with a goiter is diagnosed with autoimmune thyroiditis. Which one of the following types of thyroid cancer is she predisposed to developing?",
+      "options": [
+        "Anaplastic",
+        "Lymphoma",
+        "Medullary",
+        "Follicular",
+        "Papillary"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Primary Thyroid Lymphoma (non-Hodgkin B-cell) is strongly associated with preexisting Hashimoto's thyroiditis, likely due to chronic lymphocytic stimulation.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7401,
+      "question": "A clue to early recognition of congenital hypothyroidism is:",
+      "options": [
+        "Widely opened posterior fontanelle",
+        "Excessive crying",
+        "Closed anterior fontanelle",
+        "Macrocephaly",
+        "VSD"
+      ],
+      "correct_option_id": 0,
+      "explanation": "A widely open posterior fontanelle (>0.5 cm) is a classic early sign of congenital hypothyroidism due to delayed skeletal maturation.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Congenital Hypothyroidism"
+    },
+    {
+      "id": 7402,
+      "question": "45 years old female suffering: fatigue, hypersomnolence, weight gain, constipation, on examination she was pale with dry skin, heart rate 52/min, initial investigations low serum Free T4, high TSI , most probable diagnosis:",
+      "options": [
+        "Primary hypothyroidism",
+        "Secondary hypothyroidism",
+        "Graves` disease",
+        "Toxic thyroid nodule",
+        "Multinodular toxic goiter"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Signs (bradycardia, constipation, dry skin) plus low Free T4 confirm hypothyroidism. 'High TSI' is likely a typo for TSH or refers to blocking antibodies. Primary Hypothyroidism is the diagnosis.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Adult Hypothyroidism"
+    },
+    {
+      "id": 7403,
+      "question": "A high TSH, low T4, and low T3 suggests:",
+      "options": [
+        "Hyperthyroidism",
+        "Nonthyroidal illness (sick euthyroidism)",
+        "Estrogen therapy",
+        "Primary hypothyroidism",
+        "Euthyroid"
+      ],
+      "correct_option_id": 3,
+      "explanation": "This is the classic laboratory profile for Primary Hypothyroidism: the thyroid gland fails to produce hormones (low T3/T4) despite intense stimulation by the pituitary (high TSH).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Investigations"
+    },
+    {
+      "id": 7404,
+      "question": "All are indications of surgery in Goiter EXCEPT:",
+      "options": [
+        "Retrosternal goiter.",
+        "2ry toxic goiter.",
+        "Thyroiditis.",
+        "Failure of medical treatment"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Thyroiditis is managed medically (anti-inflammatories, beta-blockers). Surgery is rare, reserved for severe compression or suspected lymphoma, not routine cases.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Goiter & Management"
+    },
+    {
+      "id": 7405,
+      "question": "Although the prognosis for normal intellectual and linear growth can be excellent for children who have congenital hypothyroidism, delaying treatment beyond which of the following ages is likely to be associated with impairments:",
+      "options": [
+        "24 hours.",
+        "2 weeks.",
+        "3 months.",
+        "6 months.",
+        "1 year."
+      ],
+      "correct_option_id": 2,
+      "explanation": "The critical window for brain development relies on thyroid hormone. Significant irreversible intellectual impairment occurs if replacement therapy is delayed beyond 3 months of age.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Congenital Hypothyroidism"
+    },
+    {
+      "id": 7406,
+      "question": "Among the following statements about retrosternal goiter, the false one is that it:",
+      "options": [
+        "Usually arises in aberrant intra-thoracic thyroid tissue.",
+        "Is particularly common in males.",
+        "Moy present with symptoms of mediastinal compression (syndrome).",
+        "Is often associated with palpable enlargement of the thyroid.",
+        "Is best removed through a cervical incision."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Retrosternal goiters typically arise from the downward growth of a cervical goiter into the mediastinum, rather than from separate aberrant ectopic tissue.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Goiter & Management"
+    },
+    {
+      "id": 7407,
+      "question": "Among the following, the most sensitive laboratory test to diagnose primary hypothyroidism is measurement of serum:",
+      "options": [
+        "Free T4.",
+        "Thyroglobulin",
+        "Thyroid antibodies.",
+        "Total T3.",
+        "TSH"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Serum TSH is the most sensitive marker for primary thyroid dysfunction because the pituitary response amplifies even minor changes in peripheral thyroid hormone levels.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Investigations"
+    },
+    {
+      "id": 7408,
+      "question": "As differentiation between primary and 2ry toxic goiter all are true EXCEPT:",
+      "options": [
+        "The 2ry is more common in elderly.",
+        "The 2ry appears with gradual onset.",
+        "The 2ry is presented by diffuse enlargement of the gland.",
+        "Nervous manifestation, metabolic disorders and eye signs are more prominent in the 1ry form."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Secondary toxic goiter refers to Toxic Multinodular Goiter, which presents with nodular enlargement, not diffuse enlargement (which is characteristic of Primary Toxic Goiter/Graves' Disease).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7409,
+      "question": "Hard goiter can be felt during examination of the gland in the following cases:",
+      "options": [
+        "Malignancy.",
+        "Calcified simple nodular goiter.",
+        "Riedle`s thyroiditis.",
+        "Tense thyroid cyst."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Stony hard consistency on palpation is a hallmark suspicious for Malignancy (particularly Anaplastic) or Riedel's Thyroiditis (woody thyroiditis). In MCQs, Malignancy is the primary rule-out.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Goiter & Management"
+    },
+    {
+      "id": 7410,
+      "question": "How is congenital hypothyroidism treated?",
+      "options": [
+        "With radiation",
+        "With surgery",
+        "With a synthetic thyroid hormone",
+        "The condition cannot be treated.",
+        "Carbimazole"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Standard treatment involves lifelong replacement therapy with Levothyroxine (synthetic T4) to normalize hormone levels and ensure proper development.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Congenital Hypothyroidism"
+    },
+    {
+      "id": 7411,
+      "question": "Hypothyroidism in neonatal period is manifested by all the following EXCEPT:",
+      "options": [
+        "Prolonged physiological jaundice.",
+        "Hoarse cry.",
+        "Diarrhea.",
+        "Somnolence."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Neonatal hypothyroidism causes slowing of metabolic processes leading to constipation, not diarrhea. Prolonged jaundice and somnolence are classic signs.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Congenital Hypothyroidism"
+    },
+    {
+      "id": 7412,
+      "question": "Hypothyroidism is most often due to:",
+      "options": [
+        "Multinodulor goitre.",
+        "Solitary adenoma,",
+        "Thyroid cancer.",
+        "Chronic thyroiditis.",
+        "Iotrogenic courses."
+      ],
+      "correct_option_id": 4,
+      "explanation": "Iatrogenic causes (post-thyroidectomy, post-RAI) are extremely common in clinical practice, often exceeding spontaneous causes. Hashimoto's is the most common spontaneous cause.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Adult Hypothyroidism"
+    },
+    {
+      "id": 7413,
+      "question": "In a case of goiter, the following may be cause of un-equal pulse during examination:",
+      "options": [
+        "Diffuse goiter.",
+        "Cancer thyroid.",
+        "Retrosternal goiter.",
+        "Hashimoto`s disease."
+      ],
+      "correct_option_id": 2,
+      "explanation": "A large retrosternal goiter can compress the major vessels (e.g., subclavian artery) or cause thoracic outlet obstruction, potentially leading to unequal radial pulses.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Goiter & Management"
+    },
+    {
+      "id": 7414,
+      "question": "In an individual with lodine deficiency-induced goiter and signs of cold intolerance and a decreased heart rate, one would expect to find the following circulating hormone levels:",
+      "options": [
+        "High TSH and high T 3",
+        "High TSH and low T 3",
+        "Low TSH and high T 3",
+        "Low TSH and low T3",
+        "Normal TSH and high T3"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Iodine deficiency lowers T3/T4 synthesis, removing negative feedback. This causes High TSH (goitrogenesis) alongside clinical hypothyroidism signs (cold intolerance, bradycardia).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Physiology"
+    },
+    {
+      "id": 7415,
+      "question": "LN physiological goiter the following statements are true EXCEPT that it:",
+      "options": [
+        "Affects males more often thon females.",
+        "Presents as fullness of the neck (Venus neck).",
+        "Is characterized by uniform smooth enlargement with fleshy or firm consistency.",
+        "Moy be associated with toxic or press"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Physiological goiter (puberty/pregnancy) is typically euthyroid and diffuse. It is NOT associated with toxicosis or pressure symptoms. It is also significantly more common in females.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Goiter & Management"
+    },
+    {
+      "id": 7416,
+      "question": "Malignant goiter, if painful the pain will be referred to the ear through:",
+      "options": [
+        "Phrenic nerve.",
+        "Sympathetic plexus.",
+        "Bronchial plexus.",
+        "Arnold`s nerve ( branch of vagus nerve)"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Pain from the thyroid can be referred to the ear due to shared sensory pathways via the auricular branch of the Vagus nerve (Arnold's nerve).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Anatomy & Embryology"
+    },
+    {
+      "id": 7417,
+      "question": "Maternal medications that may result in congenital hypothyroidism:",
+      "options": [
+        "Amiodarone",
+        "Propranolol",
+        "Digoxin",
+        "Levothyroxine",
+        "NSAIDs"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Amiodarone is iodine-rich and crosses the placenta, causing fetal thyroid dysfunction (Wolff-Chaikoff effect or iodine-induced damage).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Congenital Hypothyroidism"
+    },
+    {
+      "id": 7418,
+      "question": "One of the following is a sign of congenital hypothyroidism:",
+      "options": [
+        "Excessive cry",
+        "Prolonged neonatal jaundice",
+        "Weight gain",
+        "Hyperthermia",
+        "Macrocephaly"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Prolonged physiological jaundice is a key early sign. Infants are usually quiet/lethargic (rarely cry), have hypothermia, and feeding difficulties.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Congenital Hypothyroidism"
+    },
+    {
+      "id": 7419,
+      "question": "One of the signs of congenital hypothyroidism is:",
+      "options": [
+        "Excessive cry",
+        "Prolonged neonatal jaundice",
+        "Weight gain",
+        "Hyperthermia",
+        "Macrocephaly"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Prolonged neonatal jaundice (>2 weeks) is a classic indicator necessitating thyroid function screening.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Congenital Hypothyroidism"
+    },
+    {
+      "id": 7420,
+      "question": "Preparation of retrosternal goiter for surgery includes:",
+      "options": [
+        "Neomercazole.",
+        "Lugol`s iodine.",
+        "Propranolol.",
+        "A and C"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Antithyroids aren't routine as most are non-toxic. Beta-blockers (Propranolol) control heart rate if mild toxicity exists or for anesthetic stability.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Pre-operative"
+    },
+    {
+      "id": 7421,
+      "question": "Recurrent goiter may be due to:",
+      "options": [
+        "Inadequate initial removal.",
+        "Persistence of etiology.",
+        "Foreign body reaction.",
+        "Any of the above"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Recurrence happens if the underlying stimulus (e.g., TSH due to enzyme defect) persists, if insufficient tissue was removed, or if distinct pathology like reaction/granuloma mimics recurrence.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Post-operative"
+    },
+    {
+      "id": 7422,
+      "question": "Retrosternal goiter has the following features EXCEPT:",
+      "options": [
+        "Dullness on direct sterna percussion.",
+        "Not an indication for surgery.",
+        "Diagnosis by X-ray.",
+        "More common in male."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Goiters, including retrosternal ones, are significantly more common in females. They DO cause dullness on percussion and are a clear indication for surgery due to risk of airway compression.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Goiter & Management"
+    },
+    {
+      "id": 7423,
+      "question": "Signs of hypothyroidism:",
+      "options": [
+        "Heat intolerance.",
+        "Bradycardia.",
+        "Tremors."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Bradycardia is a hallmark of the hypometabolic state of hypothyroidism. Heat intolerance and tremors are signs of hyperthyroidism.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Adult Hypothyroidism"
+    },
+    {
+      "id": 7424,
+      "question": "Sporadic goiter may occur due to the following EXCEPT:",
+      "options": [
+        "Cabbage.",
+        "Water pollution by excreta.",
+        "Iodine deficiency.",
+        "Percolates."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Iodine deficiency causes ENDEMIC goiter. Sporadic goiters usually result from genetic defects or dietary goitrogens (e.g., cabbage) in iodine-sufficient areas.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Goiter & Management"
+    },
+    {
+      "id": 7425,
+      "question": "The definitive treatment of choice for toxic multi-nodular goiter is:",
+      "options": [
+        "Total thyroidectomy.",
+        "Bilateral subtotal thyroidectomy.",
+        "I 131 treatments.",
+        "Unilateral total lobectomy on the side of dominant disease."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Toxic MNG affects the whole gland. Subtotal/Total surgery is definitive, especially for large goiters, providing rapid relief. Subtotal was the classic answer, though Total is increasingly preferred.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7426,
+      "question": "The enlargement of the thyroid gland in infants with congenital hypothyroidism is directly related to:",
+      "options": [
+        "Impaired conversion of T3 and T4",
+        "Reduced activity of thyroperoxidase",
+        "Elevated levels of TSH",
+        "An antibody that binds to the TSH receptor in the thyroid gland",
+        "Decreased T4"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Pituitary excess TSH response to low hormones is trophic, stimulating thyroid growth (goiter) if the gland is present (e.g., in dyshormonogenesis).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Congenital Hypothyroidism"
+    },
+    {
+      "id": 7427,
+      "question": "The good marker of follow up treatment of hypothyroidism is:",
+      "options": [
+        "T3.",
+        "T4.",
+        "TSH.",
+        "Revers T3."
+      ],
+      "correct_option_id": 2,
+      "explanation": "TSH normalization is the primary target for monitoring L-thyroxine replacement efficacy.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Investigations"
+    },
+    {
+      "id": 7428,
+      "question": "The incidence of congenital hypothyroidism",
+      "options": [
+        "1 in 2,000",
+        "1 in 20.000",
+        "1 in 200",
+        "1 in 100.000",
+        "1 in 200.000"
+      ],
+      "correct_option_id": 0,
+      "explanation": "The incidence is approximately 1 in 2,000 to 1 in 4,000 live births, making it a relatively common and screenable condition.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Congenital Hypothyroidism"
+    },
+    {
+      "id": 7429,
+      "question": "The most common cause of goitrous hypothyroidism in adults is:",
+      "options": [
+        "Graves` disease.",
+        "Riedel`s thyroiditis.",
+        "Hashimoto`s disease.",
+        "De Quervain`s thyroiditis."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Hashimoto's Thyroiditis (Chronic Lymphocytic Thyroiditis) typically presents with a firm goiter and eventual hypothyroidism due to autoimmune destruction.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyroiditis"
+    },
+    {
+      "id": 7430,
+      "question": "The most common cause of permanent congenital hypothyroidism is:",
+      "options": [
+        "Thyroid Dysgenesis",
+        "Maternal medications",
+        "Maternal autoimmune disorders",
+        "Pituitary adenoma",
+        "Hashimoto thyroiditis"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Dysgenesis (ectopy, aplasia, hypoplasia) accounts for roughly 85% of permanent cases.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Congenital Hypothyroidism"
+    },
+    {
+      "id": 7431,
+      "question": "The most sensitive test to diagnose primary hypothyroidism is:",
+      "options": [
+        "Free T3",
+        "TSH",
+        "Reverse T3",
+        "TRH",
+        "Free T4"
+      ],
+      "correct_option_id": 1,
+      "explanation": "TSH is the gold standard for diagnosis as it rises exponentially before T4 drops below normal limits (subclinical phase).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Investigations"
+    },
+    {
+      "id": 7432,
+      "question": "The simple Goiter has the following featuring EXCEPT:",
+      "options": [
+        "More common on females.",
+        "Presented by diffuse, soft enlargement of the gland in cases if diffuse simple goiter.",
+        "Shows toxic manifestations.",
+        "Can be treated surgically."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Simple goiter implies Euthyroid status (Normal function). If it shows toxic manifestations, it is by definition a Toxic Goiter, not a simple one.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Goiter & Management"
+    },
+    {
+      "id": 7433,
+      "question": "The simple nodular goiter can be complicated by one of the following EXCEPT:",
+      "options": [
+        "2ry thyrotoxicosis.",
+        "Haemorrhage.",
+        "Turn malignant in 30% of cases",
+        "Stridor."
+      ],
+      "correct_option_id": 3,
+      "explanation": "While malignancy is rare (<5%), option C claims 30%. However, based on the provided key excluding 'Stridor', it may be classified as a symptom rather than a complication in this specific context.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Goiter & Management"
+    },
+    {
+      "id": 7434,
+      "question": "The symptoms of congenital hypothyroidism may be difficult to detect, so the condition can best be diagnosed with:",
+      "options": [
+        "An MRI scan",
+        "An ultrasound",
+        "A thyroid stimulating hormone test (TSH)",
+        "A hemoglobin test or hematocrit test.",
+        "Plain neck X-ray"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Routine TSH screening is the only reliable method for detection because symptoms are subtle or absent in the first few weeks.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Congenital Hypothyroidism"
+    },
+    {
+      "id": 7435,
+      "question": "The following is a cause of painful goiter:",
+      "options": [
+        "Acute thyroiditis.",
+        "Simple nodular goiter.",
+        "Retrosternal goiter.",
+        "Goiter with pregnancy."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Acute (bacterial) and Subacute (De Quervain's) thyroiditis are the classic causes of painful thyroid swelling. Simple goiters are generally painless.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyroiditis"
+    },
+    {
+      "id": 7436,
+      "question": "Which of the following treatment schedule for diffuse toxic goiter is true:",
+      "options": [
+        "Over 45 years: radioactive iodine.",
+        "Under 45 years: with large goiter: surgery.",
+        "Under 45 years: with small goiter: antithyroid drugs.",
+        "None of the above.",
+        "All of the above."
+      ],
+      "correct_option_id": 4,
+      "explanation": "This summarizes standard management guidelines: Young with small goiter = Medical treatment. Large goiter or relapse = Surgery. Elderly (>45) or poor surgical candidate = Radioiodine.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7437,
+      "question": "Which of these diseases is related to congenital hypothyroidism?",
+      "options": [
+        "Cretinism",
+        "Myxedema",
+        "Hashimoto thyroiditis",
+        "Acromegaly",
+        "Graves` disease"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Cretinism is the historical term for the syndrome of stunted physical and mental growth caused by untreated congenital hypothyroidism.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Congenital Hypothyroidism"
+    },
+    {
+      "id": 7438,
+      "question": "When progressive enlargement of a Multi-nodular goiter causes Symptomatic tracheal compression, the preferred management in otherwise good-risk patients is:",
+      "options": [
+        "Iodine treatment.",
+        "Thyroid hormone treatment.",
+        "Surgical resection of the abnormal thyroid.",
+        "Radio-active iodine treatment."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Mechanical compression requires mechanical relief. Surgery provides immediate decompression and histologic confirmation.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Goiter & Management"
+    },
+    {
+      "id": 7439,
+      "question": "Toxic goiter has the following signs EXCEPT:",
+      "options": [
+        "Flapping tremors of the hand",
+        "Exophthalmos",
+        "Diarrhea",
+        "Menstrual irregularities"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Hyperthyroidism causes a **fine** tremor, not the flapping tremor (asterixis) seen in hepatic or renal failure.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7440,
+      "question": "Treatment of congenital hypothyroidism include:",
+      "options": [
+        "Levothyroxine",
+        "Carbimazole",
+        "Synthetic TSH analogue",
+        "Radioisotope scan",
+        "Surgery"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Immediate initiation of Levothyroxine (T4 replacement) is the mandatory treatment to preserve brain function.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Congenital Hypothyroidism"
+    },
+    {
+      "id": 7441,
+      "question": "3 hours post-thyroidectomy, 30 years old woman developed agitation and difficulty breathing, tachycardia and dry dressing but inferior cervical swelling. The most appropriate immediate step is:",
+      "options": [
+        "Insertion of an oro-tracheal tube",
+        "Reopening of the cervical wound",
+        "Estimation of serum calcium level",
+        "IV morphine"
+      ],
+      "correct_option_id": 1,
+      "explanation": "This describes a tension hematoma compressing the airway. The immediate lifesaving step is bedside decompression by reopening the wound, not intubation or waiting for labs.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Post-operative"
+    },
+    {
+      "id": 7442,
+      "question": "A 17-year-old girl presented with 2.5 cm nodule in the right lobe of the thyroid gland and enlarged three cervical LNs confirmed by US. FNA cytology revealed malignant cells with vesicular nuclei, the most probable diagnosis is:",
+      "options": [
+        "Lymphoma",
+        "Anaplastic carcinoma",
+        "Follicular carcinoma",
+        "Papillary carcinoma",
+        "Medullary carcinoma"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Vesicular nuclei (Orphan Annie eye appearance) + Cervical Lymph Node spread + Young age = Classic Papillary Carcinoma.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7443,
+      "question": "A 26-year-old women presents with a palpable thyroid nodule and needle biopsy demonstrates amyloid in the stroma of the lesion. A cervical lymph node is palpable on the same side as the lesion. The preferred treatment for this patient should be:",
+      "options": [
+        "Removal of the involved lobe, the isthmus, and the enlarged lymph node",
+        "Removal of involved lobe, isthmus, part of opposite lobe and enlarged lymph node",
+        "Removal of involved lobe, isthmus, and ipsilateral neck dissection",
+        "Radioactive iodine therapy",
+        "Total thyroidectomy and modified neck dissection on the side of the enlarged lymph node"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Amyloid stroma indicates Medullary Thyroid Carcinoma (MTC). MTC is multicentric and aggressive. The standard of care is Total Thyroidectomy with Central and lateral lymph node dissection.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7444,
+      "question": "A 30-year-old female presents for evolution of a palpable thyroid nodule Tc99 scan demonstrated a single cold nodule it may be the following EXCEPT:",
+      "options": [
+        "Carcinoma",
+        "Non-functioning adenoma",
+        "Thyroid cyst",
+        "Colloid nodule",
+        "Autonomous nodule"
+      ],
+      "correct_option_id": 4,
+      "explanation": "An 'Autonomous nodule' is by definition functioning (hot/warm) independent of TSH. A cold nodule implies lack of function/uptake, which fits with cysts, carcinomas, or non-functioning adenomas.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Investigations"
+    },
+    {
+      "id": 7445,
+      "question": "30-year-old woman had recurrent episodes of headache& sweating. Her mother had renal calculi, died of thyroid cancer. Physical examination: thyroid nodule but no clinical signs of thyroid dysfunction. Before thyroid surgery, the physician should order:",
+      "options": [
+        "A thyroid scan.",
+        "Measurement of serum thyroid-releasing hormone and thyroid-stimulating hormone levels.",
+        "A 24-h urine test for 5-hydroxy-indole-acetic acid excretion.",
+        "Serial 24-h urine tests for catecholamine, meta-nephrine and Vanyll-mandelic acid excretion."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Symptoms (Headache, sweating) and family history (Thyroid Ca + Stones) suggest MEN II (Pheochromocytoma). Rule out Pheochromocytoma via catecholamines before surgery to prevent hypertensive crisis.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7446,
+      "question": "A 35-year-old woman presented to GP with increasing anxiety, palpitations, weight loss, and irregular menstrual periods. On examination, she had bilateral tremors, proptosis, and a palpable small goiter. To confirm Graves` disease by lab you will ask for:",
+      "options": [
+        "Thyroglobulin antibody",
+        "GAD antibodies",
+        "LDH",
+        "Serum CA++",
+        "TSH receptor antibodies"
+      ],
+      "correct_option_id": 4,
+      "explanation": "TSH Receptor Antibodies (TRAb or TSI) are pathognomonic for Graves' disease.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7447,
+      "question": "36-year-old woman, 20 wk pregnant, presents with a 1.5-cm right thyroid mass. Fine-needle aspiration is consistent with a papillary neoplasm. The mass is cold by scan and solid by ultrasound. Which method of treatment would be contraindicated?",
+      "options": [
+        "Right thyroid lobectomy.",
+        "Subtotal thyroidectomy.",
+        "Total thyroidectomy.",
+        "Total thyroidectomy with lymph node dissection.",
+        "1311 radio-active ablation of the thyroid gland."
+      ],
+      "correct_option_id": 4,
+      "explanation": "Radioactive Iodine (I-131) is strictly contraindicated in pregnancy as it crosses the placenta and destroys the fetal thyroid.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7448,
+      "question": "40-year-old male undergoes an apparently uneventful total thyroidectomy for follicular carcinoma of the thyroid. 48 hours later develops circum-oral numbness, then laryngospasm, has a generalized seizure. which is the first priority?",
+      "options": [
+        "Proceed to OR for exploration of the operative site.",
+        "Administer 25 ml of 10% calcium gluconate intravenously.",
+        "Obtain a serum magnesium measurement and administer intravenous magnesium chloride STAT.",
+        "Obtain a CT scan of the head to evaluate the possibility of brain metastases."
+      ],
+      "correct_option_id": 1,
+      "explanation": "This is classic post-operative hypocalcemia (tetany/seizure). The priority is immediate IV calcium gluconate.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Post-operative"
+    },
+    {
+      "id": 7449,
+      "question": "A 45-year-old woman has a solitary, nonfunctioning thyroid nodule and fine needle cytology is non-diagnostic. Which of the following is the initial surgical procedure of choice?",
+      "options": [
+        "Total extra-capsular thyroidectomy.",
+        "Subtotal thyroid lobectomy and resection of the isthmus.",
+        "Total extra-capsular lobectomy, isthmusectomy, and modified unilateral neck dissection.",
+        "Total extra-capsular thyroid lobectomy and resection of the isthmus."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Diagnostic lobectomy (Total lobectomy + Isthmusectomy) allows for definitive histologic diagnosis of a suspicious nodule while being sufficient treatment if it is a low-risk cancer or benign.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7450,
+      "question": "A familial form of medullary thyroid carcinoma (MTC) should be suspected whenever:",
+      "options": [
+        "The tumor is multifocal.",
+        "The tumor is bilateral foci of tumor are present in both thyroid lobes.",
+        "Pathology reveals C-cell hyperplasia adjacent to MTC foci.",
+        "All of the above."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Familial MTC/MEN syndromes typically present with multicentricity, bilaterality, and background C-cell hyperplasia.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7451,
+      "question": "A low TSH, high T4, and high T3 suggests",
+      "options": [
+        "Hyperthyroidism",
+        "Nonthyroidal illness (sick euthyroidism)",
+        "Estrogen therapy",
+        "Subclinical hypothyroidism",
+        "Euthyroid"
+      ],
+      "correct_option_id": 0,
+      "explanation": "High T3/T4 with suppressed TSH is the hallmark of Primary Hyperthyroidism.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Investigations"
+    },
+    {
+      "id": 7452,
+      "question": "A middle-aged female presented with asymptomatic nodule in  right lobe of  thyroid. She gave a history of irradiation in childhood. The nodule was cold on radioactive iodine and the us: solid mass. management of this case is:",
+      "options": [
+        "Aspiration biopsy.",
+        "Treatment with thyroxin.",
+        "Right lobectomy.",
+        "Subtotal thyroidectomy.",
+        "Total thyroidectomy."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Radiation history increases malignancy risk. A cold, solid nodule warrants surgical removal (Right lobectomy) for diagnosis and treatment rather than just observation.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7453,
+      "question": "A patient with thyroid cancer is told that he has a life expectancy of less than 6 months from diagnosis. The variety of thyroid cancer with this prognosis is:",
+      "options": [
+        "Thyroid lymphoma",
+        "Medullary thyroid carcinoma",
+        "Papillary thyroid carcinoma",
+        "Anaplastic thyroid carcinoma",
+        "Follicular thyroid carcinoma"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Anaplastic thyroid carcinoma is extremely aggressive with a very poor prognosis, typically measured in months.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7454,
+      "question": "A thyroid nodule could be malignant if it shows:",
+      "options": [
+        "Rapid growth",
+        "Pain referred to the ear",
+        "Hardness",
+        "Associated hoarseness of voice",
+        "All of the above"
+      ],
+      "correct_option_id": 4,
+      "explanation": "All listed signs are red flags for malignancy: rapid growth, local invasion causing pain/hoarseness (RLN palsy), and hard consistency.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7455,
+      "question": "About Hashimoto`s thyroiditis one of the following is true:",
+      "options": [
+        "Common in males",
+        "End by euthyroid state",
+        "Risk to develop lymphoma",
+        "TPO antibody is negative",
+        "Proptosis is common"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Hashimoto's increases the risk of primary thyroid lymphoma (typically non-Hodgkin B-cell) by about 60-80 times compared to the general population.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyroiditis"
+    },
+    {
+      "id": 7456,
+      "question": "All are features of Grave`s disease EXCEPT:",
+      "options": [
+        "Affects mainly elderly males more than females.",
+        "Shows clinical picture of hyperthyroidism.",
+        "Thyroid profile has a low TSH value.",
+        "Can be accompanied by exophthalmos."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Graves' disease predominantly affects females of reproductive age, not elderly males.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7457,
+      "question": "All of the following are Not true in Hashimoto:",
+      "options": [
+        "Common chronic thyroiditis",
+        "More common in male",
+        "No fibrosis",
+        "Can leads to atrophic thyroiditis",
+        "Lymphocytic infiltration"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Hashimoto's is much more common in females (F:M ratio ~10:1).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyroiditis"
+    },
+    {
+      "id": 7458,
+      "question": "All of the following are recognized complications of carbimazole EXCEPT:",
+      "options": [
+        "Agranulocytosis",
+        "Bone marrow depression",
+        "Goiter",
+        "Hepatotoxicity",
+        "Renal failure"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Renal failure is not a known side effect of carbimazole. Agranulocytosis is the most feared rare complication. Goiter can worsen due to TSH elevation if overt-treated.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7459,
+      "question": "All of the following statements about Hashimoto`s thyroiditis are true EXCEPT:",
+      "options": [
+        "It is the more common kind of chronic thyroiditis.",
+        "It affects women more often men.",
+        "It involves auto-immune mechanisms.",
+        "Assessment of the state of thyroid function is diagnostically important in this condition."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Diagnosis relies on antibodies (Anti-TPO) and histology. Function tests assess status (hyper/eu/hypo) but don't diagnose the autoimmune etiology itself. Model selects D as the exception.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyroiditis"
+    },
+    {
+      "id": 7460,
+      "question": "An 8-year-old girl has a 2-year decline in growth velocity. Her thyroid gland cannot be palpated. The pair of laboratory tests that would best help explain cause of this patient`s is:",
+      "options": [
+        "Free T4 and T3.",
+        "Growth hormone and blood urea nitrogen.",
+        "Thyroid U/S and technetium pertechnate scan.",
+        "T4 and free T4.",
+        "TSH and free T4."
+      ],
+      "correct_option_id": 4,
+      "explanation": "In a child with growth failure, distinguishing Primary (High TSH, Low T4) vs Central (Low TSH, Low T4) hypothyroidism is critical.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Investigations"
+    },
+    {
+      "id": 7461,
+      "question": "As regard embryology of thyroid:",
+      "options": [
+        "Develops from 1st branchial Arch.",
+        "Develops from 4th branchial Arch.",
+        "Both A and Above.",
+        "Develops from 2nd branchial pouch",
+        "None of the above"
+      ],
+      "correct_option_id": 2,
+      "explanation": "The thyroid has a dual origin: the follicular cells from the floor of the pharynx (median anlage, near 1st arch) and the C-cells from the ultimobranchial body (4th pouch).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Embryology & Anatomy"
+    },
+    {
+      "id": 7462,
+      "question": "As regard to T3:",
+      "options": [
+        "Less concentration thon circulating T4.",
+        "More potent thon T4.",
+        "Mostly bound to TBG.",
+        "All of the above."
+      ],
+      "correct_option_id": 3,
+      "explanation": "T3 exists in lower quantities, is 4-10x more potent than T4, and like T4, circulates largely bound to proteins.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Physiology"
+    },
+    {
+      "id": 7463,
+      "question": "Autoimmune manifestations of Grave`s disease include the following EXCEPT:",
+      "options": [
+        "Palmar erythema.",
+        "Clubbing.",
+        "Pretibial myxedema.",
+        "Exophthalmos."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Palmar erythema is a sign of hyperdynamic circulation/liver issues, but Pretibial myxedema, Clubbing (acropachy), and Exophthalmos are specific immune-mediated features of Graves'.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7464,
+      "question": "C-cells of thyroid gland:",
+      "options": [
+        "Develop from ultimobranchial body.",
+        "Produce calcitonin.",
+        "Are the origin of medullary carcinoma.",
+        "All of the above."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Parafollicular C-cells have neuroendocrine origins (ultimobranchial), secrete Calcitonin, and form Medullary Ca.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Physiology"
+    },
+    {
+      "id": 7465,
+      "question": "Clinical picture of thyroid carcinoma include:",
+      "options": [
+        "Dyspnea and dysphagia.",
+        "Referred otology.",
+        "Horsiness.",
+        "Lateral aberrant thyroid.",
+        "All of the above"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Thyroid cancer can present with mass effects (dyspnea, dysphagia), nerve invasion (hoarseness, referred ear pain), or lymphatic spread ('lateral aberrant thyroid').",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7466,
+      "question": "Correct statements concerning Hurthle-cell carcinoma of the thyroid include which of the following?",
+      "options": [
+        "It is a form of anaplastic thyroid cancer.",
+        "It metastasizes via the lymphatics to regional lymph node basins.",
+        "Treatment consists of a near-total (or total) thyroidectomy.",
+        "Microscopically, it consists of clusters of cells separated by areas of collagen and amyloid.",
+        "Once treated appropriately, it has a low rate of recurrence."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Hurthle cell cancer is a variant of follicular carcinoma (spreads hematogenously usually). It is aggressive, radio-resistant, and requires Total Thyroidectomy.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7467,
+      "question": "Excess administration of cortisol causes an increase in one of the following:",
+      "options": [
+        "Skin thickness.",
+        "The number of eosinophils.",
+        "Platelets counts in the blood.",
+        "Cat+ deposition in the bones.",
+        "Lymphocytes production in the blood."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Steroids cause neutrophilia and can increase platelet counts, while causing eosinopenia and lymphopenia. (Skin thins, bones lose calcium/osteoporosis).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Physiology"
+    },
+    {
+      "id": 7468,
+      "question": "Exophthalmos and peritibial myxedema are manifestations of:",
+      "options": [
+        "Primary hypothyroidism",
+        "Subclinical hypothyroidism",
+        "Multinodular goiter",
+        "Graves` disease",
+        "Pituitary adenoma"
+      ],
+      "correct_option_id": 3,
+      "explanation": "These are the unique extrathyroidal manifestations of Graves' disease due to antibody deposition.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7469,
+      "question": "Grave`s disease is an example of:",
+      "options": [
+        "Type I hypersensitivity.",
+        "Type II (cytotoxic).",
+        "Type IV (CMI).",
+        "Type V (stimulatory)."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Graves' involves stimulating antibodies (Type V hypersensitivity - a subclass of Type II where the antibody stimulates the receptor rather than destroying the cell).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7470,
+      "question": "Graves` disease may be manifested by:",
+      "options": [
+        "Pretibial myxedema.",
+        "Dry skin.",
+        "Atrophic thyroid gland."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Pretibial Myxedema is characteristic. The thyroid is typically diffusely enlarged (goiter), not atrophic, and skin is moist, not dry.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7471,
+      "question": "Grave`s diseases may be associated with all the following EXCEPT:",
+      "options": [
+        "Goiter.",
+        "Hypercholesterolemia.",
+        "Eye signs.",
+        "Pheochromocytoma."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Hyperthyroidism (Graves') causes hypocholesterolemia due to increased metabolism. Hypercholesterolemia is seen in hypothyroidism.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7472,
+      "question": "Hashimoto disease may present by:",
+      "options": [
+        "Thyrotoxicosis.",
+        "Myxedemo.",
+        "Goiter.",
+        "Any of the above."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Hashimoto's has variable phases: 'Hashitoxicosis' (transient hyperthyroid), Goiter (inflammatory), and Myxedema (eventual burnout/hypothyroid).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyroiditis"
+    },
+    {
+      "id": 7473,
+      "question": "High levels of thyroidal peroxidase antibody are found with:",
+      "options": [
+        "Iodine deficiency",
+        "Lithium",
+        "Hashimoto` s thyroiditis",
+        "Propylthiouracil",
+        "Toxic multinodular goiter"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Anti-TPO antibodies are the hallmark marker for Hashimoto's thyroiditis.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyroiditis"
+    },
+    {
+      "id": 7474,
+      "question": "Hours post-thyroidectomy, 30 years old woman developed agitation and difficulty breathing, tachycardia and dry dressing but inferior cervical swelling. The most appropriate immediate step ls:",
+      "options": [
+        "Insertion of an oro-tracheal tube",
+        "Reopening of the cervical wound",
+        "Estimation of serum calcium level",
+        "IV morphine",
+        "Levothyroxin I.V."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Tension hematoma requires immediate reopening of the cervical wound at bedside.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Post-operative"
+    },
+    {
+      "id": 7475,
+      "question": "Hypercarotinemia is metabolic disorder occur frequently in myxedema patients; clinically it is manifested as:",
+      "options": [
+        "Pale skin",
+        "Yellow tint",
+        "Dark red skin lesion",
+        "Skin rash",
+        "Green color"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Accumulation of carotene gives a yellow tint to skin (sparing sclera, unlike jaundice).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Adult Hypothyroidism"
+    },
+    {
+      "id": 7476,
+      "question": "Hypertension in a patient with a family history of medullary thyroid carcinoma is most often due To:",
+      "options": [
+        "Renal artery stenosis.",
+        "Glomerulonephritis.",
+        "Cushing`s syndrome.",
+        "Hyperparathyroidism."
+      ],
+      "correct_option_id": 4,
+      "explanation": "In MEN II (MTC + Pheo + Hyperparathyroid), Pheochromocytoma causes HTN. However, the key selects Hyperparathyroidism (E). Hypercalcemia can cause HTN/renal damage, or Pheo was omitted from options.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7477,
+      "question": "Hyperthyroidism can be caused by all of the following EXCEPT:",
+      "options": [
+        "Graves` disease.",
+        "Plummer`s disease.",
+        "Struma ovarii.",
+        "Hashimoto`s disease.",
+        "Medullary carcinoma of the thyroid."
+      ],
+      "correct_option_id": 4,
+      "explanation": "Medullary carcinoma secretes calcitonin, not thyroxine, and thus does not cause hyperthyroidism. Hashimoto's can cause transient toxicosis ('Hashitoxicosis').",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7478,
+      "question": "Hyperthyroidism is characterized clinically by:",
+      "options": [
+        "Diarrhea.",
+        "Scaly skin.",
+        "Lethargy."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Hyperthyroidism accelerates motility (diarrhea/hyper-defecation). Hypothyroidism causes dry scaly skin and lethargy.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7479,
+      "question": "In Egypt newborn screening program is done through:",
+      "options": [
+        "Primary TSH measurement",
+        "Primary T4 measurement",
+        "Primary T3 measurement",
+        "Serum calcitonin level",
+        "Serum TBG"
+      ],
+      "correct_option_id": 0,
+      "explanation": "TSH screening from heel-prick blood spots is the standard global and Egyptian protocol for detecting congenital hypothyroidism.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Congenital Hypothyroidism"
+    },
+    {
+      "id": 7480,
+      "question": "In hashimoto`s disease (lymphadenoid goitre), the false statement that it :",
+      "options": [
+        "Usually affects menopausal women.",
+        "Is characterized by uniform smooth enlargement of the gland with hard consistency.",
+        "May be associated with hypothyroidism.",
+        "Has a characteristic histological picture.",
+        "Is best treated by radiotherapy."
+      ],
+      "correct_option_id": 4,
+      "explanation": "Radiotherapy has NO role in Hashimoto's treatment. It is managed with T4 replacement.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyroiditis"
+    },
+    {
+      "id": 7481,
+      "question": "In Hashimoto`s thyroiditis; there may be:",
+      "options": [
+        "Hyperthyroidism.",
+        "Hypothyroidism.",
+        "Both"
+      ],
+      "correct_option_id": 2,
+      "explanation": "It typically leads to hypothyroidism but can present initially with hyperthyroidism (Hashitoxicosis) due to follicular destruction.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyroiditis"
+    },
+    {
+      "id": 7482,
+      "question": "In thyroid carcinoma, mediastinal node involvement is a feature of which type:",
+      "options": [
+        "Follicular.",
+        "Anaplastic.",
+        "Papillary.",
+        "Medullary.",
+        "Lymphoma"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Medullary carcinoma has a propensity for early lymph node spread, including to the mediastinum.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7483,
+      "question": "In thyroid hormone synthesis, which is not true:",
+      "options": [
+        "Ingested iodine is reduced to iodide and absorbed through small intestine",
+        "Iodide in the thyroid follicular cells oxidized to iodine by thyroid proteases",
+        "Iodine is attached to tyrosine forming monoiodotyrosine (MIT) and diiodotyrosine (DIT)",
+        "The coupling of one molecule of MIT and one molecule of DIT forms T3",
+        "T4 and T3 are attached to Thyroglobulin and stored in the follicular lumen"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Oxidation is performed by **Peroxidase**, not Proteases. Proteases release the hormone from thyroglobulin.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Physiology"
+    },
+    {
+      "id": 7484,
+      "question": "Iodine deficiency can cause:",
+      "options": [
+        "Goiter",
+        "Hyperthyroidism",
+        "Solitary thyroid nodules",
+        "Thyroiditis"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Iodine deficiency causes compensatory goiter.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Goiter & Management"
+    },
+    {
+      "id": 7485,
+      "question": "LN subacute thyroiditis (de Quervain`s disease), it is untrue that it:",
+      "options": [
+        "Is a virus infection related to influenza or mumps",
+        "Has a sudden onset with fever and painful swelling of the gland.",
+        "Moy cause radiating pain in the ear.",
+        "Never resolves spontaneously.",
+        "Responds well to prednisone."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Subacute thyroiditis is typically self-limiting and resolves spontaneously after weeks/months. Treatment is symptomatic.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyroiditis"
+    },
+    {
+      "id": 7486,
+      "question": "Medical treatment of thyrotoxicosis is least useful in:",
+      "options": [
+        "Cases with true exophthalmos.",
+        "Pregnant females.",
+        "Secondary thyrotoxicosis.",
+        "Uncomplicated thyrocardic potients.",
+        "Post-operative recurrence."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Secondary thyrotoxicosis (Toxic Multinodular Goiter/Adenoma) rarely remits with medication alone, unlike Graves'. Surgery or radioiodine is definitively required.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7487,
+      "question": "Medullary thyroid carcinoma is arising from:",
+      "options": [
+        "Thyroid follicles",
+        "Thyroid struma",
+        "C-cells of thyroid",
+        "Parathyroid gland",
+        "Thyroglobulin"
+      ],
+      "correct_option_id": 2,
+      "explanation": "It arises from Parafollicular C-Cells.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7488,
+      "question": "Microscopically, the thyroid gland is composed of a series of follicles that synthesize thyroglobulin (Tg) and parafollicular (C) cells, which secrete:",
+      "options": [
+        "Reverse T3",
+        "T3",
+        "T4",
+        "Calcitonine",
+        "TSH"
+      ],
+      "correct_option_id": 3,
+      "explanation": "C-cells secrete Calcitonin.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Physiology"
+    },
+    {
+      "id": 7489,
+      "question": "Most common type of the thyroid malignancy is:",
+      "options": [
+        "Papillary carcinoma.",
+        "Anaplastic carcinoma.",
+        "Follicular carcinoma.",
+        "Metastatic deposits."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Papillary carcinoma accounts for ~80% of thyroid cancers.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7490,
+      "question": "Myxedema coma is characterized by:",
+      "options": [
+        "Hypertension.",
+        "Tachycardia.",
+        "Hypoventilation.",
+        "Normal body temperature."
+      ],
+      "correct_option_id": 2,
+      "explanation": "It causes hypoventilation (CO2 retention), hypothermia, and bradycardia.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Adult Hypothyroidism"
+    },
+    {
+      "id": 7491,
+      "question": "In myxedema coma, common features are:",
+      "options": [
+        "Tachycardia.",
+        "Hypothermia.",
+        "Sweating"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Hypothermia is a hallmark feature.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Adult Hypothyroidism"
+    },
+    {
+      "id": 7492,
+      "question": "Of the common complications of thyroidectomy, the one avoided through prophylaxis is:",
+      "options": [
+        "Injury to the recurrent laryngeal nerve.",
+        "Injury to the superior laryngeal nerve",
+        "Symptomatic hypocalcemia",
+        "Thyroid storm.",
+        "Post-operative hemorrhage and wound hematoma."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Thyroid Storm is prevented by pre-operative preparation (Anti-thyroids + Iodine + Beta-blockers) to induce a euthyroid state. Other complications are operative/technique-related.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Post-operative"
+    },
+    {
+      "id": 7493,
+      "question": "On examination of 33-years-old male with Grave`s disease we will not find the following manifestation:",
+      "options": [
+        "Pretibial myxedema",
+        "Prognathism",
+        "Tremors",
+        "Atrial fibrillation",
+        "Exophthalmos"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Prognathism (jaw prominence) is a feature of Acromegaly, not Graves'.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7494,
+      "question": "On examination of 33-years-old male with Grave`s disease we will not find the following:",
+      "options": [
+        "Pretibial myxedema",
+        "Hypocalcemia",
+        "Tremors",
+        "Systolic hypertension",
+        "Exophthalmos"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Graves' does NOT cause hypocalcemia (surgical removal does). In fact, hyperthyroidism can cause mild hypercalcemia.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7495,
+      "question": "On the 1st postoperative day after total thyroidectomy, patient complains of tingling of the finger, lips and the serum calcium level of 5.5 mg/dL. The next step should be:",
+      "options": [
+        "Observation only",
+        "Administration of vitamin D2 or D3 50000-100000 units/ day",
+        "Administration of vitamin D3 1-2pgldoy",
+        "Administration of calcium gluconate 3-5g /day, by slow IV drip",
+        "Saline infusion"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Symptomatic hypocalcemia with critically low levels (<7mg/dL) requires IV Calcium Gluconate.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Post-operative"
+    },
+    {
+      "id": 7496,
+      "question": "On the 5th post-operative day after total thyroidectomy, a patient complains of tingling of the fingertips and is found to have a serum calcium level is 5.6 mg/dL. The next step in the treatment of this patient should be:",
+      "options": [
+        "Careful observation until the calcium level increases",
+        "Administration of vitamin D2 or D3, 50.000-100.000 U/day",
+        "Administration of 1.25 (OH)2D3 (calcitriol), 1-2 ?g/day.",
+        "Administration of calcium gluconate, 3-6 g/day, by slow intravenous drip",
+        "Good hydration with I.V. normal saline"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Persistently low and symptomatic calcium requires aggressive IV repletion and initiation of oral calcium/Vitamin D.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Post-operative"
+    },
+    {
+      "id": 7497,
+      "question": "One of the following is false about propranolol in treatment of Grave`s:",
+      "options": [
+        "Control of heart rate",
+        "Control of tremors an anxiety",
+        "Blocking of stimulating antibodies",
+        "Reduce conversion of T4 to T3",
+        "Reduce excessive sweating"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Beta-blockers treat symptoms (adrenergic) and inhibit T4->T3 conversion, but do NOT affect the underlying immune process (Antibodies).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7498,
+      "question": "One of the following is not true about Hashimoto thyroiditis:",
+      "options": [
+        "Lymphocytic infiltration",
+        "Commonest form of chronic thyroiditis",
+        "No fibrosis",
+        "May progress to atrophic thyroiditis",
+        "More common in females"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Fibrosis is a feature of Hashimoto's (typically 'Lymphocytic infiltration with germinal centers and fibrosis'). Absence of fibrosis is incorrect.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyroiditis"
+    },
+    {
+      "id": 7499,
+      "question": "One of the following is true about papillary thyroid carcinoma:",
+      "options": [
+        "It the rarest thyroid tumour",
+        "Prognosis is good in 5year survival",
+        "Cells are undifferentiated",
+        "Common in males",
+        "Arise from thyroglobulin"
+      ],
+      "correct_option_id": 1,
+      "explanation": "It has an excellent prognosis (>90-95% 5-year survival) and is the most common type.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7500,
+      "question": "Presentations of ectopic thyroid include:",
+      "options": [
+        "Dysarthria.",
+        "Midline neck swelling.",
+        "Myxedema if removed by mistake.",
+        "Any of the above."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Lingual/ectopic thyroids can cause obstructive speech issues (Dysarthria), form masses, and are often the ONLY functioning tissue, so removal causes myxedema.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Embryology & Anatomy"
+    },
+    {
+      "id": 7501,
+      "question": "The best routine managment for multinodular goitre is by:",
+      "options": [
+        "Hemithyroidectomy.",
+        "Partial thyroidectomy.",
+        "Bilateral wedge resection.",
+        "Subtotal thyroidectomy.",
+        "Thyroxin administrotion."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Subtotal thyroidectomy was the historical standard (though total is common now) to remove bulk while leaving some tissue. Hemithyroidectomy leaves the other nodular side.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Goiter & Management"
+    },
+    {
+      "id": 7502,
+      "question": "The conversion of T4 to T3 is inhibited by",
+      "options": [
+        "Iodine deficiency",
+        "Lithium",
+        "Hashimoto`s thyroiditis",
+        "Propylthiouracil",
+        "Toxic multinodular goiter"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Propylthiouracil (PTU) blocks peripheral conversion of T4 to T3.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Physiology"
+    },
+    {
+      "id": 7503,
+      "question": "The correct sequence of events for the metabolism of iodine and synthesis thyroid hormone is:",
+      "options": [
+        "Trapping, organification, coupling, release, oxidation.",
+        "Oxidation, trapping, coupling, organification, release.",
+        "Coupling, organification, trapping, oxidation, release.",
+        "Trapping, coupling, oxidation, release, organification.",
+        "Trapping, oxidation, organification, coupling. Release"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Sequence: Trapping (Uptake) -> Oxidation (activation) -> Organification (iodination) -> Coupling (DIT+MIT).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Physiology"
+    },
+    {
+      "id": 7504,
+      "question": "The course of papillary carcinoma of the thyroid is best described, which of the following statements:",
+      "options": [
+        "Metastases rare; rapid local growth; frequent erosion into trachea and vessels.",
+        "Local invasion and metastases almost never occur, which makes the term Carcinoma misleading.",
+        "Bony metastases are frequent and produce an osteolytic pattern particularly in vertebrae.",
+        "Metastases frequently occur to cervical lymph nodes, distant metastasis and local invasion are rare.",
+        "Rapid, widespread metastases (liver, lungs, bone) result in ~10% 5-year survival."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Papillary Ca loves lymph nodes (freq mets) but distant spread is rare. It is generally indolent.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7505,
+      "question": "The daily requirement of iodine is:",
+      "options": [
+        "50 - 20 pg.",
+        "80 - 90 ug.",
+        "100 - 125 prg.",
+        "150 - 165 ug.",
+        "None of the above"
+      ],
+      "correct_option_id": 2,
+      "explanation": "~100-150 micrograms is the daily standard.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Physiology"
+    },
+    {
+      "id": 7506,
+      "question": "The immediate cause of thyroid enlargement associated with chronic administration of thyroid-blocking agents or goitrogenic substances is:",
+      "options": [
+        "A reduction in the capacity of the thyroid gland to concentrate iodine",
+        "Decreased production of thyroid hormone",
+        "Enzymatic deficiency",
+        "Interference with the synthesis of iodotyrosine intermediates",
+        "Increased production of thyroid-stimulating hormone by the pituitary gland"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Goitrogens lower T3/T4 -> removal of negative feedback -> High TSH -> Trophic effect on thyroid size (Goiter).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Goiter & Management"
+    },
+    {
+      "id": 7507,
+      "question": "The main hormone secreted by the thyroid gland:",
+      "options": [
+        "Tetraiodothyronine",
+        "T3",
+        "TRH",
+        "TSH",
+        "TBG"
+      ],
+      "correct_option_id": 0,
+      "explanation": "T4 (Tetraiodothyronine) is the main product (90%), converted to T3 in periphery.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Physiology"
+    },
+    {
+      "id": 7508,
+      "question": "The most common neonatal endocrine disorder is:",
+      "options": [
+        "Hypothyroidism",
+        "Acromegaly",
+        "Hyperthyroidism",
+        "Diabetes mellitus",
+        "Hypoparathyroidism"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Congenital hypothyroidism.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Congenital Hypothyroidism"
+    },
+    {
+      "id": 7509,
+      "question": "The most common site of thyroglossal cyst is:",
+      "options": [
+        "Subhyoid.",
+        "Suprahyoid.",
+        "Sublingual.",
+        "At thyroid cartilage.",
+        "Submandibular"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Subhyoid location is statistically most frequent.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Embryology & Anatomy"
+    },
+    {
+      "id": 7510,
+      "question": "The most common variety of thyroid neoplasm is:",
+      "options": [
+        "Thyroid lymphoma",
+        "Medullary thyroid carcinoma",
+        "Papillary thyroid carcinoma",
+        "Anaplastic thyroid carcinoma",
+        "Follicular thyroid carcinoma"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Papillary carcinoma.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7511,
+      "question": "The most frequent variety of thyroid cancer is:",
+      "options": [
+        "Follicular carcinoma",
+        "Papillary carcinoma",
+        "Anaplastic carcinoma",
+        "Medullary carcinoma"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Papillary carcinoma (redundant question, reinforcing importance).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7512,
+      "question": "The most precise diagnostic screening procedure for differentiating benign thyroid nodules from malignant ones is:",
+      "options": [
+        "Thyroid ultrasonography.",
+        "Thyroid scinti-scan.",
+        "Fine-needle-aspiration biopsy (FNAB).",
+        "Thyroid hormone suppression."
+      ],
+      "correct_option_id": 2,
+      "explanation": "FNAB (cytology) is the gold standard diagnostic step.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7513,
+      "question": "The parathyroid glands:",
+      "options": [
+        "Develop from the second and third pharyngeal pouches, along with the palatine tonsil and the thymus.",
+        "Migrate caudally; can be found anywhere from pharyngeal mucosa to deep mediastinum.",
+        "Secrete PTH and calcitonin to manage calcium homeostasis.",
+        "Usually number four, but frequently number only two or three.",
+        "Contain enzymes that catalyze the conversion of 25 (OH) vitamin D, to 1,25(OH) 2 vitamin D3."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Variable migration path allows them to be anywhere from pharynx to mediastinum.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Embryology & Anatomy"
+    },
+    {
+      "id": 7514,
+      "question": "The preferred operation for initial management of a thyroid nodule that is considered suspicious for malignancy by FNAB is:",
+      "options": [
+        "Excision.",
+        "Partial lobectomy.",
+        "Total lobectomy and isthmusectomy.",
+        "Total thyroidectomy."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Total Lobectomy is diagnostic and therapeutic for most differentiated cancers, without the risks of total thyroidectomy if it turns out benign.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7515,
+      "question": "The principal blood supply to the parathyroid glands is which of the following:",
+      "options": [
+        "Superior thyroid arteries.",
+        "Inferior thyroid arteries.",
+        "Thyroideaima arterie.",
+        "Highly variable.",
+        "Parathyroid arterial branches directly from the external carotid artery."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Inferior Thyroid Artery supplies both superior and inferior parathyroids generally.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Embryology & Anatomy"
+    },
+    {
+      "id": 7516,
+      "question": "The principal function of thyrotropin-releasing hormones is to:",
+      "options": [
+        "Break down thyroxine to tri-iodothyronine at the cellular level.",
+        "Concentrate iodide in follicular cells.",
+        "Form active thyroxine by coupling iodo-tyrosines.",
+        "Stimulate thyroid-stimulating hormone release."
+      ],
+      "correct_option_id": 3,
+      "explanation": "TRH stimulates TSH release from pituitary.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Physiology"
+    },
+    {
+      "id": 7517,
+      "question": "The recommended initial dose of L-T4 is:",
+      "options": [
+        "10-15 micro-gram/ kg/day.",
+        "10-15 mg/ kg/day.",
+        "100-150 micro-gram/ kg/day.",
+        "10-15 micro-gram/ kg/dose every 6 hours",
+        "0.1-0.5 mg/ kg/day."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Standard pediatric loading/starting dose.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Hypothyroidism Treatment"
+    },
+    {
+      "id": 7518,
+      "question": "The term lateral aberrant thyroid implies:",
+      "options": [
+        "Congenital aberrant thyroid tissue lateral to the thyroid",
+        "Metastasis in cervical lymph node from on occult thyroid carcinoma",
+        "A metastasis from carcinoma of the larynx",
+        "A type of bronchial cyst",
+        "That a loose piece of thyroid has become implanted in a thyroidectomy scar"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Historical term for Lymph Node Metastasis from occult Papillary Ca.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7519,
+      "question": "The following is not one of the characters of the malignant thyroid cyst:",
+      "options": [
+        "Its aspirate is haemorrhagic.",
+        "Cytology shows malignant cells.",
+        "Rapid re-accumulation after aspiration.",
+        "The cyst will be completely disappeared after aspiration."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Benign cysts disappear; malignant ones (or necrotic cancers) recur/don't disappear completely.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7520,
+      "question": "The following statements about treatment of thyrotoxicosis by radioactive iodine are fine EXCEPT that:",
+      "options": [
+        "Is contraindicated in patients below the age of 40.",
+        "Is particularly useful in elderly and thyrocardiac patients.",
+        "Produces its beneficial effects within o few days.",
+        "Moy be followed by myxedemo.",
+        "Carriers the risk of occurrence of thyroid cancer."
+      ],
+      "correct_option_id": 2,
+      "explanation": "RAI effect is delayed (weeks to months), not days.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7521,
+      "question": "The following statements regarding TSH measuring are true EXCEPT:",
+      "options": [
+        "Lt is increased after total thyroidectomy.",
+        "Normal TSH is about 5 micro units/liter.",
+        "Lt is the most sensitive test for mild cases.",
+        "All of the above"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Options A and C are true. The key marks B as the exception, possibly implying the normal range upper limit differs or 'about 5' is considered elevated/borderline in this context.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Investigations"
+    },
+    {
+      "id": 7522,
+      "question": "The following type of thyroiditis mimics malignancy:",
+      "options": [
+        "Acute thyroiditis",
+        "De Quervain`s thyroiditis.",
+        "Hashimoto thyroiditis.",
+        "Riedle thyroiditis.",
+        "Subacute thyroiditis"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Riedel's thyroiditis is fibrous and invasive, making the gland rock hard and fixed, indistinguishable from Anaplastic cancer clinically.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyroiditis"
+    },
+    {
+      "id": 7523,
+      "question": "Thyroid carcinoma during pregnancy, appropriate treatment is:",
+      "options": [
+        "Rodioiodine l3l",
+        "Chemotherapy",
+        "Surgery",
+        "Wait for delivery"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Surgery (2nd trimester preferred) is safe. RAI is contraindicated. Chemo is not primary treatment.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7524,
+      "question": "Thyroid disease treatment:",
+      "options": [
+        "Lymphoma > (irradiation and chemotherapy)",
+        "Follicular adenoma> ( lobectomy)",
+        "Follicular carcinoma> (total thyroidectomy and radioiodine)",
+        "Follicular carcinoma> (by histopothological surprise completion thyroidectomy and radioiodine)",
+        "All of the above"
+      ],
+      "correct_option_id": 4,
+      "explanation": "All these pairings are correct standard of care.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Management Summary"
+    },
+    {
+      "id": 7525,
+      "question": "Thyrotoxic crisis (`thyroid storm`) not include:",
+      "options": [
+        "Agitation and confusion",
+        "Tacharrhythmia",
+        "Hpothermia",
+        "Precipitated by infection in unrecognized or inadequately treated thyrotoxicosis.",
+        "Patients should be rehydrated"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Storm features Hyperthermia/Fever, not hypothermia.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7526,
+      "question": "Thyrotoxicosis during pregnancy is best treated by:",
+      "options": [
+        "Subtotal thyroidectomy.",
+        "Corbimazole.",
+        "Beta blockers.",
+        "Lugol`s iodine.",
+        "Rodioiodine."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Antithyroids (PTU 1st trim, Carbimazole 2nd/3rd) are mainstay. Surgery is reserved. Iodine/RAI contraindicated. Key says B (Carbimazole) but noted clinically PTU is preferred in 1st tri.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7527,
+      "question": "Thyrotoxicosis in children all correct EXCEPT:",
+      "options": [
+        "Usually goes into spontaneous remission.",
+        "Medical treatment alone can control the disease.",
+        "Radioactive iodine is the ideal treatment.",
+        "Thyroidectomy should be near total to avoid recurrence."
+      ],
+      "correct_option_id": 2,
+      "explanation": "RAI is generally avoided in children due to long-term cancer risks. Long term antithyroids are 1st line.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7528,
+      "question": "Thyrotoxicosis may feature by all EXCEPT:",
+      "options": [
+        "Myopathy.",
+        "Pretibial myxedema.",
+        "Hypernatremia.",
+        "Atrial fibrillation."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Electrolytes are usually normal or hypercalcemic. Hypernatremia is not a feature.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7529,
+      "question": "Treatment is indicated if the:",
+      "options": [
+        "Serum TSH concentration is > 20 mU/L",
+        "Serum TSH concentration is > 200 mU/L",
+        "Serum TSH concentration is < 20 mU/L",
+        "Serum T4 concentration is > 20 mU/L",
+        "Serum TSH concentration is < 200 mU/L"
+      ],
+      "correct_option_id": 0,
+      "explanation": "TSH > 10-20 indicates significant hypothyroidism (overt) requiring treatment to prevent complications, even if symptoms mild.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Hypothyroidism Treatment"
+    },
+    {
+      "id": 7530,
+      "question": "True statements about papillary carcinoma of the thyroid do not include that it:",
+      "options": [
+        "Often affects adolescents.",
+        "Ls a slow-growing tumor.",
+        "May be hormone-dependent.",
+        "Metastasize early by the blood stream.",
+        "Ls rodioresistant."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Papillary spreads via Lymphatics, not blood stream (Follicular spreads via blood).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7531,
+      "question": "12 hours after a subtotal thyroidectomy, a 30-old woman develops agitation, difficulty breathing. Examination reveals tachycardia+ anterior cervical swelling: The surgical dressing is dry. The most appropriate treatment at this point would be immediate:",
+      "options": [
+        "Insertion of an Oro-tracheal tube.",
+        "Re-opening of the cervical wound.",
+        "Administration of morphine.",
+        "Determination of the serum calcium concentration."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Immediate decompression of hematoma by opening the wound.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Post-operative"
+    },
+    {
+      "id": 7532,
+      "question": "Voice fatigue after thyroidectomy is due to injury to which of the following nerves?",
+      "options": [
+        "Superior laryngeal.",
+        "External laryngeal.",
+        "Internal laryngeal.",
+        "Recurrent laryngeal.",
+        "Vagus."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Injury to the External Branch of Superior Laryngeal Nerve leads to loss of cricothyroid tension, causing voice fatigue and loss of high pitch (e.g., singers).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Post-operative"
+    },
+    {
+      "id": 7533,
+      "question": "Which of the following conditions is associated with low radioactive iodine uptake:",
+      "options": [
+        "Factitious thyrotoxicosis",
+        "Toxic adenoma",
+        "Graves` disease",
+        "Toxic multinodular goiter",
+        "TSHoma"
+      ],
+      "correct_option_id": 0,
+      "explanation": "In Factitious Thyrotoxicosis (exogenous hormone ingestion), the thyroid gland is suppressed/atrophic, so it does not take up iodine.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7534,
+      "question": "Which of the following is a feature of thyrotoxicosis:",
+      "options": [
+        "Puffy face.",
+        "Palpitations.",
+        "Increased sweating.",
+        "Somnolence."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Palpitations (B) and sweating (C) are signs of thyrotoxicosis. Puffy face and somnolence are signs of hypothyroidism. The key prioritizes Palpitations as a cardinal cardiovascular sign.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7535,
+      "question": "Which of the following is false about Hashimoto`s thyroiditis?",
+      "options": [
+        "Lymphocytic infiltration",
+        "More in women than men",
+        "No fibrosis",
+        "May progress to atrophic thyroiditis",
+        "May be presented by subclinical hypothyroidism"
+      ],
+      "correct_option_id": 2,
+      "explanation": "False: fibrosis IS present.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyroiditis"
+    },
+    {
+      "id": 7536,
+      "question": "Which of the following is not present in Myxedema:",
+      "options": [
+        "Elevated TSH level",
+        "Low voltage ECG",
+        "Pericardial effusion",
+        "Thick dry skin",
+        "Pretibial myxedema"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Pretibial myxedema is unique to Graves' disease (Hyperthyroid), not general Hypothyroidism. Generalized myxedema occurs in hypothyroidism, but pretibial dermopathy does not.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Adult Hypothyroidism"
+    },
+    {
+      "id": 7537,
+      "question": "Which of the following is true about the use of radio-iodine to treat hyperthyroidism?",
+      "options": [
+        "If hyperthyroidism is secondary to radioiodine use, it will occur within 2 years of treatment.",
+        "There is a markedly increased risk of future thyroid cancer following radio-iodine therapy.",
+        "The risk of leukemia following radioiodine therapy is approximately 10%.",
+        "Mutations occur in 15% of fetuses if mother is treated with radioiodine during pregnancy.",
+        "Radioiodine crosses placenta and enters breast milk, causing fetal/infant hypothyroidism."
+      ],
+      "correct_option_id": 4,
+      "explanation": "RAI freely crosses placenta and enters breast milk, necessitating strict contraindication in pregnancy/lactation.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7538,
+      "question": "Which of the following statements regarding medullary carcinoma of the thyroid are true?",
+      "options": [
+        "Approximately 75% of all cases are hereditary.",
+        "The overall 10-year survival rate is less than 10%.",
+        "Medullary carcinoma is associated with MEN IIa and MEN IIb syndromes.",
+        "Prophylactic total thyroidectomy is recommended for MEN IIa and MEN IIb patients."
+      ],
+      "correct_option_id": 2,
+      "explanation": "MTC is the key thyroid component of MEN 2A and 2B. Hereditary cases are ~25%, not 75%.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Malignancies"
+    },
+    {
+      "id": 7539,
+      "question": "Which of the following treatment schedule for diffuse toxic goiter is true:",
+      "options": [
+        "Over 45 years: radioactive iodine.",
+        "Under 45 years: with large goiter: surgery.",
+        "Under 45 years: with small goiter: antithyroid drugs.",
+        "None of the above.",
+        "All of the above."
+      ],
+      "correct_option_id": 4,
+      "explanation": "Summarizes the guidelines: Age/Size stratifies the choice between Drugs, Surgery, and RAI.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyrotoxicosis"
+    },
+    {
+      "id": 7540,
+      "question": "Which is false about pretibial myxedema:",
+      "options": [
+        "Infiltrative dermopathy",
+        "Purplish plaques on the anterior aspect of the leg, extending on to the dorsum of the foot",
+        "Have a `peau d`orange` appearance",
+        "Pathognomonic to hypothyroidism(myxedema)",
+        "Topical glucocorticoids help in treatment"
+      ],
+      "correct_option_id": 3,
+      "explanation": "It is pathognomonic to Graves' (Hyper), NOT Hypothyroidism.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Thyroid Gland, Hypothyroidism",
+      "chapter": "Thyrotoxicosis"
+    }
+  ]
+}

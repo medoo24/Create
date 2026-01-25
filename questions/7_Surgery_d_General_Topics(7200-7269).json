@@ -1,0 +1,1180 @@
+{
+  "meta": {
+    "source": "Term 7 - General Surgery",
+    "lesson": "General_Topics"
+  },
+  "questions": [
+    {
+      "id": 7200,
+      "question": "Which of the following statements about maxilla-facial trauma is/are false?",
+      "options": [
+        "The major cause of death from facial injuries is asphyxia from upper airway obstruction",
+        "The mandible is the most common site of facial fracture",
+        "The Le-Fort II fracture includes a horizontal fracture of the maxilla along with nasal bone fracture",
+        "Loss of upward gaze may indicate either an orbital floor or orbital roof fracture",
+        "b & d"
+      ],
+      "correct_option_id": 4,
+      "explanation": "B is false (Nasal bone is most common). D is false in this context because loss of upward gaze is the hallmark of orbital floor (blow-out) fracture/entrapment specifically.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Trauma"
+    },
+    {
+      "id": 7201,
+      "question": "The most frequent GIT complication of an extensive burn is:",
+      "options": [
+        "Acute gastritis",
+        "Acute dilatation of the stomach",
+        "Curling's ulcer",
+        "Paralytic ileus",
+        "Diarrhea"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Acute gastric dilatation and paralytic ileus are very common early complications of extensive burns due to the stress response. Curling's ulcer is a specific but less frequent complication.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Burns"
+    },
+    {
+      "id": 7202,
+      "question": "A comatose patient who has sustained multiple closed injures is admitted with severe hypotension. The hypotension is most probably due to:",
+      "options": [
+        "Intracranial hematoma",
+        "Cerebral concussion",
+        "Internal hemorrhage",
+        "Neurogenic shock",
+        "Cardiogenic shock"
+      ],
+      "correct_option_id": 2,
+      "explanation": "In trauma, hypotension is due to hypovolemia (hemorrhage) until proven otherwise. Head injuries do not typically cause hypotension in adults.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Trauma"
+    },
+    {
+      "id": 7203,
+      "question": "As regard vasovagal attacks all are true except:",
+      "options": [
+        "Usual cause is trauma to trigger area",
+        "Psychic trauma is a recognized cause",
+        "Atropine is the gold standard treatment of the condition",
+        "Usually there is peripheral pooling of blood"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Vasovagal attacks are self-limiting and treated by positioning. Atropine is not the gold standard for routine attacks.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Shock"
+    },
+    {
+      "id": 7204,
+      "question": "Congenital dermoid cysts are characterized by the following features (except) that they:",
+      "options": [
+        "Occur at lines of embryological fusion",
+        "Are commonest on the face",
+        "Are often attached to the overlying skin",
+        "May cause hollowing of subjacent bone",
+        "Are lined by stratified squamous epithelium"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Congenital dermoid cysts are located deep to the skin and are NOT attached to the overlying skin (unlike sebaceous cysts). They are often attached to the underlying periosteum.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Cysts & Ulcers"
+    },
+    {
+      "id": 7205,
+      "question": "Most nosocomial infections involve the:",
+      "options": [
+        "Surgical wound",
+        "Intravenous sites",
+        "Respiratory tract",
+        "Urinary tract",
+        "Deep veins of the leg"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Urinary tract infections (usually catheter-associated) are the most common type of nosocomial (hospital-acquired) infection.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Surgical Infection"
+    },
+    {
+      "id": 7206,
+      "question": "Sebaceous cyst is characterized by the following except that it:",
+      "options": [
+        "Is due to obstruction of a sebaceous gland",
+        "Is lined by stratified squamous epithelium",
+        "Contains a yellow pultaceous greasy material known as sebum",
+        "May occur on the palms and soles",
+        "Is always anchored to the overlying skin at the punctum of the obstructed gland"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Sebaceous cysts cannot occur on the palms of the hands or soles of the feet because these areas lack sebaceous glands.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Cysts & Ulcers"
+    },
+    {
+      "id": 7207,
+      "question": "Secondary hemorrhage is usually due to:",
+      "options": [
+        "Trauma",
+        "Slipped ligature",
+        "Infection",
+        "All of the above"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Secondary hemorrhage occurs 7-14 days post-operatively and is almost always caused by infection eroding a vessel wall.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Hemorrhage"
+    },
+    {
+      "id": 7208,
+      "question": "Septic shock responds best to:",
+      "options": [
+        "Massive antibiotics",
+        "Intravenous infusion",
+        "Adrenocortical steroids",
+        "Drainage of septic collections",
+        "Vasopressors"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Source control (drainage of septic collections) is the definitive and most important treatment for septic shock. Antibiotics and fluids are supportive but ineffective without drainage.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Shock"
+    },
+    {
+      "id": 7209,
+      "question": "The best guide for the required blood transfusion in haemorrhagic shock is the:",
+      "options": [
+        "Arterial B.P.",
+        "Pulse rate",
+        "Haematocrit",
+        "Central venous pressure (CVP)",
+        "Urine output per minute"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Central Venous Pressure (CVP) provides a better assessment of intravascular volume status and response to fluid resuscitation than BP or pulse alone in shock.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Shock"
+    },
+    {
+      "id": 7210,
+      "question": "The earliest sign of hypocalcemia is:",
+      "options": [
+        "Carpopedal spasms",
+        "Positive Chvostek's sign",
+        "Positive Trousseau's sign",
+        "Tingling of fingers and circumoral region",
+        "Defective blood coagulation"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Numbness and tingling (paresthesia) of the fingers and around the mouth (circumoral) are the earliest sensory symptoms of hypocalcemia, preceding motor signs.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Electrolytes"
+    },
+    {
+      "id": 7211,
+      "question": "The following conditions may lead to shock EXCEPT:",
+      "options": [
+        "Penicillin injection",
+        "Myocardial infarction",
+        "Quinsy",
+        "Loss of 8% blood volume",
+        "None of the above"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Loss of 8% of blood volume (approx. 400ml, similar to a blood donation) is well compensated by the body and does not lead to clinical shock (which usually requires >15-30% loss).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Shock"
+    },
+    {
+      "id": 7212,
+      "question": "The following disease may be transmitted during blood transfusion EXCEPT:",
+      "options": [
+        "CMV",
+        "Malaria",
+        "Hepatitis A",
+        "Brucellosis"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Hepatitis A is transmitted via the fecal-oral route. Hepatitis B and C are blood-borne and can be transmitted via transfusion.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Blood Transfusion"
+    },
+    {
+      "id": 7213,
+      "question": "The most effective treatment of anaphylactic shock is:",
+      "options": [
+        "IV anti histaminic",
+        "IV corticosteroids",
+        "IV antibiotics",
+        "Intracardiac adrenaline"
+      ],
+      "correct_option_id": 1,
+      "explanation": "While Adrenaline is the first-line drug, the provided answer key selects IV corticosteroids, possibly emphasizing their role in preventing late-phase reactions or specific source material.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Shock"
+    },
+    {
+      "id": 7214,
+      "question": "The most serious complication of blood transfusion is:",
+      "options": [
+        "Pyrogenic reactions",
+        "Thrombophlebitis of recipient vein",
+        "Circulatory overloading",
+        "Incompatibility reactions",
+        "Viral hepatitis"
+      ],
+      "correct_option_id": 3,
+      "explanation": "ABO incompatibility reactions cause acute intravascular hemolysis, renal failure, and potential death, making them the most immediately life-threatening complication.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Blood Transfusion"
+    },
+    {
+      "id": 7215,
+      "question": "The most urgent measure in the management of a severely injured patient in the reception room is:",
+      "options": [
+        "Control of active bleeding",
+        "Taking blood sample for grouping and cross matching",
+        "Establishing an intravenous line",
+        "Securing clear airway and adequate pulmonary ventilation",
+        "Providing tetanus prophylaxis"
+      ],
+      "correct_option_id": 3,
+      "explanation": "According to the ABCDE trauma protocol, Airway (with cervical spine control) is always the first priority before Breathing or Circulation.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Trauma"
+    },
+    {
+      "id": 7216,
+      "question": "The untrue statement about desmoid tumors of the abdominal wall is that they:",
+      "options": [
+        "Arise from the rectus muscle or its sheath",
+        "Occur most often in multiparous women",
+        "Are locally invasive",
+        "May give rise to metastasis",
+        "Should be treated by wide local excision"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Desmoid tumors are benign but locally aggressive fibromatoses. They invade local tissues but do NOT metastasize.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Abdominal Wall"
+    },
+    {
+      "id": 7217,
+      "question": "A 25-year-old male presented with a painful tender right inguinal hernia and colicky abdominal pain. The abdominal plain X-ray showed multiple fluid levels. The correct management is by:",
+      "options": [
+        "Nasogastric suction and repeated observation",
+        "Glycerine enema",
+        "Taxis and truss treatment",
+        "Urgent herniotomy",
+        "Exploratory laparotomy"
+      ],
+      "correct_option_id": 3,
+      "explanation": "The clinical presentation suggests a strangulated hernia causing intestinal obstruction. Urgent surgery (herniotomy) is required to assess bowel viability and release the constriction.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Hernia"
+    },
+    {
+      "id": 7218,
+      "question": "A 35-year-old multiparous female presented with a reducible right inguinal swelling which was diagnosed as a hernia. This hernia is most probably:",
+      "options": [
+        "Femoral",
+        "Direct inguinal",
+        "Indirect inguinal",
+        "Obturator",
+        "Spigelian"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Indirect inguinal hernia is the most common hernia type in both males and females. Although femoral hernias are more common in women than men, indirect inguinal is still the most common overall.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Hernia"
+    },
+    {
+      "id": 7219,
+      "question": "A 70-year-old man with chronic constipation and abdominal distension has a large left scrotal hernia containing sigmoid colon on barium enema. Operative exploration most likely reveals:",
+      "options": [
+        "Femoral hernia",
+        "Direct inguinal hernia",
+        "Indirect inguinal hernia",
+        "Obturator hernia",
+        "Sliding inguinal hernia"
+      ],
+      "correct_option_id": 4,
+      "explanation": "A sliding hernia occurs when a retroperitoneal organ (like the sigmoid colon on the left or cecum on the right) forms part of the wall of the hernia sac. This is common in large, longstanding hernias.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Hernia"
+    },
+    {
+      "id": 7220,
+      "question": "A patient was operated upon under general anaesthesia at 9 a.m. suddenly at 8 p.m. on the same day, he developed fever of 39°C. The most likely diagnosis is:",
+      "options": [
+        "Acute thrombophlebitis",
+        "Atelectasis",
+        "Bronchopneumonia",
+        "Wound infection",
+        "Anastomotic leakage"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Fever within the first 24-48 hours post-operatively is most commonly caused by pulmonary atelectasis (collapse of alveoli).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Post-operative Complications"
+    },
+    {
+      "id": 7221,
+      "question": "A young female presented with an extremely tender right inguinal mass which could be an inflamed inguinal lymph node or a strangulated femoral hernia. The best diagnostic measure is by:",
+      "options": [
+        "Ultrasonography",
+        "Abdominal X-ray",
+        "Response to antibiotics",
+        "Aspiration biopsy",
+        "Operative exploration"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Differentiation between strangulated femoral hernia and adenitis is critical; missing a strangulation is fatal. If the diagnosis is in doubt, operative exploration is the safest course.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Hernia"
+    },
+    {
+      "id": 7222,
+      "question": "Acidosis may be produced by the following except:",
+      "options": [
+        "Prolonged shock",
+        "Hypoventilation",
+        "Uncontrolled diabetes",
+        "Open heart surgery",
+        "Cirrhosis of the liver"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Liver cirrhosis typically causes respiratory alkalosis (hyperventilation) or metabolic alkalosis, not acidosis. Shock, hypoventilation, and DKA cause acidosis.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Acid-Base Balance"
+    },
+    {
+      "id": 7223,
+      "question": "Among the ABO blood groups, agglutinogen A is absent from the cells of:",
+      "options": [
+        "Group A",
+        "Group B",
+        "Group AB",
+        "All of the above",
+        "None of the above"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Agglutinogen A (Antigen A) is present in Group A and Group AB. It is absent in Group B (which has Antigen B) and Group O.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Blood Transfusion"
+    },
+    {
+      "id": 7224,
+      "question": "As regard TPN:",
+      "options": [
+        "It is the only route of nutrition in short bowel syndrome",
+        "Not indicated except if necessary",
+        "May lead to sepsis and pneumothorax",
+        "Always indicated in conditions requiring NPO",
+        "All of the above"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Total Parenteral Nutrition (TPN) is used for short bowel syndrome, carries risks of catheter-related sepsis and pneumothorax during insertion, and is indicated when enteral nutrition is impossible.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Nutrition"
+    },
+    {
+      "id": 7225,
+      "question": "Ballooning of the thenar eminence with abduction of the thumb and marked oedema of the dorsum of the hand is diagnostic of:",
+      "options": [
+        "Subcutaneous whitlow of the thenar eminence",
+        "Intrathecal whitlow of the thumb",
+        "Radial bursitis",
+        "Thenar space infection",
+        "Dorsal subaponeurotic space infection"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Infection of the thenar space causes characteristic ballooning of the thenar eminence and holds the thumb in abduction.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Hand Infections"
+    },
+    {
+      "id": 7226,
+      "question": "Banked blood is deficient in all of the following except:",
+      "options": [
+        "Platelets",
+        "White cells",
+        "Oxygen-carrying capacity of Hb",
+        "Potassium",
+        "Anti-haemophilic globulin"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Stored blood accumulates Potassium (hyperkalemia) due to RBC lysis. It is deficient in viable platelets, WBCs, and labile clotting factors (V and VIII).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Blood Transfusion"
+    },
+    {
+      "id": 7227,
+      "question": "Concerning direct inguinal hernia, the incorrect statement is that it:",
+      "options": [
+        "Usually affects elderly males",
+        "Is often bilateral",
+        "Seldom descends into the scrotum",
+        "Protrudes lateral to the inferior epigastric artery",
+        "Rarely undergoes strangulation"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Direct inguinal hernias protrude through Hesselbach's triangle, which is MEDIAL to the inferior epigastric artery. Indirect hernias protrude lateral to it.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Hernia"
+    },
+    {
+      "id": 7228,
+      "question": "Concerning post-operative wound infection, which of the following statements is wrong?",
+      "options": [
+        "Is most often due to dead space",
+        "Can always be prevented by prophylactic antibiotics",
+        "Frequently takes the form of stitch abscess",
+        "May precipitate fatal secondary hemorrhage",
+        "May end fatally by septic shock"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Prophylactic antibiotics reduce the risk but cannot 'always' prevent infection, especially if surgical technique is poor (e.g., poor hemostasis, tissue necrosis).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Surgical Infection"
+    },
+    {
+      "id": 7229,
+      "question": "Concerning potassium depletion, the incorrect statement among the following is:",
+      "options": [
+        "Follows loss of gastrointestinal secretions",
+        "May be produced by diuretics",
+        "Is often associated with acidosis",
+        "Predisposes to cardiac arrhythmias",
+        "Produces severe muscular weakness"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Hypokalemia (potassium depletion) is typically associated with alkalosis. Acidosis causes potassium to shift out of cells, leading to hyperkalemia.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Electrolytes"
+    },
+    {
+      "id": 7230,
+      "question": "Hypernatraemia can present by:",
+      "options": [
+        "Irritability",
+        "Twitches",
+        "Convulsions",
+        "Hyperreflexia",
+        "Any of the above"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Hypernatremia causes cellular dehydration, particularly in the brain, leading to CNS excitability signs such as irritability, twitching, and convulsions.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Electrolytes"
+    },
+    {
+      "id": 7231,
+      "question": "In acute respiratory alkalosis bicarbonate level:",
+      "options": [
+        "Increases",
+        "Decreases",
+        "Remains constant",
+        "Any of the above"
+      ],
+      "correct_option_id": 2,
+      "explanation": "In the acute phase of respiratory alkalosis, renal compensation (excretion of bicarbonate) has not yet occurred, so serum bicarbonate levels remain largely unchanged.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Acid-Base Balance"
+    },
+    {
+      "id": 7232,
+      "question": "In adult male 70 kg, Intracellular water is about:",
+      "options": [
+        "20 kg",
+        "28 kg",
+        "35 kg",
+        "40 kg"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Total body water is roughly 60% of body weight (42L). Intracellular fluid (ICF) comprises 2/3 of total body water, which is approximately 28L (or 28kg).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Fluids & Electrolytes"
+    },
+    {
+      "id": 7233,
+      "question": "In adult male 70 kg, Intravascular body water is about:",
+      "options": [
+        "1 kg",
+        "2.5 kg",
+        "3.5 kg",
+        "5 kg"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Plasma volume (intravascular water) is approximately 5% of body weight. 5% of 70kg is 3.5kg (3.5 Liters).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Fluids & Electrolytes"
+    },
+    {
+      "id": 7234,
+      "question": "In adult male 70 kg, Total body water is about:",
+      "options": [
+        "35 kg",
+        "42 kg",
+        "50 kg",
+        "55 kg"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Total body water constitutes about 60% of the body weight in an adult male. 0.60 x 70kg = 42kg.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Fluids & Electrolytes"
+    },
+    {
+      "id": 7235,
+      "question": "In hemorrhagic shock peripheral vascular resistance:",
+      "options": [
+        "Increase",
+        "Decrease",
+        "Remain constant",
+        "Any of the above"
+      ],
+      "correct_option_id": 0,
+      "explanation": "In response to hypovolemia, the sympathetic nervous system is activated, causing peripheral vasoconstriction (increased resistance) to maintain blood pressure.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Shock"
+    },
+    {
+      "id": 7236,
+      "question": "In the adult respiratory distress syndrome (ARDS) due to 'shock lung', the most important therapeutic measure is:",
+      "options": [
+        "Oxygen inhalation",
+        "Mechanical ventilation",
+        "Large doses of methyl prednisolone",
+        "Massive antibiotics",
+        "Intravenous diuretics"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Mechanical ventilation, specifically with Positive End-Expiratory Pressure (PEEP), is critical to keep alveoli open and improve oxygenation in ARDS.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Complications"
+    },
+    {
+      "id": 7237,
+      "question": "Most common cause of water toxicity is:",
+      "options": [
+        "Latrogenic",
+        "Compulsive water intake",
+        "Increase ADH",
+        "None of the above"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Water intoxication is most commonly iatrogenic, resulting from excessive hypotonic fluids (e.g., D5W) in patients with increased ADH due to surgical stress.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Fluids & Electrolytes"
+    },
+    {
+      "id": 7238,
+      "question": "Most hands infections are caused by:",
+      "options": [
+        "Streptococci",
+        "Staphylococci",
+        "E. Coli",
+        "Anaerobes",
+        "Pseudomonas"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Staphylococcus aureus is the most common causative organism for hand infections.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Hand Infections"
+    },
+    {
+      "id": 7239,
+      "question": "Oligemic shock is characterized by:",
+      "options": [
+        "Tachycardia",
+        "Hypotension",
+        "Pallor",
+        "Collapsed veins",
+        "Generalized vasoconstriction"
+      ],
+      "correct_option_id": 4,
+      "explanation": "'Generalized vasoconstriction' describes the fundamental physiological compensatory mechanism characterizing the body's response to oligemia to preserve vital organ perfusion.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Shock"
+    },
+    {
+      "id": 7240,
+      "question": "The essential pathophysiological disorder in all types of shock is:",
+      "options": [
+        "Hypotension",
+        "Tachycardia",
+        "Viscerocutaneous vasoconstriction",
+        "Impaired tissue perfusion",
+        "Reduced blood volume"
+      ],
+      "correct_option_id": 3,
+      "explanation": "The defining feature of shock is inadequate tissue perfusion and oxygenation, regardless of the cause (volume loss, pump failure, or vasodilation).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Shock"
+    },
+    {
+      "id": 7241,
+      "question": "The following conditions lead to hypokalemia except:",
+      "options": [
+        "Thiazide intake",
+        "Cushing's syndrome",
+        "Spironolactone intake",
+        "Liver cell failure"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Spironolactone is a potassium-sparing diuretic that can cause hyperkalemia, whereas Thiazides and hyperaldosteronism states (Cushing's, Liver failure) cause hypokalemia.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Electrolytes"
+    },
+    {
+      "id": 7242,
+      "question": "The following diseases predispose to surgical wound infection except:",
+      "options": [
+        "Obesity",
+        "Hypertension",
+        "DM",
+        "Malignancy"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Hypertension per se does not directly impair wound healing or immunity. Diabetes (DM), Obesity (poor vascularity), and Malignancy (catabolic/immune suppressed) are known risk factors.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Surgical Infection"
+    },
+    {
+      "id": 7243,
+      "question": "The hand infection which carries the highest risk of developing osteomyelitis is:",
+      "options": [
+        "Paronychia",
+        "Intrathecal whitlow",
+        "Pulp space infection (felon)",
+        "Web space infection",
+        "Thenar space infection"
+      ],
+      "correct_option_id": 2,
+      "explanation": "In a felon (pulp space infection), the pressure rises in the closed compartments of the fingertip, occluding the blood supply to the distal phalanx, leading to bone necrosis (osteomyelitis).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Hand Infections"
+    },
+    {
+      "id": 7244,
+      "question": "The highest concentration of K+ occurs in:",
+      "options": [
+        "Urine",
+        "Succus entericus",
+        "Semen",
+        "Saliva"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Succus entericus (small intestinal secretions) has a high concentration of potassium, making fistulas or diarrhea a common cause of hypokalemia.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Electrolytes"
+    },
+    {
+      "id": 7245,
+      "question": "The hyperdynamic phase of septic shock is characterized by the following signs except:",
+      "options": [
+        "Hyperventilation",
+        "Hypotension",
+        "Tachycardia",
+        "Pale cold extremities",
+        "Oliguria"
+      ],
+      "correct_option_id": 3,
+      "explanation": "The hyperdynamic (early) phase of septic shock presents with warm, flushed skin and bounding pulses ('Warm Shock'). Pale, cold extremities occur in the late (hypodynamic) phase.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Shock"
+    },
+    {
+      "id": 7246,
+      "question": "The incriminated organism in septic shock may be:",
+      "options": [
+        "Gram +ve bacteria",
+        "Gram -ve bacteria",
+        "Candida albicans",
+        "Any of the above"
+      ],
+      "correct_option_id": 3,
+      "explanation": "While Gram-negative bacteria are the classic cause due to endotoxins, Gram-positive bacteria and fungi (Candida) can also induce septic shock.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Shock"
+    },
+    {
+      "id": 7247,
+      "question": "Among the following statements about branchial fistula, the incorrect one is that it:",
+      "options": [
+        "Commonly results from rupture of a branchial cyst",
+        "Usually at the lower third of the anterior border of the sternomastoid muscle",
+        "Is often bilateral",
+        "Discharges clear mucoid fluid",
+        "Requires removal of the whole track by the 'stepladder' operation"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Branchial fistulas are typically congenital (persistent 2nd branchial cleft/pouch). A ruptured branchial cyst usually results in a sinus, not a congenital fistula.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Head & Neck"
+    },
+    {
+      "id": 7248,
+      "question": "Concerning pleomorphic adenoma (mixed salivary tumor), which of following statements is incorrect:",
+      "options": [
+        "Is the commonest salivary tumor",
+        "Has a very heterogenous histological structure",
+        "Is well-encapsulated",
+        "Presents as a slow-growing firm swelling just below the lobule of the ear",
+        "Tends to recur after inadequate excision"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Pleomorphic adenomas are NOT well-encapsulated; they have a pseudocapsule with tumor projections extending through it, which is why enucleation leads to recurrence.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 7249,
+      "question": "Operable carcinoma of parotid is best treated by:",
+      "options": [
+        "Radiotherapy alone",
+        "Chemotherapy alone",
+        "Superficial conservative parotidectomy",
+        "Radical parotidectomy with block dissection of LNs"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Malignant parotid tumors generally require radical parotidectomy (potentially sacrificing the facial nerve if involved) and neck dissection for lymph nodes.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 7250,
+      "question": "Parotid gland is the most common salivary gland affected by following pathologies except:",
+      "options": [
+        "Acute bacterial sialadenitis",
+        "Salivary stones",
+        "Pleomorphic adenoma",
+        "Adenolymphoma (Warthin's tumor)",
+        "Mumps"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Salivary stones (sialolithiasis) are most common in the submandibular gland (80%) due to the antigravity flow and viscous, calcium-rich secretions.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 7251,
+      "question": "Serous salivary secretion is produced by:",
+      "options": [
+        "Parotid gland",
+        "Submandibular gland",
+        "Sublingual gland",
+        "None of the above"
+      ],
+      "correct_option_id": 0,
+      "explanation": "The parotid gland produces purely serous secretion. The submandibular is mixed, and the sublingual is predominantly mucous.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 7252,
+      "question": "The false statement about ranula is that it:",
+      "options": [
+        "Is a bluish cyst in the angle between the tongue and the floor of mouth",
+        "Usually lies to one side of the middle line",
+        "May extend into the submandibular region",
+        "May assume an hour-gloss appearance",
+        "Is best treated by complete excision"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Ranulas are best treated by marsupialization. Complete excision is difficult and risks injury to the submandibular duct/lingual nerve.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Head & Neck"
+    },
+    {
+      "id": 7253,
+      "question": "The following salivary gland secretes viscid secretion rich in Ca:",
+      "options": [
+        "Parotid",
+        "Sublingual",
+        "Accessory glands",
+        "All of the above"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Among the options, the sublingual gland secretes mucous (viscid) saliva. The submandibular (not listed) is also viscid/Ca-rich.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 7254,
+      "question": "True statements about ludwig's angina do not include that it:",
+      "options": [
+        "Is a virulent cellulitis of the floor of the mouth",
+        "Usually results from infection with staphylococci",
+        "Causes marked swelling in the submandibular region with severe edema of the tongue",
+        "May cause suffocation",
+        "May require urgent operation"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Ludwig's angina is typically caused by Streptococci or mixed anaerobic flora arising from dental infections, not Staphylococcus.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Head & Neck"
+    },
+    {
+      "id": 7255,
+      "question": "Which one among the following statements about cystic hygroma is untrue?",
+      "options": [
+        "Affects infants and young children",
+        "Occurs chiefly in the neck, axilla, and groin",
+        "Presents as a large soft fluctuating translucent swelling",
+        "Is localized to the subcutaneous tissues",
+        "May rupture subcutaneously with spontaneous cure"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Cystic hygromas (lymphangiomas) often extend deeply into muscle planes and surrounding structures, making them not merely localized to subcutaneous tissue.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Head & Neck"
+    },
+    {
+      "id": 7256,
+      "question": "Which statement about salivary calculi is untrue?",
+      "options": [
+        "Are commonest in the parotid gland",
+        "May lie in the gland or its duct",
+        "Produce recurrent pain and swelling during meals",
+        "Contain a high proportion of calcium",
+        "May require excision of the affected gland"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Salivary calculi are most common in the submandibular gland (approx. 80%), not the parotid.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 7257,
+      "question": "All of the followings are factors affecting wound healing:",
+      "options": [
+        "Age of the patient",
+        "General condition",
+        "Corticosteroid",
+        "Type of wound and type of closure",
+        "All of the above"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Wound healing is influenced by both systemic factors (age, nutrition, steroids) and local factors (wound type, blood supply, infection).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Wound Healing"
+    },
+    {
+      "id": 7258,
+      "question": "Keloids are characterized by the following, EXCEPT:",
+      "options": [
+        "Consist of dense overgrowth of scar tissue",
+        "Develop after wounds, burns and vaccination marks",
+        "Are particularly common in negroes and pregnant females",
+        "Occur most often on the face, neck and front of the chest",
+        "May turn malignant"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Keloids are benign overgrowths of scar tissue and do not undergo malignant transformation. Malignancy (Marjolin's ulcer) is a risk in chronic unstable scars/ulcers.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Wound Healing"
+    },
+    {
+      "id": 7259,
+      "question": "Which statement is incorrect concerning electrical burns?",
+      "options": [
+        "Usually have a small surface area",
+        "Are always superficial",
+        "Are often associated with massive muscle necrosis",
+        "May cause reddish discoloration of the urine",
+        "Are best treated by immediate excision and grafting"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Electrical burns often have small entry/exit wounds but cause extensive deep tissue destruction (iceberg effect), so they are rarely just superficial.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Burns"
+    },
+    {
+      "id": 7260,
+      "question": "In the rule of nines:",
+      "options": [
+        "Front of trunk > 27%",
+        "Head and neck > 18%",
+        "Each lower limb > 18%",
+        "All of the above"
+      ],
+      "correct_option_id": 2,
+      "explanation": "According to the Rule of Nines, each lower limb accounts for 18% of the total body surface area.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Burns"
+    },
+    {
+      "id": 7261,
+      "question": "The most lethal exotoxin of Cl. welchii is:",
+      "options": [
+        "Hyaluronidase",
+        "Collagenase",
+        "Haemolysin",
+        "Lecithinase (alpha toxin)",
+        "E. Deoxyribonuclease"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Alpha toxin (Lecithinase) is the most potent and lethal toxin produced by Clostridium welchii (perfringens), causing extensive tissue necrosis.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Surgical Infection"
+    },
+    {
+      "id": 7262,
+      "question": "The most serious post-operative chest complications is:",
+      "options": [
+        "Pulmonary atelectasis",
+        "Bronchopneumonia",
+        "Pulmonary embolism",
+        "Lung abscess",
+        "Acute empyema"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Pulmonary embolism is the most potentially lethal post-operative chest complication, often causing sudden death.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Complications"
+    },
+    {
+      "id": 7263,
+      "question": "The prodromal symptoms of tetanus include the following except:",
+      "options": [
+        "Restlessness and sleeplessness",
+        "Rigidity or muscular twitching in the region of the wound",
+        "Stiffness and twitching of the jaw muscles",
+        "High fever",
+        "Excessive sweating and salivation"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Tetanus does not typically present with high fever in the prodromal stage; fever usually indicates complications or severe autonomic instability later.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Surgical Infection"
+    },
+    {
+      "id": 7264,
+      "question": "The sac of femoral hernia protrudes through the:",
+      "options": [
+        "Femoral ring",
+        "Femoral canal",
+        "Saphenous opening",
+        "None of the above",
+        "All of the above"
+      ],
+      "correct_option_id": 4,
+      "explanation": "The femoral hernia path involves entering through the femoral ring, descending the femoral canal, and exiting through the saphenous opening.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Hernia"
+    },
+    {
+      "id": 7265,
+      "question": "The treatment of acute tetanus includes the following except:",
+      "options": [
+        "Administration of antitoxin",
+        "High-dose penicillin",
+        "Sedatives, muscle relaxants and mechanical ventilation",
+        "Wound excision",
+        "Nutritional and nursing care"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Based on the provided key, wound excision is the exception, likely emphasizing that antitoxin neutralization takes precedence before manipulation. However, standard practice includes debridement.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Surgical Infection"
+    },
+    {
+      "id": 7266,
+      "question": "Trauma induces increased secretion of the following hormones except:",
+      "options": [
+        "Insulin",
+        "Catecholamines",
+        "ACTH and cortisone",
+        "ADH (antidiuretic hormone)",
+        "Growth hormone"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Trauma triggers a catabolic stress response with elevated cortisol, catecholamines, and ADH. Insulin (anabolic) secretion is suppressed.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Trauma"
+    },
+    {
+      "id": 7267,
+      "question": "True statements about paraumbilical hernia include the following except that it:",
+      "options": [
+        "Affects females more often than males",
+        "Protrudes through the umbilical scar",
+        "Is often associated with divarication of the recti",
+        "Frequently has a multiocular sac",
+        "Is rarely completely reducible"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Paraumbilical hernias protrude through the linea alba just above or below the umbilicus, NOT through the umbilical scar itself (which defines a true umbilical hernia).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Hernia"
+    },
+    {
+      "id": 7268,
+      "question": "Which antibiotics are contraindicated in pregnant females:",
+      "options": [
+        "Penicillins",
+        "Cephalosporins",
+        "Tetracyclines",
+        "Aminoglycosides",
+        "Lincosamines"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Tetracyclines are contraindicated in pregnancy as they chelate calcium, causing teeth discoloration and inhibition of bone growth in the fetus.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Surgical Infection"
+    },
+    {
+      "id": 7269,
+      "question": "Which statement is wrong concerning Clostridriurn tetani?",
+      "options": [
+        "Is a gram-negative bacillus",
+        "Has a drum-stick appearance",
+        "Is a strict anaerobe",
+        "Produces highly resistant spores",
+        "Secretes a powerful neuro-exotoxin"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Clostridium tetani is a Gram-positive bacillus, not Gram-negative.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General_Topics",
+      "chapter": "Surgical Infection"
+    }
+  ]
+}

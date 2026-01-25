@@ -1,0 +1,1332 @@
+{
+  "meta": {
+    "source": "Term 7 - General Surgery",
+    "lesson": "Allergy_Infections_Skin&Burn"
+  },
+  "questions": [
+    {
+      "id": 7060,
+      "question": "A 12yo boy has foot pain/inflammation and red streaks up the leg. He removed a wood splinter from the sole yesterday. The likely organism is:",
+      "options": [
+        "Clostridium perfingens",
+        "Clostridium tetani",
+        "Staphylococcus",
+        "Streptococcus"
+      ],
+      "correct_option_id": 3,
+      "explanation": "The clinical presentation of red streaks extending up the limb (lymphangitis) following a puncture wound is characteristic of a Streptococcal infection (Group A Beta-hemolytic Streptococcus).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7061,
+      "question": "A 24yo male, 60min post foot puncture, has a nail in the sole, erythema, minimal bleeding, no purulence. Tetanus status unknown. How to manage potential tetanus?",
+      "options": [
+        "Local wound care, IV metronidazole or penicillin for 7 to 10 days",
+        "Local wound care, IV metronidazole or penicillin for 7 to 10 days, tetanus toxoid",
+        "Local wound care, IV abx 7-10d, tetanus toxoid, tetanus Ig",
+        "Local wound care only",
+        "No treatment"
+      ],
+      "correct_option_id": 2,
+      "explanation": "For dirty wounds with unknown immunization, guidelines recommend Tetanus Toxoid (active) and Immunoglobulin (passive). Antibiotics are also indicated.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7062,
+      "question": "A 30yo woman has open appendectomy (no antibiotics) for perforation. She develops an intra-abdominal abscess. Which organism is likely responsible?",
+      "options": [
+        "Escherichia coli",
+        "Bacteroides",
+        "Streptococcus faecalis",
+        "Staphylococcus Aureus"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Bacteroides fragilis is the common anaerobe in abdominal abscesses after perforation. It is associated with abscess encapsulation.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7063,
+      "question": "A 4.5kg infant, born following un-complicated labor and delivery, is noted to have a uni-lateral cleft lip and palate. The parents should be advised to:",
+      "options": [
+        "The child almost has other congenital anomalies",
+        "Rehabilitation requires adjunctive speech therapy",
+        "Lip repair is indicated at 1 year of age",
+        "Palate repair is indicated prior to 6 mo. of age"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Cleft lip/palate needs multidisciplinary care (speech therapy). Lip repair is done at 3-6 months, palate repair at 9-12 months.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Skin & Soft Tissue"
+    },
+    {
+      "id": 7064,
+      "question": "A 40-year-old woman undergoes wide excision of a pigmented lesion of her thigh. Pathologic examination reveals malignant melanoma that is Clark's level IV. findings on examination of the groin are normal. The patient should be advised that:",
+      "options": [
+        "Radiotherapy will be an important part of subsequent therapy",
+        "Immuno-therapy is an effective form of adjunctive treatment for metastatic malignant melanoma",
+        "Groin dissection is not indicated unless and until groin nodes become palpable",
+        "Intra-lesional BCG aids local control in most patients"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Without palpable nodes, prophylactic dissection is controversial. Dissection is typically reserved for when nodes become palpable (therapeutic).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 7065,
+      "question": "A 45yo woman gets cephalosporin for cholecystectomy. 1 week later: fever, diarrhea, diagnosed with pseudomembranous colitis. Which statement is correct?",
+      "options": [
+        "Surgical intervention is frequently required",
+        "After appropriate antibiotic therapy, the relapse rate is less than 5%",
+        "Toxin B tissue culture is not sensitive/specific; diagnosis is clinical",
+        "Surgery indicated for failure, toxic megacolon, or perforation"
+      ],
+      "correct_option_id": 3,
+      "explanation": "C. diff is treated medically. Colectomy is reserved for toxic megacolon, perforation, or medical failure.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7066,
+      "question": "A 65-year-old patient presents with a painless, ulcerated lesion on his right check, 1 year ago with no lymph node enlargement neck reveals. The most likely diagnosis is:",
+      "options": [
+        "Melanoma",
+        "Basal Cell Carcinoma (BCC)",
+        "Squamous Cell Carcinoma (SCC)",
+        "Sebaceous cyst"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Basal Cell Carcinoma (BCC) is the most common skin cancer, often presenting as a painless ulcerated nodule ('rodent ulcer') on the face in older adults. It rarely metastasizes to lymph nodes.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 7067,
+      "question": "A patient has burns in one leg (circumferential), one arm (circumferential) and the anterior trunk; what are the percentages of burn does the patient have?",
+      "options": [
+        "18%",
+        "27%",
+        "35%",
+        "45%"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Using the Rule of Nines: One leg (18%) + One arm (9%) + Anterior trunk (18%) = 45% TBSA.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Burns"
+    },
+    {
+      "id": 7068,
+      "question": "Clark Level IV of classification extends to which of the following structures:",
+      "options": [
+        "Epidermis",
+        "Papillary dermis",
+        "Reticular dermis",
+        "Subcutaneous tissue"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Clark levels classify melanoma depth: Level I (Epidermis), II (Papillary dermis), III (Junction), IV (Reticular dermis), and V (Subcutaneous fat).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 7069,
+      "question": "Management of leukoplakia of the oral cavity includes:",
+      "options": [
+        "Excisional biopsy of all lesions",
+        "Application of topical antibiotics",
+        "Ascertaining that dentures fit properly",
+        "Application of topical chemo-therapeutic agents"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Leukoplakia is a pre-malignant lesion often caused by chronic irritation. The initial management involves removing irritants, such as correcting ill-fitting dentures or stopping smoking.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 7070,
+      "question": "Recovered from burn wounds is:",
+      "options": [
+        "Aspergillus",
+        "Candida",
+        "Fusarium",
+        "Phycomycetes"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Candida species are the most common non-bacterial (fungal) organisms recovered from burn wounds.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Burns"
+    },
+    {
+      "id": 7071,
+      "question": "The appropriate antibiotic to describe while awaiting specific culture verification is:",
+      "options": [
+        "Penicillin",
+        "Erythromycin",
+        "Tetracycline",
+        "Azathioprine"
+      ],
+      "correct_option_id": 0,
+      "explanation": "In the context of classic surgical infections like cellulitis (Strep) or gas gangrene (Clostridium), Penicillin G is the historical empirical choice mentioned in this dataset.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7072,
+      "question": "The appropriate management of a deep partial-thickness burn is:",
+      "options": [
+        "Early excision and grafting",
+        "Surgical debridement and dressings",
+        "Dressings only",
+        "Observation"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Deep partial-thickness burns heal with significant scarring and have a high risk of infection. Early excision and skin grafting is the standard of care to optimize functional and cosmetic outcomes.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Burns"
+    },
+    {
+      "id": 7073,
+      "question": "The most frequent non-bacterial, opportunistic organism recovered from burn wounds is:",
+      "options": [
+        "Aspergillus",
+        "Candida",
+        "Fusarium",
+        "Phycomycetes"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Candida is the most frequent fungal pathogen found in burn wounds, often capitalizing on the immunocompromised state and broad-spectrum antibiotic use.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Burns"
+    },
+    {
+      "id": 7074,
+      "question": "True statements regarding squamous cell carcinoma of the lip include:",
+      "options": [
+        "The lesion arises in areas of persistent hyperkeratosis",
+        ">90% of cases occur on the upper lip",
+        "Radiography is considered inappropriate treatment for these lesions",
+        "Initially metastases are to the ipsilateral posterior cervical lymph nodes"
+      ],
+      "correct_option_id": 0,
+      "explanation": "SCC of the lip often arises from precursor lesions like actinic cheilitis (persistent hyperkeratosis). It most commonly affects the LOWER lip (>90%) and metastasizes to submental/submandibular nodes.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 7075,
+      "question": "Which of the following cases is considered clean contaminated wound:",
+      "options": [
+        "Open cholecystectomy for cholelithiasis",
+        "Herniorrhaphy with mesh repair",
+        "Appendectomy with walled-off abscess",
+        "Gunshot wound to the abdomen with injuries to small bowel and sigmoid colon"
+      ],
+      "correct_option_id": 0,
+      "explanation": "A clean-contaminated wound involves entering a hollow viscus (respiratory, GI, genital, urinary) under controlled conditions without unusual contamination. Cholecystectomy fits this category.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7076,
+      "question": "Which of the following statements regarding carpal tunnel syndrome is correct?",
+      "options": [
+        "It is rarely 2ry to trauma",
+        "It common with pregnancy",
+        "It most often causes parathesia during waking hours",
+        "Associated with vascular compromise; surgery releases extensor retinaculum"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Carpal tunnel syndrome is common in pregnancy due to fluid retention causing compression of the median nerve. Symptoms are typically worse at night (nocturnal paresthesia).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Skin & Soft Tissue"
+    },
+    {
+      "id": 7077,
+      "question": "As regard cl. tetani all are correct except:",
+      "options": [
+        "Gram +ve bacilli anaerobic spore forming",
+        "Drum stick appearance",
+        "Have incubation period of 3-5 days",
+        "Sensitive to penicillin"
+      ],
+      "correct_option_id": 1,
+      "explanation": "C. tetani usually has a drumstick appearance. The key marks this as the exception. Incubation is typically 8-12 days, not 3-5.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7078,
+      "question": "As regard incubation period of tetanus:",
+      "options": [
+        "Variable",
+        "May occur up to 3weeks of wound",
+        "The shorter the incubation period the poorer the prognosis",
+        "All of the above"
+      ],
+      "correct_option_id": 0,
+      "explanation": "The incubation period of tetanus is variable, typically 3-21 days. While 'All of the above' describes true statements, the provided key selects 'Variable' as the primary answer.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7079,
+      "question": "Collar stud abscess is common with which type of hand infection:",
+      "options": [
+        "Thenar space infection",
+        "Subcuticular whitlow",
+        "Ulnar bursitis",
+        "Radial bursitis"
+      ],
+      "correct_option_id": 1,
+      "explanation": "A collar-stud abscess forms when a superficial abscess (like a subcuticular whitlow) communicates with a deeper abscess cavity through a small opening in the dermis or fascia.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7080,
+      "question": "Erysipelas differs from cellulitis in:",
+      "options": [
+        "Erysipelas is more superficial",
+        "Erysipelas cannot affect ear pinna",
+        "Erysipelas has sharply demarcated indurated edges",
+        "Erysipelas is caused by streptococci"
+      ],
+      "correct_option_id": 2,
+      "explanation": "The hallmark of erysipelas is a sharply demarcated, raised border (step-off) that distinguishes involved skin from uninvolved skin. It involves the upper dermis and superficial lymphatics.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7081,
+      "question": "Incubation period of gas gangrene is about:",
+      "options": [
+        "1-2 days",
+        "1-2 weeks",
+        "Up to 1 month",
+        "Up to 3 months"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Standard texts say gas gangrene incubation is 1-4 days. The key selects '1-2 weeks', a discrepancy students should note.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7082,
+      "question": "Main pathogenic factor in tetanus is:",
+      "options": [
+        "Local destruction",
+        "Endotoxin causing septicemia and MOF",
+        "Exotoxin acting on anterior horn cells and motor end plates",
+        "Hypersensitivity reaction"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Medically, tetanus is caused by the exotoxin Tetanospasmin (Option C). However, the provided model answer is 'Hypersensitivity reaction' (D), which contradicts standard medical facts.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7083,
+      "question": "Most common risk factor for carbuncle:",
+      "options": [
+        "TB",
+        "DM",
+        "Corticosteroid intake",
+        "Bad hygiene"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Diabetes Mellitus (DM) is the most significant predisposing factor for carbuncles (aggregates of infected follicles), typically caused by Staph aureus.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7084,
+      "question": "Sachrolytic group of clostridia include the following except:",
+      "options": [
+        "Cl. Welchii",
+        "Cl. Histolyticum",
+        "Cl. Septium",
+        "Cl. Edematiens"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Cl. histolyticum is proteolytic; Cl. septicum is saccharolytic. The key incorrectly marks Cl. septicum as the exception.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7085,
+      "question": "Sign of victory is suggestive of:",
+      "options": [
+        "Thenar space infection",
+        "Web space infection",
+        "Superficial mid palmar space infection",
+        "Deep mid palmar space infection"
+      ],
+      "correct_option_id": 1,
+      "explanation": "The 'Sign of Victory' refers to the V-shaped separation of adjacent fingers, which is a clinical sign of a web space infection.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7086,
+      "question": "The best site for incision of ulnar bursa abscess is:",
+      "options": [
+        "Lateral border of hypothenar eminence",
+        "Medial border of hypothenar eminence",
+        "Above the wrist",
+        "Any of the above"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Drainage of the ulnar bursa is typically performed via an incision along the lateral (radial) border of the hypothenar eminence to avoid the ulnar neurovascular bundle.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7087,
+      "question": "The most appropriate treatment for a case of gas gangrene with multi- organ dysfunction and established muscle necrosis is:",
+      "options": [
+        "IV antibiotics + Corticosteroids",
+        "Massive dose of antitoxin serum",
+        "Amputation of the affected limb",
+        "Debridement of dead muscle and limb salvage"
+      ],
+      "correct_option_id": 2,
+      "explanation": "In severe gas gangrene with established necrosis and systemic toxicity (MOF), amputation is often life-saving and the definitive treatment to remove the source of toxin production.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7088,
+      "question": "The most feared complication of Ludwig angina is:",
+      "options": [
+        "Parapharyngeal abscess",
+        "Suffocation",
+        "Septicaemia",
+        "Poststreptococcal glumerulonephritis"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Ludwig's angina is a submandibular/sublingual space infection that can displace the tongue posteriorly, leading to acute airway obstruction and suffocation.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7089,
+      "question": "Lymph granuloma venereum is caused by:",
+      "options": [
+        "Treponema pallidum",
+        "Chlamydia trachomatis",
+        "Neisseria gonorrhea",
+        "Mycobacterium fortuitum"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Lymphogranuloma venereum (LGV) is a sexually transmitted infection caused by Chlamydia trachomatis (serovars L1, L2, L3).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7090,
+      "question": "Proper treatment for frostbite consists of:",
+      "options": [
+        "Debridement of the affected part followed by silver sulfadiazine dressing",
+        "Administration of corticosteroids",
+        "Immersion of the affected part in water at 40 - 44 °C",
+        "Re-warming of the affected part at room temperature"
+      ],
+      "correct_option_id": 2,
+      "explanation": "The mainstay of frostbite treatment is rapid rewarming by immersion in circulating warm water (40-42°C or 104-108°F) until the tissue becomes pliable.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Burns"
+    },
+    {
+      "id": 7091,
+      "question": "What is the most common melanoma in dark-skinned people?",
+      "options": [
+        "Amelanotic melanoma",
+        "Acral lentiginous",
+        "Lentigo maligna",
+        "Nodular",
+        "Superficial spreading"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Acral lentiginous melanoma (occurring on palms, soles, and nail beds) is the most common subtype of melanoma in dark-skinned individuals.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 7092,
+      "question": "The presence of sulfur granules in a draining wound should lead to the use of which of the following antibiotics:",
+      "options": [
+        "Amphotericin",
+        "Gentamicin",
+        "Penicillin",
+        "Quinolones",
+        "Rifampin"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Sulfur granules are pathognomonic for Actinomycosis. The treatment of choice for Actinomyces israelii is high-dose Penicillin.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7093,
+      "question": "Which of the following is the most common type of melanoma?",
+      "options": [
+        "Acral lentiginous",
+        "Lentigo maligna",
+        "Nodular",
+        "Keratoacanthoma",
+        "Superficial spreading"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Superficial spreading melanoma is the most common subtype, accounting for approximately 70% of all melanoma cases.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 7094,
+      "question": "A patient with a 3-mm deep melanoma of the face with a clinically +ve jugular node should undergo what procedure in addition to resection of the primary?",
+      "options": [
+        "Resection of grossly +ve nodes",
+        "Modified radical neck dissection",
+        "Modified radical neck dissection and superficial parotidectomy",
+        "None"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Clinically palpable (positive) lymph nodes in melanoma require therapeutic lymph node dissection. For the neck, a Modified Radical Neck Dissection is the standard.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 7095,
+      "question": "All of the following statements about Kaposi's sarcoma in patients with acquired immune-deficiency syndrome (AIDS) are correct Except:",
+      "options": [
+        "The lesions are usually multi-focal",
+        "Lesions are rubbery blue nodules that resemble hemangiomas",
+        "The gastro-intestinal tract is often involved",
+        "Intra-venous drug abusers are frequently affected"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Epidemiologically, AIDS-related Kaposi's sarcoma is strongly associated with sexual transmission (HHV-8) and is much more common in homosexual men than in IV drug users.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 7096,
+      "question": "An infection with Staphylococcus aureus acquired in an intensive care unit should be treated initially with:",
+      "options": [
+        "Aztreonam",
+        "Erythromycin",
+        "Methicillin",
+        "Vancomycin"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Hospital-acquired (nosocomial) Staph aureus, especially in the ICU, has a high probability of being Methicillin-Resistant (MRSA). Vancomycin is the initial drug of choice.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7097,
+      "question": "Infections that require operative treatment include all of the following Except:",
+      "options": [
+        "Empyema",
+        "Infected ascites",
+        "Necrotizing fasciitis of the thigh",
+        "Vascular graft infection"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Infected ascites is treated medically. Empyema, necrotizing fasciitis, and graft infections require surgery.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7098,
+      "question": "Patients with a penicillin allergy are LEAST likely to have a cross-reaction with:",
+      "options": [
+        "Synthetic penicillin",
+        "Carbapenems",
+        "Cephalosporins",
+        "Monobactams"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Monobactams (Aztreonam) have a unique structure with almost no cross-reactivity to penicillin, making them safe.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7099,
+      "question": "Staphylococcus aureus produces each of the following Except:",
+      "options": [
+        "Cell wall peptidoglycan",
+        "Entero-toxin",
+        "Epidermolytic-toxia",
+        "Neuro-exotoxin"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Staph aureus produces enterotoxins and epidermolytic toxins, but not neurotoxins (characteristic of Clostridium).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7100,
+      "question": "The best antibiotic for post-exposure prophylaxis to Bacillus anthracis (anthrax) is:",
+      "options": [
+        "Rifampin",
+        "Clindamycin",
+        "Doxycycline",
+        "Amoxicillin"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Guidelines favor Ciprofloxacin/Doxycycline. The key selects Clindamycin (usually adjunctive). Note the discrepancy.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7101,
+      "question": "The classic chest X-ray finding in anthrax is:",
+      "options": [
+        "Bilateral apical pneumo-thorax",
+        "Basilar pneumonia",
+        "Pulmonary oedema",
+        "Widened mediastinum and effusions"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Inhalational anthrax causes hemorrhagic mediastinitis, which presents classically as a widened mediastinum on chest X-ray.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7102,
+      "question": "The drug of choice for clostridial myonecrosis is:",
+      "options": [
+        "Penicillin G",
+        "Ampicillin",
+        "Amikacin",
+        "Cephalosporin"
+      ],
+      "correct_option_id": 0,
+      "explanation": "High-dose Penicillin G is the traditional drug of choice for Clostridial myonecrosis (Gas Gangrene), often combined with protein synthesis inhibitors like Clindamycin.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7103,
+      "question": "The most appropriate treatment of a 4-cm hepatic abscess is:",
+      "options": [
+        "Anti-biotic therapy alone",
+        "Aspiration for culture and anti-biotic therapy",
+        "Per-cutaneous drainage and anti-biotic therapy",
+        "Operative exploration, open drainage of the abscess and anti-biotic therapy"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Percutaneous drainage (combined with antibiotics) is the standard first-line treatment for accessible pyogenic hepatic abscesses, especially those larger than 3-5 cm.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7104,
+      "question": "The tumor, node, metastases classification for melanoma uses the following in its classification Except:",
+      "options": [
+        "Regional lymph nodes",
+        "Serum protein level",
+        "Depth of invasion",
+        "Metastases",
+        "Vertical thickness of the primary tumor"
+      ],
+      "correct_option_id": 1,
+      "explanation": "TNM staging for melanoma uses Tumor thickness (Breslow depth), Nodal status, and Metastasis (which includes LDH levels). General 'Serum protein level' is not a staging criterion.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 7105,
+      "question": "Which of the following is the most commonly acquired infection in hospitalized surgical patients?",
+      "options": [
+        "Lower gastro-intestinal tract",
+        "Lower respiratory tract",
+        "Naso-pharynx",
+        "Surgical wound"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Surgical Site Infections (SSI) are the most common nosocomial infections specifically in surgical patients (typically 38% of such infections).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7106,
+      "question": "Which of the following is the most effective way to prevent post-operative seroma/infection in an obese patient after an open appendectomy?",
+      "options": [
+        "Leaving the subcutaneous tissue and skin open to heal by secondary intention",
+        "Closing the wound a rubber drain",
+        "Closing the wound with a closed suction drain",
+        "Closing the wound with multiple sutures in the subcutaneous tissue"
+      ],
+      "correct_option_id": 2,
+      "explanation": "In obese patients, the thick subcutaneous layer is prone to dead space and seroma formation. A closed suction drain is often effective in preventing fluid accumulation and subsequent infection.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7107,
+      "question": "A 65-year-old farmer presents with a 1.5-cm ulcerated lesion on the middle third of his lower lip. The lesion has been present for 4 months and is not painful. No lymph nodes are palpable in the patient's neck. The most likely diagnosis is:",
+      "options": [
+        "Herpes simplex",
+        "Melanoma",
+        "Lichen planus",
+        "Keratoacanthoma",
+        "Squamous cell carcinoma"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Squamous Cell Carcinoma (SCC) is the most common malignancy of the lip (specifically lower lip), associated with chronic sun exposure (farmers) and presenting as a non-healing ulcer.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 7108,
+      "question": "Most common site of actinomycosis:",
+      "options": [
+        "GIT",
+        "Head and neck",
+        "Breast",
+        "Lungs"
+      ],
+      "correct_option_id": 1,
+      "explanation": "The cervicofacial region (Head and neck) is the most common site for actinomycosis infection, often associated with dental pathology or trauma.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7109,
+      "question": "The most desirable position to immobilize the hand:",
+      "options": [
+        "Wrist is flexed, MCP joints are extended and lP joints are flexed",
+        "Wrist is flexed. MCP joints are flexed and lP joints are extended",
+        "Wrist is extended, MCP joints are extended and lP joints are flexed",
+        "Wrist is extended. MCP joints are flexed and lP joints are flexed",
+        "Wrist is extended, MCP joints are flexed and lP joints are extended"
+      ],
+      "correct_option_id": 4,
+      "explanation": "The 'Position of Safety' or Intrinsic Plus position involves wrist extension (20-30 deg), MCP flexion (70-90 deg), and IP extension. This prevents collateral ligament shortening and contractures.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Skin & Soft Tissue"
+    },
+    {
+      "id": 7110,
+      "question": "The best cosmetic results for large capillary (port wine) hemangiomas are achieved by:",
+      "options": [
+        "Excision and split-thickness graft",
+        "Cryosurgery",
+        "Laser destruction",
+        "Tattooing"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Pulsed dye laser therapy is the gold standard for treating port-wine stains (capillary malformations), offering the best cosmetic outcome with minimal scarring.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Skin & Soft Tissue"
+    },
+    {
+      "id": 7111,
+      "question": "As regard cl. tetani all are correct except:",
+      "options": [
+        "Gram +ve bacilli anaerobic spore forming",
+        "Drum stick appearance",
+        "Have incubation period of 3-5 days",
+        "Sensitive to penicillin"
+      ],
+      "correct_option_id": 1,
+      "explanation": "C. tetani usually has a drumstick appearance. The key marks this as the exception. Incubation is typically 8-12 days, not 3-5.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7112,
+      "question": "As regard incubation period of tetanus:",
+      "options": [
+        "Variable",
+        "May occur up to 3weeks of wound",
+        "The shorter the incubation period the poorer the prognosis",
+        "All of the above"
+      ],
+      "correct_option_id": 0,
+      "explanation": "The incubation period of tetanus is variable, ranging from 3 days to 3 weeks, with an average of 8-10 days. A shorter incubation period is associated with a poorer prognosis.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7113,
+      "question": "Collar stud abscess is common with which type of hand infection:",
+      "options": [
+        "Thenar space infection",
+        "Subcuticular whitlow",
+        "Ulnar bursitis",
+        "Radial bursitis"
+      ],
+      "correct_option_id": 1,
+      "explanation": "A collar-stud abscess forms when a superficial infection (like a subcuticular whitlow or infected blister) communicates with a deeper abscess cavity through a small opening in the dermis.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7114,
+      "question": "Erysipelas differs from cellulitis in:",
+      "options": [
+        "Erysipelas is more superficial",
+        "Erysipelas cannot affect ear pinna",
+        "Erysipelas has sharply demarcated indurated edges",
+        "Erysipelas is caused by streptococci"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Erysipelas involves the upper dermis and superficial lymphatics, resulting in a sharply demarcated, raised border (step-off). Cellulitis involves deeper tissues and has indistinct borders.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7115,
+      "question": "Incubation period of gas gangrene is about:",
+      "options": [
+        "1-2 days",
+        "1-2 weeks",
+        "Up to 1 month",
+        "Up to 3 months"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Standard texts say gas gangrene incubation is 1-4 days. The key selects '1-2 weeks', a discrepancy students should note.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7116,
+      "question": "Main pathogenic factor in tetanus is:",
+      "options": [
+        "Local destruction",
+        "Endotoxin causing septicemia and MOF",
+        "Exotoxin acting on anterior horn cells and motor end plates",
+        "Hypersensitivity reaction"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Tetanus is caused by tetanospasmin exotoxin blocking inhibitory transmitters. The provided key selects 'Hypersensitivity', which contradicts standard pathophysiology.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7117,
+      "question": "Most common risk factor for carbuncle:",
+      "options": [
+        "TB",
+        "DM",
+        "Corticosteroid intake",
+        "Bad hygiene"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Carbuncles are extensive, coalescing infections of hair follicles and subcutaneous tissue. Diabetes Mellitus is the most significant risk factor due to impaired immune response.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7118,
+      "question": "Sachrolytic group of clostridia include the following except:",
+      "options": [
+        "Cl. Welchii",
+        "Cl. Histolyticum",
+        "Cl. Septium",
+        "Cl. Edematiens"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Cl. histolyticum is proteolytic; Cl. septicum is saccharolytic. The key incorrectly marks Cl. septicum as the exception.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7119,
+      "question": "Sign of victory is suggestive of:",
+      "options": [
+        "Thenar space infection",
+        "Web space infection",
+        "Superficial mid palmar space infection",
+        "Deep mid palmar space infection"
+      ],
+      "correct_option_id": 1,
+      "explanation": "The 'Sign of Victory' is the spontaneous V-shaped separation of adjacent fingers caused by swelling in the web space, indicative of a web space infection.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7120,
+      "question": "The best site for incision of ulnar bursa abscess is:",
+      "options": [
+        "Lateral border of hypothenar eminence",
+        "Medial border of hypothenar eminence",
+        "Above the wrist",
+        "Any of the above"
+      ],
+      "correct_option_id": 0,
+      "explanation": "To drain the ulnar bursa, an incision is made along the lateral (radial) border of the hypothenar eminence. This avoids damage to the ulnar neurovascular bundle located medially.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7121,
+      "question": "The most appropriate treatment for a case of gas gangrene with multi- organ dysfunction and established muscle necrosis is:",
+      "options": [
+        "IV antibiotics + Corticosteroids",
+        "Massive dose of antitoxin serum",
+        "Amputation of the affected limb",
+        "Debridement of dead muscle and limb salvage"
+      ],
+      "correct_option_id": 2,
+      "explanation": "In advanced gas gangrene with multi-organ failure and extensive necrosis, immediate amputation is often the only life-saving measure to remove the source of toxin production.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7122,
+      "question": "The most feared complication of Ludwig angina is:",
+      "options": [
+        "Parapharyngeal abscess",
+        "Suffocation",
+        "Septicaemia",
+        "Poststreptococcal glumerulonephritis"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Ludwig's angina causes rapid swelling of the submandibular and sublingual spaces, displacing the tongue posteriorly and superiorly, which can lead to fatal airway obstruction (suffocation).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7123,
+      "question": "Lymph granuloma venereum is caused by:",
+      "options": [
+        "Treponema pallidum",
+        "Chlamydia trachomatis",
+        "Neisseria gonorrhea",
+        "Mycobacterium fortuitum"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Lymphogranuloma venereum (LGV) is a sexually transmitted infection caused by Chlamydia trachomatis serovars L1, L2, and L3.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7124,
+      "question": "Proper treatment for frostbite consists of:",
+      "options": [
+        "Debridement of the affected part followed by silver sulfadiazine dressing",
+        "Administration of corticosteroids",
+        "Immersion of the affected part in water at 40 - 44 °C",
+        "Re-warming of the affected part at room temperature"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Rapid rewarming of the frozen part in circulating water at 40-42°C (104-108°F) is the standard of care to minimize tissue loss. Temperatures above 45°C can cause thermal injury.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Burns"
+    },
+    {
+      "id": 7125,
+      "question": "What is the most common melanoma in dark-skinned people?",
+      "options": [
+        "Amelanotic melanoma",
+        "Acral lentiginous",
+        "Lentigo maligna",
+        "Nodular",
+        "Superficial spreading"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Acral lentiginous melanoma occurs on non-hair-bearing skin like palms, soles, and nail beds. It is the most common subtype in individuals with darker skin pigmentation.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 7126,
+      "question": "The presence of sulfur granules in a draining wound should lead to the use of which of the following antibiotics:",
+      "options": [
+        "Amphotericin",
+        "Gentamicin",
+        "Penicillin",
+        "Quinolones",
+        "Rifampin"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Sulfur granules are pathognomonic for Actinomycosis. The treatment of choice for Actinomyces israelii is long-term high-dose Penicillin.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7127,
+      "question": "Which of the following is the most common type of melanoma?",
+      "options": [
+        "Acral lentiginous",
+        "Lentigo maligna",
+        "Nodular",
+        "Keratoacanthoma",
+        "Superficial spreading"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Superficial spreading melanoma is the most common histologic subtype, representing about 70% of cutaneous melanomas.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 7128,
+      "question": "A patient with a 3-mm deep melanoma of the face with a clinically +ve jugular node should undergo what procedure in addition to resection of the primary?",
+      "options": [
+        "Resection of grossly +ve nodes",
+        "Modified radical neck dissection",
+        "Modified radical neck dissection and superficial parotidectomy",
+        "None"
+      ],
+      "correct_option_id": 1,
+      "explanation": "For melanoma with clinically palpable lymph nodes (macroscopic disease), a therapeutic lymph node dissection (Modified Radical Neck Dissection) is indicated.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 7129,
+      "question": "All of the following statements about Kaposi's sarcoma in patients with acquired immune-deficiency syndrome (AIDS) are correct Except:",
+      "options": [
+        "The lesions are usually multi-focal",
+        "Lesions are rubbery blue nodules that resemble hemangiomas",
+        "The gastro-intestinal tract is often involved",
+        "Intra-venous drug abusers are frequently affected"
+      ],
+      "correct_option_id": 3,
+      "explanation": "AIDS-related Kaposi's sarcoma is strongly linked to sexual transmission of HHV-8. It is much more prevalent in men who have sex with men than in patients who acquired HIV via IV drug use.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 7130,
+      "question": "An infection with Staphylococcus aureus acquired in an intensive care unit should be treated initially with:",
+      "options": [
+        "Aztreonam",
+        "Erythromycin",
+        "Methicillin",
+        "Vancomycin"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Staphylococcus aureus infections acquired in the ICU setting have a high probability of being Methicillin-Resistant (MRSA). Vancomycin is the initial drug of choice.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7131,
+      "question": "Infections that require operative treatment include all of the following Except:",
+      "options": [
+        "Empyema",
+        "Infected ascites",
+        "Necrotizing fasciitis of the thigh",
+        "Vascular graft infection"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Infected ascites is treated medically. Empyema, necrotizing fasciitis, and graft infections require surgery.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7132,
+      "question": "Patients with a penicillin allergy are LEAST likely to have a cross-reaction with:",
+      "options": [
+        "Synthetic penicillin",
+        "Carbapenems",
+        "Cephalosporins",
+        "Monobactams"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Monobactams (Aztreonam) have a unique structure with almost no cross-reactivity to penicillin, making them safe.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7133,
+      "question": "Staphylococcus aureus produces each of the following Except:",
+      "options": [
+        "Cell wall peptidoglycan",
+        "Entero-toxin",
+        "Epidermolytic-toxia",
+        "Neuro-exotoxin"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Staph aureus produces enterotoxins and epidermolytic toxins, but not neurotoxins (characteristic of Clostridium).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7134,
+      "question": "The best antibiotic for post-exposure prophylaxis to Bacillus anthracis (anthrax) is:",
+      "options": [
+        "Rifampin",
+        "Clindamycin",
+        "Doxycycline",
+        "Amoxicillin"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Guidelines favor Ciprofloxacin/Doxycycline. The key selects Clindamycin (usually adjunctive). Note the discrepancy.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7135,
+      "question": "The classic chest X-ray finding in anthrax is:",
+      "options": [
+        "Bilateral apical pneumo-thorax",
+        "Basilar pneumonia",
+        "Pulmonary oedema",
+        "Widened mediastinum and effusions"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Inhalational anthrax causes hemorrhagic mediastinitis and lymphadenopathy, which manifests as a widened mediastinum on chest X-ray.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7136,
+      "question": "The drug of choice for clostridial myonecrosis is:",
+      "options": [
+        "Penicillin G",
+        "Ampicillin",
+        "Amikacin",
+        "Cephalosporin"
+      ],
+      "correct_option_id": 0,
+      "explanation": "High-dose Penicillin G is the traditional drug of choice for Clostridial myonecrosis (Gas Gangrene), often combined with protein synthesis inhibitors like Clindamycin.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7137,
+      "question": "The most appropriate treatment of a 4-cm hepatic abscess is:",
+      "options": [
+        "Anti-biotic therapy alone",
+        "Aspiration for culture and anti-biotic therapy",
+        "Per-cutaneous drainage and anti-biotic therapy",
+        "Operative exploration, open drainage of the abscess and anti-biotic therapy"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Percutaneous drainage (combined with antibiotics) is the standard first-line treatment for accessible pyogenic hepatic abscesses, especially those larger than 3 cm.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7138,
+      "question": "The tumor, node, metastases classification for melanoma uses the following in its classification Except:",
+      "options": [
+        "Regional lymph nodes",
+        "Serum protein level",
+        "Depth of invasion",
+        "Metastases",
+        "Vertical thickness of the primary tumor"
+      ],
+      "correct_option_id": 1,
+      "explanation": "TNM staging for melanoma uses Tumor thickness (Breslow), Nodal status, and Metastasis. Serum protein levels are not part of the staging criteria, though LDH is considered in the M category.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 7139,
+      "question": "Which of the following is the most commonly acquired infection in hospitalized surgical patients?",
+      "options": [
+        "Lower gastro-intestinal tract",
+        "Lower respiratory tract",
+        "Naso-pharynx",
+        "Surgical wound"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Surgical Site Infections (SSI) are the most common nosocomial infections specifically in surgical patients, causing significant morbidity.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7140,
+      "question": "Which of the following is the most effective way to prevent post-operative seroma/infection in an obese patient after an open appendectomy?",
+      "options": [
+        "Leaving the subcutaneous tissue and skin open to heal by secondary intention",
+        "Closing the wound a rubber drain",
+        "Closing the wound with a closed suction drain",
+        "Closing the wound with multiple sutures in the subcutaneous tissue"
+      ],
+      "correct_option_id": 2,
+      "explanation": "In obese patients, the thick subcutaneous layer is prone to dead space and seroma. A closed suction drain is often effective in preventing fluid accumulation and subsequent infection.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 7141,
+      "question": "A 65-year-old farmer presents with a 1.5-cm ulcerated lesion on the middle third of his lower lip. The lesion has been present for 4 months and is not painful. No lymph nodes are palpable in the patient's neck. The most likely diagnosis is:",
+      "options": [
+        "Herpes simplex",
+        "Melanoma",
+        "Lichen planus",
+        "Keratoacanthoma",
+        "Squamous cell carcinoma"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Squamous Cell Carcinoma (SCC) is the most common malignancy of the lip, particularly the lower lip in individuals with chronic sun exposure (farmers), often presenting as a painless ulcer.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Allergy_Infections_Skin&Burn",
+      "chapter": "Skin Tumors"
+    }
+  ]
+}

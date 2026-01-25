@@ -1,0 +1,1106 @@
+{
+  "meta": {
+    "source": "Term 7 - General Surgery",
+    "lesson": "Hernia"
+  },
+  "questions": [
+    {
+      "id": 8250,
+      "question": "Which of the following hernias follows the path of the spermatic cord within the cremaster muscle?",
+      "options": [
+        "Direct inguinal",
+        "Femoral",
+        "Indirect inguinal",
+        "Interparietal",
+        "Spigelian"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Indirect hernias traverse the deep ring and travel inside the spermatic cord, covered by cremaster muscle. Direct hernias bulge through Hesselbach's triangle, separate from the cord.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Inguinal Hernia"
+    },
+    {
+      "id": 8251,
+      "question": "The cremaster muscle is derived from:",
+      "options": [
+        "Conjoint tendon",
+        "External oblique aponeurosis",
+        "Internal oblique muscle",
+        "Transversus abdominis muscle",
+        "Transversalis Fascia"
+      ],
+      "correct_option_id": 2,
+      "explanation": "As the testis descends through the abdominal wall, it pulls muscle fibers from the internal oblique muscle, which form the cremaster muscle. The external oblique forms the external spermatic fascia.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Anatomy"
+    },
+    {
+      "id": 8252,
+      "question": "A number of special circumstances exist in the repair of inguinal hernias, The following statement(s) is/are correct:",
+      "options": [
+        "Simultaneous repair of bilateral direct inguinal hernias entails no increased risk.",
+        "The pre-peritoneal approach may be appropriate for repair of a multiple recurrent hernia.",
+        "A femoral hernia repair can best be accomplished using a Bassini's or Shouldice repair.",
+        "Management of an incarcerated inguinal hernia is best approached via laparotomy incision."
+      ],
+      "correct_option_id": 1,
+      "explanation": "The pre-peritoneal approach is ideal for recurrent hernias to avoid scarred tissue from previous anterior repairs.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Management"
+    },
+    {
+      "id": 8253,
+      "question": "A sliding Hernia:",
+      "options": [
+        "Is easily reducible.",
+        "Is apparent only with Valsalva maneuver.",
+        "Occurs in more than one orifice (inguinal and Femoral).",
+        "Has a viscous contained in the wall of the sac."
+      ],
+      "correct_option_id": 3,
+      "explanation": "By definition, a sliding hernia occurs when a retroperitoneal viscus (such as the cecum, sigmoid colon, or bladder) forms part of the wall of the hernia sac. They are typically not easily reducible.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Sliding Hernia"
+    },
+    {
+      "id": 8254,
+      "question": "A sliding Hernia:",
+      "options": [
+        "Has a high recurrence rate after repair.",
+        "Involves a retroperitoneal structure.",
+        "Is more common in the left groin.",
+        "Occur almost exclusively in women."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Sliding hernias involve retroperitoneal structures (cecum on the right, sigmoid on the left) sliding into the canal. They are not exclusive to women and are common in men.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Sliding Hernia"
+    },
+    {
+      "id": 8255,
+      "question": "Chronic pain after inguinal hernia repair:",
+      "options": [
+        "Occurs in approximately 25% of patients.",
+        "Is defined as pain persisting longer than 6 months.",
+        "Is rarely moderate to severe.",
+        "Is usually caused by nerve injury."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Chronic inguinodynia is frequently caused by entrapment, injury, or inflammation of the ilioinguinal, iliohypogastric, or genitofemoral nerves during surgery or by mesh fibrosis.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Complications"
+    },
+    {
+      "id": 8256,
+      "question": "Lipoma of the cord:",
+      "options": [
+        "Is normal pre-peritoneal fat found adjacent to the cord structures.",
+        "Is histologically a benign tumor.",
+        "Should always be resected because of the small risk of degeneration into a lipo-sarcoma.",
+        "Is never found in women."
+      ],
+      "correct_option_id": 0,
+      "explanation": "A 'lipoma of the cord' is typically an extension of retroperitoneal/pre-peritoneal fat into the inguinal canal rather than a true neoplastic tumor. It is a common finding.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Differential Diagnosis"
+    },
+    {
+      "id": 8257,
+      "question": "Spontaneous closure of which of the following congenital abnormalities of the abdominal wall generally occurs by the age of 4?",
+      "options": [
+        "Umbilical hernia.",
+        "Patent urachus.",
+        "Patent omphalo-mesenteric duct.",
+        "Omphalocele."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Congenital umbilical hernias in infants have a high rate of spontaneous closure as the rectus muscles grow and the ring narrows, usually by age 3-4.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Umbilical Hernia"
+    },
+    {
+      "id": 8258,
+      "question": "Taxis:",
+      "options": [
+        "Begins with distal traction on the hernia sac.",
+        "Refers to the method of securing mesh to the inguinal ligament.",
+        "Shouldn't be reported > 5 times.",
+        "Are easier to get in Houston than New York."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Taxis is manual reduction of hernia. It starts with traction on the sac to align contents. Contraindicated in strangulation.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Management"
+    },
+    {
+      "id": 8259,
+      "question": "The following statement about the repair of inguinal hernias are true Except:",
+      "options": [
+        "The conjugated tendon is sutured to Cooper's ligament in the Bassini's hernia repair.",
+        "The Mc Vay repair is a suitable option for repair of femoral hernias.",
+        "The Shouldice repair involves a multi-layer, imbricated repair of the floor of the inguinal canal.",
+        "Lichtenstein repair uses prosthetic mesh in tension-free manner.",
+        "The laparoscopic TAPP repair is based on pre-peritonial repairs."
+      ],
+      "correct_option_id": 0,
+      "explanation": "False. In Bassini repair, the conjoint tendon is sutured to the Inguinal Ligament, not Cooper's ligament. (McVay uses Cooper's).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Management"
+    },
+    {
+      "id": 8260,
+      "question": "The following statement(s) is/are true concerning umbilical hernias in adults:",
+      "options": [
+        "Most umbilical hernias in adults are the result of a congenital defect carried into adulthood.",
+        "A para-umbilical hernia typically occurs in multiparous females.",
+        "The presence of ascites is a contraindication to elective umbilical hernia repair.",
+        "Incarceration is uncommon with umbilical hernias."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Adult umbilical hernias (para-umbilical) are acquired defects often associated with increased intra-abdominal pressure conditions like pregnancy and obesity, making them common in multiparous women.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Umbilical Hernia"
+    },
+    {
+      "id": 8261,
+      "question": "The overall ratio of indirect to direct inguinal hernia is:",
+      "options": [
+        "2:1 (indirect : direct)",
+        "1:1 (indirect : direct)",
+        "1:2 (indirect : direct)",
+        "1:3 (indirect : direct)"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Indirect inguinal hernias are the most common type of hernia overall and occur more frequently than direct hernias, with a ratio of approximately 2:1.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Epidemiology"
+    },
+    {
+      "id": 8262,
+      "question": "The spermatic cord contains all of the following Except:",
+      "options": [
+        "Autonomic nerve fibres.",
+        "Genital nerve.",
+        "Lymphatics.",
+        "Testicular artery.",
+        "Ilio-inguinal nerve"
+      ],
+      "correct_option_id": 4,
+      "explanation": "The ilioinguinal nerve runs on the anterior surface of  spermatic cord in inguinal canal, Not a content *inside*  spermatic cord. The genital branch of the genitofemoral nerve is inside.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Anatomy"
+    },
+    {
+      "id": 8263,
+      "question": "When a sliding hernia is present in the right groin, the most common finding is:",
+      "options": [
+        "A loop of ileum fixed in the sac by adhesions.",
+        "A loop of ileum that makes up part of the posterior wall of the sac.",
+        "A loop of ileum that makes up the anterior wall of the sac.",
+        "The cecum that makes up the posterior wall of the sac."
+      ],
+      "correct_option_id": 3,
+      "explanation": "On the right side, the cecum is the most common retroperitoneal structure involved in a sliding hernia, typically forming the posterior wall of the sac.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Sliding Hernia"
+    },
+    {
+      "id": 8264,
+      "question": "Which of the following anatomic structures contributes to the formation of a femoral hernia:",
+      "options": [
+        "Fossa ovalis.",
+        "Femoral vein.",
+        "Superior pubic ramus.",
+        "Llio-pubic tract."
+      ],
+      "correct_option_id": 3,
+      "explanation": "The iliopubic tract forms a key part of the anterior boundary of the femoral ring/canal (deep to the inguinal ligament), contributing to the orifice through which femoral hernias protrude.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Anatomy"
+    },
+    {
+      "id": 8265,
+      "question": "Which of the following statement(s) is/are concerning the diagnosis and management of epigastric hernias?",
+      "options": [
+        "A large peritoneal sac containing abdominal viscera is common.",
+        "At the time of surgical repair, a careful search for other defects should be performed.",
+        "Recurrent epigastric hernias after simple closure are un-common.",
+        "Patient with painful midline mass will contain incarcerated small bowel."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Epigastric hernias are often multiple (defects in the linea alba). Therefore, checking for additional defects during repair is crucial to prevent 'recurrence' from missed hernias.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Ventral Hernia"
+    },
+    {
+      "id": 8266,
+      "question": "Injury of the ilio-inguinal nerve during hernia repair can cause:",
+      "options": [
+        "Direct hernia due to paralysis of conjoint tendon.",
+        "Loss of erectile function.",
+        "Numbness of the scrotum & medial aspect of the upper thigh.",
+        "Testicular atrophy",
+        "Testicular dragging pain"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Ilioinguinal nerve supplies sensation to skin of root of penis, anterior scrotum or labia majora, medial aspect of the upper thigh. Injury causes numbness/neuralgia in its distribution.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Complications"
+    },
+    {
+      "id": 8267,
+      "question": "Richter's hernia is a type of hernia with:",
+      "options": [
+        "Omentum in the sac",
+        "Two sacs are present",
+        "Two loop of the bowel in the sac",
+        "Portion of the circumference of the intestine in the sac",
+        "Portion of the urinary bladder in the sac"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Richter's hernia involves only a portion of the anti-mesenteric circumference of the bowel wall becoming incarcerated. This can lead to strangulation/gangrene without complete intestinal obstruction.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Terminology"
+    },
+    {
+      "id": 8268,
+      "question": "The commonest hernia type that can be seen strangulated is:",
+      "options": [
+        "Femoral",
+        "Incisional",
+        "Inguinal",
+        "Lumber hernia",
+        "Para-umbilical"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Inguinal hernias are so prevalent that they account for the highest absolute number of strangulated cases, despite femoral having a higher rate.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Epidemiology"
+    },
+    {
+      "id": 8269,
+      "question": "About the internal ring test, all are true EXCEPT:",
+      "options": [
+        "Can differentiate between indirect, direct & femoral hernia.",
+        "Not usually done.",
+        "Oblique hernia does not come out EXCEPT after thumb release.",
+        "The test starts by asking the patient to reduce hernia."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Internal ring test differentiates Indirect vs Direct. It does NOT reliably distinguish Femoral hernias.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Clinical Examination"
+    },
+    {
+      "id": 8270,
+      "question": "All of the following is True about the clinical picture of the oblique hernia EXCEPT:",
+      "options": [
+        "The swelling increase in size with cough.",
+        "Giving gurgling sensation during reduction.",
+        "Can reach the scrotum.",
+        "Direction of the reduction is backward."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Indirect (oblique) hernias reduce Up/Lateral/Backward. Reduction straight Backward is characteristic of Direct hernia.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Clinical Examination"
+    },
+    {
+      "id": 8271,
+      "question": "All the following are True when the sac content in Omentum, EXCEPT:",
+      "options": [
+        "Doughy in consistency.",
+        "Gives No gurgling sensation.",
+        "Dull on percussion.",
+        "Reduced by difficulty in Beginning."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Omentum reduces gradually (doughy). 'Reduced with difficulty in the beginning' (slipping back suddenly with gurgling) is characteristic of INTESTINE.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Clinical Examination"
+    },
+    {
+      "id": 8272,
+      "question": "Any of the following can be a complication of the hernia EXCEPT:",
+      "options": [
+        "Bleeding.",
+        "Strangulation.",
+        "Obstruction.",
+        "Rupture due to massive trauma."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Bleeding is not a complication of the natural history of a hernia (unless operative injury occurs). Strangulation, Obstruction, and Inflammation/Rupture are recognized complications.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Complications"
+    },
+    {
+      "id": 8273,
+      "question": "Boundaries of the Hasselbach's triangle are:",
+      "options": [
+        "Inferior epigastric a. Medially & conjoint tendon laterally.",
+        "Lateral border of rectus muscle medially & inferior epigastric a laterally.",
+        "Ilio-inguinal Nerve laterally & inguinal ligament medially.",
+        "ASIS laterally & pubic tubercle medially."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Hesselbach's triangle is bounded Medially by the lateral border of the Rectus Abdominis, Laterally by the Inferior Epigastric vessels, and Inferiorly by the Inguinal Ligament.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Anatomy"
+    },
+    {
+      "id": 8274,
+      "question": "During the hernial repair, all the following are WRONG , EXCEPT:",
+      "options": [
+        "Viable intestine is returned back to the abdomen.",
+        "The Omentum never to be excised.",
+        "The mesh should be applied to cover the cord.",
+        "Herniorrhaphy should be performed with good tension."
+      ],
+      "correct_option_id": 0,
+      "explanation": "This question asks for the TRUE statement. Viable intestine must be returned to the abdomen. Omentum can be excised. Mesh is placed under the cord (Lichtenstein). Repairs should be tension-free.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Management"
+    },
+    {
+      "id": 8275,
+      "question": "Following organs can be found within the hernia sac EXCEPT:",
+      "options": [
+        "Colon.",
+        "Ovary.",
+        "Urinary Bladder.",
+        "Prostate."
+      ],
+      "correct_option_id": 3,
+      "explanation": "The prostate is a sub-peritoneal/extra-peritoneal pelvic organ firmly fixed in the pelvis and does not herniate. Bladder and Colon (sliding) and Ovary (in children) can herniate.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Pathology"
+    },
+    {
+      "id": 8276,
+      "question": "Hernial sac can be identified by all of the following EXCEPT:",
+      "options": [
+        "Opaque.",
+        "Pearly white in color.",
+        "Containing the vas difference & spermatic a.",
+        "Has defined edges."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Vas deferens and vessels are structures of the cord (outside or attached to sac), not identifying features of the sac tissue itself.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Operative Surgery"
+    },
+    {
+      "id": 8277,
+      "question": "Herniorrhaphy has the following characters EXCEPT:",
+      "options": [
+        "Repair of the hernia by absorbable sutures.",
+        "Should not be performed under tension.",
+        "Indication in large hernias & good muscular in elderly.",
+        "Bassini repair is one of its techniques."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Herniorrhaphy (tissue repair) requires NON-absorbable sutures (e.g., Silk, Prolene) to provide permanent support. Absorbable sutures would lose strength and lead to recurrence.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Management"
+    },
+    {
+      "id": 8278,
+      "question": "Indirect (=oblique) inguinal hernia:",
+      "options": [
+        "Directed forward.",
+        "Occur in old age.",
+        "Can occur in any age & bilateral in 30 % of cases.",
+        "Commonly irreducible."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Indirect hernias are congenital (patent processus vaginalis), so they can present at any age (infancy to adulthood) and are frequently bilateral. Direct hernias are acquired disorders of old age.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Epidemiology"
+    },
+    {
+      "id": 8279,
+      "question": "Irreducible hernia can be presented by any of the following, EXCEPT:",
+      "options": [
+        "Not tense.",
+        "Not tender.",
+        "No sign of I.O.",
+        "Lost impulse on cough."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Simple irreducible hernias often retain some impulse. 'Lost impulse on cough' is the hallmark of *Strangulation*.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Clinical Examination"
+    },
+    {
+      "id": 8280,
+      "question": "Regarding the anatomy of the inguinal canal, which of the following are true?",
+      "options": [
+        "In infants the internal and external rings are almost superimposed.",
+        "The inferior epigastric vessels lie posterior and lateral to the internal ring.",
+        "The inguinal canal is about 10 cm long and is directed downwards, medially and forwards.",
+        "The internal ring is a U-shaped opening in the external oblique aponeurosis."
+      ],
+      "correct_option_id": 0,
+      "explanation": "In infants, the inguinal canal is very short, so rings are superimposed.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Anatomy"
+    },
+    {
+      "id": 8281,
+      "question": "Regarding the direct hernia, all the following are true EXCEPT:",
+      "options": [
+        "Neck of the sac is Medical to the inferior epigastric a.",
+        "The sac is within the cord including its contents.",
+        "Usually accuse in elderly and > 50 % is bilateral.",
+        "Un-commonly complicated."
+      ],
+      "correct_option_id": 1,
+      "explanation": "A direct hernia bulges through the posterior wall of the inguinal canal *behind* the spermatic cord. It is separate from the cord structures, unlike an indirect hernia which is *within* the cord.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Inguinal Hernia"
+    },
+    {
+      "id": 8282,
+      "question": "Regarding the external ring, all are true EXCEPT:",
+      "options": [
+        "1/2 inch above Mid inguinal point.",
+        "Named also as (superficial ring).",
+        "Slit in the external oblique aponeurosis.",
+        "It is not involved in the direct hernia."
+      ],
+      "correct_option_id": 0,
+      "explanation": "The External (Superficial) Ring is located just above and lateral to the *pubic tubercle*. The structure located 1/2 inch above the mid-inguinal point is the *Internal* (Deep) Ring.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Anatomy"
+    },
+    {
+      "id": 8283,
+      "question": "Strangulation hernia can be presented by:",
+      "options": [
+        "Lost expansible cough, tenderness tension & irreducibly.",
+        "Tenderness with intact impulse or cough.",
+        "No tension.",
+        "Hydrocele of hernia sac."
+      ],
+      "correct_option_id": 0,
+      "explanation": "The classic clinical tetrad for strangulation is: Irreducibility, Tenderness, Tension (hard mass), and Loss of expansile impulse on cough.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Clinical Examination"
+    },
+    {
+      "id": 8284,
+      "question": "The following are causes of acquired hernia EXCEPT:",
+      "options": [
+        "Cough.",
+        "Unobliterated processes vaginalis.",
+        "Pregnancy.",
+        "Ascites."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Unobliterated processus vaginalis is a congenital defect. Others are causes of acquired hernia (pressure).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Etiology"
+    },
+    {
+      "id": 8285,
+      "question": "The following are True about the inguinal canal EXCEPT:",
+      "options": [
+        "It is a 4 cm tunnel in the lower abdominal muscles.",
+        "It contains spermatic cord in Meals & Round ligament in female.",
+        "The floor is formed by the inguinal ligament & the roof is formed by conjoint tendon.",
+        "Boundaries include external oblique muscle posterior & fascia transversalis anteriorly."
+      ],
+      "correct_option_id": 3,
+      "explanation": "This is false. The *Anterior* wall is formed mainly by the External Oblique aponeurosis. The *Posterior* wall is formed by the Fascia Transversalis.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Anatomy"
+    },
+    {
+      "id": 8286,
+      "question": "The most common type of hernia liable for strangulation is:",
+      "options": [
+        "Incisional.",
+        "Para-umbilical.",
+        "Femoral.",
+        "Direct."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Femoral hernias have a small, rigid ring (femoral ring), making them the most prone to strangulation compared to other types.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Complications"
+    },
+    {
+      "id": 8287,
+      "question": "The ONLY cause of last expansile impulses on cough during hernia examination is:",
+      "options": [
+        "Irreducible hernia.",
+        "Obstructed hernia.",
+        "Strangulated hernia.",
+        "Retrosternal goiter."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Complete loss of expansile impulse is a specific sign of strangulation, indicating that the hernial neck is tightly constricted, preventing pressure transmission.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Clinical Examination"
+    },
+    {
+      "id": 8288,
+      "question": "The pathological sequence of the strangulated hernia includes all of the following EXCEPT:",
+      "options": [
+        "Impeded venous return.",
+        "Intestinal Obstruction.",
+        "Impaired arterial blood flow.",
+        "Gangrene."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Strangulation sequence is Vascular: Venous occlusion -> Edema -> Arterial occlusion -> Gangrene. Obstruction is a clinical result, not the ischemic process.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Pathology"
+    },
+    {
+      "id": 8289,
+      "question": "The synthetic material used in hernioplasty is:",
+      "options": [
+        "Proline mesh.",
+        "Vicarly mesh.",
+        "Double faced mesh.",
+        "Silk mesh."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Prolene (Polypropylene) mesh is the standard non-absorbable synthetic mesh used for tension-free hernia repair. Vicryl is absorbable and Silk is a suture.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Management"
+    },
+    {
+      "id": 8290,
+      "question": "Which of the following are causes of umbilical discharge?",
+      "options": [
+        "Persistent Vitello intestinal duct.",
+        "Persistent urachus.",
+        "Pilonidal sinus.",
+        "Omphalitis.",
+        "All of the above."
+      ],
+      "correct_option_id": 4,
+      "explanation": "Umbilical discharge can result from congenital remnants (urine from urachus, feces from vitello-intestinal duct) or acquired infections (omphalitis, pilonidal sinus).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Umbilical Disorders"
+    },
+    {
+      "id": 8291,
+      "question": "Which of the following are more common in multiparous women?",
+      "options": [
+        "Indirect inguinal hernia.",
+        "Lumbar hernia.",
+        "Umbilical.",
+        "Direct inguinal hernia."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Para-umbilical hernias are strongly associated with multiparity and obesity due to stretching of the linea alba and increased intra-abdominal pressure.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Epidemiology"
+    },
+    {
+      "id": 8292,
+      "question": "Which of the following are true about a sliding inguinal hernia?",
+      "options": [
+        "It is common in men.",
+        "It should be suspected clinically in small hernias confined to the inguinal canal.",
+        "It is more common in the young patient.",
+        "It is impossible to control with a truss, and hence an operation is indicated."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Sliding hernias (containing viscera like colon in the wall) cannot be safely reduced or held by a truss. Surgery is indicated. They are typically large hernias in older patients.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Sliding Hernia"
+    },
+    {
+      "id": 8293,
+      "question": "Which of the following are true regarding burst abdomens?",
+      "options": [
+        "The incidence is around 10–15 per cent.",
+        "Midline and vertical incisions are more likely to burst than transverse incisions.",
+        "Catgut is associated with a lower risk of burst abdomen.",
+        "Most cases are managed conservatively."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Vertical incisions run perpendicular to the lines of tension in the abdominal wall, making them more prone to dehiscence (burst abdomen) compared to transverse incisions.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Complications"
+    },
+    {
+      "id": 8294,
+      "question": "Which of the following is false about a sliding inguinal hernia?",
+      "options": [
+        "It is far more common in men.",
+        "It should be suspected clinically in small hernias confined to the inguinal canal.",
+        "It is impossible to control with a truss, and hence an operation is indicated.",
+        "It is unnecessary to excise the sac and attempts to dissect the bowel wall can be dangerous."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Sliding hernias are typically large, chronic hernias, not small ones. Suspecting them in 'small hernias' is incorrect. They involve the bowel wall, so dissecting it is indeed dangerous.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Sliding Hernia"
+    },
+    {
+      "id": 8295,
+      "question": "Which of the following is not a complication of an inguinal hernia?",
+      "options": [
+        "Irreducibility.",
+        "Inflammation.",
+        "Strangulation.",
+        "Obstruction.",
+        "Bleeding."
+      ],
+      "correct_option_id": 4,
+      "explanation": "Bleeding is not a complication of the hernia condition itself (unlike obstruction or strangulation). It is a potential operative complication.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Complications"
+    },
+    {
+      "id": 8296,
+      "question": "Which of the following is not a predisposing factor for a hernia?",
+      "options": [
+        "Chronic obstructive pulmonary disease.",
+        "Obesity.",
+        "Urinary stones.",
+        "Pregnancy.",
+        "Peritoneal dialysis."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Urinary stones cause pain. Chronic straining (e.g., BPH) causes hernias.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Etiology"
+    },
+    {
+      "id": 8297,
+      "question": "Which of the following is not true in relation to strangulated hernias?",
+      "options": [
+        "They present with local and then generalized abdominal pain and vomiting.",
+        "A normal hernia can strangulate at any time.",
+        "This is more common in femoral hernia.",
+        "They can be reliably excluded in irreducible hernias on clinical examination.",
+        "They require urgent surgery."
+      ],
+      "correct_option_id": 3,
+      "explanation": "It is difficult to reliably exclude early strangulation in irreducible hernias clinically. Urgent care is needed.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Complications"
+    },
+    {
+      "id": 8298,
+      "question": "Which of the following statement regarding a femoral hernia are true?",
+      "options": [
+        "The femoral canal occupies the most lateral component of the femoral sheath.",
+        "It can be easily controlled by truss.",
+        "Strangulation is the initial presentation in 40 per cent of patients.",
+        "An operation is only occasionally required."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Strangulation is a very common initial presentation due to the tight ring. (Note: Model answer D is incorrect; operation is always required).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Femoral Hernia"
+    },
+    {
+      "id": 8299,
+      "question": "Which of the following statements are true regarding umbilical hernia?",
+      "options": [
+        "Men are affected more frequently than women.",
+        "Irreducibility is common due to omental adhesions.",
+        "Mayo's operation involves mesh repair of the hernia.",
+        "Infantile umbilical hernias need immediate surgery."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Irreducibility is common (B). If Model Answer is C, it may refer to a modified mesh Mayo, but B is clinically accurate.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Umbilical Hernia"
+    },
+    {
+      "id": 8300,
+      "question": "Which of the following statements is true regarding umbilical hernia?",
+      "options": [
+        "The umbilical hernia in an infant via umbilical cicatrix but is usually paraumbilical in adults.",
+        "Men are affected more frequently than women.",
+        "Mayo's operation involves mesh repair of the hernia.",
+        "Infantile umbilical hernias need immediate surgery."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Infant hernias are true umbilical (through ring). Adult 'umbilical' hernias are usually paraumbilical (linea alba defect).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Umbilical Hernia"
+    },
+    {
+      "id": 8301,
+      "question": "Which of the following statements regarding a femoral hernia is true?",
+      "options": [
+        "It is more common in women.",
+        "The femoral canal occupies the most lateral component of the femoral sheath.",
+        "It can be easily controlled by truss.",
+        "An operation is only occasionally required."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Femoral hernias are much more common in women than in men (due to wider pelvis/canal), although inguinal hernias are still the most common hernia in women overall.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Femoral Hernia"
+    },
+    {
+      "id": 8302,
+      "question": "All of the following are causes of hernia irreducibility, the commonest is:",
+      "options": [
+        "Omental content",
+        "Adhesions",
+        "Overcrowding",
+        "Narrow neck"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Adhesions between the contents (omentum/bowel) and the sac wall are the most common cause of irreducibility.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Complications"
+    },
+    {
+      "id": 8303,
+      "question": "Appendecectomy may be complicated by which type of hernia:",
+      "options": [
+        "Indirect inguinal hernia",
+        "Direct inguinal hernia",
+        "Femoral hernia",
+        "Paraumbilical hernia"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Injury to the iliohypogastric nerve during a gridiron incision for appendectomy can weaken the conjoint tendon mechanism, predisposing to a right-sided direct inguinal hernia.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Complications"
+    },
+    {
+      "id": 8304,
+      "question": "As regards clinical picture of hernia:",
+      "options": [
+        "Scar at site of hernia has no medical importance",
+        "Irreducibility predisposes to complications",
+        "Hernia is always painful",
+        "All of the above."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Irreducibility (incarceration) is the primary risk factor for progression to obstruction and strangulation.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Clinical Examination"
+    },
+    {
+      "id": 8305,
+      "question": "As regards obturator hernia all are correct except:",
+      "options": [
+        "More common in females",
+        "Lower limb movement induces pain",
+        "In complicated cases pain is referred to knee",
+        "All are true"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Obturator hernia is common in elderly females and causes pain on hip movement referred to the knee (Howship-Romberg sign). So All are true",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Rare Hernias"
+    },
+    {
+      "id": 8306,
+      "question": "Direct hernia:",
+      "options": [
+        "Passes through the internal ring",
+        "Passes through the external ring",
+        "Usually descends to scrotum",
+        "Is more common than the indirect one"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Direct hernias bulge through Hesselbach's triangle and emerge through the superficial (external) inguinal ring, but they do NOT pass through the deep (internal) ring.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Inguinal Hernia"
+    },
+    {
+      "id": 8307,
+      "question": "Exomphalos refers to:",
+      "options": [
+        "Congenital inguinal hernia",
+        "Femoral hernia",
+        "Congenital umbilical hernia",
+        "None of the above"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Exomphalos (or Omphalocele) is a congenital defect of the abdominal wall at the umbilicus where viscera protrude covered by a membrane.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Congenital"
+    },
+    {
+      "id": 8308,
+      "question": "Sliding hernia:",
+      "options": [
+        "May contain part of bladder wall",
+        "Causes partial irreducibility",
+        "Predisposes to complications",
+        "All of the above"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Sliding hernias involve a retroperitoneal organ (bladder, cecum, sigmoid) forming part of the sac wall, leading to irreducibility and risk of injury during repair.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Sliding Hernia"
+    },
+    {
+      "id": 8309,
+      "question": "Subtypes of femoral hernia do not include:",
+      "options": [
+        "Laugier hernia",
+        "Spigelian hernia",
+        "Cloquet hernia",
+        "None of the above"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Spigelian hernia is a lateral ventral hernia through the linea semilunaris, unrelated to the femoral canal.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Femoral Hernia"
+    },
+    {
+      "id": 8310,
+      "question": "The commonest complicated hernia is:",
+      "options": [
+        "Femoral",
+        "Inguinal",
+        "Lumbar",
+        "Epigastric"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Inguinal hernia is the most common overall, so it presents as complicated most frequently in absolute numbers.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Epidemiology"
+    },
+    {
+      "id": 8311,
+      "question": "The differential diagnosis of an inguinoscrotal swelling includes all of the following except:",
+      "options": [
+        "Oblique inguinal hernia",
+        "Hydrocele of a hernial sac",
+        "Buboncele",
+        "Lipoma of the cord"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Buboncele is an inguinal hernia contained within the canal; it does not reach the scrotum.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Differential Diagnosis"
+    },
+    {
+      "id": 8312,
+      "question": "The following hernia is the most liable to strangulation:",
+      "options": [
+        "Femoral hernia",
+        "Inguinal hernia",
+        "Umbilical hernia",
+        "Incisional hernia"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Femoral hernias have the highest probability of strangulation due to the rigid and narrow femoral ring.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Complications"
+    },
+    {
+      "id": 8313,
+      "question": "The following organ cannot herniate:",
+      "options": [
+        "Bladder",
+        "Pancreas",
+        "Caecum",
+        "All of the above"
+      ],
+      "correct_option_id": 1,
+      "explanation": "The pancreas is a fixed retroperitoneal organ and does not herniate (except very rarely the tail in massive diaphragmatic hernias, but not inguinal). Bladder and Caecum can slide.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Pathology"
+    },
+    {
+      "id": 8314,
+      "question": "The most serious complication of hernia is:",
+      "options": [
+        "Inflammation",
+        "Obstruction",
+        "Strangulation"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Strangulation leads to ischemia, gangrene, and perforation of the bowel, carrying a high mortality risk.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Complications"
+    },
+    {
+      "id": 8315,
+      "question": "The structure that lies between the two components of pantaloon hernia is:",
+      "options": [
+        "Spermatic cord",
+        "Conjoint tendon",
+        "Femoral artery",
+        "Inferior epigastric artery"
+      ],
+      "correct_option_id": 3,
+      "explanation": "A pantaloon (saddlebag) hernia consists of a direct sac (medial) and an indirect sac (lateral) separated by the Inferior Epigastric Artery.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Inguinal Hernia"
+    },
+    {
+      "id": 8316,
+      "question": "The treatment of choice in strangulated hernia is:",
+      "options": [
+        "R & M",
+        "Urgent exploration is the rule",
+        "Reduction by taxis must be tried first",
+        "A & B"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Management involves Resuscitation (R&M) followed by Urgent Surgical Exploration. Taxis is contraindicated in strangulation.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Management"
+    },
+    {
+      "id": 8317,
+      "question": "Ventral hernia is the:",
+      "options": [
+        "Femoral hernia",
+        "Inguinal hernia",
+        "Internal hernia",
+        "Incisional hernia"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Ventral hernias occur on the anterior abdominal wall. Incisional hernia is a major subtype of ventral hernia. Inguinal/Femoral are groin hernias.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Hernia",
+      "chapter": "Ventral Hernia"
+    }
+  ]
+}

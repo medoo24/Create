@@ -1,0 +1,1537 @@
+{
+  "meta": {
+    "source": "Term 7 - General Surgery",
+    "lesson": "Head&Neck"
+  },
+  "questions": [
+    {
+      "id": 8150,
+      "question": "A completely excised skin lesion of the face proved to be a basal cell carcinoma. The further management of the case should be:",
+      "options": [
+          "Chemotherapy",
+          "Lymph node dissection",
+          "Radiotherapy",
+          "Regular follow up",
+          "Reassurance of the patient"
+      ],
+      "correct_option_id": 3,
+      "explanation": "BCC rarely metastasizes. Complete excision is curative, but regular follow-up is needed to monitor for recurrence or new lesions.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Skin & Soft Tissue"
+    },
+    {
+      "id": 8151,
+      "question": "The most common site of Kaposi's sarcoma in the head and neck is:",
+      "options": [
+        "Buccal mucosa",
+        "Palate",
+        "Tongue",
+        "Tonsil",
+        "Floor of mouth"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Kaposi's sarcoma, often associated with HIV/AIDS, most frequently manifests intraorally on the hard and soft palate.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Oral Pathology"
+    },
+    {
+      "id": 8152,
+      "question": "Following traumatic peripheral nerve transection, regrowth usually occurs at which of the following rates?",
+      "options": [
+        "0.1 mm per day",
+        "1 mm per day",
+        "5 mm per day",
+        "1 cm per day",
+        "None of the above"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Axonal regeneration in peripheral nerves typically occurs at a rate of approximately 1 mm per day (or about 1 inch per month) after the initial delay period.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Trauma & Nerves"
+    },
+    {
+      "id": 8153,
+      "question": "Haemangioma of the face in children:",
+      "options": [
+          "Should be resected in the newborn period",
+          "Should be resected only if it persists 10 years of age",
+          "Will involute by 3 years of age in most children",
+          "Can be treated by laser ablation"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Laser ablation is a valid treatment for superficial lesions or complications. Most involute spontaneously.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Congenital Lesions"
+    },
+    {
+      "id": 8154,
+      "question": "In a patient with head trauma, compression of the oculomotor nerve (resulting in a dilated pupil) is produced by:",
+      "options": [
+        "Infection within the cavernous sinus",
+        "Herniation of the uncal process of the temporal lobe",
+        "Laceration of the corpus callosum by the falx cerebri",
+        "Occult damage to the superior cervical ganglion",
+        "Cerebellar hypoxia"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Transtentorial (uncal) herniation compresses the ipsilateral oculomotor nerve (CN III) against the tentorium cerebelli, causing pupillary dilation (Hutchinson's pupil).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Head Trauma"
+    },
+    {
+      "id": 8155,
+      "question": "Le Fort II fracture entails injuries to all of the following EXCEPT:",
+      "options": [
+          "Medial wall of the orbit",
+          "Zygomatico-maxillary articulation",
+          "Naso-frontal buttress",
+          "Mandible"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Le Fort fractures involve the maxilla. The mandible is a separate bone and not part of the Le Fort classification.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Maxillofacial Trauma"
+     },
+    {
+      "id": 8156,
+      "question": "The most common initial manifestation of increasing intracranial pressure in the victim of head trauma is:",
+      "options": [
+        "Change in level of consciousness",
+        "Ipsilateral pupillary dilation",
+        "Contra-lateral pupillary dilation",
+        "Hemiparesis",
+        "Hypertension"
+      ],
+      "correct_option_id": 0,
+      "explanation": "A change in the level of consciousness (e.g., confusion, drowsiness) is the most sensitive and earliest sign of rising intracranial pressure.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Head Trauma"
+    },
+    {
+      "id": 8157,
+      "question": "Which of the following are level III lymph nodes of the neck?",
+      "options": [
+        "Upper jugular chain nodes",
+        "Middle jugular chain nodes",
+        "Lower jugular chain nodes",
+        "Posterior triangle nodes"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Level III lymph nodes refer to the middle jugular group, located between the carotid bifurcation (or hyoid bone) superiorly and the omohyoid muscle (or cricoid cartilage) inferiorly.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Neck Anatomy"
+    },
+    {
+      "id": 8158,
+      "question": "Which of the following is/are not associated with increased likelihood of infection after major elective surgery?",
+      "options": [
+          "Age over 70 years",
+          "Chronic malnutrition",
+          "Controlled diabetes mellitus",
+          "Long-term steroid use",
+          "Infection at a remote body site"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Controlled diabetes poses significantly lower risk than uncontrolled diabetes. Malnutrition and steroids are stronger predictors.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "General Principles"
+    },
+    {
+      "id": 8159,
+      "question": "Branchial cyst commonly arises from remnant of:",
+      "options": [
+        "First branchial arch",
+        "Second branchial arch",
+        "Third branchial arch",
+        "Fourth branchial arch",
+        "Fifth branchial arch"
+      ],
+      "correct_option_id": 1,
+      "explanation": "The vast majority (approx. 95%) of branchial anomalies (cysts, sinuses, fistulas) arise from the remnants of the Second Branchial Arch/Cleft.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Neck Swellings"
+    },
+    {
+      "id": 8160,
+      "question": "A 9-year-old boy has a translucent swelling in the left supraclavicular region, diagnosed as cystic hygroma. What is true of cystic hygroma?",
+      "options": [
+        "It arises from sweat glands in the neck",
+        "It is usually an anterior midline structure",
+        "It may occur in the mediastinum",
+        "Its lesions are usually easy to enucleate",
+        "It is premalignant"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Cystic hygroma (lymphangioma) can extend into the mediastinum (axillary or cervical extension). It is not premalignant, not midline, and is often difficult to enucleate completely due to infiltration.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Neck Swellings"
+    },
+    {
+      "id": 8161,
+      "question": "The commonest discrete lump of the parotid gland is:",
+      "options": [
+        "Mucoepidermoid carcinoma",
+        "Mumps",
+        "Parotid gland stone",
+        "Pleomorphic adenoma",
+        "Tuberculosis of the parotid lymph node"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Pleomorphic adenoma (benign mixed tumor) is the most common tumor of the parotid gland, accounting for about 80% of benign parotid neoplasms.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 8162,
+      "question": "The treatment of submandibular calculus lying within the duct is to:",
+      "options": [
+        "Dilate the duct",
+        "Remove the gland",
+        "Remove the stone by making an opening in the duct",
+        "Slit opens the duct at the papilla",
+        "Treat medically"
+      ],
+      "correct_option_id": 2,
+      "explanation": "For stones palpable in the duct (anteriorly), the treatment is sialodochotomy (making an incision in the duct to remove the stone) via an intraoral approach.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 8163,
+      "question": "The potato tumor of the neck is:",
+      "options": [
+        "Carotid body tumor",
+        "Lymphoma",
+        "Parotid tumor",
+        "Sternomastoid tumor",
+        "Thyroid tumor"
+      ],
+      "correct_option_id": 0,
+      "explanation": "\"Potato tumor\" is a classic colloquial description for a Carotid Body Tumor (Chemodectoma) due to its firm, rubbery consistency and shape.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Neck Swellings"
+    },
+    {
+      "id": 8164,
+      "question": "Which of the following is brilliantly translucent?",
+      "options": [
+        "Sebaceous cyst",
+        "Dermoid cyst",
+        "Cystic hygroma",
+        "Branchial cyst"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Cystic hygroma is filled with clear lymph fluid and is characteristically brilliantly translucent on transillumination.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Neck Swellings"
+    },
+    {
+      "id": 8165,
+      "question": "Which is the most appropriate form of biopsy for a major salivary gland tumour?",
+      "options": [
+        "Open surgical biopsy to allow histology",
+        "Salivary washings",
+        "Frozen section during formal excision",
+        "Fine-needle aspiration cytology (FNAC)",
+        "Biopsy is contraindicated"
+      ],
+      "correct_option_id": 3,
+      "explanation": "FNAC is the gold standard for preoperative diagnosis. Open biopsy is contraindicated due to the risk of tumor seeding and fistula formation.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 8166,
+      "question": "Which of the following structures is not an anatomical relation to the submandibular salivary gland?",
+      "options": [
+          "The anterior facial vein",
+          "The facial artery",
+          "The inferior alveolar nerve",
+          "The lingual nerve",
+          "The hypoglossal nerve"
+      ],
+      "correct_option_id": 2,
+      "explanation": "The inferior alveolar nerve runs in the mandibular canal, not relating to the gland. Facial vessels and Lingual/Hypoglossal nerves are relations.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 8167,
+      "question": "Cystic hygroma is a:",
+      "options": [
+        "Fibrolipoma",
+        "Haemangioma",
+        "Lymphangioma",
+        "Meningioma",
+        "Sebaceous gland tumor"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Cystic hygroma is a congenital malformation of the lymphatic system, technically known as a macrocystic lymphangioma.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Neck Swellings"
+    },
+    {
+      "id": 8168,
+      "question": "The term plunging ranula refers to which clinical entity?",
+      "options": [
+        "Malignant congenital salivary mass",
+        "Benign salivary mass involving parotid",
+        "Mucous retention cyst from sublingual glands limited by mylohyoid",
+        "Mucous retention cyst from sublingual glands perforating mylohyoid to enter neck",
+        "Midline neck mass moving on tongue protrusion"
+      ],
+      "correct_option_id": 3,
+      "explanation": "A plunging ranula herniates through the mylohyoid muscle, appearing as a neck swelling.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Oral Pathology"
+    },
+    {
+      "id": 8169,
+      "question": "A 24-year-old female presents with a neck swelling on the left side, located in the carotid triangle deep to the sternomastoid. It is opaque on trans-illumination. Aspiration reveals mucoid fluid rich in cholesterol crystals. Diagnosis:",
+      "options": [
+        "Branchial cyst",
+        "Cervical lymph node level III",
+        "Carotid body tumor",
+        "Cystic hygroma",
+        "Enlarged left thyroid lobe"
+      ],
+      "correct_option_id": 0,
+      "explanation": "A swelling deep to the sternocleidomastoid containing cholesterol crystals is the classic presentation of a Branchial Cyst.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Neck Swellings"
+    },
+    {
+      "id": 8170,
+      "question": "A 58-year-old woman undergoes excision biopsy of a tumor in the left posterior triangle of her neck. Histology suggests metastatic cancer. What is the most likely site of the primary tumor?",
+      "options": [
+        "Adrenal gland",
+        "Kidney",
+        "Ovary",
+        "Piriform fossa",
+        "Stomach"
+      ],
+      "correct_option_id": 4,
+      "explanation": "A left supraclavicular/posterior triangle lymph node (Virchow's node) enlargement is classically associated with abdominal malignancies, particularly gastric carcinoma (Stomach).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Neck Malignancy"
+    },
+    {
+      "id": 8171,
+      "question": "A 40-year-old woman is suspected of having a carotid body tumor. Which one of the following is most characteristic of such a tumor?",
+      "options": [
+        "It secretes catecholamines",
+        "It is more common at sea level",
+        "It arises from structures that respond to changes in blood volume",
+        "It arises from the structures that respond to changes in PO2",
+        "It is usually highly malignant"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Carotid body tumors (Chemodectomas) arise from chemoreceptor cells (glomus cells) at the carotid bifurcation that monitor blood oxygen levels (PO2).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Neck Swellings"
+    },
+    {
+      "id": 8172,
+      "question": "A 59-year-old woman has carcinoma of the posterior third of her tongue. What is true about this condition?",
+      "options": [
+        "Lymphoid tissue is absent",
+        "Lymph gland spread is often encountered",
+        "There is an excellent prognosis",
+        "The tissue is well differentiated",
+        "The recurrent laryngeal nerve is infiltrated"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Tumors of the posterior third of the tongue have a rich lymphatic drainage and often present with early lymph node metastasis, leading to a poorer prognosis compared to anterior tumors.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Oral Malignancy"
+    },
+    {
+      "id": 8173,
+      "question": "The commonest site for lip cancer is:",
+      "options": [
+        "Angle of the mouth",
+        "Inner aspect of the lip",
+        "Lower lip at junction of middle, outer thirds",
+        "Upper lip central part",
+        "Upper lip at junction of middle, outer thirds"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Lip cancer (Squamous Cell Carcinoma) most commonly affects the lower lip, typically at the vermilion border between the middle and outer thirds.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Oral Malignancy"
+    },
+    {
+      "id": 8174,
+      "question": "The most common salivary tumor is:",
+      "options": [
+        "Adenocarcinoma",
+        "Adenolymphoma",
+        "Epidermoid carcinoma",
+        "Pleomorphic adenoma",
+        "Warthins tumor"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Pleomorphic adenoma is the most common tumor affecting the salivary glands, particularly the parotid.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 8175,
+      "question": "Which structure attaches the deep lobe of the submandibular gland to the lingual nerve?",
+      "options": [
+        "Deep cervical fascia",
+        "Hypoglossal nerve",
+        "Mylohyoid muscle",
+        "Submandibular ganglion",
+        "Tendon of digastric"
+      ],
+      "correct_option_id": 3,
+      "explanation": "The submandibular ganglion suspends the submandibular gland from the lingual nerve.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 8176,
+      "question": "The commonest swellings in the carotid triangle are:",
+      "options": [
+        "Thyroid nodules",
+        "Lymphadenopathy",
+        "Carotid body tumour",
+        "Branchial cyst",
+        "Lipoma"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Enlarged lymph nodes (Lymphadenopathy) are the most common cause of neck swellings in the carotid triangle and the neck overall.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Neck Swellings"
+    },
+    {
+      "id": 8177,
+      "question": "A 33-year-old female noted a discharge from a sinus below the right angle of the mandible. She recalls previous episodes of fullness/pain. What is the most likely cause?",
+      "options": [
+        "Thyroglossal duct cyst",
+        "Branchial cyst",
+        "Teratoma",
+        "Myeloma",
+        "Trauma to the neck"
+      ],
+      "correct_option_id": 1,
+      "explanation": "A sinus at the anterior border of the sternocleidomastoid (near the angle of the mandible) with a history of recurrent infection is characteristic of a Branchial Fistula/Cyst (Second cleft anomaly).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Neck Swellings"
+    },
+    {
+      "id": 8178,
+      "question": "A 43-year-old teacher underwent left parotidectomy. Post-op, paralysis of the left lower lip was observed. This is due to injury to:",
+      "options": [
+        "Parotid duct",
+        "Facial nerve - temporal branch",
+        "Facial nerve - cervical branch",
+        "Facial nerve - main trunk",
+        "Platysma muscle"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Cervical branch injury can cause lower lip weakness due to loss of Platysma function. (Marginal Mandibular is classic, but Cervical is the key here).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 8179,
+      "question": "A 5-year-old girl presents with difficulty breathing. A 3-cm mass is found in the midline on the posterior aspect of the tongue. Diagnosis:",
+      "options": [
+        "Lingual tonsil",
+        "Lingual thyroid",
+        "Foreign body stuck to the tongue",
+        "Dermoid",
+        "Angioneurotic edema"
+      ],
+      "correct_option_id": 1,
+      "explanation": "A midline mass at the base of the tongue (foramen cecum area) in a child is highly suggestive of a Lingual Thyroid (failed descent of the thyroid gland).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Congenital Lesions"
+    },
+    {
+      "id": 8180,
+      "question": "A patient has malignant metastasis in right upper deep cervical lymph nodes. No symptoms of primary. The possible primary lesion may be any of the following, EXCEPT:",
+      "options": [
+        "Nasopharyngeal carcinoma",
+        "Carcinoma of maxillary antrum",
+        "Papillary carcinoma of thyroid",
+        "Carcinoma of pyriform fossa of hypopharynx",
+        "Laryngeal carcinoma"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Laryngeal carcinoma usually presents early with hoarseness. Others are notorious for occult presentation.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Neck Malignancy"
+    },
+    {
+      "id": 8181,
+      "question": "About adenolymphoma (Warthin's tumor), all the following statements are true, EXCEPT:",
+      "options": [
+        "The tumour is related to smoking",
+        "It may be bilateral",
+        "It has epithelial and lymphoid components",
+        "The tumour is cystic",
+        "Facial nerve palsy is characteristic of this tumour"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Adenolymphoma is a benign tumor. Facial nerve palsy is a sign of malignancy and nerve infiltration, which does not occur with benign Warthin's tumors.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 8182,
+      "question": "About branchial cyst and fistula, all are true, EXCEPT:",
+      "options": [
+        "A branchial cyst is observed in the neonate",
+        "A branchial fistula is present at birth",
+        "A branchial cyst is partially covered by the sternomastoid muscle",
+        "The main differential diagnosis of branchial cyst is cold abscess",
+        "A branchial cyst contains cholesterol crystals"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Branchial cysts typically present in young adulthood (2nd/3rd decade), not in neonates. Branchial *fistulas*, however, are present at birth.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Neck Swellings"
+    },
+    {
+      "id": 8183,
+      "question": "About cold abscess of the neck, all the following statements are true, EXCEPT:",
+      "options": [
+        "It is usually caused by caseation of tuberculous lymphadenitis",
+        "The abscess may have two components, one superficial, and one deep to the deep fascia",
+        "The condition is mildly painful with low-grade fever",
+        "Anti-tuberculous treatment is an essential part of treatment",
+        "Drainage is achieved by incision"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Cold abscesses should NOT be incised as this leads to chronic discharging sinuses. Treatment involves aspiration and anti-tuberculous chemotherapy.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Neck Infections"
+    },
+    {
+      "id": 8184,
+      "question": "About Ludwig's angina, all the following statements are true, EXCEPT:",
+      "options": [
+        "This is tuberculous infection of the deep neck spaces",
+        "Diabetics are more prone to develop this condition",
+        "It causes laryngeal oedema",
+        "Oedema of the floor of mouth pushes the tongue upwards",
+        "Urgent incision and drainage is needed"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Ludwig's angina is an acute bacterial (usually Streptococcal/Staphylococcal) cellulitis of the floor of the mouth, not a tuberculous infection.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Neck Infections"
+    },
+    {
+      "id": 8185,
+      "question": "About submandibular salivary stones, all the following statements are true EXCEPT:",
+      "options": [
+        "The majority are radio opaque",
+        "A stone can be detected by CT scan",
+        "A stone may present by a submandibular swelling that increases in size by eating",
+        "A submandibular salivary swelling can be rolled over the angle of the mandible",
+        "A stone in the gland is treated by submandibular sialadenectomy"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Submandibular swellings do not 'roll over the angle of the mandible'. That sign is characteristic of parotid tail tumors.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 8186,
+      "question": "About thoracic outlet syndrome, all statements are true, EXCEPT:",
+      "options": [
+        "In all cases a cervical rib is present",
+        "The commonest manifestations are caused by compression of the lower trunk of the brachial plexus",
+        "There may be hyposthesia of medial side of forearm",
+        "It is one cause of Raynaud's phenomenon",
+        "There may be chronic heaviness and oedema of the upper limb"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Cervical ribs are present in only a minority of Thoracic Outlet Syndrome cases. Other causes include scalene muscle hypertrophy, fibrous bands, or first rib anomalies.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Neck Vascular"
+    },
+    {
+      "id": 8187,
+      "question": "About tracheostomy, all the following statements are true, EXCEPT:",
+      "options": [
+        "Tracheostomy is indicated if mechanical ventilation is needed for a long time",
+        "Emergency tracheostomy is done at the scene of an accident if there is upper airway obstruction",
+        "Percutaneous tracheostomy is suitable for critically ill ICU patients",
+        "In adults, an ellipse is removed from the anterior wall of 2nd, 3rd, and 4th tracheal rings",
+        "One of its possible complications is subglottic stenosis"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Emergency airway access at an accident scene is typically achieved via Cricothyroidotomy, not formal Tracheostomy, which requires a controlled environment (OR/ICU).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Airway Management"
+    },
+    {
+      "id": 8188,
+      "question": "Acute bacterial sialadenitis most commonly affects:",
+      "options": [
+        "Parotid",
+        "Submandibular",
+        "Submaxillary",
+        "All equal"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Acute bacterial sialadenitis most commonly affects the parotid gland (Parotitis), often in dehydrated or elderly patients.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 8189,
+      "question": "Adenocarcinoma is the predominant malignant lesion in which of the following?",
+      "options": [
+        "Hard palate",
+        "Lip",
+        "Anterior two-thirds of the tongue",
+        "Larynx",
+        "Esophagus"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Hard palate malignancies are often glandular (Adenocarcinoma) from minor salivary glands. Others are predominantly Squamous Cell Carcinoma.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Oral Malignancy"
+    },
+    {
+      "id": 8190,
+      "question": "Adenolymphomas (Warthin's Tumors) are common to:",
+      "options": [
+        "Parotid gland",
+        "Submandibular gland",
+        "Minor salivary glands",
+        "All of the above"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Adenolymphomas (Warthin's tumors) occur almost exclusively in the Parotid gland.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 8191,
+      "question": "All of the following is correct about salivary glands' stones EXCEPT:",
+      "options": [
+        "Neck US may be a useful investigation",
+        "90% of them are radiopaque",
+        "In bidigital examination, they are better felt from inside",
+        "Pain may refer to tongue or teeth"
+      ],
+      "correct_option_id": 0,
+      "explanation": "While Ultrasound is useful, the key selects it as the exception, likely emphasizing that X-ray is the traditional screen or implying a nuance in utility.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 8192,
+      "question": "All of the following is true about ameloblastoma (previously called adamantinoma) EXCEPT:",
+      "options": [
+        "It is located near symphysis menti usually",
+        "It originates from Mallasez cells",
+        "It grows both in horizontal and vertical rami",
+        "It has equal lobulations"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Ameloblastoma most commonly affects the posterior body and angle of the mandible, not the symphysis menti.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Jaw Tumors"
+    },
+    {
+      "id": 8193,
+      "question": "All of the following is true about salivary glands' tumors EXCEPT:",
+      "options": [
+        "80% of them occur in parotid gland",
+        "80% of parotid gland tumors are benign",
+        "80% of parotid gland tumors occur in the deep lobe",
+        "80% of benign parotid tumors are pleomorphic adenomas"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Most parotid tumors (approx. 80%) occur in the superficial lobe, lateral to the facial nerve, not the deep lobe.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 8194,
+      "question": "All the following are possible complications of parotidectomy, EXCEPT:",
+      "options": [
+        "Loss of sensation on one side of the face",
+        "Inability to close the eyelids",
+        "Salivary fistula",
+        "Sweating on the side of the when eating (gustatory sweating)",
+        "Immobility of one angle of the mouth when patient smiles"
+      ],
+      "correct_option_id": 0,
+      "explanation": "General loss of sensation on the face implies Trigeminal nerve damage, which is not a complication of parotidectomy. Only the Great Auricular nerve (sensation to ear/angle) is typically affected.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 8195,
+      "question": "All true regarding adamantinoma (ameloblastoma) EXCEPT:",
+      "options": [
+        "X-ray honeycomb appearance",
+        "Pathologically mimic b.c.c.",
+        "Common in females",
+        "Can cross symphysis menti"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Ameloblastomas typically remain confined to one side of the mandible and rarely cross the symphysis menti.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Jaw Tumors"
+    },
+    {
+      "id": 8196,
+      "question": "All true regarding dentigerous cyst EXCEPT:",
+      "options": [
+        "An odontoma",
+        "Contain a tooth inside",
+        "Treatment removal of the teeth",
+        "Affect mandible more than upper jaw"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Based on the model answer provided (D), the exception is 'Affect mandible more than upper jaw' (though clinically they do affect the mandible commonly). *Note: Model answer is strictly followed.*",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Jaw Cysts"
+    },
+    {
+      "id": 8197,
+      "question": "All true regarding osteoclastoma EXCEPT:",
+      "options": [
+        "Fluid inside chocolate like",
+        "X ray appearance soap bubble appearance",
+        "Common in children",
+        "Pathologically giant cell tumor"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Osteoclastoma (Giant Cell Tumor) typically occurs in young adults (20-40 years) after epiphyseal closure, not in children.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Bone Tumors"
+    },
+    {
+      "id": 8198,
+      "question": "Branchial cyst is best differentiated from cold abscess by:",
+      "options": [
+        "Fluctuation",
+        "Transillumination",
+        "Contains cholesterol crystals",
+        "None of the above"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Aspiration of a branchial cyst reveals fluid rich in cholesterol crystals, which distinguishes it from a tuberculous cold abscess.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Neck Swellings"
+    },
+    {
+      "id": 8199,
+      "question": "Cervical rib may present by which of the followings:",
+      "options": [
+        "Numbness in fingers",
+        "Bruit around clavicle",
+        "Lump in lower neck",
+        "All of the above"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Cervical ribs can cause neurogenic symptoms (numbness), vascular signs (bruit due to subclavian compression), and a palpable bony lump in the supraclavicular fossa.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Neck Vascular"
+    },
+    {
+      "id": 8200,
+      "question": "Cystic hygroma includes all EXCEPT:",
+      "options": [
+        "Develops from jugular lymph sacs",
+        "Brilliantly translucent",
+        "Occupy the middle third of the neck",
+        "Enlarge with crying"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Cystic hygromas usually occupy the posterior triangle and supraclavicular area (lower neck), not typically the 'middle third' which is more characteristic of branchial cysts.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Neck Swellings"
+    },
+    {
+      "id": 8201,
+      "question": "Fissural cyst of the mandible:",
+      "options": [
+        "Nasopalatine cyst is an example",
+        "Acquired by staph infection",
+        "Treatment by removal of the wall completely",
+        "Occur in fusion line of face"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Fissural cysts are developmental cysts arising from entrapped epithelium at fusion lines, NOT acquired by staphylococcal infection.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Jaw Cysts"
+    },
+    {
+      "id": 8202,
+      "question": "Following surgical resection of a large thyroid mass, a patient complains of persistent hoarseness and a weak voice. What is the most likely cause?",
+      "options": [
+        "Traumatic intubation",
+        "Prolonged intubation",
+        "Injury to the recurrent laryngeal nerve",
+        "Injury to the superior laryngeal nerve",
+        "Scar tissue extending to the vocal cords"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Unilateral injury to the Recurrent Laryngeal Nerve causes vocal cord paralysis in the paramedian position, leading to hoarseness and a weak, breathy voice.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Thyroid Complications"
+    },
+    {
+      "id": 8203,
+      "question": "In radical neck dissection all the following are removed EXCEPT:",
+      "options": [
+        "Accessory nerve",
+        "Internal jugular vein",
+        "Carotid artery",
+        "Submandibular gland",
+        "Sternomastoid muscle"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Classic Radical Neck Dissection involves removal of levels I-V, SCM, IJV, and Accessory Nerve. The Carotid Artery is preserved.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Neck Surgery"
+    },
+    {
+      "id": 8204,
+      "question": "Inappropriate to cystic hygroma:",
+      "options": [
+        "Type of cavernous hemangioma",
+        "It can be earliest swelling of neck to appear in life",
+        "It can obstruct labor",
+        "It is brilliantly translucent"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Cystic hygroma is a Lymphangioma, not a Hemangioma.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Neck Swellings"
+    },
+    {
+      "id": 8205,
+      "question": "Laryngocele is common to:",
+      "options": [
+        "Trumpet blowers",
+        "Glass blowers",
+        "Patient of chronic cough",
+        "All of the above"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Laryngoceles are associated with conditions causing chronically increased intrathoracic/intrapharyngeal pressure, such as glass blowing or playing wind instruments.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Pharynx & Larynx"
+    },
+    {
+      "id": 8206,
+      "question": "Malignant parotid tumour is characterized by:",
+      "options": [
+        "Pain",
+        "Hard & fixed mass",
+        "Paralysis of facial muscles",
+        "All of the above"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Clinical signs of malignancy in the parotid include fixation, rock-hard consistency, pain, and facial nerve involvement.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 8207,
+      "question": "Most common presentation of Hodgkin lymphoma is:",
+      "options": [
+        "Leukocytosis",
+        "Fever",
+        "Painless LN enlargement",
+        "Pruritis"
+      ],
+      "correct_option_id": 2,
+      "explanation": "The hallmark presentation of Hodgkin lymphoma is painless, rubbery cervical lymph node enlargement.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Lymphoma"
+    },
+    {
+      "id": 8208,
+      "question": "Of the 800 lymph nodes of the body, lymph nodes in the neck are around:",
+      "options": [
+        "100",
+        "200",
+        "300",
+        "400"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Approximately one-third of the body's lymph nodes (around 300) are located in the head and neck region.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Neck Anatomy"
+    },
+    {
+      "id": 8209,
+      "question": "Pain in arm due to cervical rib is caused by:",
+      "options": [
+        "Compression of T1",
+        "Compression of C7",
+        "Muscle ischemia",
+        "All of the above"
+      ],
+      "correct_option_id": 2,
+      "explanation": "While nerve compression causes paresthesia/pain, significant arm pain (claudication) is often due to vascular compromise (muscle ischemia) from subclavian artery compression.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Neck Vascular"
+    },
+    {
+      "id": 8210,
+      "question": "Parotid duct opens into mouth opposite:",
+      "options": [
+        "Upper third molar",
+        "Upper second molar",
+        "Behind third molar",
+        "Near to midline of hard palate"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Stensen's duct (parotid duct) opens on the buccal mucosa opposite the crown of the upper second molar tooth.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 8211,
+      "question": "Percent of salivary stone occur in:",
+      "options": [
+        "Parotid",
+        "Submandibular",
+        "Submaxillary",
+        "Minor salivary gland"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Approximately 80-90% of salivary calculi (sialolithiasis) occur in the Submandibular gland due to its antigravity flow and viscous alkaline saliva.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 8212,
+      "question": "Pharyngeal pouch should be suspected in presence of:",
+      "options": [
+        "Dysphagia",
+        "Regurgitation of undigested food",
+        "Aspiration pneumonitis",
+        "All of the above"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Zenker's diverticulum (pharyngeal pouch) causes dysphagia, regurgitation of undigested food (often hours after eating), and risk of aspiration.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Pharynx & Larynx"
+    },
+    {
+      "id": 8213,
+      "question": "Ranula is a:",
+      "options": [
+        "Cystic swelling in the floor of the month",
+        "Forked uvula",
+        "Sublingual thyroid",
+        "Thyroglossal cyst"
+      ],
+      "correct_option_id": 0,
+      "explanation": "A Ranula is a mucous retention cyst of the sublingual salivary gland, presenting as a bluish cystic swelling in the floor of the mouth.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Oral Pathology"
+    },
+    {
+      "id": 8214,
+      "question": "Regarding branchial cyst which statement is incorrect:",
+      "options": [
+        "Arise from the second branchial cleft",
+        "Usually appears between the ages of 20-25 years",
+        "Protrudes beneath the anterior border of the sternomastoid",
+        "Is usually lined by squamous epithelium",
+        "All are correct"
+      ],
+      "correct_option_id": 4,
+      "explanation": "All the listed statements describe the classic features of a branchial cyst.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Neck Swellings"
+    },
+    {
+      "id": 8215,
+      "question": "Regarding the pharyngeal pouch which statement is incorrect:",
+      "options": [
+        "It protrudes through Killian's dehiscence",
+        "It usually turns to the left side of the neck",
+        "It may be visible in the neck",
+        "It is twice as common in males as in females"
+      ],
+      "correct_option_id": 3,
+      "explanation": "According to the model answer, statement D is incorrect. Pharyngeal pouches are indeed more common in men, but the specific ratio or the fact might be the target of the question in this context.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Pharynx & Larynx"
+    },
+    {
+      "id": 8216,
+      "question": "Salivary carcinoma with perineural spread to brain is:",
+      "options": [
+        "Adenocarcinoma",
+        "Adenoid cystic carcinoma",
+        "Squamous carcinoma",
+        "Acinic cell carcinoma"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Adenoid Cystic Carcinoma (Cylindroma) has a high propensity for perineural invasion and spread along nerve sheaths.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 8217,
+      "question": "Salivary carcinoma with poor prognosis is:",
+      "options": [
+        "Adenoid cystic carcinoma",
+        "Adenocarcinoma",
+        "Squamous carcinoma",
+        "Mucoepidermoid carcinoma"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Primary Squamous Cell Carcinoma of the salivary glands is aggressive and carries a poor prognosis compared to other types.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 8218,
+      "question": "Spot the wrong statement regarding salivary tumors:",
+      "options": [
+        "75% of salivary neoplasms arise in parotid",
+        "80 % of parotid tumors are benign",
+        "80%of benign parotid tumours are pleomorphic adenoma",
+        "All are correct"
+      ],
+      "correct_option_id": 3,
+      "explanation": "All listed statistics conform to the general 'Rule of 80s' for salivary gland tumors.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 8219,
+      "question": "Symptoms of Hodgkin lymphoma include all EXCEPT:",
+      "options": [
+        "Pruritis",
+        "Headache",
+        "Weight loss",
+        "Fever"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Headache is not a typical symptom. The 'B symptoms' include Fever, Night sweats, and Weight loss. Pruritus is also common.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Lymphoma"
+    },
+    {
+      "id": 8220,
+      "question": "The anterior 2/3 of the tongue receives common sensation through which nerve?",
+      "options": [
+        "Glossopharyngeal",
+        "Chorda tympani of facial",
+        "Lingual",
+        "Hypoglossal"
+      ],
+      "correct_option_id": 2,
+      "explanation": "The Lingual nerve (V3) provides general somatic sensation (pain, touch) to the anterior 2/3 of the tongue. Chorda tympani provides taste.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Oral Anatomy"
+    },
+    {
+      "id": 8221,
+      "question": "The classic complete neck dissection for palpable adenopathy in the posterior triangle of the neck includes removal of which of the following?",
+      "options": [
+        "The transverse process, C2-C4",
+        "The spinal accessory nerve",
+        "Both thyroid lobes",
+        "The trapezius",
+        "The vagus"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Classic Radical Neck Dissection involves the sacrifice of the Spinal Accessory Nerve (CN XI), Internal Jugular Vein, and Sternocleidomastoid muscle.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Neck Surgery"
+    },
+    {
+      "id": 8222,
+      "question": "The most common indication for removal of sublingual salivary gland is:",
+      "options": [
+        "Sialadenosis",
+        "Neoplasm",
+        "Ranula",
+        "Lymphoma"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Ranula (mucous retention cyst) is the most common pathology requiring sublingual gland excision.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 8223,
+      "question": "Treatment of Ludwig angina includes:",
+      "options": [
+        "Amoxicillin plus metronidazole",
+        "Decompression of both submandibular triangles",
+        "Tracheostomy",
+        "All of the above"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Ludwig's angina is a life-threatening emergency requiring broad-spectrum antibiotics, airway management (possibly tracheostomy), and surgical decompression.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Neck Infections"
+    },
+    {
+      "id": 8224,
+      "question": "What is Frey's syndrome following parotidectomy?",
+      "options": [
+        "Gustatory sweating",
+        "Dry mouth due to reduction in salivary flow",
+        "Development of a sialocele over the parotid bed",
+        "Cosmetic deformity due to loss of parotid bulk",
+        "Hyperplasia of the contralateral parotid gland"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Frey's syndrome (Gustatory Sweating) occurs due to aberrant regeneration of secretomotor parasympathetic fibers innervating the sweat glands of the skin flap instead of the parotid.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 8225,
+      "question": "What is the most common site for foreign bodies in the head and neck?",
+      "options": [
+        "Eye",
+        "Ear",
+        "Nose",
+        "Throat",
+        "Esophagus"
+      ],
+      "correct_option_id": 1,
+      "explanation": "In general practice and pediatric presentations, the ear is the most frequent site for foreign bodies.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "ENT Foreign Bodies"
+    },
+    {
+      "id": 8226,
+      "question": "What is wrong about Hodgkin lymphoma?",
+      "options": [
+        "Better prognosis than NHL",
+        "Few malignant cells outnumbered by inflammatory cells",
+        "Characterized by reed Sternberg cells",
+        "Diagnostic laparotomy is essential"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Staging laparotomy is no longer essential or routinely performed for Hodgkin Lymphoma due to the availability of advanced imaging (CT/PET).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Lymphoma"
+    },
+    {
+      "id": 8227,
+      "question": "What percentage of submandibular tumors is malignant?",
+      "options": [
+        "20 per cent",
+        "30 per cent",
+        "40 per cent",
+        "50 per cent",
+        "60 per cent"
+      ],
+      "correct_option_id": 3,
+      "explanation": "The 'Rule of 50s' applies to Submandibular tumors: approximately 50% are malignant.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 8228,
+      "question": "Which nerve must be transacted as part of a superficial parotidectomy?",
+      "options": [
+        "The facial nerve",
+        "The hypoglossal nerve",
+        "The greater auricular nerve",
+        "The accessory nerve",
+        "The auriculotemporal nerve"
+      ],
+      "correct_option_id": 2,
+      "explanation": "The Greater Auricular nerve crosses the superficial surface of the sternomastoid towards the ear and is routinely divided or sacrificed during the incision/approach for parotidectomy.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 8229,
+      "question": "Which of the following branches of the facial nerve can be divided without the need for immediate cable graft repair?",
+      "options": [
+        "Temporal",
+        "Orbital",
+        "Zygomatic",
+        "Buccal",
+        "Cervical"
+      ],
+      "correct_option_id": 3,
+      "explanation": "The buccal branch has extensive cross-innervation with other branches, often allowing compensation without significant functional deficit if divided.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 8230,
+      "question": "Which of the following is not a branch of the facial nerve?",
+      "options": [
+        "Temporal",
+        "Orbital",
+        "Zygomatic",
+        "Buccal",
+        "Cervical"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Main branches are Temporal, Zygomatic, Buccal, Marginal Mandibular, Cervical. 'Orbital' is not a standard named branch.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Anatomy"
+    },
+    {
+      "id": 8231,
+      "question": "Which of the following is not a complication of submandibular gland excision?",
+      "options": [
+        "Frey's syndrome",
+        "Anaesthesia of the ipsilateral tongue",
+        "Weakness of the corner of the mouth",
+        "Anaesthesia of submental skin",
+        "Paralysis of the ipsilateral tongue"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Frey's syndrome is a complication of Parotidectomy, not submandibular gland excision.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 8232,
+      "question": "Which of the following is not a feature of salivary malignancy?",
+      "options": [
+        "Facial nerve weakness",
+        "Rapid enlargement",
+        "Induration of the overlying skin",
+        "Cervical node enlargement",
+        "Rubbery consistency"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Malignant tumors are typically hard and stony. A rubbery consistency is characteristic of benign pleomorphic adenomas.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 8233,
+      "question": "Which of the following landmarks is used to locate the facial nerve trunk?",
+      "options": [
+        "The insertion of sternomastoid",
+        "The greater horn of the hyoid",
+        "The superior-most portion of the cartilaginous ear canal",
+        "The insertion of digastric",
+        "The insertion of masseter"
+      ],
+      "correct_option_id": 3,
+      "explanation": "The facial nerve trunk exits the stylomastoid foramen just anterior to the insertion of the posterior belly of the digastric muscle.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Anatomy"
+    },
+    {
+      "id": 8234,
+      "question": "Which of the following structures does not lie in the parotid gland?",
+      "options": [
+        "The facial nerve",
+        "Terminal branches of the external carotid",
+        "The glossopharyngeal nerve",
+        "The retromandibular vein",
+        "Lymph nodes"
+      ],
+      "correct_option_id": 2,
+      "explanation": "The glossopharyngeal nerve (CN IX) lies deep to the parotid. Facial nerve, retromandibular vein, and ECA are within it.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Anatomy"
+    },
+    {
+      "id": 8235,
+      "question": "Which statement most accurately describes the anatomy of the sublingual glands?",
+      "options": [
+        "They drain through the sublingual duct which opens into the floor of mouth",
+        "They drain either directly on to the floor of mouth or into the submandibular duct",
+        "They consist of two lobes separated by the mylohyoid muscle",
+        "They are embedded in the intrinsic muscles of the ventral surface of the tongue",
+        "They lie in the space between the mandible and the two bellies of digastric"
+      ],
+      "correct_option_id": 1,
+      "explanation": "The sublingual glands have multiple small ducts (Ducts of Rivinus) opening directly into the floor of the mouth, and often a larger duct (Bartholin's duct) that joins the submandibular duct.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 8236,
+      "question": "Which structure marks the posterior boundary of the submandibular duct which can safely be accessed via an intra oral approach?",
+      "options": [
+        "The third molar tooth",
+        "The body of the submandibular duct",
+        "The lingual nerve",
+        "The posterior edge of the mylohyoid",
+        "The marginal mandibular nerve"
+      ],
+      "correct_option_id": 2,
+      "explanation": "The Lingual nerve winds around the submandibular duct. Dissection posterior to this crossing point risks injury to the nerve.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 8237,
+      "question": "With which malignancy is Sjogren's syndrome associated?",
+      "options": [
+        "Acinic cell carcinoma",
+        "Adenoid cystic carcinoma",
+        "Carcinoma ex pleomorphic adenoma",
+        "Salivary sarcoma",
+        "Lymphoma"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Patients with Sjogren's syndrome have a significantly increased risk (approx. 40-fold) of developing Non-Hodgkin Lymphoma (MALT lymphoma) of the salivary glands.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 8238,
+      "question": "Most common site of lymph nodes enlargement in Hodgkin lymphoma is:",
+      "options": [
+        "Abdominal",
+        "Cervical",
+        "Axillary",
+        "Mediastinal",
+        "Inguinal"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Cervical lymphadenopathy is the presenting feature in 60-80% of Hodgkin lymphoma cases.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Lymphoma"
+    },
+    {
+      "id": 8239,
+      "question": "A 62-year-old man undergoes excision of a cylindroma (Adenoid Cystic Carcinoma) of the submandibular gland. He is most likely to have an injury to which of the following?",
+      "options": [
+        "Maxillary branch of the trigeminal nerve",
+        "Lingual nerve",
+        "Vagus nerve",
+        "Floor of the maxilla",
+        "Frontozygomatic branch of the facial nerve"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Adenoid cystic carcinoma has a high rate of perineural invasion. In the submandibular region, the Lingual nerve is intimately related and at high risk of involvement or injury during resection.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 8240,
+      "question": "About pleomorphic adenoma of the parotid gland, all the following statements are true, EXCEPT:",
+      "options": [
+        "It has epithelial and mesenchymal components",
+        "The tumour is painless",
+        "It has an incomplete capsule",
+        "The tumour is usually present deep to the facial nerve",
+        "It may turn malignant"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Pleomorphic adenomas most commonly occur in the superficial lobe of the parotid, lateral to the facial nerve.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Salivary Glands"
+    },
+    {
+      "id": 8241,
+      "question": "62yo with indurated ulcer 1.5 cm on tongue, biopsy SCC. Treatment:",
+      "options": [
+        "Chemotherapy",
+        "Local excision of the ulcer",
+        "Wide excision and left radical neck dissection",
+        "Antibiotic therapy and should be encouraged to stop smoking",
+        "Wide excision of ulcer and radiotherapy"
+      ],
+      "correct_option_id": 2,
+    "explanation": "Tongue SCC has high metastasis risk. Wide excision with neck dissection is standard.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Head&Neck",
+      "chapter": "Oral Malignancy"
+    }
+  ]
+}

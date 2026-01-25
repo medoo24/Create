@@ -1,0 +1,732 @@
+{
+  "meta": {
+    "source": "Term 7 - General Surgery",
+    "lesson": "Fluid & Metabolic Support"
+  },
+  "questions": [
+    {
+      "id": 8100,
+      "question": "The effective osmotic pressure between the plasma and interstitial fluid compartments is primarily controlled by:",
+      "options": [
+        "Bicarbonate",
+        "Chloride ions",
+        "Potassium ions",
+        "Protein",
+        "Sodium ions"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Plasma proteins (albumin) generate colloid osmotic pressure, retaining fluid in vessels. Sodium determines total extracellular osmolarity but crosses capillaries freely.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Fluids & Electrolytes"
+    },
+    {
+      "id": 8101,
+      "question": "Which is not a component of systemic inflammatory response syndrome (SIRS)?",
+      "options": [
+        "Temperature.",
+        "White Blood Cell (WBC) Count.",
+        "Blood Pressure.",
+        "Heart rate.",
+        "Pa CO2."
+      ],
+      "correct_option_id": 2,
+      "explanation": "SIRS criteria include Temp, HR, RR/PaCO2, and WBC. Blood pressure (hypotension) is a sign of shock, not SIRS itself.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Shock & Metabolic Response"
+    },
+    {
+      "id": 8102,
+      "question": "Which of the following is NOT in intrinsic pathway of coagulation?",
+      "options": [
+        "II.",
+        "XII.",
+        "XI.",
+        "IX."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Factor II (Prothrombin) is part of the Common Pathway of coagulation. The Intrinsic Pathway involves Factors XII, XI, IX, and VIII.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Hemostasis & Transfusion"
+    },
+    {
+      "id": 8103,
+      "question": "A patient with penetrating injury to the chest should undergo thoracotomy if:",
+      "options": [
+        "There is > 1000 mL of blood which drains from the chest tube placed.",
+        "There is > 200 mL/hour for 3 h from the chest tube.",
+        "There is an air leak that persists > 48h.",
+        "There is documented lung injury on computed-tomography scan."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Indications for urgent thoracotomy include massive initial output (often defined as >1000-1500 mL) or continued high output (>200 mL/hr for 3-4 hours), suggesting active surgical bleeding.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Trauma - Chest"
+    },
+    {
+      "id": 8104,
+      "question": "Which of the following is an early sign of hyperkalemia?",
+      "options": [
+        "Inverted T waves",
+        "Peaked T waves",
+        "Peaked P waves",
+        "Peaked (shortened) QRS complex",
+        "Peaked U waves"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Peaked T waves are the earliest electrocardiographic manifestation of hyperkalemia. Subsequent changes include PR prolongation, QRS widening, and eventually sine waves.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Fluids & Electrolytes"
+    },
+    {
+      "id": 8105,
+      "question": "30-years-old, a 60 kg. Woman with an 80% burn; The intra-venous fluid should be given in the first 24 hours following burn injury is:",
+      "options": [
+        "9.2 liters of 5% glucose in Ringer's lactate.",
+        "14.4 liters of Ringer's lactate.",
+        "7.2 liters of 5% albumin solution.",
+        "5.5 liters of the penta-fraction component of hydroxyl-ethyl starch."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Using 3 ml/kg/%BSA: 3 * 60 * 80 = 14,400 mL (14.4 L). Ringer's Lactate is the preferred fluid.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Trauma - Burns"
+    },
+    {
+      "id": 8106,
+      "question": "22yo male with femur fracture and rib fractures. True statement concerning his hospital course:",
+      "options": [
+        "Low-dose heparin should not be employed during his hospital stay.",
+        "Acute resp failure associated with petechiae of head, torse, sclera suggests Pulmonary Embolism.",
+        "Early fracture fixation would decrease the incidence of fat emboli.",
+        "The placement of a Green-field filter should be avoided due to the risk of lower extremity edema."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Early fixation of long bone fractures reduces Fat Embolism Syndrome risk. The petechiae/hypoxia triad is specific to fat embolism.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Trauma - Orthopedic"
+    },
+    {
+      "id": 8107,
+      "question": "25yo male with burns: blistering on face/chest, charring on right arm. He is agitated, hypotensive, and tachycardic. Which statement concerning initial wound management is correct?",
+      "options": [
+        "Topical antibiotics should not be used.",
+        "Escharotomy only if neurologic impairment imminent.",
+        "Excision of deep burns usually takes place 3-7 days after injury.",
+        "Split-thickness grafts over 3rd-degree eschar should be done immediately."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Early excision and grafting of deep burns (usually within the first week) is standard to reduce metabolic stress and infection.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Trauma - Burns"
+    },
+    {
+      "id": 8108,
+      "question": "25yo woman after car accident. Dyspneic, RR 60, diminished breath sounds on right. First step:",
+      "options": [
+        "Imitation a chest x-ray.",
+        "Administer intra-venous fluids.",
+        "Draw arterial blood for blood gas determination.",
+        "Decompress the right pleural space."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Signs suggest tension pneumothorax. Immediate decompression is required; waiting for X-ray is dangerous.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Trauma - Chest"
+    },
+    {
+      "id": 8109,
+      "question": "28yo male, motorcycle accident. Severe respiratory distress, BP 80/40, cyanotic, profuse nasal bleeding, open femur fracture. Initial priority:",
+      "options": [
+        "Control of hemorrhage with anterior and posterior nasal packing.",
+        "Tube thoracostomy in the right hemo-thorax.",
+        "Endo-tracheal intubation with in-line cervical traction.",
+        "Obtain cross-table cervical spine film and chest film."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Airway (A) is the first priority. Severe distress and airway compromise (bleeding) require immediate intubation with C-spine protection.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Trauma - Management"
+    },
+    {
+      "id": 8110,
+      "question": "28yo man, severe head injury. Initially lethargic, becomes comatose. Most common initial manifestation of increasing ICP:",
+      "options": [
+        "Change in level of consciousness.",
+        "Ipsi-lateral side of hemorrhage) pupillary dilation.",
+        "Contra-lateral pupillary dilation.",
+        "Hemi-paresis."
+      ],
+      "correct_option_id": 0,
+      "question": "28yo man, severe head injury. Initially lethargic, becomes comatose. Most common initial manifestation of increasing ICP:",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Trauma - Head"
+    },
+    {
+      "id": 8111,
+      "question": "65yo smoker with COPD fractures ribs 7-9. CXR otherwise normal. Treatment includes all EXCEPT:",
+      "options": [
+        "Strapping the chest with adhesive tape.",
+        "Tube thoracostomy.",
+        "Peritoneal lavage.",
+        "Surgical fixation of the fractured ribs."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Peritoneal lavage is a diagnostic tool for abdominal trauma, not a treatment for rib fractures.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Trauma - Chest"
+    },
+    {
+      "id": 8112,
+      "question": "A 75y. old man is involved in a motor car accident. Which of the following statement(s) is/are true concerning this patient's injury and management?",
+      "options": [
+        "Acceptable vital sign parameters are similar across all age groups.",
+        "Hypertonic solutions should not be used for resuscitation due to concerns for fluid overload.",
+        "The patient would be more prone to a subdural hematoma than a younger patient.",
+        "There is no role for inotropic agents in the management of this patient."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Elderly patients have cerebral atrophy which stretches the bridging veins, making them more susceptible to tearing and subdural hematomas even with relatively minor trauma.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Trauma - General"
+    },
+    {
+      "id": 8113,
+      "question": "A decrease in intra-cellular water can be precipitated by:",
+      "options": [
+        "A decrease in sodium in extra-cellular fluid.",
+        "An increase in sodium in extra-cellular fluid.",
+        "An increase in sodium in intra-cellular fluid.",
+        "An isotonic decrease in extra-cellular fluid."
+      ],
+      "correct_option_id": 1,
+      "explanation": "An increase in extracellular sodium creates a hypertonic environment, which draws water out of the cells via osmosis, leading to intracellular dehydration.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Fluids & Electrolytes"
+    },
+    {
+      "id": 8114,
+      "question": "Patient unconscious after accident, scalp laceration, dilated pupil, HR 120, BP 80/40. No response to fluids. Cause of hypotension:",
+      "options": [
+        "Epidural or Subdural hematoma.",
+        "Parenchymal brain hemorrhage.",
+        "Basilar skull fracture.",
+        "None of the above."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Head injuries rarely cause hypotension in adults. Hypotension is due to hemorrhage elsewhere until proven otherwise.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Trauma - Head"
+    },
+    {
+      "id": 8115,
+      "question": "A patient who has spasms in the hand when a blood pressure cuff is blown up most likely has:",
+      "options": [
+        "Hypercalcemia.",
+        "Hypocalcemia.",
+        "Hypermagnesemia.",
+        "Hypomagnesemia."
+      ],
+      "correct_option_id": 1,
+      "explanation": "This is Trousseau's sign, a classic clinical indicator of neuromuscular irritability (tetany) caused by hypocalcemia.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Fluids & Electrolytes"
+    },
+    {
+      "id": 8116,
+      "question": "A primary action of aldosterone is to:",
+      "options": [
+        "Convert angiotenogen to angiotensin.",
+        "Decrease chloride re-absorption in the renal tubule.",
+        "Decrease potassium secretion in the renal tubule.",
+        "Increase sodium re-absorption in the renal tubule."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Aldosterone acts on the distal renal tubules to promote sodium reabsorption (conserving water and volume) and potassium excretion.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Fluids & Electrolytes"
+    },
+    {
+      "id": 8117,
+      "question": "Among the physiologic responses to acute injury is:",
+      "options": [
+        "Increased secretion of insulin.",
+        "Increased secretion of thyroxine.",
+        "Decreased secretion of vasopressin.",
+        "Decreased secretion of aldosterone."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Insulin secretion increases (flow phase) to counter hyperglycemia. ADH and Aldosterone increase; Thyroxine is usually normal or low.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Shock & Metabolic Response"
+    },
+    {
+      "id": 8118,
+      "question": "18yo kicked in flank, develops hematuria. Stable. Initial diagnostic test:",
+      "options": [
+        "Retrograde Urethrography.",
+        "Retrograde Cystography.",
+        "Intra-venous Pyelogram (IVP).",
+        "Diagnostic Peritoneal Lavage (DPL)."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Hematuria after flank trauma requires imaging. IVP is the classic answer for assessing renal function/anatomy in stable patients in older texts.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Trauma - Abdominal/GU"
+    },
+    {
+      "id": 8119,
+      "question": "18yo with hematuria after flank trauma. Contrast extravasation into parenchyma. Treatment:",
+      "options": [
+        "Antibiotics and serial monitoring of blood count and vital signs.",
+        "Resumption of normal daily activity excluding sports.",
+        "Exploration and suture of the laceration.",
+        "Nephrostomy."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Significant extravasation implies deep injury. While conservation is common now, the answer indicates exploration.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Trauma - Abdominal/GU"
+    },
+    {
+      "id": 8120,
+      "question": "18yo male, GSW to abdomen, bowel/colon injuries. True statement concerning peri-operative management:",
+      "options": [
+        "A multi-agent antibiotic regimen is indicated.",
+        "Antibiotics should be continued post-operatively for at least 7 days.",
+        "Laparotomy, as a diagnostic test for post-operative sepsis, should be considered.",
+        "Post-operative wound or intra-abdominal infection increased in association with colon injury."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Colon injuries carry a high risk of postoperative septic complications due to bacterial load.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Trauma - Abdominal"
+    },
+    {
+      "id": 8121,
+      "question": "Elderly pedestrian struck, unilateral pelvic fracture through obturator foramen. Management:",
+      "options": [
+        "External pelvic fixation.",
+        "Angiography of the obturator artery with surgery if injured or compressed.",
+        "Direct surgical approach with internal fixation of the ischial ramus.",
+        "Bed rest until stable, then gradual ambulation as tolerated."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Isolated pubic rami fractures are stable. Management is conservative: pain control and early mobilization.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Trauma - Orthopedic"
+    },
+    {
+      "id": 8122,
+      "question": "Blood Bank is appropriate for replacing each of the following Except:",
+      "options": [
+        "Factor II (Prothrombin).",
+        "Factor I (fibrinogen).",
+        "Factor VII (pro-convertin).",
+        "Factor VIII (Anti-hemophilic factor) after collection."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Factor VIII is a 'labile factor' that degrades rapidly in stored blood. Standard banked blood is not a reliable source for Factor VIII replacement; cryoprecipitate or specific concentrates are used.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Hemostasis & Transfusion"
+    },
+    {
+      "id": 8123,
+      "question": "Blunt trauma to the abdomen most commonly injures which of the following organs?",
+      "options": [
+        "Liver.",
+        "Spleen.",
+        "Intestine.",
+        "Pancreas."
+      ],
+      "correct_option_id": 1,
+      "explanation": "The spleen is the most frequently injured solid organ in patients subjected to blunt abdominal trauma.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Trauma - Abdominal"
+    },
+    {
+      "id": 8124,
+      "question": "Dobutamine:",
+      "options": [
+        "Increases cardiac output and causes peripheral vaso-dilatation.",
+        "Decreases cardiac output and causes peripheral vaso-dilatation.",
+        "Increases cardiac output and causes peripheral vaso-constriction.",
+        "Decreases cardiac output and causes peripheral vaso-constriction."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Dobutamine is a synthetic catecholamine with beta-1 agonist activity (increasing contractility and cardiac output) and mild beta-2 activity (causing peripheral vasodilation).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Shock & Metabolic Response"
+    },
+    {
+      "id": 8125,
+      "question": "A 12-year-old girl develops upper abdominal pain, nausea, and vomiting after blunt abdominal trauma. Upper GI series shows total duodenal obstruction with a coiled-spring appearance in the 2nd and 3rd parts. What is the appropriate management?",
+      "options": [
+        "Gastro-jejunostomy.",
+        "Naso-gastric suction and observation.",
+        "Duodenal resection.",
+        "Duodeno-jejunostomy."
+      ],
+      "correct_option_id": 1,
+      "explanation": "This presentation describes a duodenal hematoma. In children, these are managed conservatively with nasogastric decompression and TPN, as most resolve spontaneously within 1-3 weeks.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Trauma - Abdominal"
+    },
+    {
+      "id": 8126,
+      "question": "Suspected arterial injury requires exploration despite palpable pulses because pulses do not exclude:",
+      "options": [
+        "Significant arterial injury.",
+        "Significant injury to adjacent motor nerve trunks.",
+        "Significant injury to adjacent long bones.",
+        "Subsequent development of a compartment syndrome and the need for Fasciotomy."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Palpable pulses may persist via collaterals or with non-occlusive injuries (intimal flaps) that can later thrombose.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Trauma - Vascular"
+    },
+    {
+      "id": 8127,
+      "question": "In a stable patient, the management of a complete transaction of the common bile duct distal to the insertion of the cystic duct would be optimally performed with a:",
+      "options": [
+        "Choledocho-duodenostomy.",
+        "Bridging of the injury with a T- tube.",
+        "Roux-en-Y choledocho-jejunostomy.",
+        "Primary end-to-end anastomosis of the transected bile duct."
+      ],
+      "correct_option_id": 2,
+      "explanation": "A complete transection of the CBD is best managed with a Roux-en-Y choledochojejunostomy. This provides a tension-free, mucosa-to-mucosa anastomosis with lower stricture rates than end-to-end repair.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Trauma - Abdominal"
+    },
+    {
+      "id": 8128,
+      "question": "In a wound healing, metallo-proteinases are responsible for:",
+      "options": [
+        "Establishing collagen cross-links.",
+        "Glycosylation of collagen molecules.",
+        "Initiating collagen degradation.",
+        "Incorporation of hydroxyl-proline into the collagen chain."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Matrix metalloproteinases (MMPs) are enzymes responsible for the breakdown and remodeling of collagen and extracellular matrix during the healing process.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Wound Healing"
+    },
+    {
+      "id": 8129,
+      "question": "Naso-tracheal intubation is:",
+      "options": [
+        "Preferred for the unconscious patient without cervical spine injury.",
+        "Preferred for patients with suspected cervical spine injury.",
+        "Maximizes neck manipulation.",
+        "Contraindicated in the patients who is breathing spontaneously."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Nasotracheal intubation minimizes neck manipulation, making it advantageous for breathing patients with potential C-spine injury.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Airway Management"
+    },
+    {
+      "id": 8130,
+      "question": "Norma saline is:",
+      "options": [
+        "135 mEq NaCI/L.",
+        "145 mEq NaCl/L.",
+        "148 mEq NaCl/L.",
+        "154 mEq NaCl/L."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Normal Saline (0.9% NaCl) contains 154 mEq/L of sodium and 154 mEq/L of chloride.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Fluids & Electrolytes"
+    },
+    {
+      "id": 8131,
+      "question": "Reactive proteins:",
+      "options": [
+        "Is secreted in a circadian rhythm with higher levels in the morning.",
+        "Increase after eating a large meal.",
+        "Does not increase in response to stress in patient with liver failure.",
+        "Is less sensitive than erythrocyte sedimentation rate as a marker of inflammation."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Based on the correct option A, the question refers to Cortisol (though labeled 'Reactive proteins'). Cortisol secretion follows a diurnal/circadian rhythm with peak levels in the early morning.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Shock & Metabolic Response"
+    },
+    {
+      "id": 8132,
+      "question": "The most common fluid disorder in the surgical patient is:",
+      "options": [
+        "Extra-cellular fluid deficit.",
+        "Hyperkalemia.",
+        "Hyponatremia.",
+        "Metabolic acidosis."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Extracellular fluid volume deficit (hypovolemia) is the most frequent fluid disorder in surgical patients, resulting from losses (GI, bleeding, third-spacing) or inadequate intake.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Fluids & Electrolytes"
+    },
+    {
+      "id": 8133,
+      "question": "The osmolarity of the extra-cellular fluid space is determined primary by the concentration of:",
+      "options": [
+        "Bi-carbonate.",
+        "Chloride ion.",
+        "Phosphate radicals.",
+        "Sodium ion."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Sodium is the most abundant cation in the extracellular fluid and accounts for the majority of the ECF osmolarity.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Fluids & Electrolytes"
+    },
+    {
+      "id": 8134,
+      "question": "The response to shock includes which of the following metabolic effects?",
+      "options": [
+        "Increase in renal perfusion.",
+        "Decrease in cortisol level.",
+        "Hyperkalemia,",
+        "Hypoglycemia."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Shock leads to cellular hypoxia, failure of the Na+/K+ pump, and acidosis, causing potassium to shift out of cells (hyperkalemia). Renal dysfunction further impairs potassium excretion.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Shock & Metabolic Response"
+    },
+    {
+      "id": 8135,
+      "question": "The simplest effective method of estimating the degree of acidosis in a patient in shock is the measurement of:",
+      "options": [
+        "Arterial pH.",
+        "End tidal CO2 concentration.",
+        "PH of Mixed venous blood.",
+        "Serum CO2 level."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Arterial pH (measured via blood gas) is the simplest direct indicator of the severity of acidemia, although lactate and base deficit provide more specific information about metabolic status.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Shock & Metabolic Response"
+    },
+    {
+      "id": 8136,
+      "question": "Systemic response to burn includes fluid loss. True statement concerning tissue edema:",
+      "options": [
+        "Periburn edema is 2ry to local capillary disruption.",
+        "Periburn edema is 2ry to local release of vasoactive mediators (prostaglandins, thromboxane, ROS).",
+        "Tissue oedema following a burn occurs only in the tissues at/or immediately adjacent to the burn.",
+        "Pulmonary changes following a burn occur only 2ry to excessive fluid administration."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Burn edema is mediated by vasoactive substances increasing capillary permeability locally and systemically.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Trauma - Burns"
+    },
+    {
+      "id": 8137,
+      "question": "Wasting of the intrinsic muscles of the hand can be expected to follow injury of the:",
+      "options": [
+        "Ulnar nerve.",
+        "Radial nerve.",
+        "Axillary nerve.",
+        "Thenar and hypothenar nerves."
+      ],
+      "correct_option_id": 0,
+      "explanation": "The ulnar nerve innervates most of the intrinsic muscles of the hand. Injury typically results in wasting and a 'claw hand' deformity.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Trauma - Orthopedic"
+    },
+    {
+      "id": 8138,
+      "question": "Water constitutes what percentage of total body weight?",
+      "options": [
+        "30 - 40%.",
+        "40 - 50%.",
+        "50 - 60%.",
+        "60 - 70%."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Total body water makes up approximately 60% of body weight in an average adult male (roughly 50% in females).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Fluids & Electrolytes"
+    },
+    {
+      "id": 8139,
+      "question": "When lactic acid is produced in response to injury, the body minimizes pH change by:",
+      "options": [
+        "Decreasing production of sodium bicarbonate in tissues.",
+        "Excreting carbon dioxide through the lungs.",
+        "Excreting lactic acid through the kidneys.",
+        "Metabolizing the lactic acid in the liver."
+      ],
+      "correct_option_id": 1,
+      "explanation": "The respiratory system compensates for metabolic acidosis (such as lactic acidosis) by increasing minute ventilation to blow off CO2, thereby reducing carbonic acid and minimizing the drop in pH.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Shock & Metabolic Response"
+    },
+    {
+      "id": 8140,
+      "question": "Which of the following fracture or dislocation of the extremities induced by blunt trauma is associated with significant vascular injuries?",
+      "options": [
+        "Knee dislocation.",
+        "Closed posterior elbow dislocation.",
+        "Mid-clavicular fracture.",
+        "Supracondylar fracture femur."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Knee dislocations have a high association with popliteal artery injury due to the vessel's fixation across the joint. Evaluation for vascular injury is mandatory.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Trauma - Vascular"
+    },
+    {
+      "id": 8141,
+      "question": "Indication for thoracotomy in the emergency room:",
+      "options": [
+        "Massive hemo-thorax following blunt trauma to the chest.",
+        "Blunt trauma to multiple organs with vital signs in the field but absent on arrival to the ER.",
+        "Rapidly deteriorating patient with cardiac tamponade from penetrating thoracic trauma.",
+        "Penetrating thoracic trauma and no signs of life in the field.",
+        "Penetrating abdominal trauma and no signs of life in the field."
+      ],
+      "correct_option_id": 2,
+      "explanation": "ED thoracotomy is indicated for penetrating trauma with rapid deterioration (e.g., tamponade) or arrest in the ER.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Trauma - Chest"
+    },
+    {
+      "id": 8142,
+      "question": "Which of the following statement regarding the burn patient is correct?",
+      "options": [
+        "High-dose penicillin should be administrated prophylactically.",
+        "Tetanus prophylaxis is not necessary if the patient has been immunized in the previous 3 years.",
+        "The most sensitive indicator of adequacy of fluid resuscitation is heart rate.",
+        "The patient in need of immediate intubation for airway protection and oxygen administration."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Airway protection is paramount. Immediate intubation is required for signs of inhalation injury or airway compromise.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Trauma - Burns"
+    },
+    {
+      "id": 8143,
+      "question": "Which of the following statement(s) is/are true concerning inhalation injury?",
+      "options": [
+        "Pathophysiology includes upper airway obstruction, bronchospasm, and atelectasis.",
+        "Endo-tracheal intubation indicated in all suspected cases.",
+        "Distal airway injuries usually caused by heat.",
+        "Peak inspiratory pressures > 40 indicated."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Inhalation injury causes edema, chemical bronchospasm, and surfactant loss leading to atelectasis.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Trauma - Burns"
+    },
+    {
+      "id": 8144,
+      "question": "Which of the following statements about head injuries is/are false?",
+      "options": [
+        "The majority of deaths from auto accident are due to head injuries.",
+        "Head injury alone often produces shock.",
+        "A rapid and complete neurologic examination is part of the initial evaluation of the trauma patient.",
+        "Optimizing arterial oxygenation is part of initial therapy."
+      ],
+      "correct_option_id": 1,
+      "explanation": "This statement is false: Head injury alone rarely produces shock (hypotension). Its presence in a trauma patient usually indicates hemorrhage from another site (chest, abdomen, pelvis).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Fluid & Metabolic Support",
+      "chapter": "Trauma - Head"
+    }
+  ]
+}

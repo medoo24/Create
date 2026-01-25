@@ -1,0 +1,966 @@
+{
+  "meta": {
+    "source": "Term 7 - General Surgery",
+    "lesson": "Plastic Surgery"
+  },
+  "questions": [
+    {
+      "id": 8510,
+      "question": "About cleft palate all are correct EXCEPT:",
+      "options": [
+        "Usually associated with other congenital anomalies.",
+        "May range from cleft uvula up to tripartite deformity.",
+        "Causes nasal regurgitation, nasal deformity.",
+        "Best time for repair is 5 years old."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Optimal repair is 6-12 months (before 18 months) for speech development. Waiting until 5 years is too late as speech patterns are already established.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Cleft Lip & Palate"
+    },
+    {
+      "id": 8511,
+      "question": "About cleft upper lip all are correct EXCEPT:",
+      "options": [
+        "Median is the most common.",
+        "Lateral is due to non-fusion of median nasal process (future frenulum) with maxillary process.",
+        "Lateral is more common on left side.",
+        "Best time for repair is the earliest possible time (3 months).",
+        "Repair is mainly for cosmetic purposes."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Unilateral cleft lip (specifically on the left side) is the most common presentation. Median cleft lip is extremely rare and is often associated with holoprosencephaly.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Cleft Lip & Palate"
+    },
+    {
+      "id": 8512,
+      "question": "All the followings are presentations of cancer tongue:",
+      "options": [
+        "Asymptomatic.",
+        "Referred otalgia.",
+        "Fissured tongue.",
+        "Halitosis.",
+        "All of the above."
+      ],
+      "correct_option_id": 4,
+      "explanation": "Presentations include painless ulcer, referred otalgia (via CN IX), induration/fissuring, or halitosis due to necrosis. All options are correct.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Head & Neck"
+    },
+    {
+      "id": 8513,
+      "question": "Carcinoma of the tongue infiltrating the mandible is best treated by:",
+      "options": [
+        "Radiotherapy of both primary and regional gland.",
+        "Two-stage excision of primary and regional glands.",
+        "Monoblock excision of primary and whole lymphatic area (Commando operation).",
+        "Radiotherapy for primary followed by radical neck dissection.",
+        "Excision of primary and radiotherapy to cervical lymph nodes."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Mandibular involvement requires a 'Commando operation' (Composite Resection): monoblock excision of the primary tumor, mandibular segment, and neck dissection.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Head & Neck"
+    },
+    {
+      "id": 8514,
+      "question": "Concerning complete cleft palate, the untrue statement is that it:",
+      "options": [
+        "Due to failed fusion of palatal shelves with each other and frontonasal process.",
+        "Is often associated with cleft-lip and broadening of the face.",
+        "Interferes with nutrition and speech.",
+        "Predisposes to upper respiratory tract infections.",
+        "Requires surgical repair after the second year of life."
+      ],
+      "correct_option_id": 4,
+      "explanation": "Cleft palate repair is generally performed around 9-12 months of age. Waiting until after the second year is detrimental to speech development; early repair is preferred.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Cleft Lip & Palate"
+    },
+    {
+      "id": 8515,
+      "question": "Concerning fibrous epulis the incorrect statement is that it:",
+      "options": [
+        "Is a soft fibroma of the mucoperiosteum around a carious tooth.",
+        "Forms a small pedunculated swelling arising between two incisor teeth.",
+        "Is covered by intact epithelium.",
+        "May be highly vascular or fibrous.",
+        "Is treated by local excision."
+      ],
+      "correct_option_id": 4,
+      "explanation": "Simple excision is insufficient as it arises from periodontal ligament. Treatment requires excision with periosteum and extraction/scaling of the tooth to prevent recurrence.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Head & Neck"
+    },
+    {
+      "id": 8516,
+      "question": "Correct statements about dentigerous cyst include the following EXCEPT that it:",
+      "options": [
+        "Occurs in children and adolescents in relation to a missing tooth.",
+        "Is more common in the upper than in the lower jaw.",
+        "Presents as a globular swelling expanding the jaw.",
+        "Is lined with squamous epithelium."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Dentigerous cysts are most commonly associated with impacted third molars in the mandible (lower jaw), not the upper jaw.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Head & Neck"
+    },
+    {
+      "id": 8517,
+      "question": "Dental ulcer is characterized by the following features EXCEPT that it:",
+      "options": [
+        "Occurs in relation to a carious or irregular tooth.",
+        "Is usually painful.",
+        "Has an elongated shallow floor and a sloping edge.",
+        "Never causes enlargement of the regional lymph nodes.",
+        "May closely simulate malignant ulcer."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Dental ulcers are inflammatory/infective lesions and can definitely cause reactive enlargement of regional lymph nodes (lymphadenitis).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Head & Neck"
+    },
+    {
+      "id": 8518,
+      "question": "In unilateral harelip the following statements are true EXCEPT that it:",
+      "options": [
+        "Affects the upper lip only.",
+        "May be partial or complete.",
+        "Due to failed fusion of maxillary process with frontonasal process.",
+        "Is always associated with nasal deformity.",
+        "Produces no serious speech defects."
+      ],
+      "correct_option_id": 4,
+      "explanation": "Cleft lip affects labial sounds (p, b, m) and often involves alveolar clefts impacting articulation. It causes speech defects, so 'no serious defects' is false.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Cleft Lip & Palate"
+    },
+    {
+      "id": 8519,
+      "question": "Langen beek's repair:",
+      "options": [
+        "Is a method of grafting in burns",
+        "Is a method of repair after surgical excision of SCC",
+        "Is a method of repair of cleft lip",
+        "Is a method of repair of cleft palate"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Von Langenbeck's technique is a classical surgical method used for the repair of cleft palate (palatoplasty).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Cleft Lip & Palate"
+    },
+    {
+      "id": 8520,
+      "question": "The wrong statement about carcinoma of the lip is that it:",
+      "options": [
+        "Affects males much more often than females.",
+        "Usually occurs on the lower lip.",
+        "May produce a Kissing cancer on the other lip.",
+        "Is most often a well-differentiated squamous cell carcinoma.",
+        "Spreads to the regional glands by lymphatic permeation."
+      ],
+      "correct_option_id": 1,
+      "explanation": "SCC classically affects the lower lip. The key marks this 'wrong', likely confusing it with BCC (upper lip) or suggesting it's not 'usually' there.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Head & Neck"
+    },
+    {
+      "id": 8521,
+      "question": "A paraplegic bed-ridden patient developed a large deep bed-sore over his sacrum. The best regimen is by wide excision and:",
+      "options": [
+        "Local applications.",
+        "Thiersch grafting.",
+        "Wolfe-grafting.",
+        "Local skin flops.",
+        "Myocutaneous flap."
+      ],
+      "correct_option_id": 4,
+      "explanation": "Deep sacral sores have dead space and exposed bone. A myocutaneous flap provides necessary bulk and blood supply to fill the defect and cushion the area.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Reconstructive Surgery"
+    },
+    {
+      "id": 8522,
+      "question": "A subtype of capillary hemangioma raised above skin surface:",
+      "options": [
+        "Strawberry hemangioma.",
+        "Portwine hemangioma.",
+        "Salmon patch.",
+        "None of the above."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Strawberry hemangiomas (infantile hemangiomas) present as raised, red, lobulated masses. Port-wine stains and salmon patches are flat, macular vascular malformations.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Vascular Anomalies"
+    },
+    {
+      "id": 8523,
+      "question": "About healing intentions:",
+      "options": [
+        "Ulcers heal by first intention.",
+        "Second intention gives better cosmoses than first.",
+        "First intention occurs on clean cut edges without gaps or tissue loss.",
+        "All of the above."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Healing by first intention (primary intention) occurs when wound edges are clean and approximated (e.g., sutured incision), resulting in minimal scarring. Ulcers heal by secondary intention.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Wound Healing"
+    },
+    {
+      "id": 8524,
+      "question": "About management of burns:",
+      "options": [
+        "Biological dressing decreases all complications of burn.",
+        "Parkland's formula is a good rule for fluid replacement.",
+        "Occlusive dressing is easier to perform.",
+        "Exposure method is suitable for face and buttocks.",
+        "All of the above."
+      ],
+      "correct_option_id": 4,
+      "explanation": "Parkland formula guides fluids, occlusive dressings reduce pain, and exposure suits the face. All listed principles are correct in burn management.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Burns"
+    },
+    {
+      "id": 8525,
+      "question": "First-intention healing of clean incised wounds is characterized by the following EXCEPT:",
+      "options": [
+        "An inflammatory reaction during the first few days.",
+        "Epithelialization within 48 hours.",
+        "Fibroblastic proliferation and capillary budding during the next week.",
+        "Region of normal tensile strength within 4 weeks.",
+        "Production of thin linear scar."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Wounds do not regain normal (100%) tensile strength in 4 weeks. Strength increases gradually, reaching about 20% at 3 weeks and plateauing at roughly 80% after several months.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Wound Healing"
+    },
+    {
+      "id": 8526,
+      "question": "Metabolic changes after burning are due to the following except:",
+      "options": [
+        "The endocrine responses to injury.",
+        "Local fluid loss into the burnt area.",
+        "Reduced heat loss.",
+        "Increased insensible water loss.",
+        "Bacterial infection."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Burns cause a significant loss of skin barrier function, leading to massive evaporative water loss and increased heat loss, driving a hypermetabolic state (not reduced heat loss).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Burns"
+    },
+    {
+      "id": 8527,
+      "question": "The most common site for the following diseases is correctly matched EXCEPT:",
+      "options": [
+        "Keloids: face, neck, and skin over sternum.",
+        "Hypertrophic scars: extensor surfaces.",
+        "Hemangiomas: head and neck.",
+        "Basal cell carcinoma: face."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Hypertrophic scars are common on flexor surfaces or tension areas. Matching them with extensor surfaces is incorrect compared to the other options.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Wound Healing"
+    },
+    {
+      "id": 8528,
+      "question": "Wound healing is not impaired by:",
+      "options": [
+        "Anemia.",
+        "Hypoproteinemia.",
+        "Ascorbic acid deficiency.",
+        "Cortisone administration.",
+        "Immunosuppressive therapy."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Mild/moderate anemia doesn't significantly impair healing if volume/oxygenation are adequate. Hypoproteinemia and steroids have a direct negative impact.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Wound Healing"
+    },
+    {
+      "id": 8529,
+      "question": "About 3rd degree (full thickness) burn:",
+      "options": [
+        "Completely painless",
+        "No graft is needed",
+        "Healing occurs from skin appendages",
+        "Usually dry, white or block"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Full-thickness (3rd degree) burns involve necrosis of the entire skin thickness. The tissue (eschar) typically appears dry, leathery, white, or charred (black) and is insensate.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Burns"
+    },
+    {
+      "id": 8530,
+      "question": "In the rule of nines:",
+      "options": [
+        "Each lower limb 18%",
+        "Front of arm 9%",
+        "Front of trunk 27%",
+        "Head and neck 18%",
+        "Perineum 9%"
+      ],
+      "correct_option_id": 0,
+      "explanation": "In the standard adult Rule of Nines, each lower limb represents 18% of the total body surface area (TBSA). Head is 9%, Arm is 9%, Front trunk is 18%.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Burns"
+    },
+    {
+      "id": 8531,
+      "question": "The most frequent fracture of the face involves the:",
+      "options": [
+        "Zygoma.",
+        "Maxilla.",
+        "Orbital floor.",
+        "Nasal bones.",
+        "Mandible."
+      ],
+      "correct_option_id": 4,
+      "explanation": "The mandible is often cited as the most frequently fractured facial bone (excluding nasal bones in some lists) due to its prominence and vulnerability.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Head & Neck"
+    },
+    {
+      "id": 8532,
+      "question": "The most useful measure in preventing renal shut-down in post burn patient is:",
+      "options": [
+        "Alkalinization of the urine",
+        "Administration of colloids",
+        "Blood transfusion",
+        "Monitoring an hourly urine output between 30 and 50 ml",
+        "Mannitol administration"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Maintaining adequate renal perfusion is key to preventing renal failure. This is best monitored by ensuring an hourly urine output of 0.5-1 ml/kg/hr (approx 30-50 ml/hr in adults).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Burns"
+    },
+    {
+      "id": 8533,
+      "question": "All the followings are predisposing factors for cancer tongue except:",
+      "options": [
+        "Cigarette smoking",
+        "Spicy food",
+        "Septic tooth",
+        "Sjogren syndrome",
+        "Syphilis"
+      ],
+      "correct_option_id": 3,
+      "explanation": "The '5 Ss' of tongue cancer risk are: Smoking, Spirits (alcohol), Spices, Sepsis (dental), and Syphilis. Sjogren's syndrome is not a standard risk factor for SCC of the tongue.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Head & Neck"
+    },
+    {
+      "id": 8534,
+      "question": "A 6y boy has a 2cm pulsatile lesion on the right cheek, enhancing since birth, with a thrill and harsh bruit. It has multiple feeding arteries. What is the best treatment option?",
+      "options": [
+        "External beam radiotherapy.",
+        "Ligation of the feeding arteries.",
+        "LASER therapy.",
+        "Embolization followed by surgery."
+      ],
+      "correct_option_id": 3,
+      "explanation": "The description fits a high-flow Arteriovenous Malformation (pulsatile, thrill). The standard management is angio-embolization to reduce vascularity followed by surgical excision.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Vascular Anomalies"
+    },
+    {
+      "id": 8535,
+      "question": "Fastest promoter of epithelization in wound healing occurs with:",
+      "options": [
+        "Tight approximation of wound edges.",
+        "Occlusive dressing.",
+        "Leaving the wound open.",
+        "Steroid Application."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Occlusive dressings maintain a moist wound environment, which facilitates faster migration of epithelial cells across the wound bed compared to a dry environment (scab).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Wound Healing"
+    },
+    {
+      "id": 8536,
+      "question": "In unilateral harelip, the following statements are true EXCEPT that it:",
+      "options": [
+        "Affects the upper lip only.",
+        "Moy be partial or complete.",
+        "Due to failed fusion of maxillary process with fronto-nasal process.",
+        "Is always associated with nasal deformity.",
+        "Produces no serious speech defects."
+      ],
+      "correct_option_id": 4,
+      "explanation": "Cleft lip affects labial sounds and is often linked to alveolar clefts causing articulation issues. Thus, 'no serious speech defects' is the false statement.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Cleft Lip & Palate"
+    },
+    {
+      "id": 8537,
+      "question": "The following are subtypes of capillary hemangioma EXCEPT:",
+      "options": [
+        "Strawberry hemangioma.",
+        "Portwine hemangioma.",
+        "Cirsoid aneurism.",
+        "Salmon Patch."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Cirsoid aneurysm is an arteriovenous fistula/malformation, distinct from capillary hemangiomas or malformations like Strawberry hemangioma or Port-wine stain.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Vascular Anomalies"
+    },
+    {
+      "id": 8538,
+      "question": "The repair of cleft lip should be done at which age:",
+      "options": [
+        "1 month.",
+        "3 months.",
+        "6 months.",
+        "1 year."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Cleft lip is typically repaired around 3 months of age, often following the 'Rule of 10s' (10 weeks old, 10 lbs weight, 10g Hb).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Cleft Lip & Palate"
+    },
+    {
+      "id": 8539,
+      "question": "The main advantage of Lund and Browder charts over rule of nines is:",
+      "options": [
+        "It is easier.",
+        "More accurate regarding sex of patient.",
+        "More accurate regarding age of patient.",
+        "All of the above."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Lund and Browder charts account for changing body proportions (e.g., large head in children), making them more accurate than the Rule of Nines for pediatrics.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Burns"
+    },
+    {
+      "id": 8540,
+      "question": "The most frequent gastrointestinal complication of an extensive burn is:",
+      "options": [
+        "Acute gastritis.",
+        "Acute dilatation of the stomach.",
+        "Curling's ulcer.",
+        "Paralytic ileus.",
+        "Diarrhea."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Acute gastric dilatation/paralytic ileus is a very common early complication. While Curling's ulcer is specific to burns, dilation is frequently cited as most common.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Burns"
+    },
+    {
+      "id": 8541,
+      "question": "Which of the following is not true about keloids?",
+      "options": [
+        "Keloid is excessive scar formation within and outside the boundaries of skin incision.",
+        "Recurrence rate of keloid after excision is 10-20%.",
+        "Exact cause of keloid formation is not known but fibroblast dysfunction is commonly attributed.",
+        "Adjunctive treatment besides surgery gives the best results."
+      ],
+      "correct_option_id": 1,
+      "explanation": "The recurrence rate of keloids after simple excision alone is very high (50-80% or more). A rate of 10-20% is incorrect unless adjuvant therapy (like steroids or radiation) is used.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Wound Healing"
+    },
+    {
+      "id": 8542,
+      "question": "Which of the following is true about Langer's line of the skin?",
+      "options": [
+        "These are in the direction of muscle fibers.",
+        "These are perpendicular to the long axis of underlying muscle fibers.",
+        "Most favorable incision is circular over an exposed area.",
+        "Most favorable incision is a rhomboid shaped one over an exposed area."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Langer's lines (relaxed skin tension lines) run parallel to skin creases, which are formed perpendicular to the direction of the underlying muscle contraction.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Wound Healing"
+    },
+    {
+      "id": 8543,
+      "question": "A case presented by chronic ulcer resistant for healing, the following support your diagnosis as basal cell carcinoma except:",
+      "options": [
+        "Male sex",
+        "50 years age",
+        "Face as primary site",
+        "The surgeon decision to conserve"
+      ],
+      "correct_option_id": 3,
+      "explanation": "A chronic, non-healing ulcer on the face of a middle-aged male is highly suspicious for malignancy (BCC). The decision to 'conserve' (observe) is inappropriate; biopsy or excision is required.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 8544,
+      "question": "All of the following are signs of epitheliomatous transformation in basal cell carcinoma except:",
+      "options": [
+        "Rapid growth",
+        "Invasion of basement membrane",
+        "Everted edges",
+        "Hard fixed LNs"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Basement membrane invasion defines carcinoma, not transformation. Rapid growth, everted edges, and LN involvement indicate aggressive behavior or SCC transformation.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 8545,
+      "question": "Amelanotic melanoma is differentiated from SCC by:",
+      "options": [
+        "X-ray to detect bone affection",
+        "LNs biopsy",
+        "DOPA test",
+        "Can not be differentiated except after excision"
+      ],
+      "correct_option_id": 2,
+      "explanation": "DOPA reaction detects tyrosinase in melanocytes. Amelanotic melanomas still contain this enzyme despite lacking pigment, differentiating them from SCC.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 8546,
+      "question": "Concerning basal-cell carcinomas, the false statement is that they are:",
+      "options": [
+        "Much less common than squamous cell carcinomas.",
+        "Very rare in oriental and black races.",
+        "Particularly common in tropical regions.",
+        "Histologically: dark-staining solid masses of cells from the basal layer.",
+        "Commonest on the exposed skin of blonde subjects and outdoor workers."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Basal Cell Carcinoma (BCC) is the most common form of skin cancer, significantly more common than Squamous Cell Carcinoma (SCC).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 8547,
+      "question": "Contraindications to irradiation in skin malignancy include the following except:",
+      "options": [
+        "Recurrent tumors (after irradiation)",
+        "Deeply invasive tumors",
+        "Lesions in upper half of face",
+        "Old age group"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Old age is not a contraindication; radiotherapy is often preferred in elderly poor surgical candidates. Recurrence and deep invasion are contraindications.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 8548,
+      "question": "In Parkland's formula, the initial fluid replacement in 1st day is:",
+      "options": [
+        "5% glucose",
+        "Normal saline",
+        "Ringer lactate",
+        "Normal saline + ringer lactate",
+        "Blood + Normal saline guided by hematocrete value"
+      ],
+      "correct_option_id": 2,
+      "explanation": "The Parkland formula mandates the use of crystalloids, specifically Ringer's Lactate, for volume resuscitation in the first 24 hours post-burn.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Burns"
+    },
+    {
+      "id": 8549,
+      "question": "Malignant melanoma is characterized by the following except:",
+      "options": [
+        "Rarely arises from hair-bearing naevi.",
+        "Frequently arises from junctional naevi.",
+        "Is rare in the black races.",
+        "Is radiosensitive.",
+        "Carries the worst prognosis when arising in the head, neck or trunk."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Malignant melanoma is traditionally considered radio-resistant, and surgery is the primary treatment modality.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 8550,
+      "question": "Risk factors for malignant transformation in naevi include the following except:",
+      "options": [
+        "Microscopic → junctional type",
+        "Macroscopic → lentigo",
+        "Incomplete removal",
+        "Chronic irritation"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Lentigo (simple lentigo) is a benign pigmented spot and is generally not considered a high-risk precursor for malignant transformation compared to junctional activity or chronic irritation.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 8551,
+      "question": "Surgical excision in malignant melanoma:",
+      "options": [
+        "Is performed only in inoperable case",
+        "Is advisable whatever the stage and type",
+        "Can be replaced by irradiation",
+        "There is no need for surgical excision of LNs"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Wide surgical excision is the cornerstone of melanoma treatment for all stages (curative for early stages, palliative for advanced/metastatic).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 8552,
+      "question": "The best prognostic plastic factor in malignant melaonoma is:",
+      "options": [
+        "Clark's level",
+        "Age of the patient",
+        "Duration of the disease",
+        "Breslo's staging (tumor thickness)"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Breslow thickness (measured in millimeters) is the single most important prognostic factor for localized malignant melanoma.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 8553,
+      "question": "The following (are) is correct about incidence of malignant melanoma:",
+      "options": [
+        "The most common type is the superficial spreading one",
+        "Its more common in males",
+        "Overall incidence is declining",
+        "Very rare to occur on top of benign mealonma"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Superficial Spreading Melanoma is the most common subtype, accounting for approximately 70% of all melanoma cases.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 8554,
+      "question": "The following about squamous cell carcinoma is untrue:",
+      "options": [
+        "Xeroderma pigmentosa is a recognized risk factor",
+        "SCC occurs in sun exposure areas",
+        "SSS is called marjolin's ulcer when it occurs in chronic ulcers",
+        "It can give distant metastasis in contrary to BCC",
+        "All are true"
+      ],
+      "correct_option_id": 4,
+      "explanation": "All the listed statements are true: Xeroderma and sun exposure are risk factors, Marjolin's ulcer is an SCC arising in a chronic wound, and SCC has metastatic potential (unlike BCC).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 8555,
+      "question": "The following are (is) correctly matched about origin of skin tumors:",
+      "options": [
+        "Squamous cell carcinoma epidermis",
+        "Basal cell carcinoma → Basal areas or appendages",
+        "Melanoma → melanocytes",
+        "All of the above"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Squamous Cell Carcinoma arises from keratinocytes in the epidermis, Basal Cell Carcinoma from the basal layer or hair follicles, and Melanoma from melanocytes. All matches are correct.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 8556,
+      "question": "The following are (is) incorrectly matched about behavior of skin tumors:",
+      "options": [
+        "Malignant melanoma → locally malignant tumor",
+        "Squamous cell carcinoma malignant tumor",
+        "Basal cell carcinoma locally malignant tumor",
+        "Hemangioma → Hamartoma",
+        "Nevi benign tumor"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Malignant melanoma is an aggressive tumor with a high propensity for distant metastasis; describing it merely as 'locally malignant' (like BCC) is incorrect.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 8557,
+      "question": "The following are type of subtypes of capillary hemangioma except:",
+      "options": [
+        "Strawberry hemangioma",
+        "Portwine hemangioma",
+        "Cirsoid aneurism",
+        "Salmon Patch"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Cirsoid aneurysm is a form of arteriovenous malformation, not a capillary hemangioma.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Vascular Anomalies"
+    },
+    {
+      "id": 8558,
+      "question": "The following statements about bedsores (Decubitus ulcers) are correct except:",
+      "options": [
+        "Occur in bed-ridden patients.",
+        "Usually involve pressure points on the back.",
+        "Result from pressure ischemia and sloughing.",
+        "Never penetrate deeply to involve muscle and bone.",
+        "Are preventable by proper nursing care."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Advanced pressure sores (Stage IV) frequently penetrate deeply, involving muscle, tendon, and bone, leading to osteomyelitis.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Reconstructive Surgery"
+    },
+    {
+      "id": 8559,
+      "question": "The following type of malignant melanoma has the best prognosis:",
+      "options": [
+        "Superficial spreading type",
+        "Amelanotic melanoma",
+        "Acral type",
+        "Nodular melanoma"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Superficial Spreading Melanoma has a better prognosis due to a prolonged radial growth phase before vertical invasion compared to nodular types.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 8560,
+      "question": "The main advantage of Lund and Browder charts overrule of nines is:",
+      "options": [
+        "It is easier",
+        "More accurate to regarding sex of patient",
+        "More accurate regarding age of patient",
+        "All of the above"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Lund and Browder charts provide age-specific adjustments for body surface area percentages, making them more accurate than the Rule of Nines, especially for children.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Burns"
+    },
+    {
+      "id": 8561,
+      "question": "The most characteristic histopathological finding in basal cell carcinoma is:",
+      "options": [
+        "Microscopic LNs metastasis",
+        "Cell nests",
+        "Pallisade appearance",
+        "Anaplastic collections"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Histologically, BCC is characterized by nests of basaloid cells with peripheral 'palisading' (cells aligned in a parallel fence-like manner at the edge).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 8562,
+      "question": "The most common type of basal cell carcinoma is:",
+      "options": [
+        "Rodent ulcer",
+        "Turban type",
+        "Pigment type",
+        "Field fire type"
+      ],
+      "correct_option_id": 0,
+      "explanation": "The Nodulo-ulcerative type, clinically referred to as a Rodent Ulcer, is the most common variant of Basal Cell Carcinoma.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 8563,
+      "question": "The most frequent gastrointestinal complication of an extensive burn is:",
+      "options": [
+        "Acute gastritis.",
+        "Acute dilatation of the stomach.",
+        "Curling's ulcer.",
+        "Paralytic ileus.",
+        "Diarrhea."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Acute gastric dilatation/ileus is a very common early complication in extensive burns. (Note: Curling's ulcer is specific but often less frequent than simple ileus/dilation in the acute phase).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Burns"
+    },
+    {
+      "id": 8564,
+      "question": "The prognosis of patients with malignant melanoma depends on:",
+      "options": [
+        "Depth of invasion.",
+        "Clinical stage of the disease.",
+        "Location of the tumor.",
+        "All of the above.",
+        "None of the above."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Prognosis is determined by tumor thickness (Breslow depth), stage (presence of nodal or distant metastasis), and anatomical location (BANS areas - Back, Arm, Neck, Scalp - often have worse outcomes).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 8565,
+      "question": "Which statement is incorrect concerning rodent ulcer?",
+      "options": [
+        "Is a basal-cell carcinoma.",
+        "Have a red granular floor and a rolled-in beaded edge.",
+        "May be pigmented.",
+        "May spread to regional lymph nodes.",
+        "Is best treated by surgical excision."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Rodent ulcer (BCC) is locally invasive but does not metastasize to regional lymph nodes (incidence is < 0.1%).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Skin Tumors"
+    },
+    {
+      "id": 8566,
+      "question": "Which statement is incorrect concerning varicose ulcers?",
+      "options": [
+        "Are always chronic and often recurrent.",
+        "Occur most often on the medial aspect of the lower third of the leg.",
+        "Are always associated with superficial varicosities.",
+        "Have punched-out edges.",
+        "Are often surrounded by an area of induration, pigmentation, edema and dermatitis."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Venous ulcers result from deep venous hypertension. Visible superficial varicosities may be absent if the issue is deep venous incompetence.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Reconstructive Surgery"
+    },
+    {
+      "id": 8567,
+      "question": "Which statement is untrue concerning malignant melanoma?",
+      "options": [
+        "Is common in children, negroes, and Asians.",
+        "Usually occurs between the ages of 50 and 60 years.",
+        "May arise do novo or in a benign pigmented naevus.",
+        "Always carries a bad prognosis.",
+        "May undergo spontaneous regression."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Malignant melanoma is rare in children and significantly less common in darker-skinned populations (Negroes/Asians) compared to fair-skinned individuals.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Plastic Surgery",
+      "chapter": "Skin Tumors"
+    }
+  ]
+}

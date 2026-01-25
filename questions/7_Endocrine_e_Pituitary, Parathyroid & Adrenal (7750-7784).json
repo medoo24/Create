@@ -1,0 +1,595 @@
+{
+  "meta": {
+    "source": "Term 7 - Endocrine",
+    "lesson": "Pituitary, Parathyroid & Adrenal"
+  },
+  "questions": [
+    {
+      "id": 7750,
+      "question": "Acromegaly associated with the following EXCEPT:",
+      "options": [
+        "Skin is oily",
+        "Cardiomegaly",
+        "Multi-nodular goiter",
+        "Micro-genetalia"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Acromegaly causes visceromegaly, goiter, and thickened oily skin. Micro-genitalia is a feature of hypogonadism (e.g., Kallmann syndrome), whereas acromegaly typically causes acral enlargement.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Acromegaly & Pituitary"
+    },
+    {
+      "id": 7751,
+      "question": "Acromegaly is characterized by the following EXCEPT:",
+      "options": [
+        "Big hands & feet",
+        "Prognathism",
+        "Moon face",
+        "Separated teeth"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Moon face is a characteristic sign of Cushing's syndrome (Hypercortisolism), not acromegaly. Acromegaly features include acral enlargement, prognathism, and dental separation.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Acromegaly & Pituitary"
+    },
+    {
+      "id": 7752,
+      "question": "Acromegaly is due to a disease in:",
+      "options": [
+        "Ant. Pituitary",
+        "Post. Pituitary",
+        "Neither"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Acromegaly is caused by excessive growth hormone (GH) secretion, most commonly from an adenoma in the Anterior Pituitary gland.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Acromegaly & Pituitary"
+    },
+    {
+      "id": 7753,
+      "question": "An 8-year-old child with short stature (<3rd percentile) has a bone age 3 years younger than chronological age. Which diagnosis should be considered?",
+      "options": [
+        "Genetic short stature",
+        "Skeletal dysplasias",
+        "Intrauterine growth retardation",
+        "Turner syndrome",
+        "Growth hormone deficiency"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Significant bone age delay and slow growth suggest hormonal causes like GH deficiency or hypothyroidism. Genetic short stature usually shows bone age consistent with chronological age.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Growth & Puberty"
+    },
+    {
+      "id": 7754,
+      "question": "C/P of acromegaly include all of the following EXCEPT:",
+      "options": [
+        "Arthropathy& myopathy",
+        "Goiter & cardiomegaly",
+        "Hypertension &Impaired glucose tolerance",
+        "Increase sweeting & headache",
+        "Skin atrophy"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Acromegaly leads to skin thickening (pachydermoperiostosis) and increased collagen deposition, not skin atrophy. Skin atrophy is typical of Cushing's syndrome.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Acromegaly & Pituitary"
+    },
+    {
+      "id": 7755,
+      "question": "Causes of short stature in childhood not include:",
+      "options": [
+        "Turner`s syndrome",
+        "Emotional deprivation",
+        "Cushing syndrome",
+        "Hyperthyroidism",
+        "Primary hypothyroidism"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Hyperthyroidism causes accelerated growth and tall stature, not short stature. Hypothyroidism, Cushing's, and Turner's syndrome are established causes of growth failure.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Growth & Puberty"
+    },
+    {
+      "id": 7756,
+      "question": "Features of primary hyperparathyroidism include:",
+      "options": [
+        "Diarrhoea",
+        "Biliary stones",
+        "Osteoporosis",
+        "Cataracts",
+        "Peptic ulcer"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Hypercalcemia from hyperparathyroidism stimulates gastrin secretion, increasing the risk of peptic ulcer disease. It is associated with 'stones, bones, groans, and psychic moans'.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Parathyroid & Bone Metabolism"
+    },
+    {
+      "id": 7757,
+      "question": "In investigation of acromegaly all are true EXCEPT:",
+      "options": [
+        "Failure to suppress GH < 2 mg /ml after glucose dose",
+        "Increase IGF_1",
+        "MRI sella turcica reveals pituitary adenoma",
+        "Decreased serum prolactin"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Acromegaly is frequently associated with hyperprolactinemia, either due to co-secretion from the tumor or stalk compression, rather than decreased prolactin.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Acromegaly & Pituitary"
+    },
+    {
+      "id": 7758,
+      "question": "Osteomalacia is due to deficiency of:",
+      "options": [
+        "FSH and LH",
+        "PTH",
+        "Calcitonin",
+        "Glucagon",
+        "Vit D"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Osteomalacia is characterized by defective bone mineralization in adults, primarily caused by Vitamin D deficiency.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Parathyroid & Bone Metabolism"
+    },
+    {
+      "id": 7759,
+      "question": "Prognathism is important sign in acromegaly; is due to enlargement of:",
+      "options": [
+        "Maxilla",
+        "Nasal bones",
+        "Mandible",
+        "Cranium",
+        "Tongue"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Prognathism in acromegaly is due to the disproportionate overgrowth of the mandible (lower jaw), leading to an underbite and separation of teeth.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Acromegaly & Pituitary"
+    },
+    {
+      "id": 7760,
+      "question": "Recognized causes of short stature in childhood are all of the following EXCEPT:",
+      "options": [
+        "Klinefelter`s syndrome",
+        "Turner`s syndrome",
+        "Emotional deprivation",
+        "Cushing `s syndrome",
+        "Hypothyroidism"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Klinefelter's syndrome (47, XXY) is associated with tall stature and eunuchoid proportions due to delayed epiphyseal closure, whereas the other options cause short stature.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Growth & Puberty"
+    },
+    {
+      "id": 7761,
+      "question": "Recognized complications of acromegaly:",
+      "options": [
+        "Exophthalmos",
+        "Diabetes mellitus",
+        "Pathological fracture",
+        "Decreased sweating"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Growth Hormone opposes insulin action; therefore, excess GH in acromegaly frequently leads to insulin resistance, impaired glucose tolerance, and Diabetes Mellitus.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Acromegaly & Pituitary"
+    },
+    {
+      "id": 7762,
+      "question": "The characteristic finding in acromegaly the following EXCEPT:",
+      "options": [
+        "Prognathism",
+        "Hypoglycemia",
+        "Hypertension"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Acromegaly causes hyperglycemia (diabetes), not hypoglycemia, due to the insulin-antagonistic effects of Growth Hormone.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Acromegaly & Pituitary"
+    },
+    {
+      "id": 7763,
+      "question": "The clinical features of acromegaly does not include:",
+      "options": [
+        "Cardiomegaly",
+        "Myopathy",
+        "Decreased sebum secretion",
+        "Impaired glucose tolerance",
+        "Goiter"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Acromegaly is associated with 'greasy' oily skin due to increased sebum secretion, not decreased secretion.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Acromegaly & Pituitary"
+    },
+    {
+      "id": 7764,
+      "question": "The diagnosis of primary hyperparathyroidism is most strongly suggested by:",
+      "options": [
+        "Serum acid phosphatase > 120 IU/L",
+        "Serum alkaline phosphatase > 120 IU/L",
+        "Serum calcium > 11 mg/dL",
+        "Parathyroid hormone levels < 5 pmol/L",
+        "Urinary calcium <100 mg/day"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Hypercalcemia (Serum Calcium > 11 mg/dL) is the hallmark. Diagnosis is confirmed by demonstrating inappropriately high or non-suppressed PTH in the setting of hypercalcemia.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Parathyroid & Bone Metabolism"
+    },
+    {
+      "id": 7765,
+      "question": "The following is a feature of primary hyperparathyroidism:",
+      "options": [
+        "High calcium, high phosphate and high PTH",
+        "Low calcium, high phosphate and high PTH",
+        "High calcium, low phosphate and high PTH",
+        "High calcium, high phosphate and low PTH",
+        "Low calcium, low phosphate and high PTH"
+      ],
+      "correct_option_id": 2,
+      "explanation": "PTH increases serum calcium (bone resorption/renal reabsorption) and decreases serum phosphate (renal excretion). Thus, primary HPT presents with High Calcium, Low Phosphate, and High PTH.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Parathyroid & Bone Metabolism"
+    },
+    {
+      "id": 7766,
+      "question": "The main active form of vitamin D in the body is:",
+      "options": [
+        "24,25 dihydroxyvitamin D",
+        "Calcitonin",
+        "1,24 dihydroxycholecalciferol",
+        "Calcitriol",
+        "1 hydroxycholecalctriol"
+      ],
+      "correct_option_id": 3,
+      "explanation": "The main active form is 1,25-dihydroxycholecalciferol, also known as Calcitriol. It is hydroxylated in the kidney.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Parathyroid & Bone Metabolism"
+    },
+    {
+      "id": 7767,
+      "question": "The most frequent cause of primary hyperparathyroidism is:",
+      "options": [
+        "Parathyroid adenoma",
+        "Idiopathic parathyroid hyperplasia",
+        "Primary parathyroid carcinoma",
+        "Familial hyperparathyroidism",
+        "Ectopic production of parathormone"
+      ],
+      "correct_option_id": 0,
+      "explanation": "A single parathyroid adenoma accounts for approximately 80-85% of cases of primary hyperparathyroidism.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Parathyroid & Bone Metabolism"
+    },
+    {
+      "id": 7768,
+      "question": "The storage form of Vit D is:",
+      "options": [
+        "26- vit D",
+        "25 vit D",
+        "1-25 vit D",
+        "1-vit D",
+        "25-1 vit D"
+      ],
+      "correct_option_id": 1,
+      "explanation": "25-hydroxyvitamin D (25(OH)D or calcidiol), produced in the liver, is the major storage form and the one measured in blood to assess Vitamin D status.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Parathyroid & Bone Metabolism"
+    },
+    {
+      "id": 7769,
+      "question": "Typical features of acromegaly include all of the following EXCEPT:",
+      "options": [
+        "Thoracic kyphosis& myopathy",
+        "Hypertension & D.M.",
+        "Goiter& cardiomegaly",
+        "Hyperhidrosis",
+        "Growth hormone suppression during a glucose tolerance test"
+      ],
+      "correct_option_id": 4,
+      "explanation": "In healthy people, glucose suppresses GH. In acromegaly, GH secretion is autonomous, failing to suppress during an oral glucose tolerance test (OGTT).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Acromegaly & Pituitary"
+    },
+    {
+      "id": 7770,
+      "question": "Which of the following bone mineral density (BMD) scores in a postmenopausal woman or in a man >/= 50 years of age indicates osteopenia?",
+      "options": [
+        "BMD within 1 SD of young adult mean and T-score >= -1",
+        "BMD 1 SD below the mean and a T-score of 1",
+        "BMD > 2.5 SDs below the mean and a T-score <-2.5",
+        "BMD 1-2.5 SDs below the mean and a T-score between -1 and -2.5",
+        "None of the above"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Osteopenia is defined as a T-score between -1.0 and -2.5. Osteoporosis is a T-score of -2.5 or lower.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Parathyroid & Bone Metabolism"
+    },
+    {
+      "id": 7771,
+      "question": "Which of the following glucose transporters is crucial for glucose uptake by skeletal muscle and fat:",
+      "options": [
+        "GLUT 1",
+        "GLUT 2",
+        "GLUT 3",
+        "GLUT 4",
+        "GLUT 5"
+      ],
+      "correct_option_id": 3,
+      "explanation": "GLUT 4 is the insulin-regulated glucose transporter found primarily in adipose tissues and striated muscle (skeletal and cardiac).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Glucose Metabolism"
+    },
+    {
+      "id": 7772,
+      "question": "Which of the following signs/symptoms are pathognomonic of hyperparathyroidism?",
+      "options": [
+        "Pathologic fractures of the metacarpals",
+        "Calcium oxalate nephrolithiasis",
+        "Hypercalcemia causing mental status changes",
+        "Atrophy of Type II muscle fibers",
+        "Osteitis fibrosa cystica"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Osteitis fibrosa cystica (brown tumors and cysts) is the specific skeletal manifestation of advanced hyperparathyroidism due to extensive bone resorption.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Parathyroid & Bone Metabolism"
+    },
+    {
+      "id": 7773,
+      "question": "Which of the following is the current standard method of evaluating bone mineral density (BMD):",
+      "options": [
+        "Radiographic absorptiometry",
+        "Dual-energy x-ray absorptiometry (DEXA)",
+        "Single-photon absorptiometry (SPA)",
+        "Dual-photon absorptiometry (DPA)",
+        "Magnetic Resonance Imaging"
+      ],
+      "correct_option_id": 1,
+      "explanation": "DEXA (Dual-energy X-ray absorptiometry) is the gold standard for measuring bone mineral density.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Parathyroid & Bone Metabolism"
+    },
+    {
+      "id": 7774,
+      "question": "A 26-year-old man presents with decreased libido and erectile dysfunction. He is 1.85 m tall, has sparse hair, gynecomastia, and small firm testicles. Labs show low testosterone. What is the diagnosis?",
+      "options": [
+        "FSH- secreting pituitary adenoma (FSHoma)",
+        "Kallmann syndrome",
+        "Klinefelter`s syndrome",
+        "Prolactinoma",
+        "Thyrotoxicosis"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Tall stature, gynecomastia, and small firm testes indicate Klinefelter's Syndrome (47, XXY). Kallmann's typically features anosmia without the tall stature or gynecomastia.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Reproductive Endocrinology"
+    },
+    {
+      "id": 7775,
+      "question": "All the following are causes of hypergonadotrophic hypogonadism EXCEPT:",
+      "options": [
+        "Turner`s syndrome",
+        "Klinefelter`s syndrome",
+        "Orchitis",
+        "Radiation of pituitary gland",
+        "Premature ovarian failure"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Pituitary radiation leads to secondary (hypogonadotrophic) hypogonadism. The other options cause primary gonadal failure, resulting in hypergonadotrophic hypogonadism.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Reproductive Endocrinology"
+    },
+    {
+      "id": 7776,
+      "question": "Chromosomal study of Turners syndrome is:",
+      "options": [
+        "46 XY",
+        "47 XXY",
+        "46 XY",
+        "45 XO",
+        "47 XYY"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Turner syndrome is characterized by a 45, XO karyotype (monosomy X).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Reproductive Endocrinology"
+    },
+    {
+      "id": 7777,
+      "question": "Interstitial cells of Leydig mainly secretes:",
+      "options": [
+        "ILGf -1",
+        "Somatostatin",
+        "Estrogen",
+        "FSH",
+        "Testosterone"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Leydig cells in the testes produce testosterone in response to LH stimulation.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Reproductive Endocrinology"
+    },
+    {
+      "id": 7778,
+      "question": "Klinefelter`s syndrome does not include one of the following:",
+      "options": [
+        "Gynecomastia",
+        "Small testes",
+        "Short stature",
+        "47, XXY",
+        "Decreased penile length"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Patients with Klinefelter's syndrome typically have tall stature due to delayed fusion of epiphyses, not short stature.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Reproductive Endocrinology"
+    },
+    {
+      "id": 7779,
+      "question": "Klinefelter`s syndrome does not include one of the following:",
+      "options": [
+        "Gynecomastia",
+        "Normal testicular size",
+        "Tall stature",
+        "47, XXY",
+        "Decreased penile length"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Klinefelter's syndrome is characterized by small, firm, fibrotic testes (hypogonadism), so normal testicular size is incorrect.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Reproductive Endocrinology"
+    },
+    {
+      "id": 7780,
+      "question": "Premature sexual development may be not associated with:",
+      "options": [
+        "Neurofibromatosis",
+        "Al bright syndrome",
+        "Congenital adrenal hyperplasia",
+        "Tumor of ovary",
+        "Thyroid disorders"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Hypothyroidism typically causes delayed puberty. While rare cases (Van Wyk-Grumbach) exist, McCune-Albright, CAH, and ovarian tumors are classic causes of precocious puberty.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Growth & Puberty"
+    },
+    {
+      "id": 7781,
+      "question": "The hormone that secreted by Sertoli cells during male fetus development:",
+      "options": [
+        "Testosterone",
+        "Dehydroepiandrosterone sulfate",
+        "Androstenedione",
+        "Antimullerian hormone",
+        "Androsterone"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Sertoli cells secrete Anti-Mullerian Hormone (AMH) during fetal development, which causes the regression of Mullerian (paramesonephric) ducts.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Reproductive Endocrinology"
+    },
+    {
+      "id": 7782,
+      "question": "What chromosome abnormality is associated with Klinefelter`s syndrome?",
+      "options": [
+        "47, XO",
+        "47, XXY",
+        "46, XXY",
+        "47, XYY",
+        "47, XXO"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Klinefelter's syndrome is typically caused by the 47, XXY karyotype.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Reproductive Endocrinology"
+    },
+    {
+      "id": 7783,
+      "question": "Delayed puberty in a girl is absence of development by 13 years old of:",
+      "options": [
+        "Pubic hair",
+        "Ovaries",
+        "Menstrual cycle",
+        "Breast",
+        "Uterus"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Delayed puberty in females is defined as the lack of breast development (the first sign of puberty, thelarche) by age 13.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Growth & Puberty"
+    },
+    {
+      "id": 7784,
+      "question": "Delayed puberty in a girl is absence of development by 16 years old of:",
+      "options": [
+        "Pubic hair",
+        "Vagina",
+        "Menstrual cycle",
+        "Metacarpal bone",
+        "Axillary hair"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Delayed puberty also includes primary amenorrhea, defined as the absence of menarche (menstrual cycle) by age 16 with normal secondary sexual characteristics, or by 14 if no secondary characteristics.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary, Parathyroid & Adrenal",
+      "chapter": "Growth & Puberty"
+    }
+  ]
+}

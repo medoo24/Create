@@ -1,0 +1,745 @@
+{
+  "meta": {
+    "source": "Term 7 - General Surgery",
+    "lesson": "Testis"
+  },
+  "questions": [
+    {
+      "id": 8570,
+      "question": "The tunica vaginalis is a part of:",
+      "options": [
+        "External oblique",
+        "Embryological remnants",
+        "Internal oblique",
+        "Peritoneum",
+        "Transversalis fascia"
+      ],
+      "correct_option_id": 3,
+      "explanation": "The tunica vaginalis is derived from the processus vaginalis, which is an outpouching of the peritoneum that descends into the scrotum with the testis.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Anatomy & Embryology"
+    },
+    {
+      "id": 8571,
+      "question": "In incompletely descended testis, which of the following statements is false?",
+      "options": [
+        "The incidence is 4 per cent.",
+        "A testis absent from the scrotum after 3 months is unlikely to descend.",
+        "An incompletely descended testis tends to atrophy as puberty approaches.",
+        "Early orchidopexy can preserve function.",
+        "Orchidopexy reduces the chances of developing a testicular tumour."
+      ],
+      "correct_option_id": 4,
+      "explanation": "Orchidopexy allows easier examination and early tumor detection but does not significantly lower malignancy risk, which remains higher than in the general population.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Cryptorchidism"
+    },
+    {
+      "id": 8572,
+      "question": "The following statements are true about a hydrocele EXCEPT:",
+      "options": [
+        "A hydrocele is a collection of fluid within the tunica vaginalis.",
+        "A congenital hydrocele causes an intermittent swelling.",
+        "An acute hydrocele in a young man may be a sinister finding.",
+        "Testicular pathology may cause a hydrocele.",
+        "Drainage is an effective treatment."
+      ],
+      "correct_option_id": 4,
+      "explanation": "Simple aspiration/ drainage not effective as fluid always reaccumulates and there is a risk of introducing infection. Surgical treatment (excision or plication of the sac) is required.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Hydrocele & Cysts"
+    },
+    {
+      "id": 8573,
+      "question": "Precocious puberty is a character of:",
+      "options": [
+        "Sertoli cell tumor.",
+        "Leydig cell tumor.",
+        "Seminoma.",
+        "Teratoma.",
+        "Lymphoma"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Leydig cell tumors (interstitial cell tumors) secrete androgens (testosterone), which can cause isosexual precocious puberty in prepubertal boys.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Testicular Tumors"
+    },
+    {
+      "id": 8574,
+      "question": "The vaginal hydrocele is characterized by all of the following EXCEPT:",
+      "options": [
+        "Fluctuation is positive.",
+        "Eversion and excision of the tunica is the main line of treatment.",
+        "The swelling is usually found above the neck of the scrotum.",
+        "Aspiration is followed by recurrence.",
+        "May complicated by infection and pyocele"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Vaginal hydrocele surrounds the testis in scrotum.  not above the neck of the scrotum; swellings in that region are typically inguinal hernias or encysted hydroceles of the cord.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Hydrocele & Cysts"
+    },
+    {
+      "id": 8575,
+      "question": "All of the following are causes of unilateral testicular arrest EXCEPT:",
+      "options": [
+        "Testicular dysgenesis.",
+        "Low maternal HCG.",
+        "Malformed inguinal canal.",
+        "Short testicular artery."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Low maternal HCG is a hormonal factor that affects the body systemically, typically leading to bilateral undescended testes, not unilateral arrest.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Cryptorchidism"
+    },
+    {
+      "id": 8576,
+      "question": "As regard the embryology of testis all are correct EXCEPT:",
+      "options": [
+        "Develops from the genital ridge.",
+        "Is embryologically on intraperitoneal structure.",
+        "Derives its blood supply directly from aorta.",
+        "Torsion only occurs on top of anomalous testis."
+      ],
+      "correct_option_id": 1,
+      "explanation": "The testis develops retroperitoneally (extraperitoneal) and descends behind the peritoneum. It is not an intraperitoneal structure.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Anatomy & Embryology"
+    },
+    {
+      "id": 8577,
+      "question": "Best time for orchiopexy is:",
+      "options": [
+        "At 1st day of life.",
+        "6-15 months.",
+        "At 5 years.",
+        "At puberty."
+      ],
+      "correct_option_id": 1,
+      "explanation": "The optimal time for orchidopexy is between 6 and 12-18 months to prevent histological deterioration of the germ cells, which begins after the first year of life.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Cryptorchidism"
+    },
+    {
+      "id": 8578,
+      "question": "Best treatment for testicular torsion is:",
+      "options": [
+        "Resuscitation.",
+        "Early operation to untwist the testis.",
+        "Orchiopexy for another testis.",
+        "All of the above in sequence."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Management includes resuscitation, urgent surgical detorsion, and orchidopexy of both the affected and contralateral testis.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Testicular Torsion"
+    },
+    {
+      "id": 8579,
+      "question": "Best treatment of retractile testis is:",
+      "options": [
+        "Reassurance.",
+        "Medical treatment.",
+        "Orchiopexy.",
+        "Orchidectomy."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Retractile testes are normal testes that retract due to a strong cremasteric reflex. They do not require surgery or hormonal therapy, only reassurance and follow-up.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Cryptorchidism"
+    },
+    {
+      "id": 8580,
+      "question": "Complications of varicocele include the following EXCEPT:",
+      "options": [
+        "Sub fertility.",
+        "Secondary hydrocele.",
+        "Malignancy.",
+        "Testicular atrophy."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Varicocele can cause pain, testicular atrophy, and infertility, but it is not a predisposing factor for testicular malignancy.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Varicocele"
+    },
+    {
+      "id": 8581,
+      "question": "Concerning undescended testis, the following statements are true EXCEPT that it:",
+      "options": [
+        "Affects about 1% of all males.",
+        "Is commoner on the right than on the left side.",
+        "Is bilateral in about 20% of cases.",
+        "May be intro-abdominal or extra-abdominal.",
+        "Is rarely associated with inguinal hernia."
+      ],
+      "correct_option_id": 4,
+      "explanation": "Undescended testis is associated with a patent processus vaginalis (clinical inguinal hernia) in over 90% of cases, making the statement that it is 'rarely associated' false.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Cryptorchidism"
+    },
+    {
+      "id": 8582,
+      "question": "Empty scrotum may be due to:",
+      "options": [
+        "Testicular agenesis.",
+        "Fetal testicular torsion.",
+        "Arrested testis.",
+        "Retractile testis.",
+        "All of the above"
+      ],
+      "correct_option_id": 4,
+      "explanation": "An empty scrotum can be caused by the absence of the testis (agenesis or vanishing testis from fetal torsion), failure to descend (arrested), or temporary retraction out of the scrotum.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Cryptorchidism"
+    },
+    {
+      "id": 8583,
+      "question": "Indications of surgical correction of varicocele include the following except:",
+      "options": [
+        "Severe persistent pain.",
+        "Thrombophlebitis.",
+        "Secondary varicocele.",
+        "All cases should be treated surgically for fear of complications."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Asymptomatic varicoceles without fertility issues do not require surgery. Treatment is reserved for cases with pain, infertility, or testicular atrophy.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Varicocele"
+    },
+    {
+      "id": 8584,
+      "question": "Inversion of testis may be:",
+      "options": [
+        "Anterior.",
+        "Anterolateral.",
+        "Lateral.",
+        "A & C"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Inversion of the testis (abnormal lie) can be anterior (epididymis in front) or lateral, predisposing the testis to torsion.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Testicular Torsion"
+    },
+    {
+      "id": 8585,
+      "question": "Most common site of arrest of testis is:",
+      "options": [
+        "Abdominal cavity.",
+        "Inguinal canal.",
+        "Pelvis.",
+        "Superficial inguinal pouch."
+      ],
+      "correct_option_id": 1,
+      "explanation": "The inguinal canal is the most frequent site where testicular descent is arrested.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Cryptorchidism"
+    },
+    {
+      "id": 8586,
+      "question": "Radiosensitive testicular neoplasm is:",
+      "options": [
+        "Seminoma.",
+        "Teratoma.",
+        "None of the above.",
+        "All of the above."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Seminomas are highly radiosensitive tumors, whereas non-seminomatous germ cell tumors (like teratomas) are radioresistant and treated primarily with chemotherapy.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Testicular Tumors"
+    },
+    {
+      "id": 8587,
+      "question": "Regarding choriocarcinoma all are correct EXCEPT:",
+      "options": [
+        "It is a subtype of teratoma.",
+        "Rarely gives lung metastasis.",
+        "Secretes HCG in large amounts.",
+        "All are true."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Choriocarcinoma is an aggressive tumor characterized by early hematogenous spread, most commonly to the lungs. Therefore, saying it 'rarely' gives lung metastasis is incorrect.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Testicular Tumors"
+    },
+    {
+      "id": 8588,
+      "question": "Regarding incidence of testicular neoplasm:",
+      "options": [
+        "Most testicular neoplasms are malignant.",
+        "Mostly occurs above 60 years of age.",
+        "Most common neoplasm is teratoma.",
+        "All of the above."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Approximately 95% of testicular tumors are malignant germ cell tumors. They typically affect young men (20-40 years), not the elderly.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Testicular Tumors"
+    },
+    {
+      "id": 8589,
+      "question": "Regarding testicular tumors, the untrue is:",
+      "options": [
+        "Seminomas and teratomas are more common thon non-germ cell tumors.",
+        "Seminomas send pulmonary metastasis.",
+        "They have on increased incidence in undescended testis.",
+        "A-fetoprotein and B-HCG are tumor markers.",
+        "The treatment of choice is radical orchidectomy."
+      ],
+      "correct_option_id": 1,
+      "explanation": "While late-stage seminomas can spread to lungs, early hematogenous (pulmonary) spread is a hallmark of non-seminomatous tumors (like choriocarcinoma). Seminomas typically spread via lymphatics first.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Testicular Tumors"
+    },
+    {
+      "id": 8590,
+      "question": "Risk factors of testicular arrest include:",
+      "options": [
+        "+Ve family history.",
+        "Down syndrome.",
+        "Teratogenic drugs.",
+        "Chronic maternal illness.",
+        "All of the above."
+      ],
+      "correct_option_id": 4,
+      "explanation": "Risk factors include family history, chromosomal abnormalities (like Down syndrome), maternal estrogen exposure, and conditions affecting placental function.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Cryptorchidism"
+    },
+    {
+      "id": 8591,
+      "question": "Size fluctuation is a character of:",
+      "options": [
+        "Infantile hydrocele.",
+        "Congenital hydrocele.",
+        "Both A and B.",
+        "None of the above."
+      ],
+      "correct_option_id": 1,
+      "explanation": "A congenital hydrocele communicates with the peritoneal cavity. Fluid drains back into the abdomen when recumbent (reducing size) and accumulates when upright (increasing size).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Hydrocele & Cysts"
+    },
+    {
+      "id": 8592,
+      "question": "Testicular arrest is associated with urinary anomalies in:",
+      "options": [
+        "5% of cases.",
+        "15% of cases.",
+        "40% of cases.",
+        "50% of cases."
+      ],
+      "correct_option_id": 1,
+      "explanation": "There is a significant association between undescended testes and upper urinary tract anomalies, occurring in approximately 10-20% of cases.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Cryptorchidism"
+    },
+    {
+      "id": 8593,
+      "question": "Testicular arrest is more:",
+      "options": [
+        "On left side.",
+        "On right side.",
+        "Equal on both sides."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Undescended testis is more common on the right side because the right testis descends later than the left one.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Cryptorchidism"
+    },
+    {
+      "id": 8594,
+      "question": "Testis not found by laparoscopy may be due to:",
+      "options": [
+        "Testicular agenesis.",
+        "Fetal testicular torsion.",
+        "Maldescended testis.",
+        "All of the above."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Non-visualization on laparoscopy may be due to testis agenesis, vanishing testis from vascular accident, or a hard-to-see location.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Cryptorchidism"
+    },
+    {
+      "id": 8595,
+      "question": "The following are complications of arrested testis:",
+      "options": [
+        "Torsion.",
+        "Trauma.",
+        "Tumor.",
+        "All of the above."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Undescended testes are at higher risk for torsion (due to developmental anomalies), trauma (compression against pubic bone), and malignancy.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Cryptorchidism"
+    },
+    {
+      "id": 8596,
+      "question": "The following statements about ectopic testis are true EXCEPT that it:",
+      "options": [
+        "Is probably due to rupture of the scrotal tail of the gubernaculum.",
+        "May lie in the groin or pubic region.",
+        "Does not develop normally.",
+        "Has normal long spermatic cord.",
+        "Can be easily replaced in the scrotum."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Unlike arrested (cryptorchid) testes which are often dysgenetic, ectopic testes usually develop normally and have a good prognosis if surgically relocated.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Cryptorchidism"
+    },
+    {
+      "id": 8597,
+      "question": "The main disadvantage of paloma operation is:",
+      "options": [
+        "Testicular artery injury.",
+        "High recurrence.",
+        "Hernia formation.",
+        "Injury to vas."
+      ],
+      "correct_option_id": 1,
+      "explanation": "The Palomo operation (high retroperitoneal ligation) can have higher recurrence than microscopic subinguinal approaches due to missed collateral veins.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Varicocele"
+    },
+    {
+      "id": 8598,
+      "question": "The management of testicular tumors includes the following EXCEPT:",
+      "options": [
+        "Testicular biopsy.",
+        "Radical orchidectomy.",
+        "Simple orchidectomy.",
+        "Radiotherapy.",
+        "Chemotherapy."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Testicular biopsy is contraindicated due to the risk of tumor spillage and lymphatic contamination of the scrotum. Diagnosis is based on tumor markers and imaging, followed by radical orchidectomy.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Testicular Tumors"
+    },
+    {
+      "id": 8599,
+      "question": "The most diagnostic investigation in arrested testis is:",
+      "options": [
+        "US.",
+        "CT.",
+        "Laparoscopy.",
+        "Doppler."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Diagnostic laparoscopy is the gold standard for locating non-palpable testes (intra-abdominal vs. absent).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Cryptorchidism"
+    },
+    {
+      "id": 8600,
+      "question": "The tunica vaginalis corresponds to:",
+      "options": [
+        "Internal oblique.",
+        "Transversalis fascia.",
+        "Peritoneum.",
+        "None of the above."
+      ],
+      "correct_option_id": 2,
+      "explanation": "The tunica vaginalis is the serous covering of the testis derived from the peritoneum.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Anatomy & Embryology"
+    },
+    {
+      "id": 8601,
+      "question": "What is not true of interstitial cell tumors of testes:",
+      "options": [
+        "Leydig cell tumor musculinizes.",
+        "Sertoli cell tumor feminizes.",
+        "Prepubertal tumors are from Sertoli cell.",
+        "Sertoli cell tumors are benign and orchidectomy is curative."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Prepubertal stromal tumors are not exclusively Sertoli cell tumors; Leydig cell tumors also occur and cause precocious puberty. Thus, the statement implying exclusivity to Sertoli cells is false.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Testicular Tumors"
+    },
+    {
+      "id": 8602,
+      "question": "Which of the following has earlier pulmonary metastases:",
+      "options": [
+        "Seminoma.",
+        "Teratoma.",
+        "Choriocarcinoma.",
+        "Embryonal cell carcinoma."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Choriocarcinoma has a very high propensity for rapid hematogenous spread, leading to early pulmonary metastases.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Testicular Tumors"
+    },
+    {
+      "id": 8603,
+      "question": "The most malignant testicular tumor is:",
+      "options": [
+        "Seminoma.",
+        "Embryonal carcinoma.",
+        "Choriocarcinoma.",
+        "Teratocarcinoma.",
+        "Teratoma."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Choriocarcinoma is considered the most malignant and aggressive histological type of testicular cancer.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Testicular Tumors"
+    },
+    {
+      "id": 8604,
+      "question": "Most common presentation of testicular neoplasm is:",
+      "options": [
+        "Severe dull aching pain.",
+        "Accidentally discovered painless mass.",
+        "Secondary hydrocele.",
+        "Bone pain &/or hemoptysis."
+      ],
+      "correct_option_id": 1,
+      "explanation": "The classic presentation is a painless, hard nodule or enlargement of the testis, often discovered accidentally by the patient.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Testicular Tumors"
+    },
+    {
+      "id": 8605,
+      "question": "In epididymo-orchitis, which of the following is false?",
+      "options": [
+        "The causes are chlamydia and gonococci as sexually transmitted infections.",
+        "The initial symptoms are those of urinary tract infection (UTI).",
+        "In mumps 18 per cent of men may develop the condition.",
+        "It is a common postoperative complication after prostatectomy.",
+        "Treatment is doxycycline for chlamydia or a broad-spectrum antibiotic."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Epididymo-orchitis is not a common complication of modern prostatectomy due to aseptic techniques and prophylactic antibiotics, unlike in the past.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Inflammatory Conditions"
+    },
+    {
+      "id": 8606,
+      "question": "The first LN station draining testis is:",
+      "options": [
+        "Inguinal.",
+        "Internal iliac.",
+        "Paraaortic.",
+        "Supraclavicular."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Lymphatic drainage follows the gonadal vessels to the para-aortic lymph nodes (level L1-L2), reflecting the embryological origin of the testis.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Anatomy & Embryology"
+    },
+    {
+      "id": 8607,
+      "question": "The hazards of incomplete descent of testis include all the following EXCEPT:",
+      "options": [
+        "Sterility in bilateral cases.",
+        "Trauma.",
+        "Torsion.",
+        "Increased liability to malignant change in later life.",
+        "Epididymo-orchitis."
+      ],
+      "correct_option_id": 4,
+      "explanation": "Epididymo-orchitis is generally less common in undescended testes because the location protects them from retrograde spread of pathogens from the urethra.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Cryptorchidism"
+    },
+    {
+      "id": 8608,
+      "question": "Which of the following statements are true with regard to testicular torsion?",
+      "options": [
+        "The typical symptom is sudden agonizing pain in the scrotum.",
+        "It is most common above 25 years of age.",
+        "Inversion of the testis and a transverse lie are not a cause.",
+        "Doppler ultrasound (US) scan should be done to confirm the diagnosis.",
+        "Emergency orchidopexy with non-absorbable sutures should be performed on both testes."
+      ],
+      "correct_option_id": 4,
+      "explanation": "The key point is that bilateral orchidopexy is mandatory to prevent recurrence and protect the contralateral testis; diagnosis is clinical to avoid delay.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Testicular Torsion"
+    },
+    {
+      "id": 8609,
+      "question": "Which of the following statements is false with regard to the management of testicular tumours?",
+      "options": [
+        "Tumour markers are measured, and a chest X-ray carried out.",
+        "Initial surgical treatment is orchidectomy through the groin.",
+        "Staging is done by CT scan and MRI.",
+        "Seminomas are radiosensitive.",
+        "Secondaries from teratoma are always treated by surgery."
+      ],
+      "correct_option_id": 4,
+      "explanation": "Metastatic non-seminomatous germ cell tumors are mainly treated with chemotherapy; surgery is for residual masses. Saying “always surgery” is incorrect.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Testicular Tumors"
+    },
+    {
+      "id": 8610,
+      "question": "The 1st LN station draining testis is:",
+      "options": [
+        "Inguinal.",
+        "Internal iliac.",
+        "Paraaortic.",
+        "Supraclavicular."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Testicular lymphatics drain directly to the para-aortic lymph nodes.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Anatomy & Embryology"
+    },
+    {
+      "id": 8611,
+      "question": "The following statements about spermatocele are correct except that it:",
+      "options": [
+        "Is a retention cyst in the head of the epididymis",
+        "Usually affects elderly males",
+        "Occurs as a painless globular swelling fixed to the upper pole of the testis",
+        "Is usually opaque on transillumination",
+        "Requires surgical excision"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Spermatoceles are fluid-filled cysts (containing sperm) and are translucent (positive transillumination), not opaque.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Hydrocele & Cysts"
+    },
+    {
+      "id": 8612,
+      "question": "Traction test is diagnostic of:",
+      "options": [
+        "Primary hydrocele.",
+        "Epididymal cyst.",
+        "Infantile hydrocele.",
+        "Encysted hydrocele of the cord."
+      ],
+      "correct_option_id": 3,
+      "explanation": "The traction test (pulling the testis downwards causes the swelling to move downwards) is characteristic of an encysted hydrocele of the cord, as it is attached to the cord.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Hydrocele & Cysts"
+    },
+    {
+      "id": 8613,
+      "question": "Which of the following is confirmatory of encysted hydrocele of cord:",
+      "options": [
+        "No impulse on cough.",
+        "Positive fluctuation and translucency.",
+        "Positive traction test.",
+        "You can get above the swelling."
+      ],
+      "correct_option_id": 2,
+      "explanation": "A positive traction test confirms the attachment of the cystic swelling to the spermatic cord.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Hydrocele & Cysts"
+    },
+    {
+      "id": 8614,
+      "question": "An adolescent male lifting a heavy weight develops sudden severe testicular, groin, and lower abdominal pain with vomiting, sweating, and collapse. Exam shows acutely tender, red, edematous inguinoscrotal swelling. He most likely has:",
+      "options": [
+        "Strangulated inguinal hernia",
+        "Traumatic orchitis",
+        "Acute epididymo-orchitis",
+        "Torsion of the testis",
+        "Acute filarial funiculo epididymitis"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Although the history of lifting might suggest hernia, the severity and autonomic symptoms (vomiting) strongly favor torsion.+ Sudden severe testicular pain and  acute scrotal signs. ",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Testis",
+      "chapter": "Testicular Torsion"
+    }
+  ]
+}

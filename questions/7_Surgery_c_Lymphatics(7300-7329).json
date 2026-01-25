@@ -1,0 +1,497 @@
+{
+  "meta": {
+    "source": "Term 7 - General Surgery",
+    "lesson": "Lymphatics"
+  },
+  "questions": [
+    {
+      "id": 7300,
+      "question": "A healthy 65-year-old male was found on routine examination to have a symptomless central abdominal pulsatile mass. The initial management should be:",
+      "options": [
+        "Repeated physical check-ups",
+        "Abdominal sonography",
+        "Aortography",
+        "Doppler examination of the arterial system",
+        "Exploratory laparotomy"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Abdominal ultrasound is the initial investigation of choice. It is non-invasive, accurate for diagnosis, and effective for measuring the size of an Abdominal Aortic Aneurysm.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Lymphatics",
+      "chapter": "Vascular Disorders"
+    },
+    {
+      "id": 7301,
+      "question": "About aspiration of cold abscess, all of the following is true except:",
+      "options": [
+        "Dependant site",
+        "Z-technique",
+        "Complete aspiration",
+        "Injection of streptomycin solution"
+      ],
+      "correct_option_id": 0,
+      "explanation": "A cold abscess should always be aspirated through non-dependent healthy skin (Z-technique) to prevent chronic leakage and sinus formation.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Lymphatics",
+      "chapter": "Tuberculous Lymphadenitis"
+    },
+    {
+      "id": 7302,
+      "question": "About Hodgkin's disease, the term 'drift back' expression means:",
+      "options": [
+        "Lower dose of treatment is needed after some time",
+        "With time there is affection of the LNs draining the back",
+        "With time the lesion becomes less differentiated",
+        "None of the above"
+      ],
+      "correct_option_id": 2,
+      "explanation": "'Drift back' refers to the phenomenon where tumor cells lose differentiation over time or upon recurrence, becoming more aggressive.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Lymphatics",
+      "chapter": "Lymphoma"
+    },
+    {
+      "id": 7303,
+      "question": "About Hodgkin's disease, all the following are true except:",
+      "options": [
+        "No malignant cells in the Blood stream",
+        "Unimodal age distribution",
+        "Most commonly in cervical LNs",
+        "No caseation of LNs"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Hodgkin's disease characteristically has a bimodal age distribution (peaks in young adulthood 15-35 years and older adults >55 years), not unimodal.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Lymphatics",
+      "chapter": "Lymphoma"
+    },
+    {
+      "id": 7304,
+      "question": "About incision of the cold abscess, all of the following is true except:",
+      "options": [
+        "Indicated if 2ry infection has occurred",
+        "Open deep fascia",
+        "Streptomycin powdering",
+        "Drain"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Incision is generally contraindicated for cold abscesses unless secondarily infected. Drains are avoided because they lead to chronic tuberculous sinuses.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Lymphatics",
+      "chapter": "Tuberculous Lymphadenitis"
+    },
+    {
+      "id": 7305,
+      "question": "About lymphadenoid type of TB lymphadenitis, all the following are true except:",
+      "options": [
+        "No caseation",
+        "No matting",
+        "No cold abscess",
+        "No affection of medulla"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Lymphadenoid TB is a hyperplastic form affecting the whole node structure diffusely. The statement 'No affection of medulla' is incorrect.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Lymphatics",
+      "chapter": "Tuberculous Lymphadenitis"
+    },
+    {
+      "id": 7306,
+      "question": "All of the following cause generalized lymphadenopathy except:",
+      "options": [
+        "Leukemia",
+        "Late lymphoma",
+        "EBV",
+        "Caseous TB lymphadenitis"
+      ],
+      "correct_option_id": 3,
+      "explanation": "TB lymphadenitis typically causes localized or regional lymphadenopathy (commonly cervical), unlike leukemia, lymphoma, and viral infections which cause generalized disease.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Lymphatics",
+      "chapter": "Differential Diagnosis"
+    },
+    {
+      "id": 7307,
+      "question": "An asymptomatic infrarenal abdominal aneurysm measuring 8 cm in diameter was discovered in a 70-year-old male who was otherwise healthy. The proper management is by:",
+      "options": [
+        "Strict limitation of activity",
+        "Reassurance and regular check-ups",
+        "Antihypertensive medication",
+        "Elective aneurysm resection",
+        "Resection when symptoms develop"
+      ],
+      "correct_option_id": 3,
+      "explanation": "An AAA >5.5 cm in diameter or one that is expanding rapidly is an indication for elective repair to prevent rupture. 8 cm poses a significant risk of rupture.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Lymphatics",
+      "chapter": "Vascular Disorders"
+    },
+    {
+      "id": 7308,
+      "question": "Filarial edema is:",
+      "options": [
+        "Pitting",
+        "Non-pitting",
+        "First pitting then non pitting",
+        "First non-pitting then pitting"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Filarial lymphedema begins as pitting edema. Over time, chronic inflammation and fibrosis occur, causing the edema to become non-pitting (elephantiasis).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Lymphatics",
+      "chapter": "Filariasis"
+    },
+    {
+      "id": 7309,
+      "question": "History suggesting lymphedema include:",
+      "options": [
+        "Endemic area for filariasis",
+        "Mastectomy",
+        "Recurrent erysipelas",
+        "All of the above"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Lymphedema risk factors include residence in filarial endemic zones, prior lymph node dissection (mastectomy), and history of recurrent skin infections (erysipelas) which damage lymphatics further.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Lymphatics",
+      "chapter": "Lymphedema"
+    },
+    {
+      "id": 7310,
+      "question": "Hodgkin's disease is associated with:",
+      "options": [
+        "P53 gene",
+        "075 gene",
+        "P55 gene",
+        "All of the above"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Genetic mutations, including abnormalities in the P53 tumor suppressor gene, have been implicated in the pathogenesis of various lymphomas, including Hodgkin's disease.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Lymphatics",
+      "chapter": "Lymphoma"
+    },
+    {
+      "id": 7311,
+      "question": "A young man with a posterior knee dislocation has intact pulses after reduction but develops leg pain and foot numbness 6 hours later. What is the proper initial management?",
+      "options": [
+        "Observation for frank signs of ischaemia",
+        "Administration of anticoagulants and vasodilators",
+        "X-ray examination of the lumbosacral spine",
+        "Femoral arteriography",
+        "Fasciotamy to relieve tension"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Posterior knee dislocation risks popliteal artery injury. Delayed ischemia requires immediate arteriography to define the lesion before revascularization. Waiting is dangerous.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Lymphatics",
+      "chapter": "Vascular Disorders"
+    },
+    {
+      "id": 7312,
+      "question": "In lymphatic born type of TB lymphadenitis, LN examination will show all the following except:",
+      "options": [
+        "Enlargement",
+        "Non tenderness",
+        "Rubbery consistency",
+        "Matting"
+      ],
+      "correct_option_id": 2,
+      "explanation": "TB lymph nodes are typically matted and firm or soft (caseating). 'Rubbery' consistency is the hallmark of Lymphoma (Hodgkin's), not TB.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Lymphatics",
+      "chapter": "Tuberculous Lymphadenitis"
+    },
+    {
+      "id": 7313,
+      "question": "Indicate the incorrect statement about filarial elephantiasis:",
+      "options": [
+        "Usually affects the lower limbs and scrotum",
+        "Is rarely associated with other filarial lesions",
+        "May be complicated by lymphorrhoea, eczema and ulceration",
+        "Is characterized by recurrent attacks of elephantoid fever",
+        "Responds readily to antifilarial treatment"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Elephantiasis (chronic stage 3 lymphedema) consists of irreversible fibrosis. It does not respond readily to medical antifilarial treatment, which targets the parasite.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Lymphatics",
+      "chapter": "Filariasis"
+    },
+    {
+      "id": 7314,
+      "question": "Indication of surgical treatment of lymphedema:",
+      "options": [
+        "Edema become non-pitting",
+        "Recurrent cases",
+        "Disability",
+        "All of the above"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Surgery for lymphedema is reserved for cases causing significant disability, recurrent infections, or immense size, after failure of conservative therapy.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Lymphatics",
+      "chapter": "Lymphedema"
+    },
+    {
+      "id": 7315,
+      "question": "Lymphatic born TB lymphadenitis is more common in:",
+      "options": [
+        "Children",
+        "Adults",
+        "Elder people",
+        "None of the above"
+      ],
+      "correct_option_id": 0,
+      "explanation": "TB lymphadenitis is historically and statistically more common in children and young adults.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Lymphatics",
+      "chapter": "Tuberculous Lymphadenitis"
+    },
+    {
+      "id": 7316,
+      "question": "Mycobacterium TB is cultured upon:",
+      "options": [
+        "Ordinary media",
+        "Media containing dried blood",
+        "Media containing malachite green",
+        "Media containing ZN stain"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Mycobacterium tuberculosis is cultured on Lowenstein-Jensen (LJ) medium, which is an egg-based medium containing malachite green to inhibit the growth of contaminants.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Lymphatics",
+      "chapter": "Tuberculous Lymphadenitis"
+    },
+    {
+      "id": 7317,
+      "question": "Non-Hodgkin lymphomas differ from Hodgkin's disease in all of the following except:",
+      "options": [
+        "Commonly occur in the very young and very old",
+        "Are not associated with fever or pruritis",
+        "Do not primarily involve the gastrointestinal tract",
+        "The affected lymph nodes fuse with each other and infiltrate the surrounding structures",
+        "Carry a poorer prognosis than Hodgkin's disease"
+      ],
+      "correct_option_id": 2,
+      "explanation": "NHL frequently involves extranodal sites like the GI tract. The statement claiming it does NOT involves GI tract is false, making it the correct exception.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Lymphatics",
+      "chapter": "Lymphoma"
+    },
+    {
+      "id": 7318,
+      "question": "Reconstructive arterial surgery is recommended for patients with the following manifestations of ischemia except:",
+      "options": [
+        "Ischemic neuropathy",
+        "Trophic ulceration",
+        "Toe gangrene",
+        "Claudication",
+        "Nocturnal foot pain"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Surgery is usually reserved for Critical Limb Ischemia (rest pain, ulcers, gangrene). Intermittent claudication is typically managed conservatively unless incapacitating.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Lymphatics",
+      "chapter": "Vascular Disorders"
+    },
+    {
+      "id": 7319,
+      "question": "Staging of Hodgkin's disease should include which of the following?",
+      "options": [
+        "Exploratory laparotomy",
+        "Splenectomy",
+        "Liver biopsy",
+        "Coeliac lymph node biopsy",
+        "All of the above"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Historically, 'Staging Laparotomy' (including splenectomy, liver biopsy, and node sampling) was the standard for Hodgkin's staging, though now largely replaced by PET/CT.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Lymphatics",
+      "chapter": "Lymphoma"
+    },
+    {
+      "id": 7320,
+      "question": "Swiss roll cake operation is a surgical treatment of:",
+      "options": [
+        "VV",
+        "DVT",
+        "Lymphedema",
+        "Chronic ischemia"
+      ],
+      "correct_option_id": 2,
+      "explanation": "The 'Swiss Roll' operation is a historical excisional procedure for treating lymphedema, where subcutaneous tissue is excised and skin flaps are rolled/sutured.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Lymphatics",
+      "chapter": "Lymphedema"
+    },
+    {
+      "id": 7321,
+      "question": "The commonest 1ry complex of TB is:",
+      "options": [
+        "Tonsils + Lymph vessel + upper deep cervical LNs",
+        "Lungs + lymphatic vessel + mediastinal LNs",
+        "Intestine + lymphatic vessel + mesenteric LNs",
+        "Skin + lymphatic vessel + cutaneous LNs"
+      ],
+      "correct_option_id": 0,
+      "explanation": "While pulmonary is most common globally, in the context of surgical TB questions (scrofula) or bovine TB areas, the Tonsillar/Cervical complex is often cited as the classic route.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Lymphatics",
+      "chapter": "Tuberculous Lymphadenitis"
+    },
+    {
+      "id": 7322,
+      "question": "The commonest site of Burkitt's lymphoma:",
+      "options": [
+        "CNS",
+        "Jaw",
+        "Retroperitoneal tissues",
+        "Ovaries"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Burkitt's lymphoma, particularly the African endemic variety, most classically presents as a rapidly growing tumor of the jaw or facial bones in children.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Lymphatics",
+      "chapter": "Lymphoma"
+    },
+    {
+      "id": 7323,
+      "question": "The following statements about Burkitt's lymphoma are correct except:",
+      "options": [
+        "Is most common in Central Africa",
+        "Presents clinically by a rapidly growing tumor of the jaw or orbit",
+        "Has the same histological picture as lymphosarcoma",
+        "Is due to combined viral and malarial etiology",
+        "Is curable by chemotherapy"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Burkitt's lymphoma has a unique histological appearance known as 'starry sky' pattern (macrophages amidst tumor cells), which distinguishes it from other lymphosarcomas.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Lymphatics",
+      "chapter": "Lymphoma"
+    },
+    {
+      "id": 7324,
+      "question": "The malignant cells are present in the blood stream in:",
+      "options": [
+        "Hodgkin's lymphoma",
+        "Non-Hodgkin's lymphoma",
+        "Leukemia",
+        "All of the above"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Leukemia is defined by malignant cells in the blood/marrow. Lymphomas are tissue-based tumors, though they can leukemize late in the course.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Lymphatics",
+      "chapter": "Differential Diagnosis"
+    },
+    {
+      "id": 7325,
+      "question": "The most common cause of lymphedema:",
+      "options": [
+        "Streptococcal lymphadenitis",
+        "Filariasis",
+        "Irradiation",
+        "Tumors"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Globally, the most common cause of lymphedema is lymphatic filariasis (infection with Wuchereria bancrofti). In developed countries, it is often secondary to cancer treatment.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Lymphatics",
+      "chapter": "Filariasis"
+    },
+    {
+      "id": 7326,
+      "question": "The most common site of Hodgkin's lymphoma is:",
+      "options": [
+        "Cervical LNs",
+        "Mediastinal LNs",
+        "Abdominal LNs",
+        "Axillary LNs"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Hodgkin's lymphoma typically arises in supradiaphragmatic lymph nodes, with the cervical region being the most common site of presentation (60-80% of cases).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Lymphatics",
+      "chapter": "Lymphoma"
+    },
+    {
+      "id": 7327,
+      "question": "The vector of Filaria Bancrofti is:",
+      "options": [
+        "Female anopheles",
+        "Culex pipiens",
+        "Sand fly",
+        "None of the above"
+      ],
+      "correct_option_id": 1,
+      "explanation": "The mosquito vector responsible for transmitting Wuchereria bancrofti (Filaria) is Culex pipiens (specifically Culex fatigans), whereas Anopheles transmits malaria.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Lymphatics",
+      "chapter": "Filariasis"
+    },
+    {
+      "id": 7328,
+      "question": "The worst prognosis of Hodgkin's disease is with:",
+      "options": [
+        "Mixed cellularity",
+        "Lymphocytic depleted",
+        "Lymphocytic predominance",
+        "Nodular sclerosis"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Lymphocyte-depleted Hodgkin's lymphoma is the least common subtype and carries the poorest prognosis, often presenting with advanced disease in older patients.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Lymphatics",
+      "chapter": "Lymphoma"
+    },
+    {
+      "id": 7329,
+      "question": "Which of the following statements about primary lymphedema is correct:",
+      "options": [
+        "Is due to congenital hypoplasia of lymphatics",
+        "Always manifests itself at birth",
+        "Usually affects the lower limbs",
+        "May be unilateral or bilateral",
+        "May respond to conservative treatment in the early stages"
+      ],
+      "correct_option_id": 1,
+      "explanation": "The question asks for the FALSE statement (based on key B). Primary lymphedema does NOT always manifest at birth; most cases appear during puberty (Praecox) or later.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Lymphatics",
+      "chapter": "Lymphedema"
+    }
+  ]
+}

@@ -1,0 +1,1282 @@
+{
+  "meta": {
+    "source": "Term 7 - General Surgery",
+    "lesson": "General Surgery Revision"
+  },
+  "questions": [
+    {
+      "id": 8320,
+      "question": "The intense pain associated with a distal pulp space infection (felon) occurs because:",
+      "options": [
+        "Bone involvement",
+        "Digital artery thrombosis",
+        "It is a closed space infection",
+        "Is associated with oedema",
+        "Nail bed involvement"
+      ],
+      "correct_option_id": 2,
+      "explanation": "A felon infects the closed fibrous septal compartments of the pulp. Pus accumulation in this non-compliant space raises pressure rapidly (compartment syndrome), causing intense throbbing pain.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Hand Infections"
+    },
+    {
+      "id": 8321,
+      "question": "All the following are surgical risk in a diabetic patient except:",
+      "options": [
+        "Infection.",
+        "Myocardial infarction.",
+        "Pressure sore.",
+        "Poor wound healing.",
+        "Pain control."
+      ],
+      "correct_option_id": 4,
+      "explanation": "While neuropathy affects pain perception, 'pain control' is not a direct physiological surgical complication like the others.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Preoperative Care"
+    },
+    {
+      "id": 8322,
+      "question": "HAI; which of the following is the most commonly acquired infection in hospitalized surgical patients?",
+      "options": [
+        "Lower gastrointestinal tract",
+        "Lower respiratory tract",
+        "Nasopharynx",
+        "Surgical wound"
+      ],
+      "correct_option_id": 3,
+      "explanation": "In surgical patients specifically, Surgical Site Infections (SSIs) are often the commonest type of nosocomial infection, followed closely by UTI, respiratory infections.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 8323,
+      "question": "Which of the following factors influences healing of a wound?",
+      "options": [
+        "Diabetes mellitus.",
+        "Malnutrition.",
+        "Site of wound.",
+        "Smoking",
+        "Vascular insufficiency."
+      ],
+      "correct_option_id": 2,
+      "explanation": "While all influence healing, the wound site is a fundamental local factor (e.g., face vs. foot) due to differences in vascularity, often highlighted as a primary determinant.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Wound Healing"
+    },
+    {
+      "id": 8324,
+      "question": "Dobutamine is one of drugs can be used in treatment of shock; its action is:",
+      "options": [
+        "Decreases cardiac output and causes peripheral vasodilation",
+        "Decreases cardiac output and causes peripheral vasoconstriction",
+        "Increases cardiac output and causes peripheral vasoconstriction",
+        "Increases cardiac output and causes peripheral vasodilation",
+        "Increase production of glucocorticoids"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Dobutamine is a beta-1 agonist that increases myocardial contractility and cardiac output. It also has mild beta-2 activity, causing peripheral vasodilation and reduced afterload.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Shock & Critical Care"
+    },
+    {
+      "id": 8325,
+      "question": "A 7-year-old female has a painless midline neck lump moving with swallowing and tongue protrusion. History includes recurrent inflammation responding to antibiotics. What is the diagnosis?",
+      "options": [
+        "Branchial cyst",
+        "Cystic hygroma",
+        "Thyroglossal cyst",
+        "Cancer larynx",
+        "Thyroid nodule"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Movement with tongue protrusion is the pathognomonic sign of a Thyroglossal Duct Cyst, as the tract is connected to the foramen cecum at the base of the tongue.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Head & Neck"
+    },
+    {
+      "id": 8326,
+      "question": "Bradykinin, serotonin and histamine among mediators released in response to wounds; they are released from:",
+      "options": [
+        "Monocytes",
+        "Lymphocytes",
+        "Mast cells",
+        "Polymorphonuclear leukocytes",
+        "Platelets"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Mast cells degranulate immediately upon injury, releasing histamine and serotonin (and other vasoactive amines), initiating the inflammatory response.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Wound Healing"
+    },
+    {
+      "id": 8327,
+      "question": "A 40-years old male patient presented with strangulated hernia; the hernia clinically is:",
+      "options": [
+        "Irreducible swelling.",
+        "Red & hot",
+        "Tender & tense.",
+        "Tender with intact impulse on cough.",
+        "Tense and reducible"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Strangulation implies compromised blood supply. The hernia becomes tense, tender, irreducible, and loses the cough impulse due to complete blockage at the neck.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Hernias"
+    },
+    {
+      "id": 8328,
+      "question": "A 65 years old male presented with claudication pain; which been of the following drugs have been shown to improve claudication?",
+      "options": [
+        "Aspirin",
+        "Beta-blockers",
+        "Oxpentifylline",
+        "Prostacyclin.",
+        "Simvastatin"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Oxpentifylline (Pentoxifylline) and Cilostazol are rheologic agents approved to improve walking distance in patients with intermittent claudication by improving blood flow properties.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Vascular Surgery"
+    },
+    {
+      "id": 8329,
+      "question": "A child 10-years old presented with manifestations of testicular torsion; regarding this condition:",
+      "options": [
+        "CT scan should be done to confim the diagnosis",
+        "It is most common above 25 years of age.",
+        "Inversion of the testis and a transverse lie are not a cause.",
+        "The typical symptom is a scrotal swelling",
+        "The emergency operation should be done, and fixation of testis on other side must be done."
+      ],
+      "correct_option_id": 4,
+      "explanation": "Torsion is an emergency. If confirmed, the testis is untwisted or removed. Contralateral orchiopexy is mandatory because the anatomical defect (bell-clapper deformity) is usually bilateral.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Pediatric Surgery"
+    },
+    {
+      "id": 8330,
+      "question": "A patient presented to emergency department with disturbed conscious level, temperature 39.5, B.P. 80/45, chest x-ray shows ground glass appearance of both lung fields. This patient has:",
+      "options": [
+        "Anaphylactic shock",
+        "Cardiogenic shock",
+        "Hypovolemic shock",
+        "Neurogenic shock",
+        "Septic shock"
+      ],
+      "correct_option_id": 4,
+      "explanation": "The combination of high fever (39.5°C), hypotension, and lung findings consistent with ARDS (ground glass) strongly suggests Septic Shock.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Shock & Critical Care"
+    },
+    {
+      "id": 8331,
+      "question": "About the rule of nines for burns classification:",
+      "options": [
+        "Each lower limb = 18%",
+        "Each upper limb =18%",
+        "Front of trunk = 27%",
+        "Head and neck = 18%",
+        "Perineum = 4.5%"
+      ],
+      "correct_option_id": 0,
+      "explanation": "In the Wallace Rule of Nines for adults: Each lower limb is 18%, each upper limb is 9%, the head/neck is 9%, anterior trunk is 18%, posterior trunk is 18%, and perineum is 1%.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Burns"
+    },
+    {
+      "id": 8332,
+      "question": "All the followings are presentations of cancer tongue except:",
+      "options": [
+        "Asymptomatic",
+        "Fissured tongue",
+        "Halitosis",
+        "Maxillary swelling",
+        "Referred otalgia"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Tongue cancer presents with ulcers, fissures, halitosis, or referred otalgia. Maxillary swelling is associated with maxillary tumors, not tongue lesions.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Head & Neck"
+    },
+    {
+      "id": 8333,
+      "question": "As regards the pathogenesis and treatment of abscess:",
+      "options": [
+        "Antibiotics are indicated if there is evidence of pus formation.",
+        "Most wound-site abscesses occur before the patient is discharged from the hospital.",
+        "Staphylococcus aurous is one of the most common causative organisms.",
+        "Pus formation occur at the seventh day of infection",
+        "The abscess wall is composed of epithelium."
+      ],
+      "correct_option_id": 2,
+      "explanation": "S. aureus is a common cause. Antibiotics alone are insufficient if pus exists (drainage needed). The wall is granulation tissue (pyogenic membrane), not epithelium.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 8334,
+      "question": "Benign breast diseases are common conditions; all of the following concepts are true as regard, except:",
+      "options": [
+        "Fibroadenoma is the commonest benign tumor.",
+        "Fibrocystic disease is the commonest benign disease",
+        "Lipoma is a common condition of the breast.",
+        "Traumatic fat necrosis can be mistaken for a carcinoma.",
+        "30 percent of breast cysts recur after aspiration."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Lipomas are neoplasms of subcutaneous tissue, not breast parenchyma. In the context of specific breast pathology, they are less clinically significant than fibroadenomas or cysts.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Breast Surgery"
+    },
+    {
+      "id": 8335,
+      "question": "Concerning carcinoma of the lip; the following statements are true except:",
+      "options": [
+        "Affects males much more often than females.",
+        "Commonly a well-differentiated squamous cell carcinoma.",
+        "May produce a Kissing cancer on the other lip,",
+        "Occurs mostly in the middle of lower lip.",
+        "Spreads to the regional glands by lymphatic permeation."
+      ],
+      "correct_option_id": 4,
+      "explanation": "Squamous cell carcinoma of the lip spreads to lymph nodes primarily by lymphatic embolization, not permeation. Permeation is a continuous growth along lymphatics, which is rare and a late feature.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Head & Neck"
+    },
+    {
+      "id": 8336,
+      "question": "Concerning inhalation injury of burn; which of the following statements are true?",
+      "options": [
+        "Distal airway injuries are usually caused by heat injury",
+        "Endotracheal intubation is indicated immediately in all patients with suspected inhalation injury",
+        "It is due to upper airway obstruction secondary to progressive edema and reactive bronchospasm",
+        "Oxygenation increase the extent of injury",
+        "Peak inspiratory pressures of> 40 cm of water are indicated to maintain functional residual capacity"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Inhalation injury causes upper airway edema. Immediate intubation is indicated for impending obstruction due to progressive edema and potential airway loss.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Burns"
+    },
+    {
+      "id": 8337,
+      "question": "During coagulation process; which of the following clotting factors is consumed?",
+      "options": [
+        "Factor I (fibrinogen)",
+        "Factor VII",
+        "Factor IX (Christmas factor)",
+        "Factor X (Stuart-Prower factor)",
+        "Factor XI (plasma thrombo-plasma antecedent)"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Fibrinogen (Factor I) is converted into fibrin to form the clot and is therefore consumed during coagulation (absent in serum).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "General Principles"
+    },
+    {
+      "id": 8338,
+      "question": "Regarding amputation, all of the following are an indication for major amputation except:",
+      "options": [
+        "Clostridium infection of the lower leg.",
+        "Neurofibroma",
+        "Knee flexion contracture",
+        "Severe rest pain without gangrene.",
+        "Severe trauma"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Neurofibromas are benign tumors treated with local excision. They are not an indication for major amputation unless rare malignant transformation or massive deformity occurs.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Orthopedics/Vascular"
+    },
+    {
+      "id": 8339,
+      "question": "Regarding epigastric hernia; which of the following statements is correct about the diagnosis and management?",
+      "options": [
+        "A large peritoneal sac containing abdominal viscera is common",
+        "At the time of surgical repair, a careful search for other defects should be performed",
+        "Most commonly contain transverse colon",
+        "Painful midline masses frequently contain incarcerated small bowel",
+        "Recurrent epigastric hernias after simple closure is uncommon"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Epigastric hernias occur through defects in the linea alba and are often multiple (fenestrations). Therefore, checking for other adjacent defects during repair is standard practice.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Hernias"
+    },
+    {
+      "id": 8340,
+      "question": "Regarding varicose veins of the lower limb; which of the following are true?",
+      "options": [
+        "Handheld Doppler provides an accurate assessment of sapheno-popliteal competence.",
+        "Right leg varicose veins are more common than left leg varicose veins.",
+        "The prevalence of varicose veins is twice more common in women than in men",
+        "Varicose veins may cause venous claudication.",
+        "Varicose veins may be associated with the fOXC2 gene."
+      ],
+      "correct_option_id": 4,
+      "explanation": "Mutations in the FOXC2 gene have been associated with lymphedema-distichiasis syndrome and varicose veins, highlighting a genetic component to valve failure/vein wall weakness.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Vascular Surgery"
+    },
+    {
+      "id": 8341,
+      "question": "Salivary gland carcinoma with perineural spread to the brain is:",
+      "options": [
+        "Adenocarcinoma",
+        "Adenoid cystic carcinoma",
+        "Acinic cell carcinoma",
+        "Mucoepidermoid carcinoma",
+        "Squamous carcinoma"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Adenoid Cystic Carcinoma is notorious for its tendency for perineural invasion, allowing it to spread along nerves (e.g., Facial nerve) intracranially.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Head & Neck"
+    },
+    {
+      "id": 8342,
+      "question": "The most common site for a parotid tumor is:",
+      "options": [
+        "At the anterior border of the masseter",
+        "Anterior to the car",
+        "As a parapharyngeal mass",
+        "Behind the angle of the mandible",
+        "Inferior to the angle of the mandible."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Parotid tumors frequently arise in the tail of the gland, located behind/inferior to the angle of the mandible, or in the superficial lobe anterior to the ear.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Head & Neck"
+    },
+    {
+      "id": 8343,
+      "question": "The most common site of the following diseases is correctly matched:",
+      "options": [
+        "Basal cell carcinoma: arm and hand",
+        "Carbuncle: foot and hand",
+        "Hypertrophic scars: extensor surfaces",
+        "Hemangiomas: leg and foot",
+        "Keloids: face, neck, and skin over sternum"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Keloids are most common in areas of high skin tension and specific predilection sites like the presternal area, shoulders, earlobes, and face/neck.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Skin & Subcutaneous Tissue"
+    },
+    {
+      "id": 8344,
+      "question": "There are many causes that impair wound healing; the major cause is:",
+      "options": [
+        "Anemia",
+        "Diabetes mellitus",
+        "Foreign body",
+        "Local tissue infection",
+        "Malnutrition"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Local tissue infection is a leading and major cause of delayed wound healing as bacteria prolong the inflammatory phase and release toxins that destroy tissue.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Wound Healing"
+    },
+    {
+      "id": 8345,
+      "question": "An 18-year-old female presents with a well circumscribed 2-cm mass in her right breast. The mass is painless and has a rubbery consistency and discrete borders. It appears to move freely through the breast tissue. What is the likeliest diagnosis?",
+      "options": [
+        "Breast carcinoma",
+        "Fibroadenosis",
+        "Fibroadenoma",
+        "Galactocele",
+        "Intra-mammary lymph node"
+      ],
+      "correct_option_id": 2,
+      "explanation": "A painless, rubbery, well-circumscribed, and highly mobile mass ('breast mouse') in a young woman is the classic presentation of a Fibroadenoma.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Breast Surgery"
+    },
+    {
+      "id": 8346,
+      "question": "The most common presentation of Hodgkin lymphoma is:",
+      "options": [
+        "Fever",
+        "Leukocytosis",
+        "Painless lymphadenopathy",
+        "Painful lymphadenopathy",
+        "Pruritis"
+      ],
+      "correct_option_id": 2,
+      "explanation": "The hallmark presentation of Hodgkin lymphoma is painless enlargement of lymph nodes, most commonly in the cervical region.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Oncology"
+    },
+    {
+      "id": 8347,
+      "question": "Regarding lymphedema; all of the following are a risk factor except:",
+      "options": [
+        "Air travel.",
+        "Baker's cyst",
+        "Family history",
+        "Limb surgery (e.g., varicose vein operation)",
+        "Obesity"
+      ],
+      "correct_option_id": 1,
+      "explanation": "A Baker's cyst is synovial fluid in the popliteal fossa mimicking DVT. It is not a direct cause or risk factor for chronic lymphedema.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Vascular Surgery"
+    },
+    {
+      "id": 8348,
+      "question": "Which of the following is a symptom of hemolytic transfusion reaction?",
+      "options": [
+        "Constricting chest pain",
+        "Cold clammy skin",
+        "Polyuria",
+        "Upper abdominal pain",
+        "Syncope"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Symptoms of an acute hemolytic transfusion reaction include fever, chills, flank/loin pain, and constricting chest pain/tightness due to the systemic inflammatory response and potential shock.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Shock & Fluids"
+    },
+    {
+      "id": 8349,
+      "question": "Concerning umbilical hernias in adult; the following statement is true:",
+      "options": [
+        "A paraumbilical hernia typically occurs in multiparous females",
+        "Incarceration is uncommon with umbilical hernias",
+        "Most umbilical hernias in adults are the result of a congenital defect carried into adulthood",
+        "The presence of ascites is a contraindication to umbilical hernia repair",
+        "The treatment of choice is herniorrhaphy"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Adult 'umbilical' hernias are usually acquired paraumbilical hernias, seen in multiparous or obese patients due to linea alba stretching and raised abdominal pressure.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Hernias"
+    },
+    {
+      "id": 8350,
+      "question": "The first evidence of a rectus sheath hematoma is:",
+      "options": [
+        "Anorexia and nausea without vomiting",
+        "Bluish discoloration of the skin",
+        "Development of an abdominal wall mass",
+        "Sudden sharp abdominal pain",
+        "Signs of shock."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Rectus sheath hematoma often presents with sudden, sharp abdominal pain, typically following coughing or straining which tears the epigastric vessels.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Abdominal Wall"
+    },
+    {
+      "id": 8351,
+      "question": "Regarding causes of A-V fistula, the following statement is false:",
+      "options": [
+        "Congenital",
+        "Complication of venous catheter",
+        "Rupture of arterial aneurysm into an adjacent vein",
+        "Trauma",
+        "Vasculitis"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Vasculitis causes stenosis, thrombosis, or aneurysms. It is not a standard cause of Arteriovenous Fistula (AVF) formation, unlike trauma or congenital defects.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Vascular Surgery"
+    },
+    {
+      "id": 8352,
+      "question": "Sebaceous cyst is characterized by the following: it",
+      "options": [
+        "Contains a yellow fatty material.",
+        "Has slippery edge",
+        "Is lined by stratified squamous epithelium.",
+        "Is always anchored to the overlying skin at multiple areas",
+        "May occur on the palms and soles"
+      ],
+      "correct_option_id": 2,
+      "explanation": "A 'sebaceous cyst' (epidermoid cyst) is lined by stratified squamous epithelium and contains keratin. It attaches to the skin at a single point (punctum), not multiple.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Skin & Subcutaneous Tissue"
+    },
+    {
+      "id": 8353,
+      "question": "A 55-years old male presented with acute ischaemia of the lower limb; pain is more prominent at the:",
+      "options": [
+        "Ankle joint",
+        "Calf muscle",
+        "Most proximal part of the limb",
+        "Most peripheral part of the limb",
+        "Site of obstruction"
+      ],
+      "correct_option_id": 3,
+      "explanation": "In acute ischemia, pain is most severe in the most distal (peripheral) part of the limb (toes/foot) due to the complete lack of blood supply distally.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Vascular Surgery"
+    },
+    {
+      "id": 8354,
+      "question": "The most common indication of surgical correction of varicocele is:",
+      "options": [
+        "Asymptomatic varicocele",
+        "Secondary varicocele.",
+        "Subfertility",
+        "Throbbing pain",
+        "Thrombophlebitis."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Varicoceles are a common treatable cause of male infertility. Subfertility (with abnormal semen analysis) is the most common indication for surgical ligation.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Urology"
+    },
+    {
+      "id": 8355,
+      "question": "Patient presented by open wound at foot, about wound healing:",
+      "options": [
+        "Irradiation is associated with rapid wound healing",
+        "Infected wounds heal by primary intention",
+        "Ischemia impairs healing process",
+        "Infection does not affect healing",
+        "Tight sutures improve healing progress"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Adequate blood supply is crucial for wound healing (oxygen/nutrients). Ischemia significantly impairs and delays the healing process.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Wound Healing"
+    },
+    {
+      "id": 8356,
+      "question": "As regards enteral nutrition, it:",
+      "options": [
+        "Has a higher complication rate than parental nutrition",
+        "Is a nutritional support taken only through a nasogastric tube",
+        "Is more expensive than parental nutrition",
+        "Result in a reduction of infections complications in critically ill patients",
+        "Result in faster return of bowel function in healthy patients after gastrointestinal"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Enteral nutrition maintains the gut mucosal barrier (preventing translocation), supports GALT, and has fewer infectious complications than TPN.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Fluids & Nutrition"
+    },
+    {
+      "id": 8357,
+      "question": "Congenital dermoid cysts are characterized by the following feature:",
+      "options": [
+        "Commonest on the hand",
+        "Contain sebaceous material",
+        "Lined by columnar epithelium",
+        "May cause hollowing of subjacent bone",
+        "Often attached to the overlying skin"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Congenital dermoid cysts (e.g., external angular dermoid) are deep to the skin and can cause pressure excavation (hollowing) of the underlying bone.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Skin & Subcutaneous Tissue"
+    },
+    {
+      "id": 8358,
+      "question": "Hemangioma of the face in children:",
+      "options": [
+        "Can be treated by laser ablation",
+        "Cirsoid aneurism is one of its types",
+        "Should be resected in the newborn period",
+        "Should be resected only if it persists 10 years of age",
+        "Will involute by 3 years of age in most children"
+      ],
+      "correct_option_id": 0,
+      "explanation": "While most involute, laser ablation (Pulsed Dye Laser) is valid for superficial components or complications (ulceration) and is standard for Port Wine Stains.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Pediatric Surgery"
+    },
+    {
+      "id": 8359,
+      "question": "Most common nosocomial infections involve the following:",
+      "options": [
+        "Deep veins of the leg",
+        "Intravenous sites.",
+        "Respiratory tract",
+        "Surgical wound.",
+        "Urinary tract."
+      ],
+      "correct_option_id": 4,
+      "explanation": "Overall, urinary tract infections (Catheter-Associated UTI) are the most common type of hospital-acquired (nosocomial) infection.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 8360,
+      "question": "Septic shock is a type of shock that commonly observed in surgical field; signs associated with early sepsis include:",
+      "options": [
+        "Cutaneous vasodilation",
+        "Decreased cardiac output",
+        "Hypoglycemia",
+        "Increased arteriovenous oxygen difference",
+        "Respiratory acidosis"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Early septic shock is characterized by a hyperdynamic state ('Warm Shock') with cutaneous vasodilation, warm skin, and increased cardiac output.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Shock & Critical Care"
+    },
+    {
+      "id": 8361,
+      "question": "Steroid is a factor that impairs wound healing; this impairment occurs due to:",
+      "options": [
+        "Decreasing angiogenesis and macrophage migration",
+        "Decreasing platelet plug integrity",
+        "Increasing release of lysosomal enzymes",
+        "Increasing fibrinolysis",
+        "Vasodilatation"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Corticosteroids inhibit the inflammatory phase of wound healing by decreasing macrophage migration and reducing angiogenesis and collagen synthesis.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Wound Healing"
+    },
+    {
+      "id": 8362,
+      "question": "The most common fluid or electrolyte disorder in the surgical patient is:",
+      "options": [
+        "Extracellular fluid deficit",
+        "Hyperkalemia",
+        "Hyponatremia",
+        "Metabolic acidosis",
+        "Metabolic alkalosis"
+      ],
+      "correct_option_id": 0,
+      "explanation": "ECF volume deficit (hypovolemia/dehydration) is the most common fluid disorder in surgical patients due to fluid loss (bleeding, vomiting, third spacing, NPO status).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Fluids & Nutrition"
+    },
+    {
+      "id": 8363,
+      "question": "The treatment of choice for cystic hygromas is:",
+      "options": [
+        "Antibiotics",
+        "Intral-lesional sclerotherapy",
+        "Laser photocoagulation",
+        "Observation",
+        "Surgical excision"
+      ],
+      "correct_option_id": 4,
+      "explanation": "While sclerotherapy is increasingly used, surgical excision has traditionally been considered the definitive treatment for cystic hygroma (lymphangioma) to ensure complete removal.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Pediatric Surgery"
+    },
+    {
+      "id": 8364,
+      "question": "Wound management one of the main topics in surgery; which of the following statement is true concerning the clinical management of an open wound?",
+      "options": [
+        "A wet-to-dry dressing is the most optimal form of wound management",
+        "A moist occlusive dressing promotes epithelialization and reduces pain",
+        "Irrigation of the wound disrupts epithelialization therefore inhibiting the healing process",
+        "Povidine iodine is the best antiseptic solution",
+        "The protein rich plasma exudate covering the open wound facilitates healing"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Moist wound healing is the gold standard. Occlusive dressings maintain moisture, which accelerates epithelialization, prevents desiccation, and reduces pain.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Wound Healing"
+    },
+    {
+      "id": 8365,
+      "question": "The first lymph node station draining testis is:",
+      "options": [
+        "External iliac",
+        "Inguinal.",
+        "Internal iliac.",
+        "Paraaortic.",
+        "Supraclavicular"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Testes develop retroperitoneally. Lymphatic drainage follows the blood supply to para-aortic (lumbar) nodes, not inguinal nodes (unless scrotal skin is involved).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Urology"
+    },
+    {
+      "id": 8366,
+      "question": "Severe hemorrhage is a medical catastrophe; what percentage of blood volume must be lost in healthy patients before hypotension occurs?",
+      "options": [
+        "5 - 10%",
+        "10 - 30%",
+        "20 - 30 %",
+        "30 - 40 %",
+        "40 - 50 %"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Hypotension typically develops in Class III hemorrhage, which corresponds to a blood loss of 30-40% (approx 1500-2000 ml). Class I and II are usually compensated with normal BP.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Shock & Critical Care"
+    },
+    {
+      "id": 8367,
+      "question": "Desmoid tumors:",
+      "options": [
+        "Arise from the periosteum of the rib",
+        "Are treated by radiotherapy",
+        "Are treated with wide local excision with a 2- to 4- cm margin",
+        "Require chemotherapy to treat or prevent metastatic disease",
+        "Require radical excision (sacrificing neurovascular structures) to obtain 4-cm margins"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Desmoid tumors are locally aggressive fibroblasts but do not metastasize. The treatment of choice is wide local excision with clear margins to prevent high recurrence rates.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Abdominal Wall"
+    },
+    {
+      "id": 8368,
+      "question": "The commonest cause of secondary hemorrhage is:",
+      "options": [
+        "Bleeding tendency",
+        "Early mobilization",
+        "Infection",
+        "Slipped ligature",
+        "Trauma"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Secondary hemorrhage occurs 7-14 days post-op and is almost invariably caused by infection eroding a vessel wall.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Hemorrhage"
+    },
+    {
+      "id": 8369,
+      "question": "39 years old carpenter presented by a swelling in the right groin, on examination; the swelling is reducible at lying flat and descend to the bottom of the scrotum in erect position, internal ring test is positive. The diagnosis is:",
+      "options": [
+        "Direct inguinal hernia",
+        "Femoral hernia",
+        "Hydrocele",
+        "Incisional hernia",
+        "Indirect inguinal hernia"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Hernias descending into the scrotum are typically Indirect. A 'positive' internal ring test (meaning occlusion of the ring controls/stops the hernia) confirms it is an Indirect Inguinal Hernia.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Hernias"
+    },
+    {
+      "id": 8370,
+      "question": "A 35-year old woman undergoes her first screening mammogram. Which of the following mammographic findings would require a breast biopsy?",
+      "options": [
+        "A density that effaces with compression",
+        "Breast calcifications larger than 2 mm in diameter",
+        "Five or more clustered breast micro-calcifications per square centimeter",
+        "Macro-calcifications",
+        "Multiple round well-circumscribed breast densities"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Clustered microcalcifications (pleomorphic) are a suspicious finding on mammography, potentially indicating Ductal Carcinoma In Situ (DCIS) or malignancy, and require biopsy.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Breast Surgery"
+    },
+    {
+      "id": 8371,
+      "question": "A 65-year old patient presents with a painless, ulcerated lesion on his right check. The lesion has been present for 1 year. Physical examination of the patient's neck reveals no lymph node enlargement. The most likely diagnosis is:",
+      "options": [
+        "Basal cell carcinoma",
+        "Melanoma",
+        "Lentigo maligna",
+        "Squamous cell carcinoma",
+        "Sebaceous cyst"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Basal Cell Carcinoma (BCC) typically presents as a painless, slow-growing ulcerated lesion (rodent ulcer) on sun-exposed areas like the cheek. It rarely metastasizes to lymph nodes.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Skin & Subcutaneous Tissue"
+    },
+    {
+      "id": 8372,
+      "question": "Acute arterial occlusion is caused by:",
+      "options": [
+        "Atherosclerosis.",
+        "Emboli.",
+        "External compression by a growing tissue.",
+        "Idiopathic.",
+        "Pre-existing venous disease"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Embolism (e.g., from AFib) causes sudden acute occlusion. Thrombosis on atherosclerosis is another cause, but emboli are distinctively acute without collaterals.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Vascular Surgery"
+    },
+    {
+      "id": 8373,
+      "question": "As regards the pathogenesis and diagnosis of cellulitis:",
+      "options": [
+        "Blood culture is usually negative",
+        "It is poorly localised.",
+        "Systemic signs are not present.",
+        "This is a suppurative infection of tissues.",
+        "Usually caused by Gram-negative organisms"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Cellulitis is spreading subcutaneous inflammation. Unlike abscesses, it is poorly localized with indistinct borders, typically non-suppurative, and caused by Strep or Staph.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 8374,
+      "question": "As regards types of wounds: which of the following cases is considered clean contaminated wound?",
+      "options": [
+        "Appendectomy with walled-off abscess",
+        "Gunshot wound to the abdomen with injuries to small bowel and sigmoid colon",
+        "Herniorraphy with mesh repair",
+        "Lumpectomy with axillary node dissection",
+        "Open cholecystectomy for cholelithiasis"
+      ],
+      "correct_option_id": 4,
+      "explanation": "A clean-contaminated wound involves controlled entry into a hollow viscus (respiratory, GI, GU tracts) without significant spillage or infection. Elective open cholecystectomy fits this definition.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 8375,
+      "question": "Child 12 years old presented with manifestations of testicular torsion; regarding this condition;",
+      "options": [
+        "CT scan should be done to confirm the diagnosis",
+        "It is most common above 25 years of age.",
+        "Inversion of the testis and a transverse lie are not a cause.",
+        "The typical symptom is a scrotal swelling",
+        "The emergency operation should be done, and fixation of testis on other side must be done."
+      ],
+      "correct_option_id": 4,
+      "explanation": "Testicular torsion requires immediate surgical exploration and detorsion. Because the anatomical defect (bell clapper) is bilateral, prophylactic fixation of the contralateral testis is mandatory.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Pediatric Surgery"
+    },
+    {
+      "id": 8376,
+      "question": "Keloid is over scarring of wounds; it is characterized by the following:",
+      "options": [
+        "Are particularly common in Negroes and pregnant females.",
+        "Develop after burns and vaccination marks only.",
+        "May turn malignant.",
+        "Occur most often on the abdomen, arm and front of the chest.",
+        "Surgery gives the best results"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Keloids have a strong genetic and racial predisposition, being much more common in dark-skinned individuals (African descent). Pregnancy can also exacerbate them.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Wound Healing"
+    },
+    {
+      "id": 8377,
+      "question": "Patient presented by manifestations of septic shock; he is responds best to:",
+      "options": [
+        "Adrenocortical steroids.",
+        "Drainage of septic collections.",
+        "Intravenous infusion.",
+        "Massive antibiotics.",
+        "Vasopressors"
+      ],
+      "correct_option_id": 1,
+      "explanation": "While fluids/antibiotics are crucial, 'Source Control' is definitive. Drainage of the septic collection (abscess, perforation) effectively stops the septic cascade.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Shock & Critical Care"
+    },
+    {
+      "id": 8378,
+      "question": "Regarding carpal tunnel syndrome:",
+      "options": [
+        "It is rarely secondary to trauma",
+        "It may be associated with pregnancy",
+        "It most often causes dysesthesia during waking hours.",
+        "It is often associated with vascular compromise",
+        "Surgical treatment involves release of the extensor retinaculum"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Carpal tunnel syndrome is often associated with conditions causing fluid retention or connective tissue changes, such as pregnancy, hypothyroidism, and rheumatoid arthritis.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Hand Surgery"
+    },
+    {
+      "id": 8379,
+      "question": "Regarding the testicular neoplasms:",
+      "options": [
+        "Most testicular neoplasms are malignant.",
+        "Mostly occurs above 60 years of age.",
+        "Most common neoplasm is teratoma.",
+        "Lymphatic spread to inguinal lymph nodes.",
+        "Severe dull aching pain is a common presentation"
+      ],
+      "correct_option_id": 0,
+      "explanation": "The vast majority (95%) of testicular masses are malignant germ cell tumors. They typically occur in young men (20-40) and spread to para-aortic nodes.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Urology"
+    },
+    {
+      "id": 8380,
+      "question": "The cause of lost expansile impulses on cough during hernia examination is:",
+      "options": [
+        "Irreducible hernia.",
+        "Inflamed hernia",
+        "Obstructed hernia.",
+        "Richter's hernia",
+        "Strangulated hernia."
+      ],
+      "correct_option_id": 4,
+      "explanation": "In strangulated hernia, tight neck constriction cuts blood supply and occludes the sac, preventing transmission of intra-abdominal pressure (cough impulse).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Hernias"
+    },
+    {
+      "id": 8381,
+      "question": "The type of hand infection which carries the highest risk of developing osteomyelitis is:",
+      "options": [
+        "Distal pulp space infection (felon).",
+        "Intrathecal whitlow",
+        "Paronychia",
+        "Thenar space infection",
+        "Web space infection"
+      ],
+      "correct_option_id": 0,
+      "explanation": "A felon occurs in the tight pulp space adjacent to the distal phalanx. The pressure can compromise the blood supply to the bone or infection can spread directly, leading to osteomyelitis.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Hand Infections"
+    },
+    {
+      "id": 8382,
+      "question": "What is the percentage of burn does a patient who suffered to one leg (circumferential), one arm (circumferential) and the anterior trunk?",
+      "options": [
+        "18 %",
+        "27 %",
+        "35 %",
+        "45 %",
+        "65 %"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Using the Rule of Nines: One leg = 18%. One arm = 9%. Anterior trunk = 18%. Total = 18 + 9 + 18 = 45%.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Burns"
+    },
+    {
+      "id": 8383,
+      "question": "Claudication pain is one of the symptoms of ischemia:",
+      "options": [
+        "Claudication distance is usually inconsistent on a day-to-day basis for a given patient.",
+        "May be present at rest.",
+        "Commonly relieved by getting out of bed.",
+        "Most commonly felt in the calf.",
+        "Thought to be due to nerve compression in the leg muscle compartments"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Intermittent claudication is most commonly felt in the calf muscles because the superficial femoral artery (supplying the calf) is the most common site of atherosclerotic occlusion.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Vascular Surgery"
+    },
+    {
+      "id": 8384,
+      "question": "Regarding direct inguinal hernias, they:",
+      "options": [
+        "Are most common inguinal hernias in women",
+        "Commonly protrude into the scrotal sac in men",
+        "Incarcerate more commonly than indirect hernias",
+        "Protrude medially to the inferior epigastric vessels",
+        "Should be opened and ligated at the internal ring"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Direct inguinal hernias protrude through Hesselbach's triangle, which is located medial to the inferior epigastric vessels (unlike indirect hernias, which are lateral).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Hernias"
+    },
+    {
+      "id": 8385,
+      "question": "Regarding third degree burn:",
+      "options": [
+        "Healing occurs from skin appendages",
+        "It is usually painful",
+        "No graft is needed as a line of treatment",
+        "It is a partial thickness burn",
+        "Usually dry, white or black"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Third-degree (full-thickness) burns destroy all skin layers and nerve endings. They appear dry, leathery, white, or black (eschar) and are insensate (painless).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Burns"
+    },
+    {
+      "id": 8386,
+      "question": "Regarding squamous cell carcinoma of the lip:",
+      "options": [
+        "Initially metastases are to the ipsilateral posterior cervical lymph nodes",
+        "More than 90 % of cases occur on the upper lip",
+        "Radiography is considered inappropriate treatment for these lesions",
+        "The lesion constitutes 30% of all cancers of oral cavity",
+        "The lesion often arises in areas of persistent hyperkeratosis."
+      ],
+      "correct_option_id": 4,
+      "explanation": "Lip carcinoma often arises from precursor lesions like actinic cheilitis or areas of chronic irritation/hyperkeratosis (leukoplakia).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Head & Neck"
+    },
+    {
+      "id": 8387,
+      "question": "Tuberculous cervical lymphadenitis is commonly affects:",
+      "options": [
+        "Lower deep cervical lymph nodes",
+        "Posterior triangle lymph nodes",
+        "Sub-maxillary lymph nodes",
+        "Supraclavicular lymph nodes",
+        "Upper deep cervical lymph nodes"
+      ],
+      "correct_option_id": 4,
+      "explanation": "TB lymphadenitis (Scrofula) most commonly affects the upper deep cervical lymph nodes (jugulodigastric group).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Head & Neck"
+    },
+    {
+      "id": 8388,
+      "question": "The earliest finding in tetanus infection is:",
+      "options": [
+        "Dysphagia.",
+        "Convulsions",
+        "Risus sardonicus.",
+        "Stridor.",
+        "Trismus."
+      ],
+      "correct_option_id": 0,
+      "explanation": "While trismus is the classic sign, prodromal symptoms like dysphagia, restlessness, or neck stiffness can be the earliest findings before full trismus.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 8389,
+      "question": "In a traumatized patient showing signs of bone fracture and acute ischemic, the patient should undergo:",
+      "options": [
+        "Heparin infusion",
+        "Urgent ligation of the affected vessels",
+        "Urgent repair of the affected vessel",
+        "Reduction of the fracture and waiting for return of pulse is the first step",
+        "Urgent amputation"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Bone displacement may kink the vessel. Fracture reduction is the first step; if the pulse doesn't return immediately, vascular exploration is indicated.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Trauma & Vascular"
+    },
+    {
+      "id": 8390,
+      "question": "A 68-year-old woman had a leg amputation for crush injury. Day 3 post-op, she is toxic with fever and tachycardia. The site is red, brawny, swollen, and has crepitus. What is the diagnosis?",
+      "options": [
+        "Abscess",
+        "Bacteremia and sepsis",
+        "Cellulitis and lymphangitis",
+        "Gas gangrene",
+        "Tetanus"
+      ],
+      "correct_option_id": 3,
+      "explanation": "The clinical picture of severe toxicity, brawny edema, and specifically 'crepitus' (gas) in the tissues following a crush injury amputation is diagnostic of Gas Gangrene (Clostridial myonecrosis).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Surgical Infections"
+    },
+    {
+      "id": 8391,
+      "question": "Post-operative infection, which of the following is the most effective way to prevent post-operative seroma/infection in an obese patient?",
+      "options": [
+        "Closing the wound with a rubber drain",
+        "Closing the wound with a closed suction drain",
+        "Closing the wound with multiple sutures in the subcutaneous tissue",
+        "Leaving the subcutaneous tissue and skin open to heal by secondary intention",
+        "Using electrocautery"
+      ],
+      "correct_option_id": 1,
+      "explanation": "In obese patients with large dead space, a closed suction drain is effective in removing fluid (seroma) and preventing accumulation that could become infected.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Wound Healing"
+    },
+    {
+      "id": 8392,
+      "question": "Wounds are healed by scar formation; concerning excessive scarring processes:",
+      "options": [
+        "Hypertrophic scars and keloid are histologically different",
+        "Keloid may turn malignant",
+        "Keloids tend to develop early and hypertrophic scars late after the surgical",
+        "Keloids occur randomly regardless of gender or race",
+        "Re-excision and closure of hypertrophic scars is useful if originally closed by secondary intention"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Unlike keloids, hypertrophic scars improve with time or excision/closure (reducing tension), especially if originally due to poor approximation or secondary intention.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Wound Healing"
+    },
+    {
+      "id": 8393,
+      "question": "Warthins tumor of salivary glands refers to;",
+      "options": [
+        "Adenolymphoma",
+        "Adenoid cystic carcinoma",
+        "Adenocarcinoma",
+        "Mucoepidermoid tumour",
+        "Pleomorphic adenoma"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Warthin's tumor is also known as Adenolymphoma (Papillary cystadenoma lymphomatosum). It is a benign tumor, common in elderly males/smokers, occurring almost exclusively in the parotid.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Head & Neck"
+    },
+    {
+      "id": 8394,
+      "question": "Salivary gland stone is mostly occurring in",
+      "options": [
+        "Minor salivary glands",
+        "Parotid gland substance",
+        "Parotid gland duct",
+        "Submandibular",
+        "Sublingual"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Sialolithiasis most commonly affects the Submandibular gland (80%) because its saliva is more viscous, alkaline, and calcium-rich, and the duct drains against gravity.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "General Surgery Revision",
+      "chapter": "Head & Neck"
+    }
+  ]
+}

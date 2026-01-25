@@ -1,0 +1,581 @@
+{
+  "meta": {
+    "source": "Term 7 - Endocrine",
+    "lesson": "Pituitary"
+  },
+  "questions": [
+    {
+      "id": 7600,
+      "question": "A 50-year-old male presents with ring/shoe tightening, facial enlargement, and bitemporal headache. MRI sella shows a pituitary adenoma. The most sensitive investigation is:",
+      "options": [
+        "Early morning serum growth hormone",
+        "Late night serum growth hormone",
+        "Clonidine stimulation test",
+        "Serum prolactin",
+        "IGF-1"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Serum IGF-1 (Insulin-like Growth Factor 1) is the most sensitive initial screening test for acromegaly because it reflects integrated GH secretion over time, whereas GH levels fluctuate pulsatilely.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "Acromegaly"
+    },
+    {
+      "id": 7601,
+      "question": "A 28-year-old woman presents with secondary amenorrhoea and galactorrhoea for 6 months. Exam is normal. MRI confirms a pituitary microadenoma. The most appropriate therapeutic option is:",
+      "options": [
+        "Bromocriptine",
+        "Elective trans-sphenoidal surgery",
+        "Dopamine antagonist",
+        "Eltroxin",
+        "Radiotherapy"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Dopamine agonists (Bromocriptine) are first-line for prolactinomas to normalize prolactin and restore fertility. Surgery is reserved for resistant or intolerant cases.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "Prolactinoma"
+    },
+    {
+      "id": 7602,
+      "question": "A 50-year-old male presents with ring/shoe tightening, facial enlargement, and bitemporal headache. MRI sella shows a pituitary adenoma. The most sensitive investigation is:",
+      "options": [
+        "TSH",
+        "Basal growth hormone (GH)",
+        "IGF-1",
+        "Prolactin",
+        "Insulin stimulation GH"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Similar to the previous question, IGF-1 is the gold standard screening test for acromegaly. Basal GH is unreliable due to its pulsatile secretion.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "Acromegaly"
+    },
+    {
+      "id": 7603,
+      "question": "A 50-year-old woman has a history of gastrinoma & pituitary tumor. She reports increasing lethargy, drowsiness & constipation. The laboratory studies include raised calcium (2.9 mmol/l), low phosphate and raised PTH levels. The most likely diagnosis is:",
+      "options": [
+        "Carcinoma of the bronchus",
+        "Pseudo-hypoparathyroidism",
+        "Acromegaly",
+        "Sarcoidosis",
+        "Multiple endocrine neoplasia syndrome (MEN I)"
+      ],
+      "correct_option_id": 4,
+      "explanation": "The clinical picture presents the '3 Ps' triad of MEN I: Parathyroid hyperplasia (causing hypercalcemia), Pancreatic tumor (Gastrinoma), and Pituitary tumor.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "MEN Syndromes"
+    },
+    {
+      "id": 7604,
+      "question": "Based on histochemical staining of anterior pituitary cells, lactotrophs and somatotrophs compose:",
+      "options": [
+        "Basophilic cells",
+        "Neutral cells",
+        "Acidophil cells",
+        "Chromophobe cells",
+        "Basophil and acidophil"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Somatotrophs (GH) and Lactotrophs (Prolactin) are classically described as acidophils. Corticotrophs, Thyrotrophs, and Gonadotrophs are basophils.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "Anatomy & Physiology"
+    },
+    {
+      "id": 7605,
+      "question": "Causes of hypopituitarism are all of the following EXCEPT:",
+      "options": [
+        "Kallmann syndrome",
+        "Craniopharyngioma",
+        "Head injury",
+        "Sheehan's syndrome",
+        "Hypothyroidism"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Hypothyroidism is a consequence (secondary hypothyroidism) rather than a cause of hypopituitarism. Kallmann syndrome, tumors, trauma, and infarction (Sheehan's) are direct causes.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "Hypopituitarism"
+    },
+    {
+      "id": 7606,
+      "question": "Damage to the pituitary stalk may result in an increase in:",
+      "options": [
+        "FSH",
+        "LH",
+        "GH",
+        "PRL",
+        "TSH"
+      ],
+      "correct_option_id": 3,
+      "explanation": "PRL is tonically inhibited by hypothalamic dopamine. Stalk damage interrupts this inhibition causing hyperprolactinemia (stalk effect), unlike other hormones which decrease.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "Anatomy & Physiology"
+    },
+    {
+      "id": 7607,
+      "question": "Intra-sellar pituitary tumors cause:",
+      "options": [
+        "Visual defect",
+        "Neurological defect",
+        "Hormonal changes",
+        "All of them"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Pituitary tumors can produce symptoms via mass effect (visual defects like bitemporal hemianopsia, neurological signs like cranial nerve palsies) and hormonal dysfunction (hypo- or hypersecretion).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "Clinical Features"
+    },
+    {
+      "id": 7608,
+      "question": "One of the following is a genetic syndrome associated with pituitary tumors:",
+      "options": [
+        "Multiple endocrine neoplasia (MEN) 1",
+        "Prader Willi syndrome",
+        "Kalman syndrome",
+        "McCune-Albright syndrome",
+        "Pachydermaperiostosis"
+      ],
+      "correct_option_id": 0,
+      "explanation": "MEN 1 is a hereditary syndrome characterized by tumors of the pituitary, parathyroid, and pancreas.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "MEN Syndromes"
+    },
+    {
+      "id": 7609,
+      "question": "The pituitary gland does not control secretory activity of one of the following glands:",
+      "options": [
+        "Thyroid",
+        "Suprarenal cortex",
+        "Testes",
+        "Ovary",
+        "Adrenal medulla"
+      ],
+      "correct_option_id": 4,
+      "explanation": "The adrenal medulla is controlled by the sympathetic nervous system. The anterior pituitary controls the thyroid (TSH), adrenal cortex (ACTH), and gonads (FSH/LH).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "Anatomy & Physiology"
+    },
+    {
+      "id": 7610,
+      "question": "Prolactinomas of the pituitary:",
+      "options": [
+        "Most often produce dysfunctional uterine bleeding in women",
+        "Most commonly produce infertility in men",
+        "When asymptomatic, are best treated surgically early in the micro-adenoma",
+        "May enlarge during pregnancy, requiring treatment with Bromocriptine or surgery",
+        "Commonly occur in patients with MEN 2"
+      ],
+      "correct_option_id": 3,
+      "explanation": "During pregnancy, estrogen stimulation causes normal lactotroph hyperplasia, which can cause prolactinomas to enlarge significantly, sometimes requiring intervention.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "Prolactinoma"
+    },
+    {
+      "id": 7611,
+      "question": "Sheehan's syndrome refers to pituitary apoplexy during?",
+      "options": [
+        "Antenatal period",
+        "Intra-partum period",
+        "Postpartum period",
+        "Postmenopausal period",
+        "During time of menstruation"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Sheehan's syndrome is ischemic necrosis of the pituitary gland that occurs in the postpartum period due to severe hemorrhage and shock during delivery.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "Hypopituitarism"
+    },
+    {
+      "id": 7612,
+      "question": "Surgical treatment is usually considered to be a first line treatment for the following pituitary / hypothalamic tumor:",
+      "options": [
+        "Nonfunctioning pituitary macroadenoma",
+        "Craniopharyngioma",
+        "Cushing disease",
+        "Prolactinoma",
+        "Acromegaly"
+      ],
+      "correct_option_id": 4,
+      "explanation": "While Prolactinomas are treated medically, the first-line treatment for Acromegaly (GH-secreting tumors) is typically Trans-sphenoidal surgery.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "Acromegaly"
+    },
+    {
+      "id": 7613,
+      "question": "Hypothalamic hormones are of two types: hypophysiotropic hormones that regulate the anterior pituitary via portal circulation, and neurohormones. Which hypothalamic hormone inhibits TSH secretion?",
+      "options": [
+        "Corticotropin-releasing hormone (CRH)",
+        "Dopamine",
+        "Growth hormone releasing hormone (GHRH)",
+        "Somatostatin",
+        "Oxytocin"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Somatostatin inhibits the secretion of both Growth Hormone and TSH. Dopamine inhibits Prolactin.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "Anatomy & Physiology"
+    },
+    {
+      "id": 7614,
+      "question": "The pituitary cell that produces two hormones is the:",
+      "options": [
+        "Thyrotrope",
+        "Gonadotrope",
+        "Corticotrope",
+        "Somatotrope",
+        "Lactotroph"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Gonadotropes produce both Follicle Stimulating Hormone (FSH) and Luteinizing Hormone (LH).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "Anatomy & Physiology"
+    },
+    {
+      "id": 7615,
+      "question": "The secretion of adrenocorticotrophic hormone (ACTH) is characterized by one of the following:",
+      "options": [
+        "Is mainly from the adrenal cortex",
+        "Is inhibited in stressful conditions",
+        "Is normally maximal around midnight",
+        "It has a melanocyte-stimulating activity",
+        "It stimulates catecholamine secretion by the adrenal medulla"
+      ],
+      "correct_option_id": 3,
+      "explanation": "ACTH shares a precursor (POMC) with Melanocyte Stimulating Hormone (MSH) and has intrinsic melanotropic activity, which can cause skin pigmentation when elevated.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "Anatomy & Physiology"
+    },
+    {
+      "id": 7616,
+      "question": "Typical features of anterior pituitary deficiency include:",
+      "options": [
+        "Loss of GH before LH",
+        "Skin pigmentation",
+        "Hypotension due to ACTH deficiency",
+        "Dilutional hyponatremia due to excess ADH"
+      ],
+      "correct_option_id": 2,
+      "explanation": "ACTH deficiency leads to secondary adrenal insufficiency (low cortisol), causing hypotension and shock, but without the hyperpigmentation seen in primary adrenal failure.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "Hypopituitarism"
+    },
+    {
+      "id": 7617,
+      "question": "Urgent surgical decompression is indicated in Pituitary apoplexy if there is:",
+      "options": [
+        "Severe hypoglycemia",
+        "Significant or progressive visual loss",
+        "Hypotension",
+        "Severe headache",
+        "Failure of lactation"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Visual loss indicates compression of the optic chiasm by the expanding hemorrhagic gland, requiring immediate neurosurgical decompression to prevent permanent blindness.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "Pituitary Apoplexy"
+    },
+    {
+      "id": 7618,
+      "question": "Which of the following hormones are stored in the posterior pituitary gland?",
+      "options": [
+        "Adrenocorticotropic hormone (ACTH)",
+        "Vasopressin (antidiuretic hormone)",
+        "Prolactin",
+        "Growth hormone (GH)",
+        "Thyroid stimulating hormone (TSH)"
+      ],
+      "correct_option_id": 1,
+      "explanation": "The posterior pituitary stores and releases Oxytocin and Vasopressin (ADH), which are synthesized in the hypothalamus.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "Anatomy & Physiology"
+    },
+    {
+      "id": 7619,
+      "question": "One of the following is false about SIADH:",
+      "options": [
+        "Nausea and vomiting",
+        "Seizures",
+        "Decreased urine sodium <15 mmol/L",
+        "Plasma osmolality < 280 mosmol/kg",
+        "Muscle cramps"
+      ],
+      "correct_option_id": 2,
+      "explanation": "In SIADH, urine sodium is inappropriately high (>20-40 mmol/L) due to euvolemic status and lack of sodium conservation. Low urine sodium (<15) would suggest hypovolemia.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "SIADH"
+    },
+    {
+      "id": 7620,
+      "question": "The following is false about SIADH:",
+      "options": [
+        "Small cell lung cancer is the most common cause",
+        "Hypernatremia",
+        "Seizures and headache",
+        "Nausea and vomiting",
+        "Muscle cramps"
+      ],
+      "correct_option_id": 1,
+      "explanation": "SIADH causes dilutional hyponatremia (low sodium) due to water retention, not hypernatremia.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "SIADH"
+    },
+    {
+      "id": 7621,
+      "question": "The principal function of Renin is to:",
+      "options": [
+        "Convert angiotensinogen to angiotensin I",
+        "Peripheral vasoconstriction",
+        "Convert angiotensin I to II",
+        "Stimulate epinephrine release",
+        "Suppress prolactin release"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Renin acts as an enzyme converting angiotensinogen into angiotensin I. ACE then converts I to II.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "Anatomy & Physiology"
+    },
+    {
+      "id": 7622,
+      "question": "The triad of hyponatraemia, haemodilution and urine hypertonic to plasma suggest diagnosis of:",
+      "options": [
+        "Nephrotic syndrome",
+        "SIADH",
+        "Nephrogenic diabetes insipidus",
+        "Addison's disease",
+        "Central diabetes insipidus"
+      ],
+      "correct_option_id": 1,
+      "explanation": "SIADH typically presents with hyponatremia (due to dilution), low serum osmolality (hemodilution), and inappropriately high urine osmolality (urine hypertonic to plasma).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "SIADH"
+    },
+    {
+      "id": 7623,
+      "question": "Which of the following is related to the action of ADH:",
+      "options": [
+        "Aquaporin 1",
+        "Aquaporin 2",
+        "Aquaporin 3",
+        "Aquaporin 4",
+        "Methyltransferase enzyme"
+      ],
+      "correct_option_id": 1,
+      "explanation": "ADH stimulates the insertion of Aquaporin-2 channels into the luminal membrane of the collecting ducts to increase water reabsorption.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "Anatomy & Physiology"
+    },
+    {
+      "id": 7624,
+      "question": "Acromegaly is due to excessive secretion of growth hormone from:",
+      "options": [
+        "Pituitary basophil adenoma",
+        "Pituitary acidophil adenoma",
+        "Pituitary chromophobe adenoma"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Acromegaly is caused by a tumor of the somatotroph cells (GH-secreting), which are acidophilic.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "Acromegaly"
+    },
+    {
+      "id": 7625,
+      "question": "GH mediates its effect on peripheral tissues by release of:",
+      "options": [
+        "Insulin like growth factor 1",
+        "Leptin hormone",
+        "NPY form hypothalamus",
+        "Direct effect",
+        "Stimulate D cells in pancreas"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Most growth-promoting effects of GH are mediated by the production of IGF-1 (Somatomedin C) in the liver.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "Anatomy & Physiology"
+    },
+    {
+      "id": 7626,
+      "question": "Growth hormone (GH) is secreted in a pulsatile manner. Which one of the following factors/ conditions is associated with increased GH secretion?",
+      "options": [
+        "Ageing",
+        "Increased BMI",
+        "Lack of exercise",
+        "Lack of sleep",
+        "Protein meal"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Protein meals (specifically the amino acid arginine) stimulate GH release. Aging, obesity, and hyperglycemia suppress it.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "Anatomy & Physiology"
+    },
+    {
+      "id": 7627,
+      "question": "In childhood growth hormone deficiency:",
+      "options": [
+        "Panhypopituitarism is typical finding",
+        "Most patients have craniopharyngioma",
+        "Delayed bone age",
+        "Treatment with human growth hormone produce precocious puberty",
+        "All patients are mentally retarded"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Bone age is classically delayed in children with GH deficiency compared to their chronological age.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "Hypopituitarism"
+    },
+    {
+      "id": 7628,
+      "question": "One of the following factors inhibits GH release:",
+      "options": [
+        "Sleep",
+        "Exercise",
+        "Hyperglycemia",
+        "Acute illness",
+        "Fasting"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Hyperglycemia is a potent inhibitor of GH release. This mechanism is utilized in the Oral Glucose Tolerance Test (OGTT) for acromegaly.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "Anatomy & Physiology"
+    },
+    {
+      "id": 7629,
+      "question": "Physiologic factors play a role in stimulating and inhibiting growth hormone (GH). One of the following inhibit GH release:",
+      "options": [
+        "Sleep",
+        "Exercise",
+        "Hyperglycemia",
+        "Acute illness",
+        "Fasting"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Hyperglycemia suppresses GH. Other factors like deep sleep, exercise, fasting, and stress (acute illness) typically stimulate it.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "Anatomy & Physiology"
+    },
+    {
+      "id": 7630,
+      "question": "The following are true regarding GH adenomas EXCEPT:",
+      "options": [
+        "TTT of choice of GH secreting adenoma is trans sphenoidal surgical excision of adenoma",
+        "Drug therapy is important in management of GH adenoma",
+        "Drug therapy including dopamine agonist & somatostatin analogue",
+        "Chemotherapy indoxane is updated therapy in GH secreting adenoma"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Cytotoxic chemotherapy is NOT standard for GH adenomas. Surgery is first-line, and medical therapy (somatostatin analogs/dopamine agonists) is an important adjunct.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "Acromegaly"
+    },
+    {
+      "id": 7631,
+      "question": "The most common cause of acquired hypopituitarism in the list below is:",
+      "options": [
+        "Craniopharyngioma",
+        "Eosinophilic granuloma (histiocytosis)",
+        "Tuberculosis",
+        "Toxoplasmosis",
+        "Meningitis"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Among the options listed, Craniopharyngioma is a significant cause of acquired hypopituitarism. (Pituitary adenoma is the overall most common cause but is not an option).",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "Hypopituitarism"
+    },
+    {
+      "id": 7632,
+      "question": "Which of the following can be used to assess GH reserve?",
+      "options": [
+        "Insulin-induced hypoglycemia",
+        "Arginine",
+        "L-dopa",
+        "Clonidine",
+        "All of the above"
+      ],
+      "correct_option_id": 4,
+      "explanation": "GH secretion can be provoked by various stimuli including insulin-induced hypoglycemia, arginine infusion, L-dopa, and clonidine. Failure to respond suggests deficiency.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "Anatomy & Physiology"
+    },
+    {
+      "id": 7633,
+      "question": "Which of the following increases the secretion of growth hormone?",
+      "options": [
+        "Insulin-like growth factor-1",
+        "Somatostatin",
+        "Hypoglycemia",
+        "Exogenous GH administration",
+        "Parathyroid hormone"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Hypoglycemia triggers a counter-regulatory release of GH. The others (IGF-1, Somatostatin, Exogenous GH) inhibit it.",
+      "term": "Term 7",
+      "subject": "Endocrine",
+      "lesson": "Pituitary",
+      "chapter": "Anatomy & Physiology"
+    }
+  ]
+}

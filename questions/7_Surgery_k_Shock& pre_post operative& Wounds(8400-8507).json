@@ -1,0 +1,1788 @@
+{
+"meta": {
+"source": "Term 7 - General Surgery",
+"lesson": "Shock& pre/post operative& Wounds"
+},
+"questions": [
+{
+"id": 8400,
+"question": "Rapid fluid resuscitation of the hypovolemic patient after abdominal trauma is significantly enhanced by which of the following?",
+"options": [
+"Placement of long 18-gauge subclavian vein catheters",
+"Placement of percutaneous femoral vein catheters",
+"Bilateral saphenous vein cut downs",
+"Placement of short, large-bore percutaneous peripheral intravenous catheters",
+"Infusion of cold whole blood"
+],
+"correct_option_id": 3,
+"explanation": "Poiseuille's Law states flow ∝ radius^4 and inversely to length. So short, large-bore peripheral catheters (14G/16G) provide the fastest resuscitation compared to long central lines.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Shock & Resuscitation"
+},
+{
+"id": 8401,
+"question": "Significant vascular injury is likely to occur with all of the following fractures or dislocations EXCEPT:",
+"options": [
+"Fracture of the mid-shaft of the humerus",
+"Supracondylar fracture of the humerus",
+"Fracture of the femoral shaft",
+"Supracondylar fracture of the femur"
+],
+"correct_option_id": 0,
+"explanation": "Mid-shaft humerus fractures classically injure the Radial Nerve, not vessels. Supracondylar and femoral shaft fractures risk injuring brachial or popliteal vessels due to proximity.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Trauma Management"
+},
+{
+"id": 8402,
+"question": "A 22-year-old man had bowel resection for GSW. On day 7, 300 mL/day of small-bowel fluid drains from the incision. Fascia is intact, no sepsis. What is the correct treatment?",
+"options": [
+"Early re-operation to close the fistula tract",
+"Broad-spectrum antibiotics",
+"Total parenteral nutrition",
+"Somatostatin to lower fistula output",
+"Loperamide to inhibit gut motility"
+],
+"correct_option_id": 2,
+"explanation": "Low-output fistulas (<500 mL/day) without sepsis are managed with bowel rest, TPN, and fluid correction; early surgery is risky due to adhesions.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Surgical Complications"
+},
+{
+"id": 8403,
+"question": "A 26-year-old man sustains a gunshot wound to the left thigh. Exploration reveals that a 5-cm portion of superficial femoral artery is destroyed. Appropriate management includes:",
+"options": [
+"Debridement and end-to-end anastomosis",
+"Debridement and repair with an interposition prosthetic graft",
+"Debridement and repair with an interposition arterial graft",
+"Debridement and repair with an interposition vein graft",
+"Ligation and observation"
+],
+"correct_option_id": 3,
+"explanation": "Autologous saphenous vein grafts are preferred for contaminated arterial injuries, offering better patency and lower infection risk than prosthetics; 5 cm is too long for primary repair.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Trauma Management"
+},
+{
+"id": 8404,
+"question": "A stable 36-year-old male has a GSW to the left buttock with the bullet in the RLQ. What is the correct management for suspected rectal injury?",
+"options": [
+"Barium studies of the colon and rectum",
+"Barium studies of the bullet track",
+"Endoscopy of the bullet track",
+"Angiography",
+"Sigmoidoscopy in the emergency room"
+],
+"correct_option_id": 4,
+"explanation": "Sigmoidoscopy is the initial test to rule out rectal injury in stable patients with pelvic trajectory. Barium is contraindicated if perforation is suspected; water-soluble contrast is preferred.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Trauma Management"
+},
+{
+"id": 8405,
+"question": "A patient with spontaneous eye opening, who is confused and localizes pain has a Glasgow Coma Score of:",
+"options": [
+"9",
+"11",
+"13",
+"15"
+],
+"correct_option_id": 2,
+"explanation": "GCS calculation: Eye Opening (Spontaneous = 4) + Verbal (Confused = 4) + Motor (Localizes pain = 5). Total = 4 + 4 + 5 = 13.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Trauma Management"
+},
+{
+"id": 8406,
+"question": "Appropriate treatment for an acute stable hematoma of ear pinna includes which of the following measures?",
+"options": [
+"Ice packs and prophylactic antibiotics",
+"Incision, drainage, and pressure bandage",
+"Needle aspiration",
+"Observation alone"
+],
+"correct_option_id": 1,
+"explanation": "Auricular hematomas require incision, drainage, and compression to prevent re-accumulation and cartilage necrosis ('cauliflower ear'). Needle aspiration has a high recurrence rate.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Trauma Management"
+},
+{
+"id": 8407,
+"question": "Platelets in the wound form a hemostatic clot and release clotting factors to produce:",
+"options": [
+"Fibrin",
+"Fibrinogen",
+"Thrombin",
+"Thromboplastin"
+],
+"correct_option_id": 0,
+"explanation": "Activated platelets aggregate to form a plug and provide a phospholipid surface for the coagulation cascade, ultimately leading to the conversion of fibrinogen to fibrin, which stabilizes the clot.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Wound Healing"
+},
+{
+"id": 8408,
+"question": "Signs of malignant transformation in a chronic wound include:",
+"options": [
+"Persistent granulation tissue with bleeding",
+"Non-healing after 2 weeks of therapy",
+"Over-turned wound edges",
+"Distal oedema"
+],
+"correct_option_id": 2,
+"explanation": "Malignant transformation (Marjolin's ulcer/SCC) in chronic wounds presents with raised, everted edges and bleeding. Biopsy confirms the diagnosis.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Wound Healing"
+},
+{
+"id": 8409,
+"question": "Steroids impair wound healing by:",
+"options": [
+"Decreasing angio-genesis and macrophage migration",
+"Increasing release of lysosomal enzymes",
+"Decreasing platelet plug integrity",
+"Increasing fibrinolysis"
+],
+"correct_option_id": 0,
+"explanation": "Corticosteroids inhibit the inflammatory phase of wound healing by suppressing macrophage migration and subsequent release of cytokines, and they also inhibit angiogenesis and collagen synthesis.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Wound Healing"
+},
+{
+"id": 8410,
+"question": "The major cause of impaired wound healing is:",
+"options": [
+"Anaemia",
+"Diabetes mellitus",
+"Local tissue infection",
+"Malnutrition"
+],
+"correct_option_id": 2,
+"explanation": "Local factors are the most common cause of wound failure, with wound infection being the single most important cause. Infection prolongs the inflammatory phase and increases tissue destruction.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Wound Healing"
+},
+{
+"id": 8411,
+"question": "The proliferative phase of wound healing occurs how long after the injury?",
+"options": [
+"1 day",
+"2 days",
+"7 days",
+"14 days"
+],
+"correct_option_id": 2,
+"explanation": "The proliferative phase (fibroblast migration, collagen deposition, angiogenesis) begins day 3-4 and peaks day 7-14. Thus, 7 days represents the active period.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Wound Healing"
+},
+{
+"id": 8412,
+"question": "What percentage of blood volume must be lost in healthy patients before hypotension occurs?",
+"options": [
+"10 - 30%",
+"20 - 30%",
+"30 - 40%",
+"40 - 50%"
+],
+"correct_option_id": 2,
+"explanation": "Hypotension is a late sign (Class III hemorrhage), occurring with 30-40% blood loss. Smaller losses (<30%) are compensated by tachycardia and vasoconstriction.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Shock & Resuscitation"
+},
+{
+"id": 8413,
+"question": "When a long bone fracture is repaired by internal fixation with plates and screws:",
+"options": [
+"Callus at the fracture site forms more rapidly",
+"Delayed union is prevented",
+"Direct bone-to-bone healing occurs without soft callus formation",
+"Endo-chondral ossification is more complete"
+],
+"correct_option_id": 2,
+"explanation": "Rigid fixation provides absolute stability, enabling 'primary bone healing' (Haversian remodeling) where cutting cones cross the fracture, bypassing soft callus formation (secondary healing).",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Wound Healing"
+},
+{
+"id": 8414,
+"question": "A 32-year-old man suffers a spinal cord injury with a resultant paraplegia in a motorcycle accident. He presents to the emergency room with hypotension. Which of the following statement(s) is/are true concerning his diagnosis and management?",
+"options": [
+"The low blood pressure can be assumed to be due to neurogenic shock",
+"The sole cause of hypotension is the loss of sympathetic input to the venous system",
+"Despite significant hypotension, secondary organ injury will be uncommon",
+"There is no role for pharmacological intervention to maintain blood pressure"
+],
+"correct_option_id": 2,
+"explanation": "Hypotension in trauma is hemorrhagic until proven otherwise. However, in pure neurogenic shock (warm shock), organ perfusion is often better maintained than in hypovolemic states.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Shock & Resuscitation"
+},
+{
+"id": 8415,
+"question": "A 19-year-old female presents with fever and submandibular pain. Exam shows an indurated, swollen, tender floor of mouth and poor dentition. What diagnosis is most concerning?",
+"options": [
+"Vincent angina",
+"Peri-odontal abscess",
+"Ludwig angina",
+"Retropharyngeal abscess",
+"Submandibular and sublingual gland sialadenitis"
+],
+"correct_option_id": 2,
+"explanation": "Ludwig's angina is a life-threatening cellulitis of the floor of the mouth (submandibular/sublingual spaces), usually odontogenic. It risks rapid airway obstruction.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Surgical Infections"
+},
+{
+"id": 8416,
+"question": "A 22-year-old male with a RUQ gunshot wound is lethargic, BP 85 mmHg, HR 130 bpm. Fluid resuscitation is initiated. What is the most appropriate fluid?",
+"options": [
+"0.9% sodium chloride",
+"Albumin",
+"Dextran",
+"3% sodium chloride",
+"5% dextrose in 0.45% sodium chloride"
+],
+"correct_option_id": 0,
+"explanation": "Isotonic crystalloids (Normal Saline, Ringer's Lactate) are the initial fluids of choice for hypovolemic shock. Colloids (Albumin) offer no survival benefit in trauma.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Shock & Resuscitation"
+},
+{
+"id": 8417,
+"question": "A 22-year-old man sustains a single stab wound to the left chest and presents to the emergency room with hypotension. Which of the following is/are true concerning his diagnosis and management?",
+"options": [
+"Likely hypovolemic shock; should respond to fluids",
+"Beck's triad will likely indicate tamponade",
+"Echocardiography is the most sensitive non-invasive approach for diagnosis of pericardial tamponade",
+"The placement of bilateral chest tube will likely resolve the problem"
+],
+"correct_option_id": 2,
+"explanation": "Echocardiography (FAST) is sensitive for tamponade in penetrating trauma. Beck's triad (hypotension, JVD, muffled sounds) appears in a minority of acute cases.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Trauma Management"
+},
+{
+"id": 8418,
+"question": "A 23-year-old male with head/neck trauma has BP 65 mmHg, HR 50 bpm, GCS 5. CT shows epidural hematoma and C4 facet dislocation. What is the likely cause of hypotension?",
+"options": [
+"Head trauma",
+"Hypovolemia",
+"Massive vasodilatation",
+"Alcohol intoxication",
+"Blunt cardiac injury"
+],
+"correct_option_id": 2,
+"explanation": "Hypotension (BP 65) with bradycardia (HR 50) and high cervical injury (C4) indicates Neurogenic Shock. Loss of sympathetic tone causes vasodilation and unopposed vagal tone.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Shock & Resuscitation"
+},
+{
+"id": 8419,
+"question": "A 24 y player sustained a trauma while playing Volleyball; is brought to ER with BP 80/40 and pulse 130. Which of the following fractures or dislocations of the extremities induced by blunt trauma is associated with significant vascular injuries?",
+"options": [
+"Knee dislocation",
+"Closed posterior elbow dislocation",
+"Mid-clavicular fracture",
+"Supracondylar femur fracture",
+"Tibial plateau fracture"
+],
+"correct_option_id": 2,
+"explanation": "Mid-clavicular fractures can injure subclavian vessels, causing massive hemothorax and shock (BP 80/40). Knee dislocations cause limb ischemia but rarely systemic shock.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Trauma Management"
+},
+{
+"id": 8420,
+"question": "A 25 Y male brought to ER after having stab penetrating wound in his abdomen. True statement about penetrating pancreatic trauma include:",
+"options": [
+"Most injuries do not involve adjacent organs",
+"Management of a ductal injury to the left of Mesenteric vessels is Roux-en-Y pancreatico-jejunostomy",
+"Management of a ductal injury in the head of Pancreas is pancreatico-duodenectomy",
+"Small peri-pancreatic hematomas need not be explored to search for pancreatic injury",
+"The major cause of death is exsanguination from vascular injuries"
+],
+"correct_option_id": 4,
+"explanation": "Penetrating pancreatic trauma often involves major nearby vessels (aorta, IVC, portal vein), making exsanguination the leading cause of early mortality.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Trauma Management"
+},
+{
+"id": 8421,
+"question": "A 25 Y worker is brought to the ER after falling from the 3rd floor. He is conscious, alert; but complaining of severe back pain and numbness of lower limbs. You suspected which type of spinal cord injury:",
+"options": [
+"Distraction",
+"Transection",
+"Impact with persisting compression",
+"Impact alone",
+"Laceration"
+],
+"correct_option_id": 2,
+"explanation": "A fall from height causing vertebral burst fractures often results in spinal cord injury due to 'impact with persisting compression' from retropulsed bone fragments into the spinal canal.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Trauma Management"
+},
+{
+"id": 8422,
+"question": "A 41-year-old woman with abdominal GSW (liver/bowel injury) dies 2 weeks later of MODS despite successful surgery. Which organ likely failed first?",
+"options": [
+"Liver",
+"Gastro-intestinal Tract",
+"Lung",
+"Kidney",
+"Heart"
+],
+"correct_option_id": 2,
+"explanation": "In MODS following trauma, the lungs are typically the first to fail, manifesting as ARDS within 24-72 hours.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Critical Care"
+},
+{
+"id": 8423,
+"question": "A 45 y male patient brought to ER with bleeding abdominal wound after stabbing of his abdomen. He is unstable. What will be the investigation of choice for diagnosing intra-abdominal bleeding is:",
+"options": [
+"CT scan",
+"MRI scan",
+"US",
+"Diagnostic peritoneal lavage (DPL)",
+"Exploration"
+],
+"correct_option_id": 4,
+"explanation": "For unstable patients with penetrating abdominal wounds and bleeding/peritonitis, immediate Laparotomy is the choice. Diagnostic adjuncts delay hemorrhage control.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Trauma Management"
+},
+{
+"id": 8424,
+"question": "A 45 y male patient brought to ER with blunt abdominal trauma. He is unstable. What will be the investigation of choice for diagnosing intra-abdominal bleeding is:",
+"options": [
+"Diagnostic Peritoneal lavage (DPL)",
+"X-ray abdomen",
+"US",
+"MRI",
+"CT scan"
+],
+"correct_option_id": 0,
+"explanation": "DPL is the most sensitive test for diagnosing bleeding in unstable patients if FAST is equivocal/unavailable. CT is contraindicated in instability.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Trauma Management"
+},
+{
+"id": 8425,
+"question": "A 45Y driver with blunt chest trauma has BP 80/40, pulse 120. Which situation indicates Emergency Room Thoracotomy?",
+"options": [
+"Massive hemo-thorax following blunt trauma to the chest",
+"Blunt trauma with vitals in field but arrest on arrival",
+"Rapidly deteriorating patient with cardiac tamponade from penetrating thoracic trauma",
+"Penetrating thoracic trauma and no signs of life in the field",
+"Penetrating abdominal trauma and no signs of life in the field"
+],
+"correct_option_id": 2,
+"explanation": "ER Thoracotomy is indicated for penetrating trauma with rapid deterioration (arrest). Survival in blunt trauma is <1%, so it is rarely indicated unless arrest is witnessed in the ER.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Trauma Management"
+},
+{
+"id": 8426,
+"question": "A teenage boy is run over by a truck. He is alert. CXR shows an air-fluid level in the left lower lung and the NG tube coils into the left chest. What is the next step?",
+"options": [
+"Placement of a left chest tube",
+"Immediate thoracotomy",
+"Immediate Laparotomy",
+"Esophago-gastroscopy",
+"Removal and replacement of the nasogastric tube; diagnostic peritoneal lavage"
+],
+"correct_option_id": 2,
+"explanation": "NG tube coiling in the chest with an air-fluid level indicates a Ruptured Diaphragm. Immediate Laparotomy is required to reduce viscera and repair the defect.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Trauma Management"
+},
+{
+"id": 8427,
+"question": "All of the following statements about keloids are true EXCEPT:",
+"options": [
+"A keloid does not regress spontaneously",
+"A keloid extends beyond the boundaries of the original wound",
+"Keloids or hypertrophic scars are best managed by excision and careful re-approximation of the wound",
+"Keloid tissue contains an abnormally large amount of collagen"
+],
+"correct_option_id": 2,
+"explanation": "Simple excision of keloids has a high recurrence rate. Management requires adjuvant therapy (steroids, radiation). Keloids do not regress spontaneously.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Wound Healing"
+},
+{
+"id": 8428,
+"question": "An 18Y boy is brought to the emergency as a case of road traffic accident; He is hypotensive. Most likely ruptured organ is:",
+"options": [
+"Spleen",
+"Mesentery",
+"Kidney",
+"Rectum",
+"Duodenum"
+],
+"correct_option_id": 0,
+"explanation": "The spleen is the most commonly injured solid organ in blunt abdominal trauma and a frequent cause of massive intraperitoneal hemorrhage leading to hypotension.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Trauma Management"
+},
+{
+"id": 8429,
+"question": "An 18-year-old developed hematuria after a flank kick. Vital signs are stable. Imaging shows contrast extravasation into the renal parenchyma. Treatment is:",
+"options": [
+"Exploration and suture of the laceration",
+"Nephrostomy",
+"Resumption of normal daily activity excluding sports",
+"Exploration and wedge resection of the left kidney",
+"Antibiotics and serial monitoring of blood count and vital signs"
+],
+"correct_option_id": 4,
+"explanation": "Stable blunt renal trauma is managed non-operatively (bed rest, monitoring). Parenchymal extravasation does not mandate surgery unless the patient is unstable or has an expanding hematoma.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Trauma Management"
+},
+{
+"id": 8430,
+"question": "Clark Level IV extends to which of the following structures?",
+"options": [
+"Epidermis",
+"Papillary dermis",
+"Reticular dermis",
+"Subcutaneous tissue"
+],
+"correct_option_id": 2,
+"explanation": "Clark's levels for melanoma invasion: I (Epidermis), II (Papillary dermis), III (Papillary/Reticular interface), IV (Reticular dermis), V (Subcutaneous fat).",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Wound Healing"
+},
+{
+"id": 8431,
+"question": "FAST stands for:",
+"options": [
+"Focused assessment with sonography for trauma",
+"Focused abdominal sonography for trauma",
+"Fast assessment with sonography for trauma",
+"Fast assignment with sonography and tomography (computed)",
+"Focused abdominal sonography and tomography"
+],
+"correct_option_id": 0,
+"explanation": "FAST is an acronym for Focused Assessment with Sonography for Trauma. It evaluates four regions (perihepatic, perisplenic, pelvic, pericardial) for free fluid.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Trauma Management"
+},
+{
+"id": 8432,
+"question": "In a healing wound, metallo-proteinases are responsible for:",
+"options": [
+"Establishing collagen cross-links",
+"Initiating collagen degradation",
+"Glycosylation of collagen molecules",
+"Incorporation of hydroxyproline into the collagen chain"
+],
+"correct_option_id": 1,
+"explanation": "Matrix Metalloproteinases (MMPs) remodel the extracellular matrix by degrading collagen and proteins, essential for wound remodeling and cell migration.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Wound Healing"
+},
+{
+"id": 8433,
+"question": "In which category of shock is the Trendelenburg position considered a viable treatment option?",
+"options": [
+"Cardiogenic",
+"Neurogenic",
+"Hypovolemic",
+"Septic",
+"Cardiac compressive"
+],
+"correct_option_id": 2,
+"explanation": "Trendelenburg position (head down, legs up) can transiently increase venous return and cardiac output in hypovolemic shock (auto-transfusion), although its long-term benefit is debated.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Shock & Resuscitation"
+},
+{
+"id": 8434,
+"question": "Male patient 40 Years old, brought to ER after sustaining poly-trauma. First step to be taken is:",
+"options": [
+"Blood transfusion",
+"IV fluids",
+"Reconstruction",
+"Maintenance of airways",
+"Emergency transfer to hospital"
+],
+"correct_option_id": 3,
+"explanation": "According to ATLS guidelines, the primary survey begins with 'A' for Airway maintenance with cervical spine protection. This is always the first priority.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Trauma Management"
+},
+{
+"id": 8435,
+"question": "Narcotics are commonly used in administration of general anesthesia. Which of the following statement (s) is/are true concerning this class of agents?",
+"options": [
+"Narcotics are analgesic but can cause hypotension by myocardial depression",
+"Naloxone should be used routinely for the reversal of narcotic analgesia",
+"Hypovolemic patients risk severe hypotension with narcotic analgesia",
+"Propofol is a new intra-venous short-acting narcotic used frequently in the outpatient setting"
+],
+"correct_option_id": 2,
+"explanation": "Narcotics reduce sympathetic tone and cause vasodilation. In hypovolemic patients relying on sympathetic tone, they can precipitate severe hypotension.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Critical Care"
+},
+{
+"id": 8436,
+"question": "The cell type most characteristic of chronic inflammation is the:",
+"options": [
+"Macrophage",
+"B cell",
+"Natural killer cell",
+"Neutrophil",
+"Eosinophil"
+],
+"correct_option_id": 0,
+"explanation": "Macrophages are the dominant cell type in chronic inflammation. Neutrophils are characteristic of acute inflammation.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Wound Healing"
+},
+{
+"id": 8437,
+"question": "The severity of hypovolemic shock has been found to correlate with:",
+"options": [
+"Hematocrit",
+"Pulmonary capillary wedge pressure (PCWP)",
+"Lactic acid",
+"PaO2",
+"White blood cell count"
+],
+"correct_option_id": 2,
+"explanation": "Serum lactate correlates with shock severity and resuscitation adequacy, marking anaerobic metabolism. Hematocrit may not change initially in acute hemorrhage.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Shock & Resuscitation"
+},
+{
+"id": 8438,
+"question": "The use of prophylactic antibiotics has become commonplace. Which of the following statement(s) is/are true concerning the prophylactic use of antibiotics?",
+"options": [
+"Antibiotics must be initiated prior to the surgical procedure",
+"Continuing antibiotics post-op improves prophylaxis results",
+"Broad-spectrum agents (3rd-gen cephalosporins) are particularly advantageous",
+"The topical use of anti-microbial agents is of no advantage in the prophylactic setting"
+],
+"correct_option_id": 0,
+"explanation": "Prophylaxis is effective if tissue levels are adequate at incision. Administer within 60 mins pre-op. Continuation >24 hours is not recommended.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Surgical Infections"
+},
+{
+"id": 8439,
+"question": "Triage system is used for:",
+"options": [
+"Burn",
+"Earthquake",
+"Poly-trauma",
+"Floods",
+"Wars"
+],
+"correct_option_id": 2,
+"explanation": "Triage prioritizes patients based on severity when resources are limited (Poly-trauma/Mass Casualty), ensuring the greatest good for the greatest number.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Trauma Management"
+},
+{
+"id": 8440,
+"question": "Which of the following is not assessed in FAST?",
+"options": [
+"Right upper quadrant",
+"Left upper quadrant",
+"Hypogastrium",
+"Sub-xiphoid area",
+"Right iliac fossa"
+],
+"correct_option_id": 4,
+"explanation": "The standard FAST exam views are: 1. RUQ (Morison's pouch), 2. LUQ (Splenorenal), 3. Pelvis (Suprapubic), and 4. Pericardial (Sub-xiphoid). The Right Iliac Fossa is not a standard FAST window.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Trauma Management"
+},
+{
+"id": 8441,
+"question": "Which of the following is/are correct concerning the management of an open wound?",
+"options": [
+"Frequent surgical debridement is usually necessary",
+"Water irrigation can effectively debride most wounds",
+"Hydrogen peroxide is particularly useful in the management wounds",
+"Newer dressings are clearly better than moist occlusive dressings"
+],
+"correct_option_id": 1,
+"explanation": "High-pressure irrigation (pulsed lavage) with saline (or water) is the most effective method for removing bacteria and debris from an open wound, effectively acting as mechanical debridement.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Wound Healing"
+},
+{
+"id": 8442,
+"question": "Which of the following is/are true concerning excessive scarring processes?",
+"options": [
+"Keloids occur randomly regardless of gender or race",
+"Hypertrophic scars and keloid are histologically different",
+"Keloids tend to develop early and hypertrophic scars late after the surgical",
+"Excision and closure is useful for hypertrophic scars from secondary intention"
+],
+"correct_option_id": 3,
+"explanation": "Hypertrophic scars result from tension/secondary healing; excision and tension-free closure can cure. Keloids are genetic and difficult to treat.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Wound Healing"
+},
+{
+"id": 8443,
+"question": "Which of the following is/are true concerning the assessment of protein reserve?",
+"options": [
+"Conventional serum proteins such as albumin and globulin are early indicator of malnutrition",
+"The total lymphocyte count reflects patient immunity and not nutrition",
+"Antigen skin testing reflects patient immunity and not nutrition",
+"Measurement of urea excretion in urine can be used as a measurement of protein breakdown"
+],
+"correct_option_id": 3,
+"explanation": "Nitrogen balance studies (calculated from 24-hour Urinary Urea Nitrogen) measure protein catabolism and breakdown. Albumin has a long half-life (20 days) and is a poor early indicator of malnutrition.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Nutrition & Metabolism"
+},
+{
+"id": 8444,
+"question": "Which of the following is/are true concerning the role of antibiotics in wound care?",
+"options": [
+"Systemic antibiotics are indicated for all open wounds",
+"Bacterial resistance can occur with systemic but not topical antibiotics",
+"Bacterial count > 10^5 organisms/g indicates systemic antibiotics",
+"Silver sulfadiazine is useful only for the management of burns"
+],
+"correct_option_id": 2,
+"explanation": "Bacteria > 10^5 organisms/g indicates invasive infection (not colonization), precluding healing/grafting, and requiring systemic antibiotics.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Surgical Infections"
+},
+{
+"id": 8445,
+"question": "Which of the following is/are true concerning the treatment of pulmonary interstitial edema?",
+"options": [
+"Diuresis and blood transfusion is a valuable step",
+"Salt-poor albumin leaks through the capillaries and worsen the condition",
+"Mannitol is contraindicated as diuretics in this clinical situation",
+"Isoproterenol is a poor choice as an iono-tropic agent"
+],
+"correct_option_id": 3,
+"explanation": "Isoproterenol (non-selective beta agonist) increases myocardial O2 demand and causes tachycardia, making it a poor inotrope for critical patients.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Critical Care"
+},
+{
+"id": 8446,
+"question": "Which of the following is/are true concerning the vascular response to injury?",
+"options": [
+"Histamine, PGE2, and PGI2 are vasoconstriction mediators",
+"Vaso-constriction is an early event in the response to injury",
+"Vaso-dilatation is a detrimental response to injury",
+"Vascular permeability is maintained to prevent further cellular injury"
+],
+"correct_option_id": 3,
+"explanation": "The inflammatory response involves vasodilation and increased vascular permeability to allow immune cell access. 'Maintained' permeability likely refers to this sustained response.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Wound Healing"
+},
+{
+"id": 8447,
+"question": "Which of the following statement(s) is/are true concerning septic shock?",
+"options": [
+"Gram -ve septic shock differs clinically from other infectious shocks",
+"The circulatory derangements of septic shock precede the development of metabolic abnormalities",
+"Splanchnic vascular resistance falls in similar fashion to overall systemic vascular resistance",
+"Exogenous volume resuscitation is necessary despite intrinsic mechanisms"
+],
+"correct_option_id": 3,
+"explanation": "Septic shock causes vasodilation and capillary leak (relative hypovolemia). Aggressive fluid resuscitation is required despite compensation.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Shock & Resuscitation"
+},
+{
+"id": 8448,
+"question": "Which of the following statement(s) is/are true concerning the cell function of phagocytosis?",
+"options": [
+"Phagocytosis is endocytosis of large particles (bacteria/RBCs) by special cells",
+"Lymphocytes are the primary blood cell involved with this process",
+"The process involves a coating of the cytoplasmic surface known as clathrin",
+"Phagocytosis is performed only by white blood cells and tissue macrophages"
+],
+"correct_option_id": 0,
+"explanation": "Phagocytosis ('cell eating') involves ingesting large particles (>0.5 microns) by neutrophils/macrophages. Pinocytosis is for fluids.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Wound Healing"
+},
+{
+"id": 8449,
+"question": "Which of the following statement(s) is/are true concerning the clinical management of an open wound?",
+"options": [
+"A wet-to-dry dressing is the most optimal form of wound management",
+"A moist occlusive dressing promotes epithelialization and reduces pain",
+"The protein rich plasma exudate covering the open wound facilitates healing",
+"Irrigation of the wound disrupts epithelialization therefore inhibiting the healing process"
+],
+"correct_option_id": 1,
+"explanation": "Moist wound healing is gold standard. Occlusive dressings maintain moisture, accelerating epithelialization and reducing pain compared to dry dressings.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Wound Healing"
+},
+{
+"id": 8450,
+"question": "A 20-year-old man has an injury to the posterior urethra. After appropriate initial management and follow-up care of this injury, the most likely late complication is:",
+"options": [
+"Ascending urinary tract infection",
+"Retrograde ejaculation",
+"Sterility",
+"Urethral stricture"
+],
+"correct_option_id": 3,
+"explanation": "Urethral stricture is the most common long-term complication of posterior urethral injuries, occurring in a significant percentage of patients due to scar formation at the distraction site.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Trauma Management"
+},
+{
+"id": 8451,
+"question": "Scar formation is part of the normal healing process following injury, which of the following tissues has the ability to heal without scar formation?",
+"options": [
+"Bone",
+"Muscle",
+"Liver",
+"Skin",
+"Uterus"
+],
+"correct_option_id": 0,
+"explanation": "Bone (and the fetal skin) is unique in its ability to regenerate original tissue structure (via callus and remodeling) without forming a fibrous scar, unlike muscle or adult skin.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Wound Healing"
+},
+{
+"id": 8452,
+"question": "Shock can best be defined as:",
+"options": [
+"Anemia",
+"Hypotension",
+"Hypoperfusion",
+"Hypoxemia",
+"Hypovolemia"
+],
+"correct_option_id": 2,
+"explanation": "Shock is defined physiologically as inadequate tissue perfusion (hypoperfusion) to meet metabolic demands. Hypotension is a sign, but shock can exist with normal blood pressure (compensated shock).",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Shock & Resuscitation"
+},
+{
+"id": 8453,
+"question": "What is the major determinant in an individual patient's risk for perioperative complications?",
+"options": [
+"The surgical procedure",
+"The length of the surgical procedure",
+"The anesthetic technique (e.g., general, regional)",
+"The length of anesthesia",
+"The age of the patient"
+],
+"correct_option_id": 0,
+"explanation": "The type and urgency of the surgical procedure (e.g., intrathoracic/intraperitoneal vs superficial) is the strongest predictor of perioperative risk, followed by patient comorbidities (ASA status).",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Preoperative Care"
+},
+{
+"id": 8454,
+"question": "After tissue injury, the first step in coagulation is:",
+"options": [
+"Binding of factor XII to subendothelial collagen",
+"Cleavage of factor XI to active factor IX",
+"Factor IX/VIII complex converts prothrombin to thrombin with calcium",
+"Formation of fibrin from fibrinogen"
+],
+"correct_option_id": 0,
+"explanation": "The intrinsic pathway is initiated when Factor XII (Hageman factor) binds to subendothelial collagen exposed by vascular injury.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Hemostasis"
+},
+{
+"id": 8455,
+"question": "Neurogenic shock is characterized by the presence of:",
+"options": [
+"Cool moist skin",
+"Increased cardiac output",
+"Decreased blood volume",
+"Decreased peripheral vascular resistance"
+],
+"correct_option_id": 3,
+"explanation": "Neurogenic shock involves loss of sympathetic tone, causing vasodilation and decreased SVR. Skin is warm/flushed, unlike cool skin in hypovolemia.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Shock & Resuscitation"
+},
+{
+"id": 8456,
+"question": "The half-life of platelets is:",
+"options": [
+"2 - 3 days",
+"7 - 10 days",
+"14 - 21 days",
+"30 - 40 days"
+],
+"correct_option_id": 1,
+"explanation": "The normal lifespan of a platelet in circulation is approximately 7 to 10 days.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Hemostasis"
+},
+{
+"id": 8457,
+"question": "The most common fatal infection complication of a blood transfusion is:",
+"options": [
+"Acquired immune-deficiency syndrome",
+"Cyto-megalo-virus",
+"Malaria",
+"Viral hepatitis"
+],
+"correct_option_id": 3,
+"explanation": "Hepatitis (B/C) is the most significant transfusion infection regarding prevalence/consequences, despite screening. AIDS/Malaria are rarer.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Fluids & Transfusion"
+},
+{
+"id": 8458,
+"question": "Which congenital factor deficiency is associated with delayed bleeding after initial hemostasis?",
+"options": [
+"Factor VII",
+"Factor IX",
+"Factor XI",
+"Factor XIII"
+],
+"correct_option_id": 3,
+"explanation": "Factor XIII is the 'fibrin stabilizing factor'. Deficiency leads to the formation of an unstable clot that dissolves, causing delayed bleeding (e.g., umbilical stump bleeding delayed by days).",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Hemostasis"
+},
+{
+"id": 8459,
+"question": "Which of the following in NOT one of the four major physiologic events of hemostasis?",
+"options": [
+"Fibrinolysis",
+"Vasodilatation",
+"Platelet plug formation",
+"Fibrin production"
+],
+"correct_option_id": 1,
+"explanation": "Hemostasis involves Vasoconstriction (not Vasodilatation), Platelet plug formation, Fibrin production (Coagulation), and Fibrinolysis.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Hemostasis"
+},
+{
+"id": 8460,
+"question": "Which of the following is a cause of vasodilatory shock?",
+"options": [
+"Aspirin poisoning",
+"Carbon monoxide poisoning",
+"Snake bite",
+"Severe muscle injury with rhabdomyolysis"
+],
+"correct_option_id": 1,
+"explanation": "Carbon monoxide causes hypoxia and vasodilation. Septic/Neurogenic shock are classic vasodilatory forms.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Shock & Resuscitation"
+},
+{
+"id": 8461,
+"question": "In patients receiving massive blood transfusion for acute blood loss; what is subsequent management?",
+"options": [
+"Give a six-pack of platelets with every 10 units of pRBCs",
+"Give 1-2 ampoules of bicarb with every 5 units of pRBCs to avoid acidosis",
+"Give 1 ampoule CaCl with every 5 units pRBCs to avoid hypocalcemia",
+"Infuse pRBCs and crystalloids to restore O2 capacity and volume",
+"Two units of FFP should be given with every 5 units of packed red blood cells in most cases"
+],
+"correct_option_id": 3,
+"explanation": "Modern protocols advocate balanced resuscitation (1:1:1). The fundamental goal is restoring O2 capacity and volume. Prophylactic Ca/Bicarb requires lab guidance.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Fluids & Transfusion"
+},
+{
+"id": 8462,
+"question": "Advantages of epidural analgesia include:",
+"options": [
+"Earlier mobilization after surgery",
+"Earlier return of bowel function",
+"Decreased stress response to surgery",
+"Shorter hospitalizations",
+"All of the above"
+],
+"correct_option_id": 4,
+"explanation": "Epidural analgesia improves pain control, reduces opioids (less ileus), attenuates stress response, and aids early mobilization, shortening stays.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Postoperative Care"
+},
+{
+"id": 8463,
+"question": "A 2-month pregnant female presented to OPD with severe sore throat. Which of the following antimicrobial agents you will prescribe to her:",
+"options": [
+"Ganciclovir",
+"Albendazole",
+"Ketoconazole",
+"Streptomycin",
+"Erythromycin"
+],
+"correct_option_id": 4,
+"explanation": "Erythromycin is safe in pregnancy (Category B). Streptomycin is ototoxic. Others are not indicated for bacterial sore throat.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Surgical Infections"
+},
+{
+"id": 8464,
+"question": "All of the following are true about neurogenic shock except:",
+"options": [
+"There is a decrease in systemic vascular resistance and an increase in venous capacitance",
+"Tachycardia or Bradycardia may be observed, along with hypotension",
+"The use of an alpha agonist such as phenylephrine is the mainstay of treatment",
+"Severe head injury, spinal cord injury, and high spinal anesthesia may all cause neurogenic shock"
+],
+"correct_option_id": 2,
+"explanation": "Treatment for neurogenic shock starts with fluids to fill the dilated bed, then vasopressors. Phenylephrine alone without volume is incorrect.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Shock & Resuscitation"
+},
+{
+"id": 8465,
+"question": "All of the following may be useful in the treatment of cardiogenic shock except:",
+"options": [
+"Dobutamine",
+"Sodium nitroprusside",
+"Pneumatic anti-shock garment",
+"Intra-aortic balloon pump"
+],
+"correct_option_id": 2,
+"explanation": "Pneumatic anti-shock garments increase afterload, detrimental in cardiogenic shock. Dobutamine and IABP are standard.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Shock & Resuscitation"
+},
+{
+"id": 8466,
+"question": "Intensive insulin therapy:",
+"options": [
+"Improves established retinopathy and nephropathy",
+"Is not associated with unawareness of hypoglycemia",
+"Improves peripheral neuropathy",
+"Is indicated in all patients with non-insulin-dependent diabetes mellitus (NIDDM)"
+],
+"correct_option_id": 2,
+"explanation": "Strict glycemic control (Intensive insulin therapy) has been shown to reduce the progression of microvascular complications like neuropathy.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Nutrition & Metabolism"
+},
+{
+"id": 8467,
+"question": "Male patient 59 years old, presented with diabetic foot wound during lab assessment before surgical debridement, the results show Na 137 mEq/L, K 6.5 mEq/L, random blood sugar 354 mg/dl, HB Alc 8.5 mg/dl. In this patient there is:",
+"options": [
+"Hypokalemia",
+"Hyperkalemia",
+"Hyponatremia",
+"Hypernatremia"
+],
+"correct_option_id": 1,
+"explanation": "Normal Potassium is 3.5-5.0 mEq/L. A level of 6.5 mEq/L indicates Hyperkalemia.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Fluids & Electrolytes"
+},
+{
+"id": 8468,
+"question": "The characteristic changes follow a major surgery or moderate to severe injury do not include the following:",
+"options": [
+"Hyper catabolism",
+"Fever",
+"Tachypnea",
+"Hyperphagia"
+],
+"correct_option_id": 3,
+"explanation": "The metabolic response to injury (Ebb and Flow phases) includes hypercatabolism and anorexia, not hyperphagia (increased appetite).",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Nutrition & Metabolism"
+},
+{
+"id": 8469,
+"question": "The evaluation of a patient scheduled for elective surgery should include the following as tests of hemostasis and coagulation:",
+"options": [
+"History and physical examination",
+"Complete blood count (CBC), including platelet count",
+"Prothrombin time (PT) and activated partial thromboplastin time (APTT)",
+"Studies of platelet aggregation with adenosine di-phosphate (ADP) and epinephrine"
+],
+"correct_option_id": 2,
+"explanation": "For patients with a suggestive history or undergoing major surgery, PT/INR and aPTT are the standard screening tests for the extrinsic and intrinsic coagulation pathways, respectively.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Preoperative Care"
+},
+{
+"id": 8470,
+"question": "The most common cause of fatal transfusion reactions is:",
+"options": [
+"An allergic reaction",
+"An anaphylactic reaction",
+"A Technical error",
+"An acute bacterial infection transmitted in blood"
+],
+"correct_option_id": 2,
+"explanation": "Technical/Clerical error (giving the wrong blood to the wrong patient) leading to ABO incompatibility (Acute Hemolytic Transfusion Reaction) is the most common cause of fatal reaction.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Fluids & Transfusion"
+},
+{
+"id": 8471,
+"question": "Which of the following is/are correct statements regarding whole blood transfusion?",
+"options": [
+"Whole blood is the most commonly used red cell preparation for transfusion in the United States",
+"Whole blood is effective in the replacement of acute blood loss",
+"Most blood banks in the United States have large supplies of whole blood available",
+"Whole blood has higher disease transmission rates than component therapy"
+],
+"correct_option_id": 1,
+"explanation": "Whole blood replaces volume, RBCs, and factors simultaneously, ideal for massive loss. Component therapy is more common in civilian practice.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Fluids & Transfusion"
+},
+{
+"id": 8472,
+"question": "Which of the following is/are true concerning the compensatory mechanisms and treatment of metabolic acidosis?",
+"options": [
+"Renal compensation for metabolic acidosis occurs before respiratory compensation",
+"All patients with lactic acidosis should receive prompt treatment with bicarbonate",
+"Potassium replacement is essential in DKA even if serum K is normal/high",
+"Start bicarb with volume resuscitation in shock-induced hypoxia"
+],
+"correct_option_id": 2,
+"explanation": "In DKA, insulin drives K into cells, dropping levels rapidly. Replenish K even if normal initially to prevent arrhythmias. Bicarbonate is usually contraindicated in lactic acidosis.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Fluids & Electrolytes"
+},
+{
+"id": 8473,
+"question": "Which of the following statement(s) is/are true concerning the diagnosis and management of hypovolemic shock?",
+"options": [
+"A fall in hematocrit or hemoglobin always accompanies hemorrhagic shock",
+"The treatment of shock is generic regardless of the etiology",
+"Increasing myocardial contractility is key in early hypovolemic shock management",
+"Complications are less frequent after treatment of hemorrhagic shock than septic or traumatic shock"
+],
+"correct_option_id": 3,
+"explanation": "Promptly treated hemorrhagic shock has fewer complications (e.g., MODS) than septic or traumatic shock involving inflammation.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Shock & Resuscitation"
+},
+{
+"id": 8474,
+"question": "Which of the following statements about extra-cellular fluid are true?",
+"options": [
+"The total extra-cellular fluid volume represents 40% of the body weight",
+"The plasma volume constitutes 1/4 of the total extra-cellular fluid",
+"Potassium is the principal cation in extra-cellular fluid",
+"The interstitial fluid equilibrates slowly with the other body compartments"
+],
+"correct_option_id": 0,
+"explanation": "Total Body Water is 60%; ICF is 40%, ECF is 20%. Plasma is 1/4 of ECF. Sodium is the main ECF cation. (Note: Key A saying ECF=40% contradicts standard physiology).",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Fluids & Electrolytes"
+},
+{
+"id": 8475,
+"question": "Which of the following statements about the presence of gallstones diabetes patients is/are correct?",
+"options": [
+"Gallstones in diabetics indicate cholecystectomy regardless of symptoms",
+"Diabetic gallstones with pain should be managed non-operatively",
+"The presence of diabetes and gallstones places the patient at high risk for pancreatic cancer",
+"Diabetics with symptomatic stones need prompt elective cholecystectomy"
+],
+"correct_option_id": 0,
+"explanation": "Historically, prophylactic cholecystectomy was recommended for asymptomatic diabetics due to complication risks. Modern guidelines differ, but the key reflects traditional teaching.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Preoperative Care"
+},
+{
+"id": 8476,
+"question": "Which of the following statements are true of a patient with hyperglycemia and hyponatraemia?",
+"options": [
+"With normal renal function, this patient is likely to be volume overloaded",
+"Proper fluid therapy would be unlikely to include potassium administration",
+"Insulin administration will increase the potassium content of cells",
+"Early in treatment adequate urine output is a reliable measure of adequate volume resuscitation"
+],
+"correct_option_id": 3,
+"explanation": "Urine output is the clinical standard for perfusion. Note: Hyperglycemia causes osmotic diuresis, which can mislead, but this option is selected as the key.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Fluids & Electrolytes"
+},
+{
+"id": 8477,
+"question": "Which of the following statements regarding cytokines is incorrect?",
+"options": [
+"Cytokines act directly on target cells and may potentiate the action of one another",
+"IL-1 is a major proinflammatory mediator regulating muscle proteolysis in sepsis",
+"PAF is a major cytokine causing aggregation, bronchoconstriction, and permeability",
+"TNF-a is a principal mediator in sepsis/MODS despite short half-life"
+],
+"correct_option_id": 2,
+"explanation": "Platelet Activating Factor (PAF) is a phospholipid mediator, not a cytokine (which are proteins). This makes statement C the incorrect one.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Nutrition & Metabolism"
+},
+{
+"id": 8478,
+"question": "Which of the following (if present) is a distinguishing feature of neurogenic shock?",
+"options": [
+"Hypotension",
+"Bradycardia",
+"Vaso-dilation",
+"Vaso-constriction"
+],
+"correct_option_id": 1,
+"explanation": "Bradycardia is a distinguishing feature of neurogenic shock (due to loss of sympathetic tone). Other forms of shock (hypovolemic, septic, cardiogenic) typically present with tachycardia.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Shock & Resuscitation"
+},
+{
+"id": 8479,
+"question": "Bleeding complications are frequently associated with fibrinolytic therapy; as regard the complications of fibrinolytic therapy:",
+"options": [
+"A level of serum fibrinogen less than 100 mg/dl is associated with increased risk of bleeding",
+"Recent stroke (<2mo) allows fibrinolytic therapy if CT is normal",
+"Careful monitoring of prothrombin time and a PTT time are necessary to avoid bleeding complications",
+"Recent (<10 days) major surgery contraindicates systemic, not regional, fibrinolysis"
+],
+"correct_option_id": 0,
+"explanation": "Hypofibrinogenemia (<100 mg/dL) is a significant predictor of bleeding risk during fibrinolytic therapy, as fibrinogen is depleted.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Hemostasis"
+},
+{
+"id": 8480,
+"question": "Signs and symptoms of hemolytic reactions of blood transfusion include:",
+"options": [
+"Abnormal bleeding",
+"Hypothermia",
+"Hypertension",
+"Hyposthesis at the transfusion site",
+"Polyuria"
+],
+"correct_option_id": 0,
+"explanation": "In an anesthetized or unconscious patient, the only sign of an acute hemolytic transfusion reaction may be abnormal bleeding (DIC) and hypotension/tachycardia.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Fluids & Transfusion"
+},
+{
+"id": 8481,
+"question": "Enteral nutrition:",
+"options": [
+"Results in a reduction of infections complications I critically ill patients",
+"Is more expensive than parenteral nutrition",
+"Results in faster return of bowel function in healthy patients after gastrointestinal surgery",
+"Has a higher complication rate than parenteral nutrition"
+],
+"correct_option_id": 0,
+"explanation": "Enteral nutrition maintains gut mucosal integrity (preventing bacterial translocation) and immunological function, leading to significantly lower rates of infectious complications compared to TPN.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Nutrition & Metabolism"
+},
+{
+"id": 8482,
+"question": "Healthy patients undergoing uncomplicated surgery can remain N.P.O. (with intravenous fluid support) for how many days before significant protein catabolism occurs?",
+"options": [
+"2 days",
+"4 days",
+"7 days",
+"10 days"
+],
+"correct_option_id": 1,
+"explanation": "Nutritional support is usually not required unless NPO > 5-7 days. '4 days' likely refers to glycogen depletion or consideration threshold.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Nutrition & Metabolism"
+},
+{
+"id": 8483,
+"question": "The most frequent trace mineral deficiency developing in a patient receiving parenteral alimentation is a deficiency of:",
+"options": [
+"Calcium",
+"Chromium",
+"Magnesium",
+"Zinc"
+],
+"correct_option_id": 3,
+"explanation": "Zinc deficiency is common in patients on TPN, especially with high GI output (diarrhea/fistula), leading to poor wound healing and dermatitis.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Nutrition & Metabolism"
+},
+{
+"id": 8484,
+"question": "Which of the following are the most potent mediators of the inflammatory response?",
+"options": [
+"Corticosteroids",
+"Heat shock proteins",
+"Cytokines",
+"Eicosanoids"
+],
+"correct_option_id": 2,
+"explanation": "Cytokines (like TNF-alpha, IL-1, IL-6) are the central and most potent orchestrators of the systemic inflammatory response.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Nutrition & Metabolism"
+},
+{
+"id": 8485,
+"question": "All of the following statements about thyroid hormone function during acute injury are true EXCEPT:",
+"options": [
+"Frequently decreased free triiodothyronine (T3) levels",
+"Reduced free thyroxine (T4) concentrations are predictors of high mortality",
+"Thyroid-stimulating hormone (TSH) release undergoes a compensatory rise as T3 levels drop",
+"Total T4 (protein bound and free) levels may be reduced"
+],
+"correct_option_id": 2,
+"explanation": "In 'Euthyroid Sick Syndrome' (Low T3 syndrome) seen in critical illness, TSH typically remains normal or low, it does NOT rise despite the low T3 levels.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Nutrition & Metabolism"
+},
+{
+"id": 8486,
+"question": "A 23-year-old female post-total thyroidectomy develops hand tingling, anxiety, and muscle cramps on day 2. Initial therapy is:",
+"options": [
+"10mL of 10% magnesium sulfate intra-venously",
+"Oral vitamin D",
+"10mg of oral synthroid",
+"Infusion of calcium gluconate",
+"Oral calcium gluconate"
+],
+"correct_option_id": 3,
+"explanation": "The patient has symptomatic hypocalcemia (tetany/paresthesia) post-thyroidectomy due to parathyroid injury. Acute symptomatic hypocalcemia requires IV Calcium (Calcium Gluconate) for rapid correction.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Postoperative Complications"
+},
+{
+"id": 8487,
+"question": "A 30-year-old woman in the last trimester of pregnancy suddenly develops massive swelling of the left lower extremity from the inguinal ligament to the ankle. The correct sequence of work up and treatment should be:",
+"options": [
+"Venogram, bed rest, heparin",
+"Impedance plethysmography, bed rest, heparin",
+"Impedance plethysmography, bed rest, vena caval filter",
+"Impedance plethysmography, bed rest, heparin, warfarin",
+"Clinical evaluation, bed rest, warfarin"
+],
+"correct_option_id": 1,
+"explanation": "Suspected DVT in pregnancy requires diagnosis (IPG or Ultrasound) and anticoagulation with Heparin (LMWH or Unfractionated). Warfarin is teratogenic and contraindicated in pregnancy.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Postoperative Complications"
+},
+{
+"id": 8488,
+"question": "A 45-year-old with Crohn's and fistula develops tetany on TPN. Labs: Ca 8.2, Na 135, K 3.2, Alb 2.4, pH 7.48. What is the cause?",
+"options": [
+"Hyper-ventilation",
+"Hypo-calcemia",
+"Hypo-magnesemia",
+"Essential fatty acids deficiency",
+"Focal seizure"
+],
+"correct_option_id": 2,
+"explanation": "Hypomagnesemia causes refractory hypocalcemia/tetany by impairing PTH. Mg losses are high in fistulas. Ca 8.2 is not critically low given albumin, suggesting Mg deficiency.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Fluids & Electrolytes"
+},
+{
+"id": 8489,
+"question": "A 65-year-old intubated female develops fever and RLL consolidation (VAP) 18 days post-op. Which antibiotic does NOT treat Pseudomonas aeruginosa?",
+"options": [
+"Cefepime",
+"Unasyn (Ampicillin/Sulbactam)",
+"Ticarcillin",
+"Aztreonam",
+"Ciprofloxacin"
+],
+"correct_option_id": 1,
+"explanation": "Ampicillin/Sulbactam (Unasyn) does NOT have activity against Pseudomonas aeruginosa. The others (Cefepime, Ticarcillin, Aztreonam, Ciprofloxacin) are anti-pseudomonal agents.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Surgical Infections"
+},
+{
+"id": 8490,
+"question": "A 65-year-old man has heavy perineal bleeding 4 hours post-APR. Coags (PT/PTT) are normal, FDP normal, Fibrinogen low, Platelets 70k. What is the cause?",
+"options": [
+"Delayed blood transfusion reaction",
+"A bleeding blood vessel in the surgical field",
+"Auto immune fibrinolysins",
+"Factor VIII deficiency",
+"Hypothermic coagulopathy"
+],
+"correct_option_id": 1,
+"explanation": "With normal PT/PTT/FDP and sufficient platelets (>50k), the bleeding is likely due to surgical (mechanical) failure, not coagulopathy.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Postoperative Complications"
+},
+{
+"id": 8491,
+"question": "A 68-year-old man post-MI with hypotension develops severe abdominal pain. BP 90/60, HR 110. Abdomen soft, mild tenderness. Stool Hema-test positive. Next step?",
+"options": [
+"Barium enema",
+"Upper gastro-intestinal series",
+"Angiography",
+"Ultrasonography",
+"Colonoscopy"
+],
+"correct_option_id": 2,
+"explanation": "Post-MI hypotension with severe pain out of proportion to exam suggests Acute Mesenteric Ischemia. Angiography is the gold standard.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Postoperative Complications"
+},
+{
+"id": 8492,
+"question": "A correct statement regarding 5% dextrose in 0.9% saline is which of the following:",
+"options": [
+"It contains the same concentration of sodium ions as plasma",
+"It can be given in large quantities without seriously affecting acid-base balance",
+"It is iso-isosmotic with plasma",
+"It has pH of 7.4",
+"It may cause dilutional acidosis"
+],
+"correct_option_id": 4,
+"explanation": "0.9% Saline has high chloride (154 mEq/L) compared to plasma (100 mEq/L). Large volume infusion leads to hyperchloremic metabolic acidosis (dilutional acidosis).",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Fluids & Electrolytes"
+},
+{
+"id": 8493,
+"question": "A patient suspected of having a hemolytic transfusion reaction should be managed with:",
+"options": [
+"Removal of non-essential foreign body irritants e.g., Foley catheter",
+"Fluid restriction",
+"0.1ml HCL infusion",
+"Steroids",
+"Fluids and Mannitol"
+],
+"correct_option_id": 4,
+"explanation": "Manage hemolytic reaction by stopping transfusion and preserving renal function. Use fluids and Mannitol to maintain urine output and prevent tubular necrosis.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Fluids & Transfusion"
+},
+{
+"id": 8494,
+"question": "A trauma patient gets 8 units pRBCs and develops bleeding from IV sites/incision . Coagulopathy is due to thrombocytopenia and deficiency of which factors?",
+"options": [
+"II only",
+"II and VII",
+"V and VIII",
+"IX and X",
+"XI and XII"
+],
+"correct_option_id": 2,
+"explanation": "Massive transfusion with stored packed RBCs leads to dilutional coagulopathy. The labile factors, Factor V and Factor VIII, degrade rapidly in stored blood and are the first to become deficient.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Fluids & Transfusion"
+},
+{
+"id": 8495,
+"question": "A patient with non-obstructing cancer sigmoid colon prepared for elective resection. To minimize the risk of post-operative infectious complications, your planning should include:",
+"options": [
+"A pre-operative single parenteral dose of antibiotic effective against aerobes and anaerobes",
+"Avoidance of oral antibiotic to prevent emergence of clostridium difficile",
+"Post-op parenteral antibiotics (aerobes/anaerobes) for 2-4 days",
+"Post-op parenteral antibiotics (aerobes/anaerobes) for 5-7 days"
+],
+"correct_option_id": 2,
+"explanation": "Standard care is pre-op antibiotics. However, the model answer C (post-op for 2-4 days) reflects older or specific local protocols.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Surgical Infections"
+},
+{
+"id": 8496,
+"question": "A steroid-dependent diabetic has colon surgery and a rapid steroid taper. Day 2 post-op she develops fever, hypotension, lethargy, hypoglycemia, and hyperkalemia. Diagnosis?",
+"options": [
+"Sepsis",
+"Hypovolemia",
+"Adrenal insufficiency",
+"Acute tubular necrosis",
+"Diabetic ketoacidosis"
+],
+"correct_option_id": 2,
+"explanation": "Hypotension, hypoglycemia, and hyperkalemia in a steroid-dependent patient after rapid taper indicate Acute Adrenal Insufficiency (Addisonian Crisis).",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Postoperative Complications"
+},
+{
+"id": 8497,
+"question": "A cirrhotic patient with coagulopathy needs urgent cholecystectomy. When is the optimal time to transfuse FFP to minimize bleeding risk?",
+"options": [
+"The day before surgery",
+"The night before surgery",
+"On call to surgery",
+"In the recovery room",
+"Intra-operatively"
+],
+"correct_option_id": 2,
+"explanation": "Fresh Frozen Plasma (FFP) has a short half-life (Factor VII is ~6 hours). To ensure peak levels during the incision/hemostasis, it should be given 'on call' (immediately before) to surgery.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Preoperative Care"
+},
+{
+"id": 8498,
+"question": "Correct statements regarding Ringer's lactate solution include which of the following:",
+"options": [
+"It contains higher concentration of sodium ions than does plasma",
+"It is the most appropriate for replacement of nasogastric tube losses",
+"It may induce a significant metabolic acidosis",
+"It is isosmotic with plasma",
+"It has a pH of < 7.0"
+],
+"correct_option_id": 4,
+"explanation": "Ringer's Lactate is slightly hypotonic and does not cause acidosis (lactate converts to bicarb). NG losses (HCl) are best replaced with Saline (Cl-), not RL.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Fluids & Electrolytes"
+},
+{
+"id": 8499,
+"question": "Five days after a sigmoid colectomy for cancer, a patient's skin staples are removed, and a large gush of Serosanguineous fluid emerges. Examination of the wound reveals an extensive fascial dehiscence. The most appropriate management is:",
+"options": [
+"Wide opening of the wound to assure adequate drainage",
+"Smear and culture of the fluid and appropriate antibiotics after the smear is reviewed",
+"Careful re-approximation of the wound edges with tape",
+"Immediate return to the operating room",
+"Application of abdominal binder"
+],
+"correct_option_id": 3,
+"explanation": "The 'salmon-pink' serosanguineous gush is pathognomonic for fascial dehiscence (burst abdomen). This is a surgical emergency requiring immediate return to the OR for closure to prevent evisceration.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Postoperative Complications"
+},
+{
+"id": 8500,
+"question": "Five days after cholecystectomy, an asymptomatic middle aged woman is found to have a serum sodium 120meq/1. proper management would be:",
+"options": [
+"Administration of hypertonic saline solution",
+"Restriction of free water",
+"Plasma ultrafiltration",
+"Hemodialysis",
+"Aggressive diuresis"
+],
+"correct_option_id": 1,
+"explanation": "Asymptomatic hyponatremia is best managed by free water restriction. Rapid correction with hypertonic saline is reserved for symptomatic patients (seizures/coma) to avoid Central Pontine Myelinolysis.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Fluids & Electrolytes"
+},
+{
+"id": 8501,
+"question": "Following Laparotomy, normal bowel motility can ordinary be presumed to have returned:",
+"options": [
+"In the stomach in 4 h, the small bowel in 24 h, and the colon after the first oral intake",
+"In the stomach in 24 h, the small bowel in 4 h, and the colon in 3 days",
+"In the stomach in 3 days, the small bowel in 3 days, and the colon in 3 days",
+"In the stomach in 24 h, the small bowel in 24 h, and the colon in 24 h",
+"In the stomach in 4 h, small bowel immediately, and colon in 24 h"
+],
+"correct_option_id": 1,
+"explanation": "Bowel recovery follows a predictable pattern: Small bowel recovers first (few hours), Stomach (24-48 hours), and Colon last (3-5 days).",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Postoperative Care"
+},
+{
+"id": 8502,
+"question": "On day 3 post-hepatectomy, a 55-year-old man has serosanguineous drainage. Exam reveals 1.0 cm fascial dehiscence. What is the appropriate action?",
+"options": [
+"Removing all suture material and packing the wound with moist sterile gauze",
+"Prompt re-suturing of the fascia in the operating room",
+"Starting intravenous antibiotics",
+"Placing an abdominal binder",
+"Bed rest"
+],
+"correct_option_id": 3,
+"explanation": "Small fascial defects (<1-2 cm) without evisceration can be managed with an abdominal binder. Large dehiscence requires surgery.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Postoperative Complications"
+},
+{
+"id": 8503,
+"question": "Prophylactic regimens of documented benefit in decreasing the risk of post-operative thrombo-embolism include:",
+"options": [
+"Early ambulation",
+"Elastic stockings",
+"External pneumatic compression devices placed on the upper extremities",
+"Leg elevation for 24 h post-operatively",
+"Dipyridamole therapy for 48h post-operatively"
+],
+"correct_option_id": 1,
+"explanation": "Compression stockings, pneumatic devices, and heparin are proven to reduce DVT risk. Early ambulation is important, but stockings are a specific regimen.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Postoperative Care"
+},
+{
+"id": 8504,
+"question": "Sign and symptoms associated with early sepsis include:",
+"options": [
+"Increased arterio-venous oxygen difference",
+"Respiratory acidosis",
+"Decreased cardiac output",
+"Hypoglycemia",
+"Cutaneous vasodilation"
+],
+"correct_option_id": 4,
+"explanation": "Early sepsis ('Warm Shock') is characterized by a hyperdynamic state: High Cardiac Output, low SVR (Cutaneous Vasodilation - warm skin), and hyperglycemia.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Surgical Infections"
+},
+{
+"id": 8505,
+"question": "The risk of developing adenocarcinoma after 10 years of ulcerative colitis is:",
+"options": [
+"< 10%",
+"10 - 20%",
+"20 - 30%",
+"> 50%",
+"72%"
+],
+"correct_option_id": 0,
+"explanation": "The risk of colorectal cancer in UC increases with duration. After 10 years, the risk is low (~2-3%). It rises significantly after 20 years (~5-10%) and 30 years (~20%). Thus, <10% is correct.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Preoperative Care"
+},
+{
+"id": 8506,
+"question": "Which of the following is true regarding post-operative fever?",
+"options": [
+"UA, culture, and CXR are part of fever workup within 72h post-op",
+"Obtain wound cultures in febrile patients regardless of wound appearance",
+"Wound infections in the first two days are uncommon",
+"Persistent fevers (>96h) are expected in diffuse intra-abdominal infection despite management",
+"All of the above"
+],
+"correct_option_id": 4,
+"explanation": "Post-op fever workup (the 5 Ws) is standard (A). Wound infections typically take 3-5 days to develop (Strept/Clostridium are exceptions) (C). Persistent fever suggests undrained infection (D).",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Postoperative Complications"
+},
+{
+"id": 8507,
+"question": "Which of the following surgical interventions is least likely to provide acceptable prolongation of life for patients with AIDS?",
+"options": [
+"Splenectomy; for AIDS-related idiopathic thrombocytopenic purpura",
+"Colonic resection for perforation secondary to cytomegalovirus infection",
+"Cholecystectomy for a calculus cholecystitis",
+"Tracheostomy for ventilator dependent patients with respiratory failure",
+"Gastric resection for a bleeding gastric lymphoma or Kaposi's sarcoma"
+],
+"correct_option_id": 3,
+"explanation": "Tracheostomy for ventilator-dependent AIDS patients historically showed poor prognosis/survival benefit, unlike interventions for perforation or bleeding.",
+"term": "Term 7",
+"subject": "General Surgery",
+"lesson": "Shock& pre/post operative& Wounds",
+"chapter": "Critical Care"
+}
+]
+}

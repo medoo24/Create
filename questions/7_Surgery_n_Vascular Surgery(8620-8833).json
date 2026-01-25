@@ -1,0 +1,3479 @@
+{
+  "meta": {
+    "source": "Term 7 - General Surgery",
+    "lesson": "Vascular Surgery"
+  },
+  "questions": [
+    {
+      "id": 8620,
+      "question": "Symptoms or signs of atherosclerotic occlusive disease of the bifurcation of the abdominal aorta (Leriche syndrome) include:",
+      "options": [
+        "Claudication of the buttock and thigh",
+        "Causalgia of the lower leg",
+        "Dependent rubor of the feet",
+        "Gangrene of the feet",
+        "Retrograde ejaculation"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Leriche syndrome triad: buttock/thigh claudication (internal iliac hypoperfusion), absent femoral pulses, and impotence.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Arterial Disorders"
+    },
+    {
+      "id": 8621,
+      "question": "A fully heparinized patient develops a condition requiring emergency surgery. After stopping the heparin, what else should be done to prepare the patient?",
+      "options": [
+        "Nothing, if the surgery van be delayed for 2-3 hours.",
+        "Give protamine 5 mg per 100 units of heparin recently administered.",
+        "Immediate fresh frozen plasma.",
+        "Transfusion of 10 units of platelets."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Heparin has a short half-life (60-90 min). Delaying surgery 2-3 hours allows the effect to wear off naturally, avoiding protamine risks.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Perioperative Management"
+    },
+    {
+      "id": 8622,
+      "question": "Each of the following is a symptom of hemolytic transfusion reaction Except:",
+      "options": [
+        "Constricting chest pain.",
+        "Flushing of the face.",
+        "Lumbar pain.",
+        "Syncope."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Classic symptoms include fever, chills, back pain, flushing, and chest pain. Syncope is less specific/classic than signs of hemolysis and renal irritation.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Transfusion Complications"
+    },
+    {
+      "id": 8623,
+      "question": "Exsanguinating hemorrhage is most likely to follow which of the following injuries in a previously healthy young adult:",
+      "options": [
+        "Closed fracture of the femur.",
+        "Open fracture of the tibia and fibula",
+        "Partial transection of the artery from a sharp injury",
+        "Severe crush injury of the foot"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Partial transection prevents vessel retraction and constriction (natural hemostasis), leading to continuous, severe hemorrhage compared to complete transection.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Vascular Trauma"
+    },
+    {
+      "id": 8624,
+      "question": "Frozen plasma prepared from freshly donated blood is necessary when a patient requires:",
+      "options": [
+        "Fibrinogen.",
+        "Prothrombin.",
+        "Anti-hemophilic factor.",
+        "Christmas factor.",
+        "Hageman factor."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Fresh Frozen Plasma (FFP) is required to replace labile clotting factors, specifically Factor V and Factor VIII (Anti-hemophilic factor), which degrade in stored blood.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Transfusion"
+    },
+    {
+      "id": 8625,
+      "question": "In the awake, non-anesthetized patient suspected of having a hemolytic post-transfusion reaction, the most characteristic signs are:",
+      "options": [
+        "Nausea and vomiting.",
+        "Fever and chills.",
+        "Oliguria and hemoglobin-uria.",
+        "Cyanosis and dyspnea."
+      ],
+      "correct_option_id": 2,
+      "explanation": "While fever and chills are common early symptoms, hemoglobinuria (dark urine) and subsequent oliguria are highly characteristic objective signs of intravascular hemolysis and renal damage.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Transfusion Complications"
+    },
+    {
+      "id": 8626,
+      "question": "In the presence of acute blood loss, adequate preload to the heart is maintained initially by the:",
+      "options": [
+        "Development of tachycardia.",
+        "Hormonal effects of angiotensin.",
+        "Hormonal effects of renin.",
+        "Increase in systemic vascular resistance."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Sympathetic activation causes systemic vasoconstriction (increased SVR). Venoconstriction shifts blood from capacitance vessels to central circulation to maintain preload.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Shock & Physiology"
+    },
+    {
+      "id": 8627,
+      "question": "The most common cause for a transfusion reaction is:",
+      "options": [
+        "Air embolism.",
+        "Contaminated blood.",
+        "Human error.",
+        "Unusual circulating antibodies."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Clerical or human error (e.g., mislabeling, administering blood to the wrong patient) is the leading cause of ABO-incompatible transfusion reactions.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Transfusion Complications"
+    },
+    {
+      "id": 8628,
+      "question": "The most common clinical manifestation of a hemolytic transfusion reaction is:",
+      "options": [
+        "Flank pain.",
+        "Jaundice.",
+        "Oliguria.",
+        "A shaking chill."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Oliguria (acute renal failure) is a major, serious manifestation of renal damage caused by hemolysis. Fever and chills are common early symptoms.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Transfusion Complications"
+    },
+    {
+      "id": 8629,
+      "question": "Which of the following clotting factors is consumed during coagulation?",
+      "options": [
+        "Factor I (fibrinogen).",
+        "Factor IX (Christmas factor).",
+        "Factor X (Stuart-Prower factor).",
+        "Factor XI (plasma thrombo-plasma ante-cedent)."
+      ],
+      "correct_option_id": 0,
+      "explanation": "During the clotting process, Fibrinogen (Factor I), Prothrombin (II), Factor V, and Factor VIII are consumed and are thus absent in serum.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Coagulation"
+    },
+    {
+      "id": 8630,
+      "question": "A 27yo man has a gunshot wound to the left thigh with a large hematoma, foot paresthesia, weak distal pulses, and inability to move the foot. What is the appropriate initial management?",
+      "options": [
+        "Angiography.",
+        "Immediate exploration and repair.",
+        "Fasciotomy of anterior compartment.",
+        "Observation for resolution of spasm."
+      ],
+      "correct_option_id": 1,
+      "explanation": "The patient presents with 'hard signs' of vascular injury (large hematoma, distal ischemia/neurologic deficit). Immediate surgical exploration is mandated to restore flow and prevent limb loss.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Vascular Trauma"
+    },
+    {
+      "id": 8631,
+      "question": "A 30-year-old man is stabbed in the arm. There is no evidence of vascular injury, but he cannot flex his three radial digits. He has injured the:",
+      "options": [
+        "Flexor pollicis longus and flexor digitus medius tendons.",
+        "Radial nerve.",
+        "Median nerve.",
+        "Ulnar nerve.",
+        "Thenar and digital nerves at wrist."
+      ],
+      "correct_option_id": 2,
+      "explanation": "The median nerve innervates the flexor muscles responsible for flexing the thumb, index, and middle fingers (radial digits). Inability to flex these indicates median nerve injury.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Trauma"
+    },
+    {
+      "id": 8632,
+      "question": "Which of the following would lead you to an arteriogram and/or exploration of possible femoral artery injury from a gunshot wound?",
+      "options": [
+        "Proximity of the probable bullet path to the neuro-vascular bundle.",
+        "A small hematoma at the entrance site.",
+        "A bruit over the injury.",
+        "Systolic blood pressure 5% different in the two legs."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Proximity of the missile path to major vessels is a 'soft sign' that typically prompts further investigation (arteriography or exploration) to rule out occult vascular injury.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Vascular Trauma"
+    },
+    {
+      "id": 8633,
+      "question": "Bank blood is appropriate for replacing each of the following Except:",
+      "options": [
+        "Factor I (fibrinogen).",
+        "Factor II (prothrombin).",
+        "Factor VII (pro-convertin).",
+        "Factor VIII (anti-hemophilic factor)."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Stored 'bank' blood is deficient in labile clotting factors, specifically Factor V and Factor VIII. It contains adequate levels of stable factors like Fibrinogen and Prothrombin.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Transfusion"
+    },
+    {
+      "id": 8634,
+      "question": "A 25yo woman presents with redness/pain in her right foot. She reports chronic right leg swelling for 15 years. Temp 39°C. Exam shows non-tender right leg swelling from groin down and foot cellulitis. Left leg is normal. The underlying problem is:",
+      "options": [
+        "Popliteal entrapment syndrome.",
+        "Acute arterial insufficiency.",
+        "Primary lymph-oedema.",
+        "Deep venous thrombosis."
+      ],
+      "correct_option_id": 2,
+      "explanation": "The history of chronic unilateral swelling starting in adolescence (Praecox) suggests primary lymphedema. The acute presentation is superimposed cellulitis (lymphangitis), a common complication.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Lymphatic Disorders"
+    },
+    {
+      "id": 8635,
+      "question": "A 55yo man with A-fib presents with a cold, pulseless left leg, paresthesia, and foot drop. After successful embolectomy restores pulses, he still cannot dorsiflex toes. What is the next step?",
+      "options": [
+        "Electromyography (EMG).",
+        "Elevation of the left leg.",
+        "Immediate fasciotomy.",
+        "Application of a posterior splint."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Signs of compartment syndrome (foot drop) post-reperfusion require immediate fasciotomy to decompress the anterior compartment and save nerve function.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Acute Limb Ischemia"
+    },
+    {
+      "id": 8636,
+      "question": "A 60yo man with a large anterior MI develops sudden right foot numbness and immobility on day 2. Right femoral/distal pulses are absent. Diagnosis is acute arterial embolus. Which statement is true?",
+      "options": [
+        "Appropriate management would be Embolectomy of the right femoral artery under general anesthesia.",
+        "Prophylactic exploration of the contralateral femoral artery should be done despite a normal pulse.",
+        "The source of the embolus is most likely the left ventricle.",
+        "Arteriography is mandatory prior to operative intervention."
+      ],
+      "correct_option_id": 2,
+      "explanation": "In a patient with a recent anterior wall MI, the formation of a mural thrombus in the left ventricle is the most likely source of the arterial embolus.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Acute Limb Ischemia"
+    },
+    {
+      "id": 8637,
+      "question": "A 65yo man with recent MI develops severe mid-abdominal pain. Cardiac index is 1.6. Exam shows no peritoneal signs despite severe pain. Lactate is 9. What is the management?",
+      "options": [
+        "Perform computed tomography.",
+        "Perform mesenteric angiography.",
+        "Perform laparoscopy.",
+        "Perform flexible Sigmoidoscopy to assess the distal colon and rectum."
+      ],
+      "correct_option_id": 1,
+      "explanation": "'Pain out of proportion to exam' and low cardiac index suggest non-occlusive mesenteric ischemia. Angiography is diagnostic and potentially therapeutic.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Mesenteric Ischemia"
+    },
+    {
+      "id": 8638,
+      "question": "A 75-year-old man is found by his internist to have an asymptomatic carotid bruit; The best initial diagnostic examination would be:",
+      "options": [
+        "Trans-cranial Doppler studies.",
+        "Doppler ultrasonography (duplex).",
+        "Spiral CT angiography.",
+        "Magnetic resonance arteriogram (MRA)."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Carotid Duplex ultrasonography is the standard, non-invasive screening tool to assess the degree of stenosis in patients with a carotid bruit.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Carotid Disease"
+    },
+    {
+      "id": 8639,
+      "question": "A patient who develops dizziness, drop attacks and diplopia with exercise most likely",
+      "options": [
+        "Carotid stenosis.",
+        "Sub-clavian steal syndrome.",
+        "Coronary sub-clavian steal syndrome,",
+        "Coronary artery disease."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Proximal subclavian stenosis causes Subclavian Steal. Arm exercise increases demand, reversing vertebral artery flow, leading to vertebrobasilar insufficiency (dizziness, diplopia).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Arterial Disorders"
+    },
+    {
+      "id": 8640,
+      "question": "An ankle-brachial index of 0.7:",
+      "options": [
+        "Is normal.",
+        "Indicates an increased risk of cardio-vascular events.",
+        "Is indicative of moderate ischemia with rest pain.",
+        "Is indicative of severe ischemia with a risk for gangrene."
+      ],
+      "correct_option_id": 1,
+      "explanation": "An ABI of 0.7 indicates mild to moderate peripheral artery disease. PAD is a systemic marker for atherosclerosis, significantly increasing the risk of cardiovascular events like MI and stroke.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Diagnostics"
+    },
+    {
+      "id": 8641,
+      "question": "Chronic occlusion of the popliteal artery may produce:",
+      "options": [
+        "Brawny discoloration of the skin over the ankle.",
+        "Dilated collateral vessels in calf and foot.",
+        "Pain in the calf that is relieved by dependency.",
+        "Ulceration over the medial malleolus."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Severe chronic occlusion causes ischemic rest pain, classically relieved by placing the limb in a dependent position to improve perfusion via gravity.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Peripheral Arterial Disease"
+    },
+    {
+      "id": 8642,
+      "question": "Conservative management is generally recommended for patients with which of the following symptoms or signs of arterial insufficiency?",
+      "options": [
+        "Ischemic ulceration.",
+        "Ischemic neuropathy.",
+        "Claudication.",
+        "Toe gangrene."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Claudication is stable PAD; conservative management (exercise, risk factors) is first-line. Critical limb ischemia (rest pain, tissue loss) requires intervention.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Peripheral Arterial Disease"
+    },
+    {
+      "id": 8643,
+      "question": "Correct statements concerning anti-platelet therapy include:",
+      "options": [
+        "Aspirin has been shown to be an effective anti-platelet agent.",
+        "Most anti-platelet agents work by enhancing prostaglandin synthesis.",
+        "Anti-platelet agents have not been shown to increase patency rates of coronary artery bypass grafts.",
+        "Aspirin's effect lasts for the platelet's life, which is generally 7-10 days."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Aspirin is a proven effective anti-platelet agent that irreversibly inhibits cyclooxygenase. (Note: Platelet life span is ~7-10 days, not 20-25 days).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Medical Management"
+    },
+    {
+      "id": 8644,
+      "question": "Each of the following is characteristic of causalgia of an extremity Except:",
+      "options": [
+        "Anhydrosis.",
+        "Burning pain.",
+        "Coldness.",
+        "Skin hypersensitivity."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Causalgia (CRPS II) involves sympathetic hyperactivity causing hyperhidrosis (not anhydrosis), burning pain, and hypersensitivity.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Neuropathic Pain"
+    },
+    {
+      "id": 8645,
+      "question": "In a patient after a low anterior resection of the colon (a moderate-risk general surgical operation), the most effective step in the prevention of post-operative pulmonary embolization is:",
+      "options": [
+        "Early ambulation.",
+        "Leg elevation.",
+        "Use of elastic stockings.",
+        "Use of intermittent pneumatic leg compression."
+      ],
+      "correct_option_id": 3,
+      "explanation": "For moderate-risk surgery, intermittent pneumatic compression (IPC) or pharmacological prophylaxis (heparin) are the most effective preventive measures, superior to ambulation or stockings alone.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "DVT Prophylaxis"
+    },
+    {
+      "id": 8646,
+      "question": "Initial therapy of a patient with mesenteric venous thrombosis (MVT) without peritonitis is:",
+      "options": [
+        "Bowel rest and observation.",
+        "IV Dobutamine.",
+        "Anti-coagulation.",
+        "Laparotomy."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Anticoagulation is the cornerstone of treatment for mesenteric venous thrombosis to prevent thrombus propagation. Surgery is reserved for signs of bowel necrosis (peritonitis).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Mesenteric Ischemia"
+    },
+    {
+      "id": 8647,
+      "question": "Patients with phlebographically confirmed deep vein thrombosis of the calf",
+      "options": [
+        "Can expect asymptomatic recovery if treated promptly with anti-coagulants.",
+        "May be effectively treated with low dose heparin.",
+        "May be effectively treated with pneumatic compression stockings.",
+        "Are at risk for significant pulmonary embolism."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Even calf vein thrombosis carries a risk of propagating proximally and causing significant pulmonary embolism, necessitating treatment or surveillance.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Venous Disorders"
+    },
+    {
+      "id": 8648,
+      "question": "Platelets are derived from:",
+      "options": [
+        "Eosinophils.",
+        "Lymphocytes.",
+        "Megakaryocytes.",
+        "Monocytes."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Platelets are formed from the cytoplasm of megakaryocytes in the bone marrow.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Basic Science"
+    },
+    {
+      "id": 8649,
+      "question": "Rest pain seen with occlusion peripheral vascular disease in the lower extremity most commonly occurs in:",
+      "options": [
+        "The buttock.",
+        "The quadriceps.",
+        "The calf muscles.",
+        "The metatarso-phalangeal joint."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Ischemic rest pain typically affects the distal aspect of the foot (toes and metatarsophalangeal joints) where perfusion pressure is lowest.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Peripheral Arterial Disease"
+    },
+    {
+      "id": 8650,
+      "question": "The best initial therapy for deep venous thrombosis (DVT) of the common femoral veins:",
+      "options": [
+        "Heparin.",
+        "Placement of a vena caval filter.",
+        "Streptokinase.",
+        "Venous thrombectomy."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Systemic anticoagulation with Heparin (or LMWH) is the standard initial therapy to prevent thrombus propagation and pulmonary embolism.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Venous Disorders"
+    },
+    {
+      "id": 8651,
+      "question": "The compartment most commonly affected in a lower leg compartment syndrome is the:",
+      "options": [
+        "Anterior compartment.",
+        "Lateral compartment.",
+        "Deep posterior compartment.",
+        "Superficial posterior compartment."
+      ],
+      "correct_option_id": 0,
+      "explanation": "The anterior compartment is the most rigid and contains the deep peroneal nerve, making it the most susceptible to compartment syndrome.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Compartment Syndrome"
+    },
+    {
+      "id": 8652,
+      "question": "The first change encountered in acute mesenteric ischemia is:",
+      "options": [
+        "Severe peri-umbilical pain.",
+        "Elevation of creatine phosphokinase levels.",
+        "Hyperkalemia.",
+        "Metabolic acidosis."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Severe pain, typically out of proportion to physical findings, is the earliest and most consistent symptom. Laboratory abnormalities like acidosis occur later.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Mesenteric Ischemia"
+    },
+    {
+      "id": 8653,
+      "question": "The first diagnostic study of choice for suspected deep venous thrombosis (DVT) of the lower extremity is:",
+      "options": [
+        "Contrast ultrasonography.",
+        "Impedance plethysmography.",
+        "Radio-active labeled fibrinogen uptake.",
+        "Real-time Doppler imaging."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Real-time Doppler imaging (Duplex ultrasound) is the non-invasive gold standard for diagnosing DVT.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Venous Diagnostics"
+    },
+    {
+      "id": 8654,
+      "question": "The initial dose of un-fractionated heparin (UFH) to fully heparinize a patient is:",
+      "options": [
+        "20 IU/kg IV.",
+        "40 IU/kg IV.",
+        "60 IU/kg IV.",
+        "80 IU/kg IV."
+      ],
+      "correct_option_id": 3,
+      "explanation": "The standard initial bolus for full therapeutic heparinization is typically 80 units/kg followed by an infusion.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Medical Management"
+    },
+    {
+      "id": 8655,
+      "question": "The most common form of primary lymphoedema is:",
+      "options": [
+        "Congenital lymph-oedema.",
+        "Lymph-oedema praecox.",
+        "Lymph-oedema intermedius.",
+        "Lymph-oedema tarda."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Lymphedema praecox, which typically appears in adolescence or early adulthood, accounts for the majority of primary lymphedema cases.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Lymphatic Disorders"
+    },
+    {
+      "id": 8656,
+      "question": "The most common peripheral artery aneurysm is:",
+      "options": [
+        "Brachial.",
+        "Radial.",
+        "Popliteal.",
+        "Tibial."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Popliteal artery aneurysms are the most common peripheral aneurysms, accounting for about 70% of the total.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Aneurysms"
+    },
+    {
+      "id": 8657,
+      "question": "The most common presenting symptom of acute arterial occlusion is:",
+      "options": [
+        "Pain.",
+        "Pallor.",
+        "Paresthesia.",
+        "Pulselessness."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Pain is the earliest and most constant symptom among the '6 Ps' of acute limb ischemia.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Acute Limb Ischemia"
+    },
+    {
+      "id": 8658,
+      "question": "The most common symptom after major pulmonary embolism is:",
+      "options": [
+        "Cough.",
+        "Dyspnea.",
+        "Hemoptysis.",
+        "Pleural pain."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Sudden onset dyspnea (shortness of breath) is the most frequent symptom of pulmonary embolism.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Pulmonary Embolism"
+    },
+    {
+      "id": 8659,
+      "question": "The most common type of aneurysm is:",
+      "options": [
+        "Degenerative.",
+        "Dissecting.",
+        "Post-stenotic.",
+        "Traumatic."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Degenerative aneurysms (often associated with atherosclerosis and risk factors like smoking/HTN) are the most common type.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Aneurysms"
+    },
+    {
+      "id": 8660,
+      "question": "The preferred procedure for treatment of typical occlusive disease of the aorta and both iliac arteries is:",
+      "options": [
+        "Endo-vascular stenting.",
+        "Extra-anatomic bypass.",
+        "Aorto-iliac end-arterectomy.",
+        "Aorto-bi-femoral bypass."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Aorto-bifemoral bypass is the gold standard surgical treatment for diffuse aortoiliac occlusive disease, offering excellent long-term patency.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Aortic Disease"
+    },
+    {
+      "id": 8661,
+      "question": "The primary treatment for lymph-oedema is:",
+      "options": [
+        "Excision of lymph-oedematous tissue with reconstruction.",
+        "Micro-vascular lympho-venous anastomosis.",
+        "Micro-vascular lympho-lymphatic anastomosis.",
+        "Compression garments."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Conservative management with compression garments, elevation, and physiotherapy is the primary and most effective initial treatment for lymphedema.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Lymphatic Disorders"
+    },
+    {
+      "id": 8662,
+      "question": "The sub-clavian steal syndrome is associated with which of the following hemodynamic abnormalities?",
+      "options": [
+        "Venous congestion of upper extremities.",
+        "Occlusion of the carotid artery.",
+        "Occlusion of the vertebral artery.",
+        "Occlusion of the sub-clavian artery."
+      ],
+      "correct_option_id": 3,
+      "explanation": "It results from occlusion or severe stenosis of the proximal subclavian artery, causing retrograde flow down the vertebral artery to supply the arm.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Arterial Disorders"
+    },
+    {
+      "id": 8663,
+      "question": "The treatment of acute embolic mesenteric ischemia is:",
+      "options": [
+        "Observation.",
+        "Anti-coagulation.",
+        "Thrombolysis.",
+        "Operative Embolectomy."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Operative embolectomy is indicated to restore blood flow and allows for assessment/resection of any compromised bowel.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Mesenteric Ischemia"
+    },
+    {
+      "id": 8664,
+      "question": "Which of the following is NOT seen in phlegmasia cerulea dolens?",
+      "options": [
+        "Pain.",
+        "Oedema.",
+        "Blanching.",
+        "Cyanosis."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Phlegmasia cerulea dolens (painful blue edema) presents with cyanosis. Blanching (white leg) is seen in phlegmasia alba dolens.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Venous Disorders"
+    },
+    {
+      "id": 8665,
+      "question": "Which of the following treatments is contraindicated in the management of frostbite of an extremity?",
+      "options": [
+        "Rapid warming in warm water.",
+        "Antibiotics and tetanus anti-serum.",
+        "Elevation of the extremity.",
+        "Early amputation of demarcated areas."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Early amputation is contraindicated because tissue viability can be difficult to assess initially; waiting for full demarcation ('freeze in January, amputate in July') preserves maximal tissue.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Cold Injury"
+    },
+    {
+      "id": 8666,
+      "question": "Which of the following veins has valves?",
+      "options": [
+        "Portal vein.",
+        "Superior vena cava.",
+        "Inferior vena cava.",
+        "Iliac veins."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Anatomically, Portal, SVC, and IVC are valveless. External iliacs often have valves. Model answer selects SVC, possibly an error, but followed here.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Venous Anatomy"
+    },
+    {
+      "id": 8667,
+      "question": "Which statement regarding contrast venography is true?",
+      "options": [
+        "It is more accurate than Duplex scan at detecting deep vein thrombi causing pulmonary emboli.",
+        "It identifies incompetent deep, superficial, and perforating veins.",
+        "It is totally non-invasive, painless, and safe.",
+        "It is particularly sensitive in identifying the proximal extent of an ilio-femoral thrombus."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Contrast venography provides detailed anatomical imaging and can identify incompetence in deep, superficial, and perforating veins, although it is invasive.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Venous Diagnostics"
+    },
+    {
+      "id": 8668,
+      "question": "A 21-year-old woman presents with digital color changes in response to cold stimulation. Physical examination and laboratory data, including an autoimmune disease screen are normal:",
+      "options": [
+        "Her condition is characteristic of vasospastic Raynaud's syndrome with slight future CTD risk.",
+        "Her problem with her fingers will get progressively worse and she will eventually lose fingers.",
+        "Her problem is “all in her head.”",
+        "She has scleroderma, which will manifest itself at a later date.",
+        "She needs heparin therapy."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Normal screen/exam suggests Primary Raynaud's. It's benign but has a slightly increased long-term risk of connective tissue disease.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Vasospastic Disorders"
+    },
+    {
+      "id": 8669,
+      "question": "In patients who develop a documented episode of deep venous thrombosis (DVT) the most significant long-term sequale is:",
+      "options": [
+        "Claudication.",
+        "Recurrent foot infection s.",
+        "Development of stasis ulcer.",
+        "Pulmonary embolization.",
+        "Diminished arterial perfusion."
+      ],
+      "correct_option_id": 2,
+      "explanation": "The post-thrombotic syndrome, characterized by venous hypertension, stasis dermatitis, and eventual venous stasis ulceration, is the major long-term morbidity of DVT.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Venous Disorders"
+    },
+    {
+      "id": 8670,
+      "question": "A 55yo woman has 3 months of left leg heaviness/aching relieved by elevation, and night cramps. Exam: superficial varicosities, non-pitting edema, and a 2cm superficial ulcer 5cm above the medial malleolus. Diagnosis?",
+      "options": [
+        "Isolated symptomatic varicose veins.",
+        "Superficial lymphatic obstruction.",
+        "Deep venous insufficiency.",
+        "Arterial insufficiency.",
+        "Incompetent perforating veins."
+      ],
+      "correct_option_id": 2,
+      "explanation": "The symptoms (relief with elevation) and the location of the ulcer (medial malleolus) are classic for chronic deep venous insufficiency, likely post-thrombotic.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Venous Disorders"
+    },
+    {
+      "id": 8671,
+      "question": "The most common site of arterial embolism",
+      "options": [
+        "Common carotid artery",
+        "Brachial artery",
+        "Femoral artery",
+        "Popliteal artery"
+      ],
+      "correct_option_id": 2,
+      "explanation": "The bifurcation of the common femoral artery is the most frequent site of lodgment for arterial emboli.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Acute Limb Ischemia"
+    },
+    {
+      "id": 8672,
+      "question": "Stripping operation may cause injury of:",
+      "options": [
+        "Saphenous nerve",
+        "Sciatic nerve",
+        "Sural nerve",
+        "Obturator nerve",
+        "Common peroneal nerve"
+      ],
+      "correct_option_id": 0,
+      "explanation": "The saphenous nerve runs adjacent to the great saphenous vein, particularly below the knee, and is at risk during stripping procedures.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Venous Surgery"
+    },
+    {
+      "id": 8673,
+      "question": "Indication of surgery in VV is:",
+      "options": [
+        "Mild 1ry varicose veins",
+        "Large 1ry varicose veins",
+        "2ry varicose veins",
+        "Spiders varicose veins",
+        "With competent perforators"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Large, symptomatic primary varicose veins are a standard indication for surgical intervention or ablation.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Venous Disorders"
+    },
+    {
+      "id": 8674,
+      "question": "A 23-year-old woman with fever, myalgia and anorexia presents with hypertension and a cool, ischemic left arm. Angiography shows multiple stenoses of the subclavian and renal arteries. The following is/are true:",
+      "options": [
+        "Coronary angiography is indicated with high likelihood of finding coronary disease.",
+        "Endarterectomy of the lesions would be preferred to transluminal angioplasty.",
+        "The presentation is more suggestive of Behcet`s disease than Takayasu arteritis.",
+        "Preferred management consists of corticosteroids."
+      ],
+      "correct_option_id": 3,
+      "explanation": "The clinical picture fits Takayasu's arteritis ('Pulseless disease' in a young female). The primary treatment for the active inflammatory phase is corticosteroids.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Vasculitis"
+    },
+    {
+      "id": 8675,
+      "question": "A 24-year-old man is involved in an industrial accident in which he sustains a crushed pelvis. Diagnostic peritoneal lavage is positive. At exploration, a large pelvic hematoma is found. What is the best treatment?",
+      "options": [
+        "Explore pelvic vessels and surgically control bleeding if possible.",
+        "Do not explore the pelvic hematoma. Close the abdomen and apply a MAST suit.",
+        "Apply pelvic fixator and send for angiographic embolization; do not explore hematoma.",
+        "Use sustained hypotensive anesthesia to try to control bleeding.",
+        "Open the pelvic hematoma and apply laparotomy pads with topical hemostatic agents."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Opening a retroperitoneal hematoma releases tamponade, causing uncontrollable bleeding. Angiographic embolization is preferred for active arterial bleeding.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Trauma"
+    },
+    {
+      "id": 8676,
+      "question": "A 28yo woman had superficial varix thrombosis 2 days ago. After bed rest, she felt better but now has right-sided chest pain and calf heaviness when walking. What is the appropriate treatment?",
+      "options": [
+        "Check for leg swelling, tenderness, and Homan's sign, and obtain a Doppler ultrasound study.",
+        "Begin antibiotics for a probable secondary bacterial infection.",
+        "Order emergency venography, and if it is abnormal, begin heparin administration.",
+        "Begin ambulation and discontinue bed rest.",
+        "Reassure her if Homan's sign is negative."
+      ],
+      "correct_option_id": 2,
+      "explanation": "New chest pain suggests PE from propagated thrombosis or DVT. Immediate investigation and anticoagulation are warranted.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Venous Disorders"
+    },
+    {
+      "id": 8677,
+      "question": "A 35-year-old man involved in a motor vehicle accident presents with a knee dislocation that is easily reduced. Radiography of the knee shows no fracture. Which of the following statements about his treatment are true?",
+      "options": [
+        "If he has normal pulses he can be discharged.",
+        "If he has normal pulses, he requires either close observation or arteriography.",
+        "If absent distal pulses and severe ischemia, perform arteriography.",
+        "A popliteal vein injury is best treated with ligation.",
+        "A popliteal artery injury should be repaired with the ipsilateral saphenous vein if available."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Knee dislocations have a very high association with popliteal artery injury. Even with palpable pulses, intimal flaps can exist; thus, close observation (serial exams/ABI) or imaging is mandatory.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Trauma"
+    },
+    {
+      "id": 8678,
+      "question": "A 67-year-old man with acute popliteal arterial embolism has a negative cardiac echo for source of the thrombus. The following is/are true:",
+      "options": [
+        "Most likely non -cardiac source is a thoracic aortic aneurysm.",
+        "Embolism is more common from femoral than popliteal arterial aneurysms.",
+        "Emboli from popliteal aneurysms are often clinically silent.",
+        "Embolism is rare from subclavian artery aneurysms."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Popliteal aneurysms frequently shower distal microemboli, which may be clinically silent initially or cause 'blue toe syndrome' before a major occlusion occurs.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Aneurysms"
+    },
+    {
+      "id": 8679,
+      "question": "A 70-year-old man presents with sudden pain and ischemic changes in his left leg. An arterial embolus is suspected. The following is/are true:",
+      "options": [
+        "The most likely source of an arterial embolus is from intracardiac thrombus on a previous MI.",
+        "Chronic AF is less likely to produce embolism than paroxysmal AF.",
+        "Currently, the most common cause of AF is ischemic rather than rheumatic heart disease.",
+        "Aspirin is more effective than Coumadin in AF for reducing stroke risk."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Ischemic heart disease is the most common etiology underlying atrial fibrillation in the modern population, surpassing rheumatic heart disease.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Acute Limb Ischemia"
+    },
+    {
+      "id": 8680,
+      "question": "A drunk patient with mid-neck GSW and no focal neuro signs undergoes surgery for hemorrhage. The common carotid has a 2-cm destroyed segment and there is a major esophageal injury. Best treatment?",
+      "options": [
+        "Vein graft replacement of the common carotid artery.",
+        "Ligation of the common carotid artery.",
+        "Ligation of the common carotid artery proximally with a subclavian carotid bypass.",
+        "Ligation of the common carotid artery with sympathectomy.",
+        "Prosthetic graft replacement of the common carotid artery."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Restoration of carotid flow is preferred in absence of dense deficit. Autologous vein graft is chosen due to infection risk from esophageal injury.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Trauma"
+    },
+    {
+      "id": 8681,
+      "question": "About amputation, which of the following are not an indication for major amputation?",
+      "options": [
+        "Clostridium infection of the lower leg.",
+        "Severe trauma.",
+        "Neurofibroma.",
+        "Knee flexion contracture.",
+        "Severe rest pain without gangrene."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Neurofibromas are benign and treated with local excision. Other options may indicate amputation if limb salvage is impossible.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Amputation"
+    },
+    {
+      "id": 8682,
+      "question": "About Claudication which of the following statements are true?",
+      "options": [
+        "Intermittent claudication may be present at rest.",
+        "Intermittent claudication is commonly relieved by getting out of bed.",
+        "Intermittent claudication is most commonly felt in the calf.",
+        "Claudication distance is usually inconsistent day-to-day for a given patient.",
+        "Intermittent claudication is thought to be due to nerve compression in the leg muscle compartments."
+      ],
+      "correct_option_id": 2,
+      "explanation": "The calf is the most common site for claudication, reflecting the high prevalence of superficial femoral artery disease.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Peripheral Arterial Disease"
+    },
+    {
+      "id": 8683,
+      "question": "About Investigations the following statements are true EXCEPT?",
+      "options": [
+        "Doppler ultrasound works via frequency shift when sound waves hit moving RBCs.",
+        "ABPI means ‘ankle brachial pulsatility index.",
+        "An ABPI of greater than0.9 is probably normal.",
+        "Duplex scans are a combination of wave form analysis and B-Mode ultrasound.",
+        "Carotid surgery is often performed on the basis of duplex scans without further imaging."
+      ],
+      "correct_option_id": 1,
+      "explanation": "ABPI stands for Ankle Brachial *Pressure* Index, not Pulsatility Index. It is a ratio of systolic blood pressures.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Diagnostics"
+    },
+    {
+      "id": 8684,
+      "question": "All but one of the following statements is true. Which is not true?",
+      "options": [
+        "Successful clinical repair of injured veins had been affected by the turn of the twentieth century.",
+        "Initial experience in managing injured veins came from 20th-century war battlefields.",
+        "More than 50% of repaired injured veins thrombose.",
+        "Phlebography is useful in evaluating variable venous anatomy.",
+        "Repeated phlebography following attempted venous repair is useful in determining the success rate."
+      ],
+      "correct_option_id": 2,
+      "explanation": "With modern surgical techniques, the patency rate of repaired injured veins is significantly higher than 50%.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Vascular Trauma"
+    },
+    {
+      "id": 8685,
+      "question": "An 82-year-old man with a long history of coronary and peripheral vascular disease presents with an acutely ischemic right lower extremity. The following is/are true:",
+      "options": [
+        "The first step in management should be an arteriogram.",
+        "If intractable CHF is present, non-operative treatment with heparin is appropriate.",
+        "If prolonged ischemia has occurred, reperfusion should be accompanied by sodium bicarbonate.",
+        "Regardless of the period of ischemia, fasciotomy should be based on the findings postoperative."
+      ],
+      "correct_option_id": 1,
+      "explanation": "In patients with severe comorbidities (like intractable CHF) who are poor surgical candidates, initial management with anticoagulation (heparin) alone is a valid palliative or temporizing strategy.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Acute Limb Ischemia"
+    },
+    {
+      "id": 8686,
+      "question": "An aortic abdominal aneurysm was first successfully resected by:",
+      "options": [
+        "Matas.",
+        "Linton.",
+        "Dubost.",
+        "None of the above."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Charles Dubost performed the first successful resection and homograft replacement of an abdominal aortic aneurysm in 1951.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "History of Vascular Surgery"
+    },
+    {
+      "id": 8687,
+      "question": "Aneurysms of the renal artery are most common:",
+      "options": [
+        "At its origin from the aorta.",
+        "In the main renal artery or the bifurcation into the primary branches.",
+        "Within the kidney."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Renal artery aneurysms most frequently occur at the bifurcation of the main renal artery into its primary branches.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Aneurysms"
+    },
+    {
+      "id": 8688,
+      "question": "Carotid artery occlusive disease most often produces transient ischemic attacks or stroke by which of the following mechanisms?",
+      "options": [
+        "Reduction of flow to the affected area of the brain through stenotic or occluded vessels.",
+        "Embolization of atheromatous debris/clot occluding intracranial carotid branches.",
+        "Thrombosis and propagation of the clot into the intracranial branches.",
+        "All of the above are equally common."
+      ],
+      "correct_option_id": 1,
+      "explanation": "The primary mechanism of stroke/TIA in carotid disease is arterio-arterial embolization of plaque debris or thrombus, rather than hemodynamic flow reduction (which requires near-total occlusion).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Carotid Disease"
+    },
+    {
+      "id": 8689,
+      "question": "Concerning in-vivo regulation of the anticoagulated state by endothelium, the following is/are true:",
+      "options": [
+        "Heparin-ATIII inactivates only thrombin.",
+        "Thrombomodulin serves only to bind thrombin.",
+        "Production of von Willebrand factor (VWF) inactivates platelets.",
+        "Endothelial cells can secrete tissue factor."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Endothelial cells are capable of expressing/secreting Tissue Factor (Factor III) upon stimulation or injury, which initiates the extrinsic coagulation pathway.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Physiology"
+    },
+    {
+      "id": 8690,
+      "question": "Concerning the fibrinolytic system the following is/are true:",
+      "options": [
+        "Plasminogen is an a-Globulin.",
+        "Fibrin but not fibrinogen is lysed by plasmin.",
+        "The main inhibitor of plasmin is a2-macroglobulin.",
+        "TAP is activated during fibrin bonding to plasminogen."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Tissue Plasminogen Activator (tPA) is activated when it binds to fibrin, facilitating the conversion of plasminogen to plasmin specifically at the site of the clot.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Physiology"
+    },
+    {
+      "id": 8691,
+      "question": "Drugs which of the following drugs have been shown to improve claudication?",
+      "options": [
+        "Beta-blockers.",
+        "Aspirin.",
+        "Oxpentifylline.",
+        "Simvastatin.",
+        "Prostacyclin."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Oxpentifylline (Pentoxifylline) and Cilostazol are agents specifically approved to improve walking distance in patients with intermittent claudication.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Medical Management"
+    },
+    {
+      "id": 8692,
+      "question": "Evaluation of the natural history of abdominal aortic aneurysms in patients who are followed without any surgical procedure indicates that:",
+      "options": [
+        "Approximately 20% are alive at the end of 5 years.",
+        "Seventy-five per cent of patients succumb by the end of the first year.",
+        "Aortic rupture is quite common in this group, occurring in more than half by the second year.",
+        "None of the above."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Patients with large untreated AAAs have a poor prognosis, with a 5-year survival rate of roughly 20%, often due to rupture or associated cardiovascular comorbidities.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Aneurysms"
+    },
+    {
+      "id": 8693,
+      "question": "Gangrene; which of the following is not a cause?",
+      "options": [
+        "Buerger`s disease.",
+        "Infection.",
+        "Intra-arterial drug injection.",
+        "Frostbite.",
+        "Deep vein thrombosis insufficiency."
+      ],
+      "correct_option_id": 4,
+      "explanation": "DVT causes edema/ulcers but rarely gangrene unless Phlegmasia Cerulea Dolens develops. Other options directly cause tissue necrosis.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Pathology"
+    },
+    {
+      "id": 8694,
+      "question": "In a 55-year-old grocery store cashier with an 8-month history of leg edema increasing over the course of a workday, associated with moderate to severe lower leg bursting pain, the most appropriate investigative study or studies are:",
+      "options": [
+        "Doppler duplex ultrasound.",
+        "Brodie-Trendelenburg test.",
+        "Ascending and descending phlebography.",
+        "Measurement of ambulatory and resting foot venous pressure.",
+        "Venous reflux plethysmography."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Venous Duplex Ultrasound is the gold standard investigation for evaluating venous insufficiency and ruling out DVT in patients with symptoms of venous disease.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Venous Diagnostics"
+    },
+    {
+      "id": 8695,
+      "question": "In a AAA patient with history of multiple abdominal procedures for dense adhesions/obstruction, what operative approach is considered?",
+      "options": [
+        "Cardiopulmonary bypass.",
+        "An incision from the xiphoid process to the symphysis pubis.",
+        "Incision in the left flan k with a retroperitoneal approach.",
+        "An axillofemoral graft."
+      ],
+      "correct_option_id": 2,
+      "explanation": "A retroperitoneal approach is preferred in patients with a 'hostile abdomen' (multiple previous surgeries/adhesions) as it avoids the peritoneal cavity.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Aneurysms"
+    },
+    {
+      "id": 8696,
+      "question": "In an otherwise healthy male with previously normal pulmonary and cardiac function, how much of the pulmonary vascular bed must usually be occluded to produce an unstable cardiovascular state (shock)?",
+      "options": [
+        "10%.",
+        "20%.",
+        "40%.",
+        "More than 50%."
+      ],
+      "correct_option_id": 3,
+      "explanation": "The pulmonary vasculature has significant reserve; typically, obstruction of more than 50% of the vascular bed is required to cause significant hemodynamic instability.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Pulmonary Embolism"
+    },
+    {
+      "id": 8697,
+      "question": "In prevention of the fat emboli syndrome the primary therapy can be accomplished by which of the following?",
+      "options": [
+        "Systemic anticoagulation achieving a partial thromboplastin time greater than 50 seconds.",
+        "Intravenous administration of alcohol.",
+        "Prophylactic administration of methyl prednisolone.",
+        "Maintaining serum albumin > 3 gm/100 ml in days following injury."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Maintaining blood volume and oncotic pressure (albumin) is cited to reduce risk, though early fixation is definitive. Model follows albumin/fluid logic.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Trauma"
+    },
+    {
+      "id": 8698,
+      "question": "In terms of long-term graft patency, the best results in the femoral tibial bypass position have been achieved with:",
+      "options": [
+        "A modified human umbilical cord graft.",
+        "Polytetrafluoroethylene (PTFE [Gore-Tex]).",
+        "Saphenous vein allograft.",
+        "Segments of greater and lesser saphenous and cephalic veins spliced together."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Autologous vein, even if spliced from multiple segments (saphenous/arm veins), provides superior patency to prosthetic materials for distal (tibial) bypasses.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Vascular Surgery Techniques"
+    },
+    {
+      "id": 8699,
+      "question": "Lytic therapy in pulmonary embolism:",
+      "options": [
+        "Should precede anticoagulation.",
+        "Can be considered for all patients.",
+        "Can be considered for hemodynamically unstable patients.",
+        "Is indicated for the majority of patients with documented pulmonary embolism."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Thrombolytic therapy is indicated for patients with massive PE (hemodynamic instability) or significant right heart strain, provided there are no contraindications.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Pulmonary Embolism"
+    },
+    {
+      "id": 8700,
+      "question": "Obstructive Raynaud's syndrome can be differentiated from vasospastic Raynaud's syndrome by the:",
+      "options": [
+        "Ice water test.",
+        "Digital hypothermic challenge test.",
+        "Antinuclear antibody levels.",
+        "Digital blood pressure measurement."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Measuring digital blood pressure helps distinguish between fixed arterial obstruction (low pressure) and pure vasospasm (normal pressure between attacks).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Vasospastic Disorders"
+    },
+    {
+      "id": 8701,
+      "question": "Of the visceral aneurysms, which is the most common?",
+      "options": [
+        "Celiac.",
+        "Superior mesenteric.",
+        "Hepatic.",
+        "Splenic."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Splenic artery aneurysms are the most common visceral aneurysms, accounting for approximately 60% of cases.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Aneurysms"
+    },
+    {
+      "id": 8702,
+      "question": "Significant tachypnea and hypoxia follow development of fat emboli syndrome, and the goal of ventilatory support should be:",
+      "options": [
+        "Keeping the respiratory rate below 30.",
+        "Preventing respiratory alkalosis.",
+        "Reversing pulmonary shunting using positive end-expiratory pressure.",
+        "Maintaining an adequate total volume."
+      ],
+      "correct_option_id": 2,
+      "explanation": "PEEP (Positive End-Expiratory Pressure) is used to recruit collapsed alveoli and improve oxygenation by counteracting pulmonary shunting in ARDS/Fat Embolism Syndrome.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Critical Care"
+    },
+    {
+      "id": 8703,
+      "question": "Ten years after irradiation of the neck for a tonsillar carcinoma, a 59-year-old woman is found to have symptomatic carotid artery disease. Arteriogram shows a 70% irregular stenotic lesion. The following is/are true:",
+      "options": [
+        "Replacement of the artery should be planned due to radiation induced arterial injury.",
+        "Pathology is likely an inflammatory reaction with endothelial sloughing/thrombosis.",
+        "If atherosclerotic disease is found, the plaque will be no different than nonirradiated plaques.",
+        "The patient should be managed medically because of the radiation arterial in jury."
+      ],
+      "correct_option_id": 2,
+      "explanation": "While radiation arteritis is a distinct entity (often causing fibrosis), if typical atherosclerosis develops, the plaque morphology itself may be similar, though the vessel wall is often more scarred.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Carotid Disease"
+    },
+    {
+      "id": 8704,
+      "question": "The appropriate treatment in most situations of an aortic abdominal graft that has become infected is:",
+      "options": [
+        "Intravenous antibiotics and observation for future complications.",
+        "Catheter drainage at the site of infection.",
+        "Replacement of the infected graft with another prosthetic graft.",
+        "Excision of the entire graft and insertion of axillofemoral grafts."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Infected grafts require complete excision and revascularization via extra-anatomic route (axillo-bifemoral bypass) through clean planes.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Complications"
+    },
+    {
+      "id": 8705,
+      "question": "The cause of subclavian arterial aneurysms is most often:",
+      "options": [
+        "Sepsis.",
+        "A congenital defect.",
+        "Atherosclerosis.",
+        "Fibromuscular dysplasia."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Atherosclerosis is the most common etiology for subclavian artery aneurysms, as it is for most peripheral aneurysms.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Aneurysms"
+    },
+    {
+      "id": 8706,
+      "question": "The incidence of inflammatory aortic abdominal aneurysms with dense periaortic adhesions and possible involvement of adjacent structures such as the duodenum, renal vein, and ureter is approximately:",
+      "options": [
+        "2%.",
+        "10%.",
+        "25%."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Inflammatory AAAs represent approximately 5-10% of all abdominal aortic aneurysms.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Aneurysms"
+    },
+    {
+      "id": 8707,
+      "question": "The most common risk associated with carotid artery aneurysm is:",
+      "options": [
+        "Thrombosis of the aneurysm.",
+        "Embolization of mural thrombus.",
+        "Rupture of the aneurysm.",
+        "Compression of the hypopharynx."
+      ],
+      "correct_option_id": 1,
+      "explanation": "The primary risk of carotid aneurysms is stroke due to embolization of thrombus from within the aneurysm sac, rather than rupture.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Aneurysms"
+    },
+    {
+      "id": 8708,
+      "question": "The single most important indication for emergency pulmonary embolectomy is:",
+      "options": [
+        "The likelihood of another episode of embolism.",
+        "Inability to distinguish acute PE from acute myocardial infarction.",
+        "The presence of persistent and in tractable hypotension.",
+        "Pulmonary emphysema."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Persistent hypotension (shock) despite maximal medical therapy indicates massive PE and is the main indication for surgical embolectomy.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Pulmonary Embolism"
+    },
+    {
+      "id": 8709,
+      "question": "Two days following coronary angiography and angioplasty, a 47-year-old male diabetic develops painful blue toes on both feet. The following is/are true:",
+      "options": [
+        "It is unlikely there is a connection between catheterization and the extremity problem.",
+        "The appropriate treatment is vasodilators and an antiplatelet agent.",
+        "If both SFAs are obstructed, etiology is likely in-situ microvascular thrombosis.",
+        "If renal failure or pancreatitis develops, the outlook for long term survival is very poor."
+      ],
+      "correct_option_id": 3,
+      "explanation": "This describes Cholesterol Embolization Syndrome (Trash Foot). If visceral involvement (kidneys, pancreas, gut) occurs, it indicates diffuse embolization and carries a very poor prognosis.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Complications"
+    },
+    {
+      "id": 8710,
+      "question": "When complications occur after operating on a descending thoracic aorta, perhaps the most devastating is:",
+      "options": [
+        "Recurrent nerve injury.",
+        "Bleeding with hemothorax.",
+        "Paraplegia.",
+        "Renal insufficiency."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Paraplegia resulting from spinal cord ischemia (due to interruption of intercostal arteries/Artery of Adamkiewicz) is a devastating and feared complication.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Complications"
+    },
+    {
+      "id": 8711,
+      "question": "Which of the following confirms the diagnosis of transection of the descending thoracic aorta?",
+      "options": [
+        "Widened mediastinum.",
+        "Fractured first rib.",
+        "Left pleural effusion.",
+        "Positive aortogram.",
+        "All of the above."
+      ],
+      "correct_option_id": 3,
+      "explanation": "While widened mediastinum is a suggestive sign, a positive aortogram (or CT angiogram) provides the definitive confirmation of aortic injury.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Trauma"
+    },
+    {
+      "id": 8712,
+      "question": "Which of the following does not describe intermittent claudication?",
+      "options": [
+        "Is elicited by reproducible amount of exercise.",
+        "Abates promptly with rest.",
+        "Is often worse at night.",
+        "May be an indication for bypass surgery."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Pain that is worse at night typically describes ischemic rest pain (critical ischemia), whereas claudication is exercise-induced and relieved by rest.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Peripheral Arterial Disease"
+    },
+    {
+      "id": 8713,
+      "question": "Which of the following is not a risk factor for lymphoedema?",
+      "options": [
+        "Limb surgery (e.g., varicose vein operation).",
+        "Obesity.",
+        "Family history.",
+        "A Baker`s cyst.",
+        "Air travel."
+      ],
+      "correct_option_id": 3,
+      "explanation": "A Baker's cyst is a collection of synovial fluid and does not cause lymphedema, though its rupture can mimic DVT symptoms.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Lymphatic Disorders"
+    },
+    {
+      "id": 8714,
+      "question": "Which of the following is not an indication for postoperative heparinization?",
+      "options": [
+        "Suspected venous thrombosis.",
+        "Risk of embolism following acute myocardial infarction.",
+        "Advanced ischemia secondary to acute embolic occlusion.",
+        "Dissolution of residual thrombus after balloon thromboembolectomy."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Heparin prevents thrombus propagation but does not dissolve existing clots; thrombolytics are required for dissolution.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Medical Management"
+    },
+    {
+      "id": 8715,
+      "question": "Which of the following is the least reliable indicator of successful thrombectomy?",
+      "options": [
+        "Vigorous back-bleeding after removal of thrombotic material.",
+        "Arteriographically demonstrated patency of all runoff vessels.",
+        "Normal distal pulses.",
+        "Return of normal skin color and temperature."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Back-bleeding can occur from collateral vessels proximal to a persistent distal obstruction, making it an unreliable sign of complete distal clearance compared to angiography or pulses.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Surgical Technique"
+    },
+    {
+      "id": 8716,
+      "question": "Which of the following is/are appropriate candidates for exercise testing?",
+      "options": [
+        "The patient with symptoms of intermittent claudication but normal resting ankle brachial indices.",
+        "The patient with rest pain, non-healing ulcers or gangrene.",
+        "If the resting ankle pressure is below 30–40 mmHg.",
+        "The patient with blue toe syndrome and readily palpable pedal pulses."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Exercise testing is used to 'unmask' PAD in patients with classic symptoms but normal resting ABIs, as exercise induces a pressure drop in diseased vessels.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Diagnostics"
+    },
+    {
+      "id": 8717,
+      "question": "Which of the following is/are not true of the embolectomy catheter technique?",
+      "options": [
+        "The balloon should be inflated by the same person who withdraws the catheter.",
+        "Distal exploration should be carried out in all major branches of the affected extremity.",
+        "The balloon is designed to dilate as it traverses areas of luminal narrowing.",
+        "Removing adherent thrombus requires alternate catheter therapy plus balloon exploration."
+      ],
+      "correct_option_id": 2,
+      "explanation": "The Fogarty balloon is compliant and designed to withdraw clot; it is not an angioplasty balloon and should not be used to forcibly dilate stenoses, which can cause rupture.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Surgical Technique"
+    },
+    {
+      "id": 8718,
+      "question": "Which of the following is/are true regarding treatment of diabetes?",
+      "options": [
+        "Strict insulin control markedly reduces cardiovascular complications in diabetics.",
+        "Vascular complications are directly proportion al to the degree of glycemic control.",
+        "The effects of diabetes are most marked in individuals with other risk factors.",
+        "The impact of diabetes and cardiovascular risk is relatively uniform."
+      ],
+      "correct_option_id": 2,
+      "explanation": "The cardiovascular risk of diabetes is multiplicative when combined with other risk factors such as smoking, hypertension, and hyperlipidemia.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Risk Factors"
+    },
+    {
+      "id": 8719,
+      "question": "Which of the following is/are true with respect to hypertension?",
+      "options": [
+        "There is a threshold effect of blood pressure on the risk of cardiovascular complications.",
+        "The risk of hypertension is essentially con fined to stroke.",
+        "Common antihypertensive regimens may have adverse effects on a patient`s lipid profile.",
+        "Aggressive BP reduction in ischemic heart disease may increase mortality."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Certain antihypertensives, such as some beta-blockers and thiazide diuretics, can negatively impact lipid profiles (e.g., increasing triglycerides).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Risk Factors"
+    },
+    {
+      "id": 8720,
+      "question": "Which of the following regarding varicose veins are true?",
+      "options": [
+        "Varicose veins may cause venous claudication.",
+        "Varicose veins may be associated with the fOXC2 gene.",
+        "The prevalence of varicose veins is twice as common in women than in men.",
+        "Right leg varicose veins are more common than left leg varicose veins.",
+        "Handheld Doppler provides an accurate assessment of saphenopopliteal competence."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Genetic factors are significant in the development of varicose veins; mutations in the FOXC2 gene have been associated with valvular incompetence.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Varicose Veins"
+    },
+    {
+      "id": 8721,
+      "question": "Which of the following statements about acute arterial occlusion today is/are not true?",
+      "options": [
+        "Most arterial emboli originate in the heart as a result of underlying cardiac disease.",
+        "It can be treated under local anesthesia.",
+        "It is usually due to atherosclerotic disease.",
+        "Surgical treatment can usually be avoided if the lesion is diagnosed early."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Acute arterial occlusion is a limb-threatening emergency that typically requires immediate intervention (embolectomy, thrombolysis, or bypass) and cannot be 'avoided' by observation.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Acute Limb Ischemia"
+    },
+    {
+      "id": 8722,
+      "question": "Which of the following statements about angiotensin II is correct?",
+      "options": [
+        "It is a decapeptide.",
+        "It is an enzyme found in high concentration in the pulmonary circulation.",
+        "It is a direct vasoconstrictor and stimulates aldosterone production.",
+        "It is a vasoconstrictor and inhibits aldosterone secretion."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Angiotensin II is a potent direct vasoconstrictor and also stimulates the adrenal cortex to secrete aldosterone, increasing sodium and water retention.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Physiology"
+    },
+    {
+      "id": 8723,
+      "question": "Which of the following statements about atherosclerotic obstruction of the renal arteries is true?",
+      "options": [
+        "Lesions are usually short.",
+        "Lesions are usually distal renal arteries, just beyond branch points.",
+        "Ostial lesions are best treated with balloon angioplasty.",
+        "Lesion s of this type are the second most common cause of renal artery stenosis."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Atherosclerotic renal artery stenosis typically involves the ostium and proximal segment of the vessel and usually presents as a short, focal lesion.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Renal Vascular Disease"
+    },
+    {
+      "id": 8724,
+      "question": "Which of the following statements about chronic mesenteric ischemia due to atherosclerosis is/are correct?",
+      "options": [
+        "Postprandial pain is due to gastric hyperacidity and relieved by H2 blockers.",
+        "Men are more often affected than women.",
+        "Mesenteric endarterectomy is preferred due to superior patency over bypass.",
+        "Arteriography is unnecessary; diagnosis is established by duplex ultrasound.",
+        "Surgical treatment is indicated to prevent intestinal infarction in symptomatic patients."
+      ],
+      "correct_option_id": 4,
+      "explanation": "Surgical revascularization is indicated for symptomatic chronic mesenteric ischemia to relieve pain and, more importantly, to prevent fatal bowel infarction and correct malnutrition.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Mesenteric Ischemia"
+    },
+    {
+      "id": 8725,
+      "question": "Which of the following statements about femoral popliteal bypass grafting is/are true?",
+      "options": [
+        "Long-Term graft surveillance by duplex scanning has no effect on graft patency rates.",
+        "Graft failure and amputation occur in half the patients within 5 years.",
+        "If grafting is successful, long-term mortality is improved.",
+        "Patency rates of 80% to 90% at 1 year currently are expected."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Modern femoro-popliteal bypass using autologous vein has excellent results, with expected 1-year patency rates of 80-90%.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Bypass Surgery"
+    },
+    {
+      "id": 8726,
+      "question": "Which of the following statements about lytic agents is/are true?",
+      "options": [
+        "They were first introduced well after the advent of balloon embolectomy.",
+        "Streptokinase is nonantigenic.",
+        "Systemic use is the most effective means of delivery.",
+        "The interval to reperfusion limits their utility in the treatment of advanced ischemia."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Thrombolysis takes time to dissolve clot. In cases of advanced ischemia where immediate revascularization is needed to save the limb, the delay inherent in lytic therapy limits its utility.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Thrombolysis"
+    },
+    {
+      "id": 8727,
+      "question": "Which of the following statements about percutaneous renal artery transluminal angioplasty (PRTA) are true?",
+      "options": [
+        "Patients with renovascular hypertension are usually cured after successful PRTA.",
+        "Atherosclerotic patients benefit more from PRTA than FMD patients.",
+        "PRTA of ostial atherosclerotic lesions is more successful than PRTA of nonostial lesions.",
+        "PRTA has higher morbidity/mortality than peripheral angioplasty."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Renal angioplasty carries higher risks (dissection, renal failure, embolization) compared to peripheral angioplasty, and 'cure' of HTN is less common in atherosclerotic patients than FMD patients.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Renal Vascular Disease"
+    },
+    {
+      "id": 8728,
+      "question": "Which of the following statements about the treatment of renal artery stenosis is/are true?",
+      "options": [
+        "Renal artery stenosis causes HTN but seldom renal function loss.",
+        "Medically controlled renovascular HTN needs no revascularization.",
+        "Balloon angioplasty is more effective in atherosclerosis than fibromuscular disease.",
+        "Severe aortic atherosclerosis warrants splenic or hepatic artery bypass."
+      ],
+      "correct_option_id": 3,
+      "explanation": "With 'porcelain aorta', extra-anatomic bypass using hepatic or splenic artery inflow is a safe alternative.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Renal Vascular Disease"
+    },
+    {
+      "id": 8729,
+      "question": "Which of the following statements about upper extremity edema is/are true?",
+      "options": [
+        "Lymphedema is more common than venous edema.",
+        "Signs: edema, superficial vein distention, tightness, aching, cyanosis, pain.",
+        "Distal venous obstructions cause more upper extremity symptoms than proximal.",
+        "All patients with symptomatic upper extremity venous thrombosis should receive fibrinolytic therapy."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Venous obstruction in the upper extremity (e.g., Paget-Schroetter syndrome) typically presents with swelling, prominent collateral veins, cyanosis, and pain.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Venous Disorders"
+    },
+    {
+      "id": 8730,
+      "question": "Which of the following statements are true?",
+      "options": [
+        "All arterial injuries are associated with absence of a palpable pulse.",
+        "Preoperative arteriography is required to diagnose an arterial injury.",
+        "The presence of Doppler signals indicates that an arterial in jury has not occurred.",
+        "Patients with critical limb ischemia have paralysis and paresthesia.",
+        "In trauma, arterial injuries should be repaired before other injuries."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Paralysis and paresthesia are signs of advanced, threatening ischemia (the later 'Ps' of acute ischemia), indicating nerve compromise.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Acute Limb Ischemia"
+    },
+    {
+      "id": 8731,
+      "question": "Which of the following statements correctly characterizes the healing of prosthetic arterial grafts in humans?",
+      "options": [
+        "Complete healing occurs within 3 months of graft implantation.",
+        "Complete healing occurs within 1 year of graft implantation.",
+        "Prosthetic grafts do not heal completely in humans.",
+        "Polytetrafluoroethylene (PTFE) grafts heal completely whereas Dacron grafts do not.",
+        "Dacron grafts heal completely but PTFE grafts do not."
+      ],
+      "correct_option_id": 2,
+      "explanation": "In humans, prosthetic grafts develop a pseudointima but do not completely endothelialize along their entire length, unlike in some animal models.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Basic Science"
+    },
+    {
+      "id": 8732,
+      "question": "Which of the following statements is/are true regarding the use of duplex scanning as a means to follow and monitor bypass grafts?",
+      "options": [
+        "Duplex scanning is accurate and cost effective.",
+        ">25% systolic velocity increase vs adjacent segments indicates >50% diameter reduction.",
+        "Peak systolic velocities should be less than 40 cm/sec throughout the graft.",
+        "AV fistulas in situ bypass grafts are difficult to detect with duplex."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Duplex surveillance is a standard, accurate, and cost-effective method to detect developing stenosis in bypass grafts before failure occurs.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Diagnostics"
+    },
+    {
+      "id": 8733,
+      "question": "Which of the following statements regarding lymphoedema are true?",
+      "options": [
+        "Primary lymphoedema occurs in more than 5 per cent or the population.",
+        "Early treatment is usually successful.",
+        "Early treatment includes surgical drainage.",
+        "Fluid is relatively low in protein in lymphoedema.",
+        "Lymphoedema often involves the muscle compartments."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Early conservative treatment (compression, hygiene) is highly effective in controlling symptoms and preventing progression to elephantiasis.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Lymphatic Disorders"
+    },
+    {
+      "id": 8734,
+      "question": "For the previous patient (55yo woman, chronic leg heaviness, superficial varicosities, non-pitting edema, 2cm venous ulcer above medial malleolus), the best treatment plan includes:",
+      "options": [
+        "Varicose vein ligation and stripping as soon as possible.",
+        "Ulcer debridement, vein stripping, and skin grafting.",
+        "Ligation of the medial perforating veins.",
+        "Transposition of saphenous vein valve.",
+        "Leg elevation, external support, and ambulation without standing."
+      ],
+      "correct_option_id": 4,
+      "explanation": "Immediate management of venous ulcers involves compression, elevation, and ambulation. Surgery is considered after ulcer healing/stabilization.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Venous Ulcers"
+    },
+    {
+      "id": 8735,
+      "question": "About acute arterial thrombosis all the following are true EXCEPT:",
+      "options": [
+        "Old age.",
+        "History of chronic ischemia.",
+        "No collateral.",
+        "There may be history of diarrhea."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Acute thrombosis usually occurs on top of chronic atherosclerotic narrowing, which allows time for collateral circulation to develop. Arterial *embolism* is characterized by a lack of collaterals.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Acute Limb Ischemia"
+    },
+    {
+      "id": 8736,
+      "question": "About crush syndrome there will be",
+      "options": [
+        "Alkaline urine",
+        "Small % of patient develops acute renal failure",
+        "Small % of the developed renal failure will need dialysis",
+        "Hypovolemic shock."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Crush syndrome leads to massive fluid sequestration in damaged muscle, causing hypovolemic shock. (Urine is typically acidic, predisposing to myoglobin precipitation).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Trauma"
+    },
+    {
+      "id": 8737,
+      "question": "About embolism, all the following are true EXCEPT:",
+      "options": [
+        "Young age.",
+        "No collaterals.",
+        "Trophic changes.",
+        "The source of emboli may be undetectable."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Trophic changes (hair loss, brittle nails, thin skin) are signs of *chronic* ischemia. Embolism is an *acute* event.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Acute Limb Ischemia"
+    },
+    {
+      "id": 8738,
+      "question": "About phlegmasia cerulae dolens all the following are true EXCEPT:",
+      "options": [
+        "There is massive iliofemoral DVT.",
+        "Severe congestion and cyanosis of lower limb.",
+        "Treated by anticoagulants.",
+        "May lead to venous gangrene."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Phlegmasia Cerulea Dolens is a surgical emergency requiring aggressive intervention (thrombolysis/thrombectomy) beyond anticoagulation to prevent gangrene.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Venous Disorders"
+    },
+    {
+      "id": 8739,
+      "question": "About thrombophlebitis migrans:",
+      "options": [
+        "It resolves spontaneously and reappear in another area.",
+        "It is common with Burger's disease.",
+        "It is common with visceral malignancy.",
+        "All of the above."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Thrombophlebitis migrans is a migratory superficial phlebitis associated with Buerger's disease and also with visceral malignancies (Trousseau's sign).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Venous Disorders"
+    },
+    {
+      "id": 8740,
+      "question": "Arterial embolism may result from:",
+      "options": [
+        "Atherosclerosis.",
+        "Bone fracture.",
+        "Parasites.",
+        "All of the above."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Emboli can be thrombotic (atherosclerosis), fat (fracture), or rarely parasitic/tumor/foreign body.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Acute Limb Ischemia"
+    },
+    {
+      "id": 8741,
+      "question": "In acute ischaemia pain is more prominent in:",
+      "options": [
+        "At the site of obstruction.",
+        "Most proximal part of the limb.",
+        "Most peripheral part of the limb.",
+        "All of the above."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Ischemic pain is most severe in the distal (peripheral) part of the limb where perfusion is poorest.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Acute Limb Ischemia"
+    },
+    {
+      "id": 8742,
+      "question": "In trauma causing arterial spasm treatment may include",
+      "options": [
+        "Painting the artery with papaverine",
+        "Excision and grafting",
+        "Dilatation by Fogarty catheter",
+        "All of the above"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Management of refractory spasm can involve topical vasodilators (papaverine), mechanical dilation (hydrostatic or catheter), or excision of the injured segment if intimal damage is suspected.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Trauma"
+    },
+    {
+      "id": 8743,
+      "question": "Indications of amputation include all the following EXCEPT:",
+      "options": [
+        "Fixed color changes.",
+        "Absent pulsation.",
+        "Tense calf.",
+        "Bulging anterior leg compartment."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Absent pulses alone are common in PAD and are not an indication for amputation unless there is non-viable tissue or uncontrollable infection/pain.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Amputation"
+    },
+    {
+      "id": 8744,
+      "question": "Management of complete arterial rear may include all the following EXCEPT:",
+      "options": [
+        "Dissection of the artery.",
+        "Cut the minor bronchus.",
+        "Suturing in transverse suture line.",
+        "Saphenous grafting."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Transverse suturing of complete tears is often unfeasible or stenotic; end-to-end anastomosis or grafting is preferred. (Option C selected based on source key).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Trauma"
+    },
+    {
+      "id": 8745,
+      "question": "Pressure in superficial veins of the leg during standing:",
+      "options": [
+        "60 mmHg.",
+        "70 mmHg.",
+        "80 mmHg.",
+        "90 mmHg."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Due to the hydrostatic column of blood, the venous pressure at the ankle in a standing position is approximately 80-90 mmHg.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Physiology"
+    },
+    {
+      "id": 8746,
+      "question": "Superficial thrombophelbitis may complicate:",
+      "options": [
+        "Varicose veins",
+        "Trauma",
+        "Abscess",
+        "All of the above"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Superficial thrombophlebitis can arise from stasis in varicose veins, direct trauma, or adjacent infection/inflammation.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Venous Disorders"
+    },
+    {
+      "id": 8747,
+      "question": "Sure signs of arterial injury include all the following EXCEPT:",
+      "options": [
+        "Signs of ischemia.",
+        "Evidence of adjacent nerve injury.",
+        "Pulsating hematoma.",
+        "Palpable thrill at the site of injury."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Adjacent nerve injury suggests proximity but is not a definitive 'hard sign' of arterial injury itself.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Trauma"
+    },
+    {
+      "id": 8748,
+      "question": "The action of heparin in arterial embolism is to:",
+      "options": [
+        "Deal with cardiac problem.",
+        "Prevent propagation of thrombosis.",
+        "Prevent further embolization.",
+        "All of the above."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Heparin prevents thrombus propagation, recurrent embolization from the source, and distal thrombosis.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Medical Management"
+    },
+    {
+      "id": 8749,
+      "question": "The most common cause of fat embolism is:",
+      "options": [
+        "Weight gain.",
+        "Weight loss.",
+        "Bone fracture.",
+        "None of the above."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Fractures of long bones (femur, tibia) are the classic and most common cause of fat embolism syndrome.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Trauma"
+    },
+    {
+      "id": 8750,
+      "question": "The most dangerous DVT which requires the longest period of treatment:",
+      "options": [
+        "Calf vein DVT.",
+        "Femoral vein DVT.",
+        "Ileofemoral DVT.",
+        "All of the above."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Iliofemoral DVT carries the highest risk of massive PE and severe post-thrombotic syndrome, requiring aggressive and prolonged management.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Venous Disorders"
+    },
+    {
+      "id": 8751,
+      "question": "The most urgent aspect in treatment of arterial embolism is:",
+      "options": [
+        "Digitalis.",
+        "Heparin.",
+        "Morphine.",
+        "Diuretics."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Immediate anticoagulation with heparin is critical to prevent distal thrombosis and preserve the vascular bed.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Acute Limb Ischemia"
+    },
+    {
+      "id": 8752,
+      "question": "+ve Homan sign in:",
+      "options": [
+        "Calf muscle inflammation",
+        "Trauma to the calf",
+        "DVT",
+        "All of the above"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Homan's sign (pain on dorsiflexion) is non-specific and can be positive in DVT, muscle injury, or inflammation.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Diagnostics"
+    },
+    {
+      "id": 8753,
+      "question": "25 years old female patient suffering of recurrent ischemic attacks in upper limbs which are bilateral, symmetrical with no trophic changes is diagnosed as:",
+      "options": [
+        "Athreoscleoris",
+        "Burger's disese",
+        "Raynaud's disease",
+        "None of the above"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Bilateral, symmetrical attacks in a young female without tissue loss (trophic changes) are characteristic of Primary Raynaud's Disease.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Vasospastic Disorders"
+    },
+    {
+      "id": 8754,
+      "question": "A 30-year-old male presented with acute pain in the foot and leg of 6-hour's duration. On examination, the left lower limb was cold up to the middle of the leg and the popliteal and ankle pulses were absent. The diagnosis proved to be",
+      "options": [
+        "Left femoral artery embolism",
+        "Acute thrombosis of the femoral artery.",
+        "Buerger's disease.",
+        "Raynaud's disease.",
+        "Dissecting aortic aneurysm."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Acute thrombosis of a diseased artery (or popliteal entrapment/aneurysm in a young male) can present with acute ischemia. Model selects thrombosis.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Acute Limb Ischemia"
+    },
+    {
+      "id": 8755,
+      "question": "A 35-year-old female presented with cervical lymphadenopathy. Biopsy revealed Hodgkin's disease and chest X-rays showed Widening of the mediastinum. The initial management should be:",
+      "options": [
+        "Mediastinoscopy",
+        "Staging laparotomy",
+        "Radiotherapy.",
+        "Chemotherapy.",
+        "Combined radiation and chemotherapy."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Historically, staging laparotomy was used to determine the extent of Hodgkin's disease below the diaphragm, though modern imaging has largely replaced this. (Based on historical model answer context).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "General Surgery/Oncology"
+    },
+    {
+      "id": 8756,
+      "question": "50yo female, 7 days post-cholecystectomy, develops severe chest pain, sweating, and dyspnea. Exam: mild fever, right calf tenderness. Most likely diagnosis?",
+      "options": [
+        "Myocardial infarction.",
+        "Basal pneumonia.",
+        "Pulmonary embolism.",
+        "Basal pleurisy.",
+        "Pulmonary atelectasis."
+      ],
+      "correct_option_id": 2,
+      "explanation": "The clinical picture of dyspnea, chest pain, and calf tenderness (DVT sign) typically around one week post-op is classic for Pulmonary Embolism.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Pulmonary Embolism"
+    },
+    {
+      "id": 8757,
+      "question": "A patient with ankle brachial index 0.7 is considered",
+      "options": [
+        "Normal patient",
+        "Ischemia",
+        "Server ischemia",
+        "Pre-gangrene"
+      ],
+      "correct_option_id": 2,
+      "explanation": "ABI 0.7 represents PAD. Model labels this 'Severe Ischemia', though clinically it usually corresponds to claudication, with <0.5 being severe.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Diagnostics"
+    },
+    {
+      "id": 8758,
+      "question": "About Burger's disease, all the following are true except",
+      "options": [
+        "May affect the upper limb",
+        "May cause severe pain",
+        "There is intolerance to cold",
+        "Inflammatory disease"
+      ],
+      "correct_option_id": 2,
+      "explanation": "All listed features are true of Buerger's. The 'Except' format implies one is less characteristic or follows a specific key (Model Answer C).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Buerger's Disease"
+    },
+    {
+      "id": 8759,
+      "question": "About burger's disease, all the following are true except:",
+      "options": [
+        "Progressive course",
+        "Early neuritis",
+        "Treated by sympathectomy",
+        "Distal vessels."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Buerger's disease is episodic and segmental, not necessarily linearly progressive if the patient stops smoking (remission is possible).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Buerger's Disease"
+    },
+    {
+      "id": 8760,
+      "question": "About clinical picture of venous ulcer, all of the following are true except:",
+      "options": [
+        "Indurated base",
+        "Pigmented margin",
+        "Usually solitary",
+        "There must be the manifestation of VV"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Venous ulcers are caused by deep venous hypertension/insufficiency; visible superficial varicose veins are not always present.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Venous Ulcers"
+    },
+    {
+      "id": 8761,
+      "question": "About investigation of pulmonary embolism all of the following are true except:",
+      "options": [
+        "Diminished both ventilation and perfusion",
+        "Hypoxia and hypocapnia",
+        "Pulmonale in ECG",
+        "Hypoperfusion in pulmonary angiography"
+      ],
+      "correct_option_id": 0,
+      "explanation": "PE causes a V/Q mismatch: Perfusion is diminished, but Ventilation remains normal. If both were diminished, it would suggest a consolidative process like pneumonia.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Pulmonary Embolism"
+    },
+    {
+      "id": 8762,
+      "question": "About phlegmasia alba dolens all of the following are true except:",
+      "options": [
+        "It`s a complication of DVT",
+        "It is associated with arterial spasm",
+        "The affected limb is blue and massively swollen",
+        "It is associated with absent peripheral pulsation"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Phlegmasia Alba Dolens presents as a white (pale) leg due to arterial spasm and edema. A blue, cyanotic leg is characteristic of Phlegmasia Cerulea Dolens.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Venous Disorders"
+    },
+    {
+      "id": 8763,
+      "question": "About pulmonary embolism all of the following are true except:",
+      "options": [
+        "Cause 2-3% of hospital mortality",
+        "The most common cause is infective endocarditis",
+        "May be silent",
+        "May lead to pulmonary infarction."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Pulmonary embolisms originate from the venous system (DVT). Infective endocarditis typically causes systemic (arterial) emboli.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Pulmonary Embolism"
+    },
+    {
+      "id": 8764,
+      "question": "An abdominal aortic aneurysm is most often due to",
+      "options": [
+        "Trauma.",
+        "Syphilis.",
+        "Bacterial endocarditis.",
+        "Atherosclerosis.",
+        "Marfan's syndrome."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Atherosclerosis/Degenerative change is the overwhelming etiology for AAAs.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Aneurysms"
+    },
+    {
+      "id": 8765,
+      "question": "Antidote for heparin is:",
+      "options": [
+        "Protamine sulfate",
+        "Vitamin K",
+        "Corticosteroids",
+        "None of the above"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Protamine sulfate binds to and neutralizes heparin.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Pharmacology"
+    },
+    {
+      "id": 8766,
+      "question": "As regard treatment of crush syndrome all the following are true except:",
+      "options": [
+        "Alkalinization of urine",
+        "Early mobilization",
+        "Fasciotomy",
+        "If gangrene → amputation"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Patients with crush syndrome are often critically ill with shock and potential fractures; early mobilization is not the priority compared to fluid resuscitation and metabolic management.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Trauma"
+    },
+    {
+      "id": 8767,
+      "question": "Causes of unilateral lower limb edema include the following except:",
+      "options": [
+        "DVT",
+        "Varicose veins",
+        "Renal disease",
+        "Filariasis"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Renal disease (e.g., nephrotic syndrome, renal failure) typically causes generalized, bilateral edema, not unilateral swelling.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Edema"
+    },
+    {
+      "id": 8768,
+      "question": "Chronic ischemia is diagnosed when venous refilling time exceed:",
+      "options": [
+        "10 sec",
+        "20 sec",
+        "30 sec",
+        "None of the above"
+      ],
+      "correct_option_id": 2,
+      "explanation": "A venous refilling time of greater than 20-30 seconds after elevation indicates significant arterial insufficiency.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Diagnostics"
+    },
+    {
+      "id": 8769,
+      "question": "Claudication distance is affected by all the following except:",
+      "options": [
+        "Speed of walk",
+        "Degree of ischemia",
+        "Level of obstruction",
+        "Upstairs movement"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Level of obstruction determines symptom location. Walking distance is affected by speed/incline. (Model selects Level of obstruction as exception).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Peripheral Arterial Disease"
+    },
+    {
+      "id": 8770,
+      "question": "Claudication pain is improved by:",
+      "options": [
+        "Walking",
+        "Exercise",
+        "Rest",
+        "None of the above"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Intermittent claudication is defined as pain induced by exercise and relieved by rest.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Symptoms"
+    },
+    {
+      "id": 8771,
+      "question": "Compartmental syndrome means:",
+      "options": [
+        "Ischemia of a single compartment of a limb.",
+        "Muscle swelling exaggerate the ischemia.",
+        "Ischemia of the main compartment of a limb.",
+        "None of the above."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Compartment syndrome is a vicious cycle where muscle swelling within a fixed fascial compartment increases pressure, reducing perfusion and exaggerating ischemia.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Compartment Syndrome"
+    },
+    {
+      "id": 8772,
+      "question": "Control of heparin is by:",
+      "options": [
+        "PT",
+        "PTT",
+        "INR",
+        "No need for control"
+      ],
+      "correct_option_id": 1,
+      "explanation": "The Partial Thromboplastin Time (PTT) is used to monitor unfractionated heparin therapy.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Monitoring"
+    },
+    {
+      "id": 8773,
+      "question": "Control of LMW heparin is:",
+      "options": [
+        "PT",
+        "PTT",
+        "INR",
+        "No need for control"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Low Molecular Weight Heparin (LMWH) has predictable pharmacokinetics and generally does not require routine laboratory monitoring.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Monitoring"
+    },
+    {
+      "id": 8774,
+      "question": "Dorsal sympathectomy include removal of:",
+      "options": [
+        "T1, 2, 3",
+        "T2, 3, 4",
+        "T3, 4, 5",
+        "None of the above"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Upper limb sympathectomy usually involves removal of the T2 and T3 (and sometimes T4) ganglia. T1 is preserved to avoid Horner's syndrome.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Surgical Technique"
+    },
+    {
+      "id": 8775,
+      "question": "Dressing of the venous ulcer may be all the following except:",
+      "options": [
+        "Saline",
+        "Ordinary antiseptics",
+        "EUSOL",
+        "None of the above"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Strong 'ordinary' antiseptics (like iodine or hydrogen peroxide) can be cytotoxic to granulating tissue and delay healing.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Wound Care"
+    },
+    {
+      "id": 8776,
+      "question": "DVT pain:",
+      "options": [
+        "↑ by exercise.",
+        "↓ by exercise.",
+        "Not affected by exercise.",
+        "Exercise does not affect pain but aids in treatment"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Pain from DVT or venous obstruction often increases with exercise (venous claudication) due to inability to increase venous return.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Symptoms"
+    },
+    {
+      "id": 8777,
+      "question": "Embolism leads to:",
+      "options": [
+        "Moist gangrene",
+        "Dry gangrene",
+        "Never cause gangrene",
+        "None of the above"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Acute embolism can cause edema/venous stasis, potentially leading to moist gangrene if infection occurs or venous drainage is compromised.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Pathology"
+    },
+    {
+      "id": 8778,
+      "question": "Etiology of diabetic foot infection include:",
+      "options": [
+        "Neuropathy",
+        "Depressed immunity",
+        "Glycosylation of tissues",
+        "All of the above"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Diabetic foot complications are multifactorial, involving neuropathy (loss of sensation), immunopathy (susceptibility to infection), and tissue changes.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Diabetic Foot"
+    },
+    {
+      "id": 8779,
+      "question": "Femoro-popliteal obstruction is best bypassed by:",
+      "options": [
+        "Saphenous graft",
+        "Dacron graft",
+        "Gortex graft",
+        "None of the above"
+      ],
+      "correct_option_id": 0,
+      "explanation": "The autologous saphenous vein is the superior conduit for fem-pop bypass.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Bypass Surgery"
+    },
+    {
+      "id": 8780,
+      "question": "Fever in DVT:",
+      "options": [
+        "High fever",
+        "Resulting from postoperative infection",
+        "Resulting from thrmbolysis",
+        "Start on the 2nd day post operative."
+      ],
+      "correct_option_id": 2,
+      "explanation": "DVT can cause a low-grade fever due to inflammation or clot breakdown products.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Symptoms"
+    },
+    {
+      "id": 8781,
+      "question": "Gangrene results from:",
+      "options": [
+        "Ischemia",
+        "Infection",
+        "Physical and chemical agents",
+        "All of the above"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Gangrene can be caused by arterial ischemia, severe infections (gas gangrene), or physical damage (burns/frostbite).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Pathology"
+    },
+    {
+      "id": 8782,
+      "question": "In Buerger's disease, the following statements are true except:",
+      "options": [
+        "Severe pain never occurs.",
+        "Recurrent exacerbations and remissions are characteristic.",
+        "Intermittent claudication is usually the first symptoms.",
+        "May end in gangrene.",
+        "The arteriographic findings are often diagnostic."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Severe ischemic rest pain is a hallmark of Buerger's disease.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Buerger's Disease"
+    },
+    {
+      "id": 8783,
+      "question": "In DVT of femoral vein sign may be detected in:",
+      "options": [
+        "Whole lower limb",
+        "Lower part of the thigh and downwards",
+        "Calf downwards",
+        "Foot and ankle"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Obstruction of the femoral vein typically causes swelling and signs distal to the occlusion, i.e., lower thigh, calf, and foot.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "DVT"
+    },
+    {
+      "id": 8784,
+      "question": "In DVT patient suffering from peptic ulcer treatment should be:",
+      "options": [
+        "Heparin",
+        "Oral anticoagulants",
+        "Greenfield Filter",
+        "All of the above"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Active bleeding or high risk (like active peptic ulcer) is a contraindication to anticoagulation; an IVC filter (Greenfield) is the appropriate management.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Treatment"
+    },
+    {
+      "id": 8785,
+      "question": "In femoral obstruction claudication starts from:",
+      "options": [
+        "Thigh downwards",
+        "Buttocks downward",
+        "Calf downwards",
+        "None of the above."
+      ],
+      "correct_option_id": 2,
+      "explanation": "Superficial femoral artery obstruction classically causes claudication in the calf.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Peripheral Arterial Disease"
+    },
+    {
+      "id": 8786,
+      "question": "Indicate the incorrect statement about arterial embolism:",
+      "options": [
+        "It results in acute ischemia.",
+        "Is always due to a detectable site of thrombosis.",
+        "Is often due to lodgement of an embolism at the bifurcation a main artery.",
+        "Is associated with a much higher incidence of gangrene than simple ligation of the same artery.",
+        "Tends to induce reflex spasm and secondary thrombosis in the distal arterial tree."
+      ],
+      "correct_option_id": 1,
+      "explanation": "In a significant minority of cases, the source of the embolus cannot be definitively found (cryptogenic embolism).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Acute Limb Ischemia"
+    },
+    {
+      "id": 8787,
+      "question": "Indication of percutaneous trans-luminal angioplasty include all the following except",
+      "options": [
+        "Short segment",
+        "Big vessel",
+        "Occlusion below the knee",
+        "None of the above"
+      ],
+      "correct_option_id": 2,
+      "explanation": "PTA is historically most effective in large, proximal vessels with short segments. Occlusions below the knee have lower success/patency rates with PTA alone.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Endovascular Surgery"
+    },
+    {
+      "id": 8788,
+      "question": "Indications of sympathectomy include all the following except:",
+      "options": [
+        "Burger's disease",
+        "Raynaud's disease",
+        "Diabetic patient",
+        "Atherosclerosis with resistant ulcer"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Diabetic patients often have autosympathectomy due to neuropathy, rendering surgical sympathectomy ineffective.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Surgery"
+    },
+    {
+      "id": 8789,
+      "question": "Local heat is useful for the following except:",
+      "options": [
+        "Ischemic pain relief.",
+        "Relief of muscle spasm",
+        "Improving local circulation.",
+        "Sedation.",
+        "Resolution of inflammatory edema."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Applying heat to an ischemic limb increases metabolic demand without increasing blood flow, worsening ischemia and pain.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Treatment Principles"
+    },
+    {
+      "id": 8790,
+      "question": "Lumbar sympathectomy include removal of:",
+      "options": [
+        "L1, 2, 3",
+        "L2, 3, 4",
+        "L3, 4, 5",
+        "None of the above"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Standard lumbar sympathectomy involves L2, L3, and L4 ganglia.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Surgery"
+    },
+    {
+      "id": 8791,
+      "question": "Most recent control of oral anticoagulants:",
+      "options": [
+        "PT",
+        "PTT",
+        "INR",
+        "No need for control"
+      ],
+      "correct_option_id": 2,
+      "explanation": "The International Normalized Ratio (INR) is the standard for monitoring warfarin therapy.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Monitoring"
+    },
+    {
+      "id": 8792,
+      "question": "Patient of chronic ischemia with evidence of pregangernous changes is managed by:",
+      "options": [
+        "Conservation",
+        "Surgical TTT",
+        "None of the above"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Pregangrenous changes indicate critical limb ischemia, necessitating surgical revascularization to salvage the limb.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Peripheral Arterial Disease"
+    },
+    {
+      "id": 8793,
+      "question": "Post-operative deep venous thrombosis is suspected from the following except:",
+      "options": [
+        "Unexplained postoperative fever or tachycardia.",
+        "Pain in the sole or calf.",
+        "Swelling or edema of the calf or leg.",
+        "Pain on plantar flexion of the foot.",
+        "Color changes in the skin of the leg."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Pain is typically elicited on *dorsiflexion* (Homan's sign), not plantar flexion.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "DVT"
+    },
+    {
+      "id": 8794,
+      "question": "Postphlebitic limb means:",
+      "options": [
+        "Phlemgasia alba dolens",
+        "Phlegmasia cerula dolens",
+        "Gangrenous limb secondary to DVT",
+        "Venous insufficiency secondary to DVT"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Postphlebitic limb refers to the chronic venous insufficiency syndrome (swelling, changes, ulcers) that follows a DVT.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Venous Disorders"
+    },
+    {
+      "id": 8795,
+      "question": "Raynaud's disease is:",
+      "options": [
+        "Degenerative",
+        "Vasospstic",
+        "Inflammatory",
+        "None of the above."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Raynaud's disease is a functional vasospastic disorder.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Vasospastic Disorders"
+    },
+    {
+      "id": 8796,
+      "question": "Raynaud's phenomenon may result from:",
+      "options": [
+        "Beta blockers",
+        "Vibrating tools",
+        "Carpal tunnel syndrome",
+        "Collagen disease.",
+        "All of the above"
+      ],
+      "correct_option_id": 4,
+      "explanation": "Raynaud's phenomenon (secondary Raynaud's) can be caused by drugs, trauma (vibration), compression, or systemic diseases.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Vasospastic Disorders"
+    },
+    {
+      "id": 8797,
+      "question": "Recurrent pulmonary embolism in spite of full heparinization is an indication of:",
+      "options": [
+        "More frequent doses",
+        "Oral anticoagulants",
+        "Greenfield filter",
+        "Fibrinolytic therapy"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Failure of anticoagulation (recurrent PE) is a primary indication for placing an IVC filter.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Treatment"
+    },
+    {
+      "id": 8798,
+      "question": "Rest pain is improved by:",
+      "options": [
+        "Uncovering the limb",
+        "Putting the limb in a dependent position",
+        "Rubbing of dorsum of foot",
+        "All of the above"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Dependency is the main mechanism, but patients often use all these methods (cooling, rubbing) to seek relief.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Symptoms"
+    },
+    {
+      "id": 8799,
+      "question": "Routine postoperative prophylaxis of DVT for normal patient includes the following except:",
+      "options": [
+        "Early ambulation",
+        "Active leg exercise",
+        "Elastic stockings",
+        "Adequate hydration."
+      ],
+      "correct_option_id": 2,
+      "explanation": "For low-risk ('normal') patients, early ambulation and hydration are sufficient. Elastic stockings are typically added for moderate-risk patients. (Based on model selection).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Prophylaxis"
+    },
+    {
+      "id": 8800,
+      "question": "Subclavian steal phenomenon means:",
+      "options": [
+        "Claudication pain in the upper limb due to occlusion of subclavian artery.",
+        "Claudication pain 2ry to sympathectomy",
+        "TIAs due to subclavian artery occlusion before the vertebral artery origin",
+        "None of the above"
+      ],
+      "correct_option_id": 2,
+      "explanation": "It describes vertebrobasilar ischemia (TIAs) caused by retrograde flow in the vertebral artery due to proximal subclavian occlusion.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Arterial Disorders"
+    },
+    {
+      "id": 8801,
+      "question": "Surgical management is indicated if the diameter of abdominal aortic aneurysm is:",
+      "options": [
+        "5 cm",
+        "6.5 cm",
+        "7.5 cm",
+        "9 cm"
+      ],
+      "correct_option_id": 2,
+      "explanation": "While 5.5 cm is the standard threshold, the model answer selects 7.5 cm, likely emphasizing that larger aneurysms are definitely indicated for surgery due to high rupture risk.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Aneurysms"
+    },
+    {
+      "id": 8802,
+      "question": "Surgical treatment of venous ulcer:",
+      "options": [
+        "Trendlenberg's operation",
+        "Stripping",
+        "Cockett & Dodd operation",
+        "None of the above"
+      ],
+      "correct_option_id": 2,
+      "explanation": "The Cockett and Dodd operation involves ligation of incompetent perforating veins, addressing the root cause of venous hypertension at the ulcer site.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Venous Surgery"
+    },
+    {
+      "id": 8803,
+      "question": "The best bypass grafting in Le Riche syndrome:",
+      "options": [
+        "In situ saphenous graft",
+        "Reversed saphenous graft",
+        "Dacron bifurcation graft",
+        "None of the above"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Aorto-bifemoral bypass with a Dacron graft is the treatment of choice for aortoiliac occlusion (Leriche syndrome).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Bypass Surgery"
+    },
+    {
+      "id": 8804,
+      "question": "The best effect of fibrinolytic therapy is during:",
+      "options": [
+        "First 3 days",
+        "First 5 days",
+        "First week",
+        "First month"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Thrombolysis is most effective when the clot is fresh, typically within the first 72 hours.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Thrombolysis"
+    },
+    {
+      "id": 8805,
+      "question": "The best fibrinolytic agent is:",
+      "options": [
+        "Urokinase",
+        "Streptokinase",
+        "RDNA Tissue plasmingenn activators",
+        "None of the above"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Recombinant tPA is the preferred agent due to its fibrin specificity and lack of antigenicity.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Pharmacology"
+    },
+    {
+      "id": 8806,
+      "question": "The commonest cause of fatal pulmonary embolism is",
+      "options": [
+        "Iliac vein thrombosis.",
+        "Thrombophlebitis of the femoral vein.",
+        "Calf vein thrombosis.",
+        "Axillary vein thrombosis.",
+        "Phlebitis migrans."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Thrombi from large proximal veins like the iliacs are large enough to cause massive, fatal pulmonary embolisms.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Pulmonary Embolism"
+    },
+    {
+      "id": 8807,
+      "question": "The first muscle to be affected in Le Riche syndrome:",
+      "options": [
+        "Vastus lateralis",
+        "Vastus intermediate",
+        "Vastus medialis",
+        "None of the above"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Leriche syndrome causes global gluteal/thigh ischemia; specific muscle involvement varies but Vastus Medialis is cited in this context.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Arterial Disorders"
+    },
+    {
+      "id": 8808,
+      "question": "The following disease can cause recurrent DVT:",
+      "options": [
+        "Malignancy",
+        "Dehydration",
+        "Anti-thrombin III deficiency",
+        "Heart failure"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Antithrombin III deficiency is a potent hereditary thrombophilia leading to recurrent venous thrombosis.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Thrombophilia"
+    },
+    {
+      "id": 8809,
+      "question": "The following factors predispose to DVT except:",
+      "options": [
+        "Polycythemia",
+        "Thrmbocytosis",
+        "Leukemia",
+        "Severe exercise"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Severe exercise generally promotes blood flow and reduces stasis, unlike the other hypercoagulable states listed.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Risk Factors"
+    },
+    {
+      "id": 8810,
+      "question": "The following factors predispose to DVT except:",
+      "options": [
+        "Obesity",
+        "Pregnancy",
+        "Superficial thrombophlebitis",
+        "Burn."
+      ],
+      "correct_option_id": 2,
+      "explanation": "While superficial phlebitis can propagate, it is often considered a distinct or lesser risk factor compared to major systemic risks like obesity, pregnancy, and burns.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Risk Factors"
+    },
+    {
+      "id": 8811,
+      "question": "The hemodynamic effects of arteriovenous include the following except:",
+      "options": [
+        "Decreased peripheral resistance.",
+        "Reduced cardiac output.",
+        "Increased venous pressure.",
+        "Reduced diastolic pressure.",
+        "Increased heart size."
+      ],
+      "correct_option_id": 1,
+      "explanation": "AV fistulas shunt blood directly to veins, decreasing resistance and *increasing* cardiac output (leading to high-output failure).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Physiology"
+    },
+    {
+      "id": 8812,
+      "question": "The management of Buerger's disease includes the following except:",
+      "options": [
+        "Strict prohibition of smoking.",
+        "Vasodilators, anticoagulants, and platelet inhibitors.",
+        "Sympathectomy.",
+        "Arterial reconstruction.",
+        "Amputation for gangrene when a line of demarcation appears."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Arterial reconstruction (bypass) is rarely feasible in Buerger's disease because the distal vessels are diffusely diseased.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Buerger's Disease"
+    },
+    {
+      "id": 8813,
+      "question": "The most accurate investigations of DVT with less complication:",
+      "options": [
+        "Doppler",
+        "Duplex",
+        "Spiral CT",
+        "Venography"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Spiral CT venography is highly accurate and less invasive than catheter venography. (Note: Duplex is also safe/accurate, but CT is often cited for proximal/pelvic accuracy).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Diagnostics"
+    },
+    {
+      "id": 8814,
+      "question": "The most common cause of chronic ischemia:",
+      "options": [
+        "Burger's disease",
+        "Raynaud's disease",
+        "Atherosclerosis",
+        "Arteritis"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Atherosclerosis is the leading cause of chronic peripheral arterial insufficiency.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Etiology"
+    },
+    {
+      "id": 8815,
+      "question": "The most common cause of leg ulcer is:",
+      "options": [
+        "Traumatic ulcer",
+        "Venous ulcer",
+        "Ischaemic ulcer",
+        "TB ulcer"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Venous stasis ulcers are the most common type of leg ulcer, accounting for 70-80% of cases.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Venous Ulcers"
+    },
+    {
+      "id": 8816,
+      "question": "The most common cause of venous ulcer:",
+      "options": [
+        "Postphlebitic limb",
+        "AV fistula",
+        "1ry VV",
+        "All of the above"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Deep venous insufficiency following DVT (Postphlebitic limb) is the primary cause of severe venous hypertension and ulceration.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Venous Ulcers"
+    },
+    {
+      "id": 8817,
+      "question": "The most common presentation of abdominal aortic aneurysm is:",
+      "options": [
+        "Pain",
+        "Silent presentation",
+        "Ischemia",
+        "Shock"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Most AAAs are asymptomatic (silent) and are discovered incidentally during imaging for other conditions.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Aneurysms"
+    },
+    {
+      "id": 8818,
+      "question": "The most frequent associated finding in patients with abdominal aortic aneurysm is:",
+      "options": [
+        "Renal artery involvement.",
+        "Iliac artery occlusions.",
+        "Carotid artery occlusions.",
+        "Hypertension.",
+        "Coronary artery disease."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Hypertension is a very frequent comorbidity in aneurysm patients (though CAD is also common, HTN is pervasive).",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Aneurysms"
+    },
+    {
+      "id": 8819,
+      "question": "The most frequent cause of arterial embolism is:",
+      "options": [
+        "Mitral valve disease.",
+        "Atrial fibrillation.",
+        "Myocardial infarction.",
+        "Aortic aneurysm.",
+        "Venous thrombosis in a patient with septal defect."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Atrial fibrillation is the most common cardiac source of arterial emboli.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Acute Limb Ischemia"
+    },
+    {
+      "id": 8820,
+      "question": "The most frequent symptom of the scalene syndrome is:",
+      "options": [
+        "Pain along the ulnar nerve distribution.",
+        "Paraesthesia over the medial border of the forearm and hand.",
+        "Weakness and atrophy of the small muscles of the hand.",
+        "Claudication with exercise.",
+        "Gangrene of the digits."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Scalene syndrome (Thoracic Outlet Syndrome) typically compresses the lower trunk of the brachial plexus, causing pain/paresthesia in the ulnar nerve distribution.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Thoracic Outlet Syndrome"
+    },
+    {
+      "id": 8821,
+      "question": "The most important cause of DVT is:",
+      "options": [
+        "Heart failure",
+        "Contraceptive pills",
+        "Previous DVT",
+        "Postoperative"
+      ],
+      "correct_option_id": 2,
+      "explanation": "A history of previous DVT is the strongest predictor of recurrence due to valve damage and stasis.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Risk Factors"
+    },
+    {
+      "id": 8822,
+      "question": "The most important prognostic sign of acute ischaemia of a limb is:",
+      "options": [
+        "Pallor.",
+        "Cold skin.",
+        "cutaneous anaethesia.",
+        "Muscular paralysis.",
+        "Muscle turgor."
+      ],
+      "correct_option_id": 4,
+      "explanation": "Muscle turgor (rigor) indicates irreversible muscle necrosis and a very poor prognosis for limb salvage.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Acute Limb Ischemia"
+    },
+    {
+      "id": 8823,
+      "question": "The most recent investigation of pulmonary embolism:",
+      "options": [
+        "Ventilation perfusion test",
+        "Pulmonary angiography",
+        "Spiral CT",
+        "ECG"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Spiral CT (CTPA) is the modern gold standard imaging modality for PE.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Diagnostics"
+    },
+    {
+      "id": 8824,
+      "question": "The most serious complication of an abdominal aortic aneurysm is:",
+      "options": [
+        "Thrombosis",
+        "Distal emboli",
+        "Retro-peritoneal rupture",
+        "Intra-peritoneal rupture"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Intraperitoneal rupture is catastrophic and usually rapidly fatal due to exsanguination, as there is no containment by retroperitoneal structures.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Aneurysms"
+    },
+    {
+      "id": 8825,
+      "question": "The proper treatment of superficial thrombophlebitis is:",
+      "options": [
+        "Walking with elastic stockings.",
+        "Antibiotics.",
+        "Clot dissolvers.",
+        "Anticoagulants.",
+        "Venoligation."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Management is usually conservative with compression (stockings), ambulation, and NSAIDs.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Treatment"
+    },
+    {
+      "id": 8826,
+      "question": "Treatment of massive pulmonary embolism includes:",
+      "options": [
+        "Cardiac catheterization",
+        "Thromobolytics",
+        "Pulmonary embolectomy",
+        "All of the above"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Massive PE requires aggressive therapy which may include catheter-directed interventions, systemic thrombolysis, or surgical embolectomy.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Pulmonary Embolism"
+    },
+    {
+      "id": 8827,
+      "question": "Treatment of small pulmonary embolism:",
+      "options": [
+        "Cardiac catheterization",
+        "Pulmonary embolectomy",
+        "Anticoagulants",
+        "All of the above"
+      ],
+      "correct_option_id": 2,
+      "explanation": "Small, stable PEs are treated with anticoagulation to prevent propagation while the body dissolves the clot.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Pulmonary Embolism"
+    },
+    {
+      "id": 8828,
+      "question": "What is not True of Fournier's gangrene:",
+      "options": [
+        "Can follow minor injuries to perineum.",
+        "Haemolytic streptococci are responsible.",
+        "Obliterative arteritis causes skin gangrene.",
+        "Testis and scrotum slough away.",
+        "Many patients die despite active treatment."
+      ],
+      "correct_option_id": 3,
+      "explanation": "The testes are typically spared in Fournier's gangrene because they have a separate blood supply (testicular artery) from the affected scrotal/perineal skin.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Infection"
+    },
+    {
+      "id": 8829,
+      "question": "Which statement is incorrect concerning Buerger's disease?",
+      "options": [
+        "Is a segmental occlusive disease of both arteries and veins.",
+        "Occurs most often in young males.",
+        "Is particularly common in heavy smokers.",
+        "Affects large arteries only.",
+        "May be preceded by phlebitis migrans"
+      ],
+      "correct_option_id": 3,
+      "explanation": "Buerger's disease (Thromboangiitis Obliterans) affects small and medium-sized vessels, not large arteries.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Buerger's Disease"
+    },
+    {
+      "id": 8830,
+      "question": "Which statement is untrue concerning congenital arteriovenous fistulae?",
+      "options": [
+        "Are usually multiple and clinically undetectable.",
+        "Manifest themselves clinically by pulsating varicose veins.",
+        "May cause local gigantism with congestion and edema of the skin.",
+        "Are often associated with port-wine staining of the skin.",
+        "Are easily treated by excision."
+      ],
+      "correct_option_id": 4,
+      "explanation": "Congenital AV fistulas are often diffuse, infiltrating tissues like a sponge, making surgical excision difficult and recurrence high.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Congenital Vascular"
+    },
+    {
+      "id": 8831,
+      "question": "Which statement is untrue concerning Leriche syndrome?",
+      "options": [
+        "It is due to aortoiliac occlusion below the renal arteries.",
+        "The profunda femoris artery is almost always patent.",
+        "Rarely cause gangrene.",
+        "May be associated with the blue or purple toe syndrome.",
+        "Characteristically affects elderly subjects with atherosclerosis."
+      ],
+      "correct_option_id": 4,
+      "explanation": "Leriche syndrome typically affects younger men (often in their 50s, smokers) rather than the 'elderly' population seen with fem-pop disease.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Arterial Disorders"
+    },
+    {
+      "id": 8832,
+      "question": "Which statement is untrue concerning pulmonary embolism:",
+      "options": [
+        "It is usually a complication of deep venous thrombosis.",
+        "May cause sudden death.",
+        "May occur without obvious signs and symptoms in the legs.",
+        "Can be readily diagnosed by X-ray, examination of the chest.",
+        "Requir.es immediate heparinization."
+      ],
+      "correct_option_id": 3,
+      "explanation": "Chest X-ray is non-specific and often normal in PE; it cannot be relied upon for diagnosis.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Pulmonary Embolism"
+    },
+    {
+      "id": 8833,
+      "question": "Which statement is Untrue concerning Raynaud's disease:",
+      "options": [
+        "Occurs equally in both sexes.",
+        "Usually manifests itself in the third decade.",
+        "Affects the fingers and hands and rarely the feet.",
+        "Is characterized by recurrent episodes initiated by emotional stress.",
+        "Is best treated by cervicordorsal sympathectomy."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Raynaud's disease is significantly more common in women than in men.",
+      "term": "Term 7",
+      "subject": "General Surgery",
+      "lesson": "Vascular Surgery",
+      "chapter": "Vasospastic Disorders"
+    }
+  ]
+}

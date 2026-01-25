@@ -1,0 +1,674 @@
+{
+"meta": {
+"source": "Term 7 - Endocrine",
+"lesson": "Adrenal Glands"
+},
+"questions": [
+{
+"id": 7710,
+"question": "A 43-year-old man is found to have a phaeochromocytoma. Which anti-hypertensive medication should be started first?",
+"options": [
+"Propranolol",
+"Ramipril",
+"Atenolol",
+"Phenoxybenzamine",
+"Doxazosin"
+],
+"correct_option_id": 3,
+"explanation": "Alpha-blockade (e.g., Phenoxybenzamine) must be established before beta-blockade. Beta-blockade first causes unopposed alpha stimulation and hypertensive crisis.",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Pheochromocytoma"
+},
+{
+"id": 7711,
+"question": "A 45-year-old woman has an incidental 2-cm nonfunctional solid adrenal nodule on CT. What is the recommended management?",
+"options": [
+"Extra-peritoneal right adrenalectomy through either a flank of posterior approach.",
+"Suppression with 5 mg prednisone PO.",
+"Follow up CT scan in 1 to 3 months.",
+"Excisional biopsy via laparoscopic approach."
+],
+"correct_option_id": 2,
+"explanation": "Small (<4 cm), non-functional, asymptomatic incidentalomas need observation. A follow-up CT (1-3 months) ensures stability and checks for growth.",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Adrenal Incidentaloma"
+},
+{
+"id": 7712,
+"question": "A 65-year-old woman with metastatic small cell lung cancer is diagnosed with Addison disease. Which pattern of serum Na⁺, serum K⁺, blood glucose, and blood pressure is most consistent with this condition?",
+"options": [
+"Increased: Increased: Decreased: Decreased",
+"Decreased: Increased: Increased: Decreased",
+"Increased: Decreased: Increased: Decreased",
+"Decreased: Decreased: Increased: Increased",
+"Decreased: Increased: Decreased: Decreased"
+],
+"correct_option_id": 4,
+"explanation": "Addison's leads to mineralocorticoid deficiency (Hyponatremia, Hyperkalemia) and glucocorticoid deficiency (Hypoglycemia, Hypotension).",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Adrenal Insufficiency & Crisis"
+},
+{
+"id": 7713,
+"question": "Addisonian crisis or acute adrenocortical insufficiency:",
+"options": [
+"Occurs in known adrenal insufficiency or those on long-term exogenous steroids.",
+"Can mimic an acute abdomen with fever, nausea and vomiting, abdominal pain, and hypotension.",
+"May cause incorrect electrolyte patterns like hypernatremia and hypokalemia.",
+"Diagnose with rapid ACTH test before starting steroid replacement.",
+"Treat effectively with IV (stress-dose) glucocorticoids and mineralocorticoids."
+],
+"correct_option_id": 1,
+"explanation": "Crisis mimics acute abdomen. Electrolytes show Hyponatremia/Hyperkalemia. Treatment with steroids is urgent and should not wait for testing.",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Adrenal Insufficiency & Crisis"
+},
+{
+"id": 7714,
+"question": "Adrenal crisis is characterized by:",
+"options": [
+"Profound asthenia.",
+"Severe abdominal pain.",
+"Peripheral vascular collapse.",
+"Low Na and high K.",
+"All of the above.",
+"None of the above."
+],
+"correct_option_id": 4,
+"explanation": "Crisis features include severe asthenia, abdominal pain, vascular collapse (shock), and electrolyte disturbances (Hyponatremia/Hyperkalemia).",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Adrenal Insufficiency & Crisis"
+},
+{
+"id": 7715,
+"question": "As an incidental finding during an upper abdominal mass in the adrenal gland is noted. The appropriate management of this finding would be:",
+"options": [
+"Observation.",
+"CT-guided needle biopsy.",
+"Excision of the mass.",
+"Cortisol provocation test.",
+"Measurement of urine catecholamine excretion."
+],
+"correct_option_id": 0,
+"explanation": "Most incidentalomas are benign. If small (<4 cm) and non-functional, observation is appropriate after biochemical screening rules out hormone excess.",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Adrenal Incidentaloma"
+},
+{
+"id": 7716,
+"question": "Autoimmune adrenalitis is commonly presented with:",
+"options": [
+"Addison's disease.",
+"Cushing syndrome.",
+"Both."
+],
+"correct_option_id": 0,
+"explanation": "Autoimmune adrenalitis causes primary insufficiency (Addison's), leading to cortisol and mineralocorticoid deficiency, not excess (Cushing's).",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Adrenal Insufficiency & Crisis"
+},
+{
+"id": 7717,
+"question": "Chemical adrenalectomy is a line of treatment in Cushing syndrome due to suprarenal tumour; can be done by:",
+"options": [
+"Cimetidine",
+"Ciprofloxacin",
+"Ketoconazole",
+"beta blockers",
+"Captopril"
+],
+"correct_option_id": 2,
+"explanation": "Ketoconazole is an antifungal that inhibits multiple enzymes in steroidogenesis (including 17,20-lyase), effectively reducing cortisol synthesis, referred to as 'medical adrenalectomy'.",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Cushing Syndrome"
+},
+{
+"id": 7718,
+"question": "Epinephrine is hormone secreted mainly from adrenal medulla due to presence of:",
+"options": [
+"Hydroxylase enzyme",
+"Tyrosine",
+"Adenyl cyclase",
+"Methyltransferase",
+"Methylene"
+],
+"correct_option_id": 3,
+"explanation": "The conversion of Norepinephrine to Epinephrine in the adrenal medulla is catalyzed by the enzyme PNMT (Phenylethanolamine N-methyltransferase).",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Physiology"
+},
+{
+"id": 7719,
+"question": "Epinephrine is secreted mainly from adrenal medulla due to presence of:",
+"options": [
+"Methyltransferase",
+"Phenylalanine",
+"Tyrosine",
+"Dopamine",
+"ATP"
+],
+"correct_option_id": 0,
+"explanation": "This question repeats the concept that Methyltransferase (specifically PNMT) is the unique enzyme in the adrenal medulla responsible for Epinephrine synthesis.",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Physiology"
+},
+{
+"id": 7720,
+"question": "Expected findings in phaeochromocytoma do not include:",
+"options": [
+"Sweating.",
+"Hypertension.",
+"Glycosuria.",
+"Palpitation",
+"Histological evidence of malignancy in 90% of cases."
+],
+"correct_option_id": 4,
+"explanation": "Pheochromocytomas follow the 'Rule of 10s': only about 10% are malignant. Therefore, histological evidence of malignancy in 90% of cases is false.",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Pheochromocytoma"
+},
+{
+"id": 7721,
+"question": "Hyperpigmentation and asthenia are major manifestations of:",
+"options": [
+"Cushing disease",
+"Polycystic ovary syndrome",
+"Conns syndrome",
+"Addisons disease",
+"Prolactinoma"
+],
+"correct_option_id": 3,
+"explanation": "Hyperpigmentation is due to elevated ACTH (contains MSH) from lack of cortisol feedback. Asthenia (weakness) is also a classic symptom.",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Adrenal Insufficiency & Crisis"
+},
+{
+"id": 7722,
+"question": "Imaging of the adrenal gland is best achieved with which of the following techniques?",
+"options": [
+"Ultrasound.",
+"Computed tomography (CT)",
+"Arteriography.",
+"Scintiography with 1131 -b-iodomethyl-19-norcholesterol (NP-59).",
+"Scintiography with 1131-metha-iodobenzyl guanidine (MIBG)."
+],
+"correct_option_id": 1,
+"explanation": "CT (Computed Tomography) is the gold standard initial imaging modality for visualizing adrenal anatomy and pathology. MIBG is functional for pheochromocytoma.",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Investigations"
+},
+{
+"id": 7723,
+"question": "Important signs of Addison disease:",
+"options": [
+"Hypoglycemia.",
+"Weight.",
+"Peripheral neuritis."
+],
+"correct_option_id": 0,
+"explanation": "Hypoglycemia is a dangerous sign of Addison's caused by glucocorticoid deficiency (impaired gluconeogenesis). Weight loss is also seen.",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Adrenal Insufficiency & Crisis"
+},
+{
+"id": 7724,
+"question": "Manifestations of Cushing syndrome include all the following EXCEPT:",
+"options": [
+"Osteoporosis.",
+"Hypoglycemia.",
+"Proximal myopathy.",
+"Hypertension."
+],
+"correct_option_id": 1,
+"explanation": "Cushing syndrome is associated with glucose intolerance and diabetes (Hyperglycemia), not hypoglycemia, due to the gluconeogenic effects of excess cortisol.",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Cushing Syndrome"
+},
+{
+"id": 7725,
+"question": "Methyltransferase is an enzyme located in adrenal medulla its function is:",
+"options": [
+"Synthesis of norepinephrine",
+"Synthesis of dopamine",
+"Conversion of dopamine to norepinephrine",
+"Hydroxylation of norepinephrine",
+"Conversion of norepinephrine to epinephrine"
+],
+"correct_option_id": 4,
+"explanation": "PNMT (Phenylethanolamine N-methyltransferase) converts Norepinephrine to Epinephrine in the adrenal medulla.",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Physiology"
+},
+{
+"id": 7726,
+"question": "Most common cause of cushingoid features is:",
+"options": [
+"Pituitary corticotrope adenoma",
+"Iatrogenic hypercortisolism",
+"Ectopic tumor ACTH production",
+"Cortisol-producing adrenal adenoma",
+"MEN 1"
+],
+"correct_option_id": 1,
+"explanation": "The most common cause of Cushingoid features overall is the administration of exogenous steroids (Iatrogenic hypercortisolism). Pituitary adenoma is the most common endogenous cause.",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Cushing Syndrome"
+},
+{
+"id": 7727,
+"question": "Obesity may be a presentation in one of the following:",
+"options": [
+"Cushing's syndrome",
+"Toxic thyroid adenoma",
+"Graves' disease",
+"Subclinical hyperthyroidism",
+"Addisons disease"
+],
+"correct_option_id": 0,
+"explanation": "Central (truncal) obesity is a cardinal feature of Cushing's syndrome due to cortisol-induced redistribution of fat.",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Cushing Syndrome"
+},
+{
+"id": 7728,
+"question": "Phaeochromocytoma are associated with all of the following EXCEPT:",
+"options": [
+"Congenital adrenal hyperplasia.",
+"Tuberous sclerosis.",
+"Carney's syndrome.",
+"Von Hippel-Lindau syndrome."
+],
+"correct_option_id": 0,
+"explanation": "CAH is a cortical enzyme deficiency. Phaeochromocytoma is a medullary tumor associated with MEN 2, VHL, and NF1, not CAH.",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Pheochromocytoma"
+},
+{
+"id": 7729,
+"question": "Pheochromocytoma may be associated with:",
+"options": [
+"Anhydrosis.",
+"Miosis.",
+"Neurofibromatosis.",
+"Paroxysmal hypotension."
+],
+"correct_option_id": 2,
+"explanation": "Associated with NF1, MEN 2, and VHL. Symptoms include sweating and paroxysmal hypertension. Anhydrosis is not a feature.",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Pheochromocytoma"
+},
+{
+"id": 7730,
+"question": "Recognized findings in Cushing's disease does not include:",
+"options": [
+"Hypokalemia.",
+"Diabetes mellitus.",
+"High ACTH levels.",
+"Stria rubra",
+"Loss of body hair."
+],
+"correct_option_id": 4,
+"explanation": "Cushing's causes hirsutism (excess hair), not hair loss, due to androgen excess. Hypokalemia and diabetes are also recognized findings.",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Cushing Syndrome"
+},
+{
+"id": 7731,
+"question": "In secondary adrenocortical insufficiency one of the following is true:",
+"options": [
+"Intact mineralocorticoid secretion",
+"Generalized hyperpigmentation",
+"Hypoglycemia is mild",
+"Impaired sex steroid secretion"
+],
+"correct_option_id": 0,
+"explanation": "Secondary insufficiency (ACTH deficiency) spares mineralocorticoids (regulated by Renin-Angiotensin). Hyperpigmentation is absent (low ACTH).",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Adrenal Insufficiency & Crisis"
+},
+{
+"id": 7732,
+"question": "The best screening test to evaluate a patient for possible Cushing's syndrome is:",
+"options": [
+"Fasting a.m. cortisol.",
+"24-h urine cortisol.",
+"Low-dose dexamethasone suppression test.",
+"Serum adrenocorticotropic hormone levels."
+],
+"correct_option_id": 2,
+"explanation": "The overnight 1mg low-dose dexamethasone suppression test and 24-hour urine cortisol are standard screening tests. The answer key here prioritizes the low-dose dexamethasone test.",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Cushing Syndrome"
+},
+{
+"id": 7733,
+"question": "The following are common features of Addison's disease EXCEPT:",
+"options": [
+"Easy fatigability & weakness.",
+"Fever.",
+"Skin pigmentation.",
+"Hypotension."
+],
+"correct_option_id": 1,
+"explanation": "Fever is not a standard feature of chronic Addison's disease unless there is an adrenal crisis or an underlying infection.",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Adrenal Insufficiency & Crisis"
+},
+{
+"id": 7734,
+"question": "The most common cause of Cushing's syndrome is:",
+"options": [
+"Pituitary adenoma",
+"Adrenal adenoma",
+"Ectopic ACTH production",
+"Adrenal hyperplasia",
+"Exogenous steroids"
+],
+"correct_option_id": 0,
+"explanation": "Exogenous steroids are the most common cause overall. Among endogenous causes, Pituitary Adenoma (Cushing's Disease) is most common (~70%).",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Cushing Syndrome"
+},
+{
+"id": 7735,
+"question": "The most common cause of primary hyperaldosteronism is:",
+"options": [
+"Bilateral idiopathic adrenal hyperplasia",
+"Adrenal carcinoma",
+"Ectopic secretion",
+"Pituitary adenoma",
+"Adrenal incidentaloma"
+],
+"correct_option_id": 0,
+"explanation": "Current data suggests Bilateral Idiopathic Hyperplasia is the most common cause of primary hyperaldosteronism (approx 60-70%), more so than adrenal adenoma (Conn's syndrome).",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Conn's Syndrome"
+},
+{
+"id": 7736,
+"question": "The most common enzyme defect in Congenital adrenal hyperplasia is:",
+"options": [
+"5-alpha reductase",
+"17-hydroxylase",
+"11 beta-hydroxysteroid dehydrogenase type 2",
+"21-hydroxylase",
+"Aldo synthase"
+],
+"correct_option_id": 3,
+"explanation": "Deficiency of 21-hydroxylase accounts for more than 90% of cases of Congenital Adrenal Hyperplasia (CAH).",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Congenital Adrenal Hyperplasia"
+},
+{
+"id": 7737,
+"question": "The most common physical finding associated with Cushing's syndrome is:",
+"options": [
+"Hirsutism.",
+"Truncal obesity.",
+"Striae.",
+"Acne."
+],
+"correct_option_id": 1,
+"explanation": "Truncal (centripetal) obesity is the most common and classic physical sign of Cushing's syndrome.",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Cushing Syndrome"
+},
+{
+"id": 7738,
+"question": "The most common etiology of an adrenal incidentaloma?",
+"options": [
+"Early adrenocortical cancer.",
+"Adrenal adenoma.",
+"Myelolipoma.",
+"Past adrenal hemorrhage."
+],
+"correct_option_id": 1,
+"explanation": "The majority of adrenal incidentalomas (masses discovered incidentally) are benign non-functional adrenal adenomas.",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Adrenal Incidentaloma"
+},
+{
+"id": 7739,
+"question": "The most sensitive test for a pheochromocytoma?",
+"options": [
+"24-h urine vanillylmandelic acid",
+"24-h urine metanephrine",
+"24-h urine epinephrine",
+"24-h urine norepinephrine"
+],
+"correct_option_id": 1,
+"explanation": "Measurements of fractionated metanephrines (urine or plasma) are the most sensitive tests for diagnosing pheochromocytoma, more sensitive than VMA.",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Pheochromocytoma"
+},
+{
+"id": 7740,
+"question": "The secretion of hormones from the adrenal gland is regulated by various hormones... Which of the following factors/hormones do not play a part in the regulation of synthesis and secretion of mineralocorticoids (aldosterone) from zona glomerulosa?",
+"options": [
+"Na++",
+"Adrenaline",
+"Angiotensin 2",
+"Atrial natriuretic peptide",
+"Potassium"
+],
+"correct_option_id": 1,
+"explanation": "Aldosterone secretion is primarily regulated by the Renin-Angiotensin system (Angiotensin II) and serum Potassium. Na+ and ANP also play roles. Adrenaline does not directly regulate aldosterone.",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Physiology"
+},
+{
+"id": 7741,
+"question": "True statements regarding Cushing's disease and Cushing syndrome include which of the following?",
+"options": [
+"Adrenocortical hyperplasia is the most common cause of Cushing's disease.",
+"Over-production of ACTH is pathognomonic of Cushing syndrome.",
+"Clinical manifestations of Cushing's disease and Cushing syndrome are identical.",
+"Cushing syndrome is caused only by neoplasms of either the pituitary or adrenal glands.",
+"Cushing's disease is incurable."
+],
+"correct_option_id": 2,
+"explanation": "Cushing's disease (pituitary) and Cushing syndrome (general state of cortisol excess) share identical clinical manifestations (obesity, moon face, etc.), differentiated only by biochemical cause.",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Cushing Syndrome"
+},
+{
+"id": 7742,
+"question": "Typical features of pituitary dependent Cushing's disease include all of the following EXCEPT:",
+"options": [
+"Normal pituitary fossa.",
+"Amenorrhea & depression.",
+"Proximal myopathy and diabetes mellitus.",
+"Suppression of plasma cortisol following dexamethasone.",
+"Hypertension and hypokalemia"
+],
+"correct_option_id": 2,
+"explanation": "Key indicates C (Myopathy/DM), though clinically Hypertension/Hypokalemia (E) is more typical of Ectopic ACTH. We follow the source key.",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Cushing Syndrome"
+},
+{
+"id": 7743,
+"question": "Which of the following adrenal lesions can be treated definitively by medical means?",
+"options": [
+"Benign functional adrenocortical adenoma.",
+"Adrenocortical carcinoma.",
+"Congenital adrenal hyperplasia.",
+"Cushing disease.",
+"Pheochromocytoma."
+],
+"correct_option_id": 2,
+"explanation": "Congenital Adrenal Hyperplasia (CAH) is an enzymatic defect treated medically with steroid replacement to suppress ACTH. The other lesions typically require surgical intervention.",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Congenital Adrenal Hyperplasia"
+},
+{
+"id": 7744,
+"question": "Which of the following should be the first drug administered in the pre-operative preparation of a patient with a pheochromocytoma?",
+"options": [
+"Captopril",
+"Nifedipine",
+"Propranolol",
+"Phenoxybenzamine",
+"Spironolactone"
+],
+"correct_option_id": 3,
+"explanation": "Phenoxybenzamine (alpha-blocker) is administered first to control blood pressure and expand volume. Propranolol (beta-blocker) is added later to control tachycardia.",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Pheochromocytoma"
+},
+{
+"id": 7745,
+"question": "Which of the following statements regarding adrenal cortical insufficiency is true?",
+"options": [
+"Treatment with exogenous steroids is usually ineffective.",
+"Commonly seen as a consequence of metastasis (e.g., lung, breast) to adrenal glands.",
+"Recognizable by findings like hyperglycemia, hypernatremia, and hypokalemia.",
+"Death from untreated chronic adrenal insufficiency may occur within hours of surgery.",
+"The most common underlying cause today is infection with resistant tuberculosis."
+],
+"correct_option_id": 3,
+"explanation": "Patients with Addison's disease lack the cortisol stress response. If untreated, surgical stress can precipitate an adrenal crisis and death within hours.",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Adrenal Insufficiency & Crisis"
+},
+{
+"id": 7746,
+"question": "Which of these drugs used in treatment of congenital adrenal hyperplasia:",
+"options": [
+"Octreotide",
+"Cabergoline",
+"Hydrocortisone",
+"Ketoconazole",
+"Bromocriptine"
+],
+"correct_option_id": 2,
+"explanation": "Hydrocortisone is the mainstay treatment for CAH, replacing glucocorticoids and suppressing the excessive ACTH drive.",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Congenital Adrenal Hyperplasia"
+},
+{
+"id": 7747,
+"question": "Which is false about pheochromocytoma:",
+"options": [
+"Around 30% are associated with inherited disorders, including neurofibromatosis",
+"20% occur in adrenal medulla and 80% in sympathetic ganglia",
+"Paroxysmal hypertension",
+"Palpitations, sweating and Headache",
+"Abdominal pain, vomiting"
+],
+"correct_option_id": 1,
+"explanation": "This statement is false. In adults, about 90% of pheochromocytomas occur in the adrenal medulla, and only 10% are extra-adrenal (paragangliomas).",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Pheochromocytoma"
+},
+{
+"id": 7748,
+"question": "Which one of the following is not characteristic of Addisson's disease:",
+"options": [
+"Hypoglycemia",
+"Hyperkalemia",
+"Hyponatremia",
+"Metabolic alkalosis",
+"Positive short synacthen stimulation test"
+],
+"correct_option_id": 3,
+"explanation": "Addison's disease (mineralocorticoid deficiency) causes Hyperkalemic Metabolic Acidosis (due to H+ and K+ retention), not Alkalosis.",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Adrenal Insufficiency & Crisis"
+},
+{
+"id": 7749,
+"question": "Zona glomerulosa of the adrenal gland is responsible for the production of:",
+"options": [
+"Epinephrine.",
+"Nor-epinephrine.",
+"Aldosterone.",
+"Androgens."
+],
+"correct_option_id": 2,
+"explanation": "The zona glomerulosa is the outermost layer of the adrenal cortex and produces mineralocorticoids, primarily Aldosterone.",
+"term": "Term 7",
+"subject": "Endocrine",
+"lesson": "Adrenal Glands",
+"chapter": "Physiology"
+}
+]
+}
