@@ -1338,7 +1338,7 @@
       ],
       "correct_option_id": 2,
       "explanation": "For a patient with penetrating chest trauma and hypotension, cardiac tamponade must be suspected. The FAST (Focused Assessment with Sonography for Trauma) exam, which is a rapid bedside echocardiogram, is the most sensitive and specific non-invasive tool for diagnosing pericardial effusion/tamponade. Beck's triad (hypotension, JVD, muffled heart sounds) is classic but present in a minority of cases.",
-      "term": "كتاب Kלי",
+      "term": "كتاب الكلية",
       "subject": "General Surgery",
       "lesson": "General Surgical Principles",
       "chapter": "Shock, Trauma, and Wound Care"
@@ -3807,4 +3807,5 @@
       "chapter": "Special Surgery"
     }
   ]
+
 }
